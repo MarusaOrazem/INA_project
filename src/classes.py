@@ -107,3 +107,12 @@ class Team():
 
     def __str__(self):
         return f'{self.name} ({self.id})'
+
+class Player():
+    def __init__(self, id, name, team = None):
+        self.id = id
+        self.name = name
+        self.team = team
+
+    def __str__(self):
+        return f'Player id: {self.id}, name: {self.name}, team: {self.team}'
