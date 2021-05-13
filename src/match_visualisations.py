@@ -75,6 +75,19 @@ def create_pajek(match, team, filename):
     G.add_weighted_edges_from(edges)
     nx.write_pajek(G, f'{filename}.net')
 
+
+def print_goals(match):
+    '''
+    Prints all goals of the match
+    '''
+    events = match.events
+    for event in events:
+        if event['type']['id'] == 16:
+            if event['shot']['outcome']['id'] == 97: #goal:
+                team_scored = event['team']['name']
+                time = event['timestamp']
+                print(f'GOAL for: {team_scored} at {time}')
+
 def separate_events_by_periods(events):
     '''
     Separates events by period: first half, second half, first extensions, second extensions, penalties
@@ -110,7 +123,11 @@ if __name__ == "__main__":
     away_team = get_away_team(data)
 
     match = Match(match_id, home_team, data['home_score'], away_team, data['away_score'])
+    print(match)
 
     for i, period in enumerate([first, second]):
         match.events = period
         create_pajek(match, home_team, str(match_id) + f'_{i}')
+
+    match.events = events
+    print_goals(match)
