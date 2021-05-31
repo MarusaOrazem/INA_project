@@ -1,0 +1,96 @@
+*vertices 11
+1 "Tameka Butt" 0.0 0.0 ellipse
+2 "Emily van Egmond" 0.0 0.0 ellipse
+3 "Elise Kellond-Knight" 0.0 0.0 ellipse
+4 "Caitlin Foord" 0.0 0.0 ellipse
+5 "Samantha Kerr" 0.0 0.0 ellipse
+6 "Steph Catley" 0.0 0.0 ellipse
+7 "Lydia Williams" 0.0 0.0 ellipse
+8 "Alanna Kennedy" 0.0 0.0 ellipse
+9 "Ellie Carpenter" 0.0 0.0 ellipse
+10 "Chloe Logarzo" 0.0 0.0 ellipse
+11 "Hayley Raso/Emily Gielnik" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 5 4
+1 3 5
+1 10 2
+1 4 1
+1 11 1
+2 7 2
+2 9 15
+2 8 10
+2 5 8
+2 10 2
+2 6 7
+2 1 3
+2 3 6
+2 11 2
+3 4 12
+3 6 9
+3 2 6
+3 10 7
+3 5 6
+3 8 7
+3 1 4
+4 5 5
+4 10 3
+4 3 5
+4 2 3
+4 1 4
+4 6 1
+4 8 1
+4 11 2
+5 9 3
+5 1 3
+5 4 1
+5 10 2
+5 8 1
+5 11 8
+6 3 19
+6 7 5
+6 10 3
+6 4 6
+6 8 15
+6 5 3
+6 1 1
+6 9 1
+6 2 2
+7 8 8
+7 10 2
+7 2 6
+7 6 7
+7 9 3
+7 3 1
+7 11 1
+8 2 14
+8 6 22
+8 9 16
+8 7 4
+8 4 3
+8 10 2
+8 5 2
+8 3 4
+8 1 1
+8 11 1
+9 8 10
+9 2 13
+9 1 3
+9 5 5
+9 3 1
+9 10 1
+9 11 8
+10 3 3
+10 4 4
+10 8 4
+10 6 4
+10 9 4
+10 2 4
+10 5 1
+10 11 2
+11 5 5
+11 9 3
+11 1 1
+11 2 1
+11 4 1
+11 10 3

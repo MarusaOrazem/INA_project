@@ -1,0 +1,89 @@
+*vertices 11
+1 "Piotr Zieliński" 0.0 0.0 ellipse
+2 "Grzegorz Krychowiak" 0.0 0.0 ellipse
+3 "Bartosz Bereszyński" 0.0 0.0 ellipse
+4 "Kamil Glik" 0.0 0.0 ellipse
+5 "Jan Bednarek" 0.0 0.0 ellipse
+6 "Kamil Grosicki" 0.0 0.0 ellipse
+7 "Robert Lewandowski" 0.0 0.0 ellipse
+8 "Artur Jędrzejczyk" 0.0 0.0 ellipse
+9 "Jacek Góralski" 0.0 0.0 ellipse
+10 "Łukasz Fabiański" 0.0 0.0 ellipse
+11 "Rafał Kurzawa" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 3
+1 8 1
+1 11 3
+1 6 4
+1 3 2
+1 4 4
+2 4 7
+2 11 3
+2 6 1
+2 9 2
+2 5 4
+2 1 5
+2 7 1
+2 3 1
+3 4 12
+3 6 3
+3 7 3
+3 10 2
+3 2 2
+3 1 3
+3 11 3
+4 5 21
+4 10 3
+4 3 11
+4 2 3
+4 8 1
+4 1 2
+4 9 1
+4 7 1
+4 11 1
+5 4 17
+5 9 5
+5 2 6
+5 8 7
+5 11 2
+5 3 1
+5 10 2
+5 6 2
+5 7 1
+6 1 3
+6 2 2
+6 8 1
+6 7 2
+6 4 1
+7 1 2
+7 6 1
+7 3 3
+7 8 1
+7 5 2
+7 11 3
+8 6 3
+8 5 6
+8 11 2
+8 7 3
+8 9 3
+8 2 1
+9 10 2
+9 5 5
+9 1 1
+9 8 2
+9 2 3
+9 11 1
+9 4 1
+9 6 1
+10 9 1
+10 4 6
+10 5 3
+10 7 1
+11 6 1
+11 8 1
+11 7 3
+11 9 2
+11 1 3
+11 3 2
+11 2 1

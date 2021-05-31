@@ -1,0 +1,13 @@
+*vertices 5
+1 "Ariel Miguel Santiago Ibagaza" 0.0 0.0 ellipse
+2 "Gonzalo Castro Irizábal" 0.0 0.0 ellipse
+3 "Angelos Basinas" 0.0 0.0 ellipse
+4 "Daniel González Güiza" 0.0 0.0 ellipse
+5 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 2
+1 4 1
+2 1 1
+3 1 2
+4 5 1

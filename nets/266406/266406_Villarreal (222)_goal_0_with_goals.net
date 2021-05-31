@@ -1,0 +1,90 @@
+*vertices 12
+1 "Sergio Asenjo Andrés" 0.0 0.0 ellipse
+2 "Mateo Pablo Musacchio" 0.0 0.0 ellipse
+3 "Bruno Soriano Llido" 0.0 0.0 ellipse
+4 "Mario Gaspar Pérez Martínez" 0.0 0.0 ellipse
+5 "Tomás Pina Isla" 0.0 0.0 ellipse
+6 "Manuel Trigueros Muñoz" 0.0 0.0 ellipse
+7 "Víctor Ruíz Torre" 0.0 0.0 ellipse
+8 "Giovani dos Santos Ramírez" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Jaume Vicent Costa Jordá/Gabriel Armando de Abreu" 0.0 0.0 ellipse
+11 "Denis Cheryshev/Luciano Vietto" 0.0 0.0 ellipse
+12 "Rubén Gracia Calmache/Javier Espinosa González" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 2
+1 4 1
+1 5 2
+1 7 1
+1 10 3
+1 11 1
+1 12 1
+2 1 1
+2 4 1
+2 5 3
+2 3 1
+2 11 1
+2 12 1
+3 4 6
+3 5 4
+3 8 4
+3 6 1
+3 10 2
+3 11 5
+3 12 4
+4 3 2
+4 5 4
+4 2 5
+4 8 2
+4 6 1
+4 12 2
+4 11 2
+5 6 2
+5 2 2
+5 3 1
+5 4 2
+5 7 1
+5 9 2
+5 10 1
+5 11 1
+5 12 1
+6 7 2
+6 4 1
+6 8 2
+6 3 1
+6 5 1
+6 11 4
+6 12 1
+7 1 1
+7 3 1
+7 9 1
+7 6 1
+7 4 2
+8 4 3
+8 5 3
+8 7 1
+8 3 1
+8 6 1
+8 10 1
+8 11 3
+8 12 3
+10 6 1
+10 4 1
+10 3 3
+10 11 5
+10 12 4
+11 8 1
+11 3 3
+11 6 1
+11 9 1
+11 5 1
+11 10 2
+11 2 1
+12 6 5
+12 2 1
+12 8 1
+12 5 1
+12 3 1
+12 11 1
+12 9 1

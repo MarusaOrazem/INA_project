@@ -1,0 +1,99 @@
+*vertices 13
+1 "Artem Dzyuba" 0.0 0.0 ellipse
+2 "Roman Zobnin" 0.0 0.0 ellipse
+3 "Fedor Kudryashov" 0.0 0.0 ellipse
+4 "Igor Akinfeev" 0.0 0.0 ellipse
+5 "Sergei Ignashevich" 0.0 0.0 ellipse
+6 "Igor Smolnikov" 0.0 0.0 ellipse
+7 "Ilya Kutepov" 0.0 0.0 ellipse
+8 "Aleksandr Samedov" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Denis Cheryshev/Mário Figueira Fernandes" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Yury Gazinskiy/Daler Kuzyaev" 0.0 0.0 ellipse
+13 "Aleksey Miranchuk/Fyodor Smolov" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 3 2
+1 8 2
+1 9 1
+1 10 1
+1 12 1
+1 13 1
+2 1 5
+2 5 1
+2 7 5
+2 8 3
+2 3 4
+2 4 1
+2 9 1
+2 12 1
+2 13 2
+2 10 8
+3 4 1
+3 5 8
+3 1 4
+3 2 8
+3 7 2
+3 10 4
+3 13 3
+3 12 2
+4 1 8
+4 3 3
+4 7 2
+4 12 1
+4 13 1
+4 10 1
+5 3 6
+5 7 2
+5 4 4
+5 1 1
+5 13 1
+5 10 1
+6 7 3
+6 1 1
+6 8 1
+6 12 2
+7 3 4
+7 5 4
+7 4 3
+7 8 2
+7 6 1
+7 1 1
+7 2 1
+7 10 5
+7 12 2
+7 13 1
+8 1 2
+8 7 1
+8 2 5
+8 3 2
+8 12 6
+8 10 7
+8 13 2
+10 11 1
+10 3 2
+10 1 4
+10 6 1
+10 7 4
+10 8 13
+10 2 5
+10 13 3
+10 12 2
+12 8 1
+12 6 3
+12 7 3
+12 2 3
+12 5 1
+12 10 1
+12 13 2
+12 1 2
+12 3 2
+13 1 2
+13 2 3
+13 6 1
+13 3 2
+13 8 2
+13 12 1
+13 7 1
+13 10 3

@@ -1,0 +1,64 @@
+*vertices 13
+1 "Laura Giuliani" 0.0 0.0 ellipse
+2 "Lisa Boattin" 0.0 0.0 ellipse
+3 "Elena Linari" 0.0 0.0 ellipse
+4 "Valentina Bergamaschi" 0.0 0.0 ellipse
+5 OFF_goal 0.0 0.0 ellipse
+6 "Manuela Giugliano" 0.0 0.0 ellipse
+7 "Alia Guagni" 0.0 0.0 ellipse
+8 "Sara Gama" 0.0 0.0 ellipse
+9 "Aurora Galli" 0.0 0.0 ellipse
+10 "Valentina Cernoia" 0.0 0.0 ellipse
+11 "Barbara Bonansea" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "Cristiana Girelli/Ilaria Mauro" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+1 3 2
+2 4 1
+2 6 1
+2 13 1
+3 4 1
+3 9 2
+3 2 3
+3 6 3
+3 1 1
+4 5 2
+4 6 1
+4 12 1
+4 7 1
+4 13 1
+6 10 1
+6 7 1
+6 9 3
+6 8 1
+6 2 1
+7 8 3
+7 3 1
+7 11 2
+7 4 2
+7 1 1
+7 9 2
+7 13 1
+8 3 5
+8 7 1
+8 9 1
+8 6 1
+8 13 1
+9 2 1
+9 3 1
+9 8 2
+9 4 1
+9 10 1
+10 8 1
+10 4 1
+10 9 1
+10 7 1
+10 5 1
+11 10 1
+11 6 1
+13 8 1
+13 4 1
+13 7 1
+13 10 1

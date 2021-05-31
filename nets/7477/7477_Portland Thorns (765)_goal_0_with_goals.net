@@ -1,0 +1,12 @@
+*vertices 5
+1 "Ana-Maria Crnogorcevic" 0.0 0.0 ellipse
+2 "Lindsey Horan" 0.0 0.0 ellipse
+3 "Emily Sonnett" 0.0 0.0 ellipse
+4 "Margaret Purce" 0.0 0.0 ellipse
+5 "Tobin Heath" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+2 3 1
+4 5 1
+5 1 1

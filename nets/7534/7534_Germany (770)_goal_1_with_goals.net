@@ -1,0 +1,112 @@
+*vertices 13
+1 "Mesut Özil" 0.0 0.0 ellipse
+2 "Toni Kroos" 0.0 0.0 ellipse
+3 "Jérôme Boateng" 0.0 0.0 ellipse
+4 ON_goal 0.0 0.0 ellipse
+5 "Joshua Kimmich" 0.0 0.0 ellipse
+6 "Thomas Müller" 0.0 0.0 ellipse
+7 "Mats Hummels" 0.0 0.0 ellipse
+8 "Julian Draxler" 0.0 0.0 ellipse
+9 "Manuel Neuer" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Sami Khedira/Marco Reus" 0.0 0.0 ellipse
+12 "Marvin Plattenhardt/Mario Gómez García" 0.0 0.0 ellipse
+13 "Timo Werner/Julian Brandt" 0.0 0.0 ellipse
+*arcs
+1 2 9
+1 8 9
+1 6 10
+1 3 2
+1 5 7
+1 7 1
+1 10 1
+1 11 7
+1 12 1
+1 13 1
+2 1 10
+2 3 8
+2 4 2
+2 5 7
+2 7 2
+2 8 5
+2 10 2
+2 6 4
+2 11 5
+2 12 4
+2 13 2
+3 7 5
+3 6 4
+3 5 10
+3 2 3
+3 8 3
+3 9 2
+3 1 4
+3 4 1
+3 11 4
+3 12 3
+3 13 1
+5 6 3
+5 1 7
+5 2 6
+5 3 13
+5 9 1
+5 8 2
+5 10 2
+5 11 4
+5 12 1
+6 2 2
+6 8 5
+6 5 3
+6 1 3
+6 3 1
+6 11 5
+7 5 1
+7 2 3
+7 6 2
+7 1 5
+7 3 3
+7 9 3
+7 8 1
+7 11 1
+7 12 1
+7 13 2
+8 6 4
+8 5 2
+8 1 7
+8 7 1
+8 2 8
+8 3 3
+8 10 4
+8 11 1
+8 12 3
+9 7 2
+9 3 5
+9 5 2
+9 2 1
+11 5 2
+11 3 4
+11 10 1
+11 2 4
+11 6 2
+11 8 1
+11 12 1
+11 13 1
+11 1 10
+11 7 1
+12 2 2
+12 8 5
+12 1 2
+12 4 1
+12 9 1
+12 10 2
+12 13 1
+13 6 1
+13 5 1
+13 1 1
+13 10 1
+13 8 2
+13 2 2
+13 11 1
+13 12 1
+13 7 1
+13 3 1

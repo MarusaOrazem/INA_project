@@ -1,0 +1,84 @@
+*vertices 13
+1 "Malcolm Christie" 0.0 0.0 ellipse
+2 "Szilárd Németh" 0.0 0.0 ellipse
+3 "George Boateng" 0.0 0.0 ellipse
+4 "Colin Cooper" 0.0 0.0 ellipse
+5 "Alan Wright" 0.0 0.0 ellipse
+6 "Dorival Guidoni Júnior" 0.0 0.0 ellipse
+7 "Chris Riggott" 0.0 0.0 ellipse
+8 "Gareth Southgate" 0.0 0.0 ellipse
+9 "Stuart Parnaby" 0.0 0.0 ellipse
+10 "Oswaldo Giroldo Júnior" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Mark Schwarzer" 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 10 3
+1 3 1
+1 6 1
+2 3 4
+2 11 2
+2 10 4
+2 5 1
+2 6 2
+2 1 2
+2 13 1
+3 4 2
+3 2 1
+3 12 2
+3 6 1
+3 10 5
+3 9 6
+3 7 2
+3 11 1
+3 8 1
+4 5 10
+4 3 2
+4 10 2
+4 6 5
+4 7 2
+4 8 1
+4 2 1
+5 6 10
+5 4 6
+5 10 7
+5 2 1
+6 7 2
+6 5 5
+6 10 2
+6 8 3
+6 3 6
+6 4 3
+6 1 1
+6 2 4
+6 11 1
+7 8 5
+7 10 1
+7 4 3
+7 5 1
+7 2 1
+8 9 4
+8 3 2
+8 7 1
+8 6 2
+8 5 4
+8 4 2
+8 1 1
+9 10 2
+9 1 4
+9 6 1
+9 3 7
+9 7 1
+9 4 1
+10 3 2
+10 9 2
+10 2 8
+10 1 2
+10 6 4
+10 4 1
+12 6 2
+12 8 2
+12 7 1
+12 4 2
+12 2 2

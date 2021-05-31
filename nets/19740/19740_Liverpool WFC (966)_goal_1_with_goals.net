@@ -1,0 +1,90 @@
+*vertices 13
+1 "Sophie Elizabeth Bradley-Auckland" 0.0 0.0 ellipse
+2 "Niamh Charles" 0.0 0.0 ellipse
+3 "Leigh-Anne Robe" 0.0 0.0 ellipse
+4 "Jessica Anne Clarke" 0.0 0.0 ellipse
+5 OFF_goal 0.0 0.0 ellipse
+6 "Laura Coombs" 0.0 0.0 ellipse
+7 "Satara Murray" 0.0 0.0 ellipse
+8 "Jasmine Matthews" 0.0 0.0 ellipse
+9 "Frances Kitching" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Courtney Sweetman-Kirk/Kirsty Linnett" 0.0 0.0 ellipse
+12 "Rhiannon Roberts/Niamh Fahey" 0.0 0.0 ellipse
+13 "Christie Murray/Rinsola Babajide" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 8 2
+1 7 2
+1 9 2
+1 4 1
+1 13 1
+2 3 1
+2 4 1
+2 9 1
+2 6 1
+2 11 1
+2 12 1
+2 13 1
+3 2 5
+3 4 2
+3 11 1
+3 12 2
+3 13 2
+4 5 3
+4 7 3
+4 6 3
+4 3 1
+4 2 2
+4 10 1
+6 4 3
+6 2 4
+6 7 4
+6 1 4
+6 8 1
+6 3 1
+6 11 1
+6 12 2
+7 4 4
+7 6 2
+7 9 2
+7 1 2
+7 2 2
+7 11 3
+7 13 1
+7 12 1
+8 1 4
+8 6 1
+8 4 3
+8 2 1
+8 9 1
+8 11 2
+8 13 1
+9 1 3
+9 8 2
+9 7 1
+9 12 1
+9 11 1
+11 10 1
+11 2 2
+11 4 1
+11 7 1
+11 13 1
+11 6 1
+11 12 1
+12 10 1
+12 7 2
+12 8 1
+12 1 1
+12 6 2
+12 2 1
+12 13 1
+13 5 1
+13 1 2
+13 3 1
+13 6 1
+13 2 1
+13 7 3
+13 8 1
+13 11 1
+13 10 1

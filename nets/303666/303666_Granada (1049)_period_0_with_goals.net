@@ -1,0 +1,75 @@
+*vertices 13
+1 "Roberto Soldado Rillo" 0.0 0.0 ellipse
+2 "Ángel Montoro Sánchez" 0.0 0.0 ellipse
+3 "Víctor David Díaz Miguel" 0.0 0.0 ellipse
+4 "Domingos Sousa Coutinho Meneses Duarte" 0.0 0.0 ellipse
+5 "Yangel Clemente Herrera Ravelo" 0.0 0.0 ellipse
+6 "José Antonio Rodríguez Díaz" 0.0 0.0 ellipse
+7 "Germán Sánchez Barahona" 0.0 0.0 ellipse
+8 "Rui Tiago Dantas da Silva" 0.0 0.0 ellipse
+9 "Ramon Olamilekan Azeez" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Carlos Neva Tey" 0.0 0.0 ellipse
+12 "Darwin Daniel Machís Marcano" 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 2
+1 5 1
+1 11 1
+2 3 2
+2 11 1
+2 7 1
+2 12 3
+2 6 3
+2 1 1
+2 5 2
+3 4 4
+3 1 1
+3 9 3
+3 6 3
+3 5 1
+3 2 5
+4 7 4
+4 5 1
+4 8 4
+4 2 1
+4 6 1
+5 6 1
+5 8 1
+5 9 2
+5 3 5
+5 13 1
+5 2 2
+6 3 3
+6 13 1
+6 12 1
+6 5 1
+6 1 1
+6 2 1
+6 9 1
+7 4 3
+7 5 1
+7 11 2
+7 8 1
+7 13 1
+7 3 1
+8 11 3
+8 4 1
+8 6 2
+8 3 1
+8 2 1
+9 10 1
+9 1 3
+9 4 1
+9 3 2
+11 7 2
+11 12 5
+11 2 2
+11 1 1
+11 13 1
+11 6 1
+12 2 1
+12 11 2
+12 7 1
+12 1 1

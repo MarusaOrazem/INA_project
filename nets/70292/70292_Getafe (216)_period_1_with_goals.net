@@ -1,0 +1,93 @@
+*vertices 12
+1 "Abdelaziz Barrada" 0.0 0.0 ellipse
+2 "Xavier Torres Buigues" 0.0 0.0 ellipse
+3 "Juan Valera Espín" 0.0 0.0 ellipse
+4 "Miguel Ángel Moyà Rumbo" 0.0 0.0 ellipse
+5 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+6 "Diego Castro Giménez" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Miguel Torres Gómez" 0.0 0.0 ellipse
+9 "Alberto Lopo García" 0.0 0.0 ellipse
+10 "Adrián Colunga Pérez/Álvaro García Vázquez" 0.0 0.0 ellipse
+11 "Miguel Marcos Madera/Mehdi Lacen" 0.0 0.0 ellipse
+12 "Pedro León Sánchez Gil/Pablo Sarabia García" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 6 7
+1 9 1
+1 8 1
+1 10 1
+1 11 1
+1 12 1
+2 3 2
+2 1 1
+2 5 1
+2 9 2
+2 7 1
+2 8 1
+2 11 2
+2 12 1
+2 10 2
+3 1 3
+3 2 2
+3 6 3
+3 4 1
+3 9 1
+3 10 1
+3 11 1
+3 12 1
+4 5 1
+4 3 5
+4 9 3
+4 8 1
+4 6 1
+4 12 1
+4 10 1
+5 4 5
+5 8 1
+5 9 2
+5 1 1
+5 2 1
+5 10 1
+5 11 1
+5 12 2
+6 7 1
+6 1 5
+6 8 5
+6 2 1
+6 10 2
+6 11 3
+6 12 1
+8 2 4
+8 5 5
+8 1 3
+8 6 2
+8 4 1
+8 11 1
+9 5 4
+9 4 2
+9 6 1
+9 2 2
+9 1 2
+9 3 2
+9 10 1
+9 12 1
+10 1 2
+10 6 1
+10 7 1
+10 12 1
+10 11 1
+11 6 1
+11 3 1
+11 2 3
+11 1 1
+11 10 1
+11 12 2
+12 9 1
+12 2 2
+12 1 2
+12 10 1
+12 7 1
+12 6 2
+12 5 1
+12 11 2

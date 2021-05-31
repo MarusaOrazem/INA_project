@@ -1,0 +1,56 @@
+*vertices 13
+1 "Matías Ariel Fernández Fernández" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+3 "Javier Rodríguez Venta" 0.0 0.0 ellipse
+4 "Nihat Kahveci" 0.0 0.0 ellipse
+5 "Joseba Llorente Etxarri" 0.0 0.0 ellipse
+6 "Gonzalo Javier Rodríguez" 0.0 0.0 ellipse
+7 "Sebastián Eguren Ledesma" 0.0 0.0 ellipse
+8 "Joan Capdevila Méndez" 0.0 0.0 ellipse
+9 "Bruno Soriano Llido" 0.0 0.0 ellipse
+10 "Rubén Gracia Calmache" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Diego Roberto Godín Leal" 0.0 0.0 ellipse
+13 "Diego López Rodríguez" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+1 8 1
+3 1 2
+3 4 2
+3 7 2
+3 9 1
+4 5 1
+4 9 1
+4 11 1
+4 7 1
+4 10 1
+5 2 1
+6 7 1
+6 4 1
+6 9 1
+6 5 1
+6 3 1
+7 8 1
+7 9 2
+7 4 1
+7 10 1
+7 12 1
+7 6 1
+7 5 1
+8 9 5
+8 1 2
+8 7 3
+9 8 6
+9 7 5
+9 10 2
+9 1 1
+9 12 1
+10 7 1
+10 4 1
+10 9 1
+12 13 1
+12 9 1
+12 8 1
+13 6 1
+13 3 1

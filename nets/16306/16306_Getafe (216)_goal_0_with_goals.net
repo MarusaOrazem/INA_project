@@ -1,0 +1,42 @@
+*vertices 12
+1 "Nemanja Maksimović" 0.0 0.0 ellipse
+2 "Jorge Molina Vidal" 0.0 0.0 ellipse
+3 "Damián Nicolás Suárez Suárez" 0.0 0.0 ellipse
+4 "Dimitri Foulquier" 0.0 0.0 ellipse
+5 "Gaku Shibasaki" 0.0 0.0 ellipse
+6 "Mathías Olivera Miramontes" 0.0 0.0 ellipse
+7 "Ángel Luis Rodríguez Díaz" 0.0 0.0 ellipse
+8 "David Soria Solís" 0.0 0.0 ellipse
+9 "Djené Dakonam Ortega" 0.0 0.0 ellipse
+10 "Mauro Wilney Arambarri Rosa" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Leandro Daniel Cabrera Sasía" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 1
+1 3 2
+2 3 3
+2 4 1
+2 11 2
+2 1 1
+2 10 1
+2 5 1
+3 2 5
+3 4 4
+3 7 1
+4 3 2
+4 7 1
+4 10 1
+5 6 2
+5 11 1
+5 4 1
+6 12 1
+6 7 1
+7 2 2
+8 7 1
+8 2 1
+9 4 1
+10 5 1
+10 7 1
+10 2 1
+12 5 1

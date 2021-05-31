@@ -1,0 +1,92 @@
+*vertices 13
+1 "Oriol Romeu Vidal" 0.0 0.0 ellipse
+2 "Jérémy Mathieu" 0.0 0.0 ellipse
+3 "Ricardo Miguel Moreira da Costa" 0.0 0.0 ellipse
+4 "Diego Alves Carreira" 0.0 0.0 ellipse
+5 "Antonio Barragán Fernández" 0.0 0.0 ellipse
+6 "Javier Fuego Martínez" 0.0 0.0 ellipse
+7 "Juan Bernat Velasco" 0.0 0.0 ellipse
+8 "Sofiane Feghouli" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Francisco Alcácer García/Eduardo Jesús Vargas Rojas" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Pablo Daniel Piatti/Federico Nicolás Cartabia" 0.0 0.0 ellipse
+13 "Daniel Parejo Muñoz/Miguel Alfonso Herrero Javaloyas" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 7 1
+1 6 3
+1 3 2
+1 4 1
+1 12 3
+1 13 8
+2 3 4
+2 5 1
+2 7 2
+2 1 3
+2 6 1
+2 4 2
+2 12 1
+2 13 1
+3 4 2
+3 1 3
+3 5 1
+3 2 2
+3 6 3
+3 12 1
+3 13 3
+4 7 2
+4 3 3
+4 2 1
+4 6 1
+4 1 1
+4 8 1
+4 10 1
+4 13 1
+5 3 1
+5 7 1
+5 8 1
+5 4 1
+5 12 2
+5 13 2
+6 7 6
+6 2 3
+6 1 1
+6 3 1
+6 8 2
+6 12 1
+6 13 1
+6 10 1
+7 1 2
+7 2 6
+7 8 1
+7 6 1
+7 13 3
+7 12 1
+8 5 1
+8 4 1
+8 1 1
+8 9 2
+8 2 2
+8 3 1
+8 10 2
+8 13 2
+10 6 1
+10 11 1
+10 13 1
+10 8 1
+12 6 1
+12 11 1
+12 7 3
+12 10 1
+12 13 1
+12 8 1
+13 1 8
+13 3 1
+13 8 4
+13 5 3
+13 7 2
+13 6 2
+13 2 1
+13 12 1
+13 10 1

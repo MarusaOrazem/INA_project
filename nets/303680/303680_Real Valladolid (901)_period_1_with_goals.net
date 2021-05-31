@@ -1,0 +1,98 @@
+*vertices 13
+1 "Francisco José Olivas Alba" 0.0 0.0 ellipse
+2 "Enrique Pérez Muñoz" 0.0 0.0 ellipse
+3 "Federico San Emeterio Díaz" 0.0 0.0 ellipse
+4 "José Ignacio Martínez García" 0.0 0.0 ellipse
+5 "Javier Moyano Lujano" 0.0 0.0 ellipse
+6 "Javier Sánchez de Felipe" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Jordi Masip López" 0.0 0.0 ellipse
+9 "Sergio Guardiola Navarro/Sandro Ramírez Castillo" 0.0 0.0 ellipse
+10 "Óscar Plano Pedreño/Waldo Rubio Martín" 0.0 0.0 ellipse
+11 "Rubén Alcaraz Jiménez/Enes Ünal" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "Joaquín Fernández Moreno/Pablo Hervías Ruiz" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 3 6
+1 4 4
+1 6 3
+1 5 1
+1 8 1
+1 10 2
+1 13 2
+1 9 1
+2 3 4
+2 5 2
+2 1 3
+2 7 2
+2 4 5
+2 8 1
+2 10 4
+2 11 4
+2 9 4
+3 5 6
+3 2 6
+3 1 6
+3 6 1
+3 4 1
+3 9 1
+3 10 1
+3 13 6
+4 2 6
+4 6 3
+4 7 1
+4 3 1
+4 9 2
+4 10 2
+4 11 2
+4 13 3
+5 1 1
+5 3 7
+5 4 1
+5 2 2
+5 9 2
+5 11 2
+5 13 6
+5 10 1
+6 1 2
+6 4 6
+6 7 1
+6 5 1
+6 2 1
+6 8 1
+6 3 1
+6 9 1
+8 6 2
+8 10 1
+8 11 1
+8 9 1
+9 4 4
+9 3 1
+9 13 1
+9 1 1
+9 2 2
+9 7 1
+9 12 1
+9 10 2
+9 11 2
+10 4 2
+10 2 3
+10 5 2
+10 11 1
+10 6 1
+10 1 1
+10 13 1
+10 9 2
+11 4 3
+11 12 3
+11 6 1
+11 13 4
+13 3 3
+13 1 2
+13 5 4
+13 4 3
+13 2 1
+13 6 2
+13 9 2
+13 11 2

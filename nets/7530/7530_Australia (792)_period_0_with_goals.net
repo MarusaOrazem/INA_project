@@ -1,0 +1,79 @@
+*vertices 13
+1 "Andrew Nabbout" 0.0 0.0 ellipse
+2 "Trent Sainsbury" 0.0 0.0 ellipse
+3 "Mile Jedinak" 0.0 0.0 ellipse
+4 "Josh Risdon" 0.0 0.0 ellipse
+5 "Aziz Eraltay Behich" 0.0 0.0 ellipse
+6 "Aaron Mooy" 0.0 0.0 ellipse
+7 "Mathew Ryan" 0.0 0.0 ellipse
+8 "Mark Milligan" 0.0 0.0 ellipse
+9 "Tom Rogić" 0.0 0.0 ellipse
+10 "Robbie Kruse" 0.0 0.0 ellipse
+11 "Mathew Leckie" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 1
+1 11 1
+2 3 3
+2 8 5
+2 9 6
+2 11 1
+2 7 3
+2 6 8
+2 4 1
+3 4 3
+3 6 5
+3 8 5
+3 10 1
+3 5 1
+3 2 1
+3 11 1
+3 9 1
+4 3 2
+4 2 2
+4 1 1
+4 11 3
+4 7 1
+4 6 1
+4 9 1
+5 6 3
+5 1 1
+5 8 12
+5 7 2
+5 3 4
+5 10 3
+5 9 1
+5 12 1
+6 3 3
+6 8 6
+6 2 10
+6 11 2
+6 5 3
+6 9 4
+6 4 2
+6 7 3
+7 8 9
+7 2 5
+7 3 3
+7 5 5
+7 4 2
+7 11 1
+8 7 9
+8 2 8
+8 5 12
+8 6 6
+8 10 1
+8 1 1
+9 4 3
+9 5 4
+9 3 2
+9 6 1
+10 5 2
+10 6 2
+11 12 1
+11 13 1
+11 6 1
+11 4 1
+11 2 1

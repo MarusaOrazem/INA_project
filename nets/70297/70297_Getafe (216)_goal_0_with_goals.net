@@ -1,0 +1,28 @@
+*vertices 10
+1 "Adrián Colunga Pérez" 0.0 0.0 ellipse
+2 "Borja Fernández Fernández" 0.0 0.0 ellipse
+3 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+4 "Alberto Lopo García" 0.0 0.0 ellipse
+5 "Jordi Codina Rodríguez" 0.0 0.0 ellipse
+6 "Mehdi Lacen" 0.0 0.0 ellipse
+7 "Jaime Gavilán Martínez" 0.0 0.0 ellipse
+8 "Diego Castro Giménez" 0.0 0.0 ellipse
+9 "Sergio Escudero Palomo" 0.0 0.0 ellipse
+10 "Abdelaziz Barrada" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+2 9 1
+3 4 1
+4 5 1
+5 6 1
+5 8 1
+6 7 1
+6 10 1
+6 1 1
+7 8 1
+8 6 1
+9 8 1
+9 5 1
+9 1 1
+10 3 1

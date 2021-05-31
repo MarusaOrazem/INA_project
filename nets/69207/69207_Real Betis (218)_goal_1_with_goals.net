@@ -1,0 +1,95 @@
+*vertices 13
+1 "Marco Aurélio Brito Dos Prazeres" 0.0 0.0 ellipse
+2 "Nélson Augusto Tomar Marcos" 0.0 0.0 ellipse
+3 "Sergio García De La Fuente" 0.0 0.0 ellipse
+4 "Casto Espinosa Barriga" 0.0 0.0 ellipse
+5 "Fernando Vega Torres" 0.0 0.0 ellipse
+6 "José María Romero Poyón" 0.0 0.0 ellipse
+7 "Juan Gutiérrez Moreno" 0.0 0.0 ellipse
+8 "Arturo García Muñoz" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Mark Dennis González Hoffmann/Luciano Fabián Monzón" 0.0 0.0 ellipse
+12 "Achille Emaná Edzimbi/Damià Abella Pérez" 0.0 0.0 ellipse
+13 "Jesús Capitán Prada/Juan de Dios Prados López" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 7 3
+1 8 2
+1 5 2
+1 3 1
+1 6 1
+1 11 3
+1 12 1
+1 13 2
+2 3 4
+2 6 4
+2 8 4
+2 1 1
+2 4 1
+2 11 1
+2 13 1
+3 1 1
+3 6 4
+3 2 1
+3 9 1
+3 5 1
+3 12 1
+3 13 2
+4 5 2
+4 8 2
+4 7 5
+4 6 2
+4 13 2
+4 11 1
+4 12 1
+5 7 2
+5 1 1
+5 6 1
+5 3 1
+5 11 5
+5 12 3
+6 1 2
+6 9 1
+6 3 2
+6 10 1
+6 8 1
+6 13 6
+6 11 2
+7 5 6
+7 1 1
+7 4 4
+7 12 1
+7 13 1
+7 11 2
+8 2 7
+8 7 3
+8 5 1
+8 1 1
+8 11 1
+8 13 2
+11 1 4
+11 12 1
+11 3 3
+11 6 2
+11 10 1
+11 4 1
+11 5 1
+11 13 2
+12 9 1
+12 6 1
+12 11 2
+12 13 1
+12 1 2
+12 3 1
+12 8 1
+13 2 3
+13 7 3
+13 3 4
+13 6 1
+13 1 7
+13 8 4
+13 5 1
+13 10 1
+13 11 3
+13 12 1

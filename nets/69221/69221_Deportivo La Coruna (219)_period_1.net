@@ -1,0 +1,67 @@
+*vertices 11
+1 "Manuel Pablo García Díaz" 0.0 0.0 ellipse
+2 "Daniel Aranzubia Aguado" 0.0 0.0 ellipse
+3 "Adrián López Rodríguez" 0.0 0.0 ellipse
+4 "Juan Antonio Rodríguez Villamuela" 0.0 0.0 ellipse
+5 "José Andrés Guardado Hernández" 0.0 0.0 ellipse
+6 "Antonio Tomás González" 0.0 0.0 ellipse
+7 "Laureano Sanabria Ruiz" 0.0 0.0 ellipse
+8 "Alberto Lopo García" 0.0 0.0 ellipse
+9 "Pablo Álvarez Nuñez/Juan Domínguez Lamas" 0.0 0.0 ellipse
+10 "Iván Sánchez Rico Soto/Lassad Hassen Nouioui" 0.0 0.0 ellipse
+11 "Sergio González Soriano/Iván Santiago Pérez Maceira" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 3
+1 5 3
+1 8 1
+1 10 1
+2 6 1
+2 4 1
+2 10 1
+3 4 2
+3 5 2
+3 2 1
+4 7 2
+4 6 1
+4 8 2
+4 11 1
+5 1 6
+5 6 1
+5 7 1
+5 10 6
+5 9 3
+6 3 2
+6 1 1
+6 5 1
+6 8 1
+6 4 1
+6 9 2
+6 10 1
+6 11 1
+7 3 1
+7 2 1
+7 4 1
+7 5 1
+7 10 1
+7 11 2
+7 9 2
+8 3 1
+8 1 3
+8 6 1
+8 9 1
+8 10 1
+9 6 1
+9 4 1
+9 1 2
+9 7 2
+9 5 1
+9 10 4
+9 11 1
+10 5 6
+10 9 1
+11 7 3
+11 6 1
+11 5 1
+11 4 1
+11 3 1

@@ -1,0 +1,71 @@
+*vertices 13
+1 "William Troost-Ekong" 0.0 0.0 ellipse
+2 "Onyinye Wilfred Ndidi" 0.0 0.0 ellipse
+3 "Victor Moses" 0.0 0.0 ellipse
+4 "John Michael Nchekwube Obinna" 0.0 0.0 ellipse
+5 "Leon-Aderemi Balogun" 0.0 0.0 ellipse
+6 ON_goal 0.0 0.0 ellipse
+7 "Brian Oladapo Idowu" 0.0 0.0 ellipse
+8 "Oghenekaro Etebo" 0.0 0.0 ellipse
+9 "Francis Odinaka Uzoho" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Kenneth Josiah Omeruo/Alex Iwobi" 0.0 0.0 ellipse
+12 "Ahmed Musa/Simeon Tochukwu Nwankwo" 0.0 0.0 ellipse
+13 "Kelechi Promise Iheanacho/Odion Jude Ighalo" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+1 5 1
+1 7 1
+1 11 1
+2 3 2
+2 4 4
+2 7 1
+2 8 2
+2 10 1
+2 13 5
+3 6 1
+3 4 1
+3 5 1
+3 2 1
+3 13 3
+4 5 2
+4 3 1
+4 1 1
+4 7 1
+4 8 1
+4 12 2
+4 13 1
+5 2 1
+5 3 1
+5 1 1
+7 8 3
+7 4 1
+7 5 1
+7 12 1
+7 11 1
+8 2 1
+8 4 2
+8 7 2
+8 10 1
+8 12 3
+9 4 2
+9 1 1
+9 13 1
+11 9 2
+11 2 1
+11 12 3
+11 1 1
+12 2 1
+12 4 1
+12 3 1
+12 8 1
+12 7 1
+12 13 3
+13 5 1
+13 2 1
+13 10 1
+13 3 1
+13 6 1
+13 4 1
+13 12 1

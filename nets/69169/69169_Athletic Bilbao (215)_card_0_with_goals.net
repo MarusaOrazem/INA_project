@@ -1,0 +1,96 @@
+*vertices 13
+1 "Markel Susaeta Laskurain" 0.0 0.0 ellipse
+2 "Aritz Aduriz Zubeldia" 0.0 0.0 ellipse
+3 "Koikili Lertxundi Del Campo" 0.0 0.0 ellipse
+4 "Andoni Iraola Sagarna" 0.0 0.0 ellipse
+5 "David López Moreno" 0.0 0.0 ellipse
+6 "Fernando Amorebieta Mardaras" 0.0 0.0 ellipse
+7 "Ustaritz Aldekoaotalora Astarloa" 0.0 0.0 ellipse
+8 "Javier Martínez Aginaga" 0.0 0.0 ellipse
+9 "Gorka Iraizoz Moreno" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Igor Gabilondo del Campo/Ion Vélez Martínez" 0.0 0.0 ellipse
+13 "Roberto Martínez Rípodas/Iñaki Muñoz Oroz" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 8 4
+1 4 6
+1 10 2
+1 5 1
+1 7 1
+1 11 1
+1 13 3
+2 1 3
+2 5 1
+2 4 3
+2 8 2
+2 12 1
+2 13 2
+3 1 1
+3 6 5
+3 8 1
+3 5 2
+3 9 1
+3 12 1
+3 13 1
+4 2 4
+4 5 4
+4 1 8
+4 7 2
+4 8 7
+4 9 2
+4 13 3
+4 12 1
+5 1 4
+5 4 1
+5 8 2
+5 2 1
+5 13 2
+5 12 1
+6 7 2
+6 5 1
+6 3 1
+6 9 2
+6 8 2
+6 2 1
+6 10 1
+6 13 1
+6 12 1
+7 5 1
+7 8 5
+7 6 4
+7 4 3
+7 1 1
+7 3 1
+7 13 1
+8 7 8
+8 6 3
+8 4 5
+8 5 3
+8 1 2
+8 13 4
+8 12 1
+9 8 1
+9 1 4
+9 7 2
+9 2 1
+9 3 1
+9 13 1
+12 3 1
+12 8 1
+12 5 1
+12 2 1
+12 13 1
+12 11 1
+12 4 1
+12 6 1
+13 2 1
+13 1 4
+13 5 2
+13 10 1
+13 4 4
+13 6 1
+13 8 1
+13 3 2
+13 12 1

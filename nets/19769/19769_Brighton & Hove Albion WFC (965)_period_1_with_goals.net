@@ -1,0 +1,78 @@
+*vertices 12
+1 "Iniabasi Anefiok Umotong" 0.0 0.0 ellipse
+2 "Victoria Williams" 0.0 0.0 ellipse
+3 "Chloe Peplow" 0.0 0.0 ellipse
+4 "Kayleigh Green" 0.0 0.0 ellipse
+5 "Laura Rafferty" 0.0 0.0 ellipse
+6 "Kirsty Barton" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Aileen Whelan" 0.0 0.0 ellipse
+9 "Ellie Brazil" 0.0 0.0 ellipse
+10 "Sophie Perry-Campbell" 0.0 0.0 ellipse
+11 "Marie Hourihan" 0.0 0.0 ellipse
+12 "Jodie Brett/Danielle Buet" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 3
+1 8 1
+1 12 2
+2 5 1
+2 4 1
+2 6 1
+2 12 1
+3 4 4
+3 9 1
+3 2 1
+3 10 2
+3 5 1
+3 6 1
+3 8 2
+4 5 2
+4 3 1
+4 7 1
+4 9 2
+4 8 1
+4 6 1
+4 12 1
+5 6 4
+5 3 3
+5 1 1
+5 11 1
+5 4 1
+5 9 1
+6 1 3
+6 8 1
+6 3 3
+6 9 2
+6 5 2
+6 4 3
+6 12 3
+8 4 2
+8 10 1
+8 12 1
+9 7 1
+9 4 2
+9 5 1
+10 1 3
+10 4 1
+10 9 1
+10 8 2
+10 11 1
+10 2 2
+10 3 1
+10 7 1
+10 5 1
+10 12 2
+11 3 2
+11 1 1
+11 10 1
+11 2 1
+11 6 1
+12 3 1
+12 7 2
+12 8 2
+12 2 1
+12 6 2
+12 9 1
+12 1 1
+12 10 1

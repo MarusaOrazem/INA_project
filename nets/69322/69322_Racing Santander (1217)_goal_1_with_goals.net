@@ -1,0 +1,92 @@
+*vertices 12
+1 "Marcos Gullón Ferrera" 0.0 0.0 ellipse
+2 "Manuel Jesús Arana Rodríguez" 0.0 0.0 ellipse
+3 "Mario Fernández Cuesta" 0.0 0.0 ellipse
+4 "Papa Kouly Diop" 0.0 0.0 ellipse
+5 "Francisco Jesús Pérez Malia" 0.0 0.0 ellipse
+6 "Álvaro González Soberón" 0.0 0.0 ellipse
+7 "Bernardo José Espinosa Zúñiga" 0.0 0.0 ellipse
+8 "Domingo Cisma González" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Khouma El Hadji Babacar/Cristhian Ricardo Stuani Curbelo" 0.0 0.0 ellipse
+11 "Gonzalo Colsa Albendea/Adrián González Morales" 0.0 0.0 ellipse
+12 "Pedro Manuel Munitis Álvarez/Jairo Samperio Bustara" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 8 3
+1 5 1
+1 4 1
+1 7 3
+1 9 1
+1 11 2
+1 12 1
+2 4 2
+2 1 2
+2 8 1
+2 10 1
+2 11 1
+2 12 1
+3 4 4
+3 1 1
+3 7 3
+3 2 2
+3 10 1
+3 11 1
+3 12 1
+4 2 3
+4 8 1
+4 1 3
+4 7 1
+4 10 2
+4 11 1
+4 12 1
+5 6 4
+5 2 3
+5 1 3
+5 3 2
+5 4 3
+5 11 1
+5 12 1
+6 7 3
+6 8 1
+6 3 1
+6 5 1
+6 4 1
+6 11 2
+6 12 1
+7 6 3
+7 1 2
+7 4 2
+7 8 1
+7 3 1
+7 5 2
+7 2 1
+7 12 2
+7 11 1
+8 1 2
+8 4 3
+8 7 5
+8 5 1
+8 6 1
+8 2 3
+8 10 1
+8 11 1
+8 12 4
+10 1 2
+10 5 1
+10 4 2
+10 11 1
+10 6 1
+10 12 2
+11 5 2
+11 7 1
+11 8 1
+11 4 3
+11 1 1
+11 2 2
+11 10 1
+12 8 2
+12 4 1
+12 10 3
+12 11 5
+12 1 1

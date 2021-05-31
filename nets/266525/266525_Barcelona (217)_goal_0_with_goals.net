@@ -1,0 +1,24 @@
+*vertices 10
+1 "Daniel Alves da Silva" 0.0 0.0 ellipse
+2 "Xavier Hernández Creus" 0.0 0.0 ellipse
+3 "Javier Alejandro Mascherano" 0.0 0.0 ellipse
+4 "Adriano Correia Claro" 0.0 0.0 ellipse
+5 "Neymar da Silva Santos Junior" 0.0 0.0 ellipse
+6 "Jérémy Mathieu" 0.0 0.0 ellipse
+7 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+8 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+9 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+10 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+2 8 1
+3 4 1
+3 2 1
+4 5 1
+4 6 1
+5 4 1
+6 5 1
+7 3 1
+8 9 1
+9 10 1

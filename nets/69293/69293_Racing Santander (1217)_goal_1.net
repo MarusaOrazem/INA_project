@@ -1,0 +1,73 @@
+*vertices 11
+1 "Francisco Jesús Pérez Malia" 0.0 0.0 ellipse
+2 "Álvaro González Soberón" 0.0 0.0 ellipse
+3 "Adrián González Morales" 0.0 0.0 ellipse
+4 "Christian Fernández Salas" 0.0 0.0 ellipse
+5 "Antonio Rodríguez Martínez" 0.0 0.0 ellipse
+6 "Jairo Samperio Bustara" 0.0 0.0 ellipse
+7 "Pedro Manuel Munitis Álvarez" 0.0 0.0 ellipse
+8 "Bernardo José Espinosa Zúñiga" 0.0 0.0 ellipse
+9 "Alexandros Tziolis/Eduardo Bedia Peláez" 0.0 0.0 ellipse
+10 "Mamadou Koné/Manuel Jesús Arana Rodríguez" 0.0 0.0 ellipse
+11 "Papa Kouly Diop/Marc Torrejón Moya" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 2
+1 6 1
+1 9 1
+2 1 1
+2 7 1
+2 3 2
+2 6 1
+2 9 3
+3 4 3
+3 7 3
+3 8 2
+3 2 1
+3 6 1
+3 1 2
+3 9 1
+3 11 1
+4 7 4
+4 3 3
+4 8 2
+4 9 1
+4 10 1
+4 11 2
+5 6 2
+5 3 2
+5 7 2
+5 9 1
+5 11 1
+6 1 1
+6 8 1
+6 3 1
+6 11 2
+7 3 3
+7 8 1
+7 4 2
+7 10 1
+7 11 1
+7 9 2
+8 6 2
+8 4 1
+8 1 1
+8 10 1
+9 3 2
+9 6 2
+9 4 2
+9 2 3
+9 7 1
+9 11 2
+10 3 1
+10 7 1
+10 6 1
+10 11 1
+11 6 3
+11 8 1
+11 7 3
+11 2 2
+11 4 1
+11 9 1
+11 3 1
+11 1 1

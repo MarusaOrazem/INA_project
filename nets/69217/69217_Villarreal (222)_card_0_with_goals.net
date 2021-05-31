@@ -1,0 +1,99 @@
+*vertices 13
+1 "Diego López Rodríguez" 0.0 0.0 ellipse
+2 "Joseba Llorente Etxarri" 0.0 0.0 ellipse
+3 "Sebastián Eguren Ledesma" 0.0 0.0 ellipse
+4 "Joan Capdevila Méndez" 0.0 0.0 ellipse
+5 "Rubén Gracia Calmache" 0.0 0.0 ellipse
+6 "Javier Rodríguez Venta" 0.0 0.0 ellipse
+7 "Gonzalo Javier Rodríguez" 0.0 0.0 ellipse
+8 "Diego Roberto Godín Leal" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Giuseppe Rossi/Nihat Kahveci" 0.0 0.0 ellipse
+11 "Robert Pirès /Bruno Soriano Llido" 0.0 0.0 ellipse
+12 "Ariel Miguel Santiago Ibagaza/Matías Ariel Fernández Fernández" 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 1
+1 5 1
+1 8 1
+1 4 1
+1 10 2
+2 7 1
+2 6 1
+2 9 1
+2 8 1
+2 3 2
+2 5 1
+2 11 1
+2 12 1
+2 10 1
+3 4 3
+3 6 2
+3 5 3
+3 7 2
+3 8 1
+3 10 1
+3 11 1
+3 12 5
+4 3 3
+4 5 12
+4 8 5
+4 1 1
+4 2 2
+4 10 6
+4 11 5
+4 12 1
+5 2 4
+5 4 9
+5 8 1
+5 3 1
+5 6 3
+5 10 1
+5 11 1
+5 12 2
+6 7 5
+6 5 5
+6 2 2
+6 8 1
+6 3 6
+6 10 4
+6 11 3
+6 12 1
+7 8 4
+7 5 2
+7 6 2
+7 2 2
+7 4 1
+7 12 2
+8 1 1
+8 4 4
+8 5 2
+8 3 3
+8 10 2
+8 12 1
+10 5 5
+10 4 1
+10 3 2
+10 2 2
+10 9 1
+10 6 1
+10 11 1
+10 12 2
+11 7 1
+11 6 5
+11 2 2
+11 5 1
+11 4 3
+11 3 1
+11 8 1
+11 10 1
+11 12 1
+12 2 3
+12 4 1
+12 5 1
+12 3 1
+12 10 3
+12 11 1
+12 13 1
+12 6 1

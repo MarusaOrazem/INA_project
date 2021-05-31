@@ -1,0 +1,103 @@
+*vertices 13
+1 "Nelson de Jesus da Silva" 0.0 0.0 ellipse
+2 "Massimo Ambrosini" 0.0 0.0 ellipse
+3 "Andrea Pirlo" 0.0 0.0 ellipse
+4 "Ivan Gennaro Gattuso" 0.0 0.0 ellipse
+5 "Massimo Oddo" 0.0 0.0 ellipse
+6 "Alessandro Nesta" 0.0 0.0 ellipse
+7 "Paolo Maldini" 0.0 0.0 ellipse
+8 "Ricardo Izecson dos Santos Leite" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Marek Jankulovski/Kakhaber Kaladze" 0.0 0.0 ellipse
+12 "Filippo Inzaghi/Alberto Gilardino" 0.0 0.0 ellipse
+13 "Clarence Seedorf/Giuseppe Favalli" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 6 5
+1 5 2
+1 3 1
+1 11 2
+1 12 4
+1 13 2
+2 3 8
+2 7 6
+2 8 3
+2 6 1
+2 4 4
+2 5 1
+2 11 1
+2 13 3
+3 4 10
+3 5 7
+3 2 3
+3 6 4
+3 8 6
+3 10 2
+3 7 2
+3 11 3
+3 13 6
+4 3 19
+4 5 9
+4 8 3
+4 7 1
+4 6 2
+4 2 1
+4 11 1
+4 13 3
+4 12 2
+5 6 2
+5 4 8
+5 3 7
+5 8 3
+5 12 2
+5 13 2
+6 1 1
+6 4 5
+6 7 8
+6 3 6
+6 2 3
+6 5 2
+6 11 1
+6 12 1
+6 13 1
+7 8 1
+7 6 9
+7 4 3
+7 2 5
+7 3 1
+7 1 1
+7 11 10
+7 12 1
+7 13 3
+8 2 2
+8 9 1
+8 3 3
+8 5 2
+8 12 5
+8 13 3
+8 11 1
+11 3 1
+11 7 10
+11 8 2
+11 6 1
+11 2 2
+11 5 1
+11 4 1
+11 13 2
+12 4 1
+12 9 2
+12 3 2
+12 5 1
+12 8 2
+12 2 1
+12 13 1
+13 3 7
+13 7 3
+13 8 2
+13 2 4
+13 6 2
+13 10 1
+13 4 2
+13 11 1
+13 12 1

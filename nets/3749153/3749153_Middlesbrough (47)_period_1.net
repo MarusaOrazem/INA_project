@@ -1,0 +1,75 @@
+*vertices 11
+1 "Danny Mills" 0.0 0.0 ellipse
+2 "Szilárd Németh" 0.0 0.0 ellipse
+3 "George Boateng" 0.0 0.0 ellipse
+4 "Franck Queudrue" 0.0 0.0 ellipse
+5 "Stewart Downing" 0.0 0.0 ellipse
+6 "Mark Schwarzer" 0.0 0.0 ellipse
+7 "Boudewijn Zenden" 0.0 0.0 ellipse
+8 "Gareth Southgate" 0.0 0.0 ellipse
+9 "Dorival Guidoni Júnior/Oswaldo Giroldo Júnior" 0.0 0.0 ellipse
+10 "Joseph-Desiré Job/Massimo Maccarone" 0.0 0.0 ellipse
+11 "Ugo Ehiogu/Chris Riggott" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 3 3
+1 7 1
+1 11 2
+2 3 1
+2 1 1
+2 7 1
+2 9 4
+2 10 1
+3 1 5
+3 2 3
+3 7 4
+3 5 1
+3 10 1
+3 11 2
+3 9 5
+4 5 5
+4 6 1
+4 8 3
+4 7 8
+4 9 2
+4 10 1
+4 11 1
+5 4 9
+5 7 1
+5 10 1
+5 9 1
+6 7 2
+6 1 1
+6 8 1
+6 4 2
+6 5 1
+6 10 2
+7 5 1
+7 3 4
+7 4 2
+7 8 2
+7 2 1
+7 9 3
+7 10 2
+8 2 1
+8 3 3
+8 4 2
+8 7 1
+8 9 1
+9 2 4
+9 5 3
+9 3 1
+9 1 2
+9 7 2
+9 4 1
+9 10 7
+10 1 1
+10 7 1
+10 9 2
+10 5 2
+10 3 1
+11 1 2
+11 3 1
+11 4 1
+11 6 1
+11 8 1

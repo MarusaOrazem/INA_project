@@ -1,0 +1,69 @@
+*vertices 12
+1 "Alhassane Bangoura" 0.0 0.0 ellipse
+2 "Miguel Pérez Cuesta" 0.0 0.0 ellipse
+3 "Javier Fuego Martínez" 0.0 0.0 ellipse
+4 "Pedro Roberto Silva Botelho" 0.0 0.0 ellipse
+5 "José Manuel Casado Bizcocho" 0.0 0.0 ellipse
+6 OFF_goal 0.0 0.0 ellipse
+7 "Jose María Movilla Cubero" 0.0 0.0 ellipse
+8 "Miguel Ángel Sánchez Muñoz" 0.0 0.0 ellipse
+9 "Jordi Figueras Montel" 0.0 0.0 ellipse
+10 "Alejandro Arribas Garrido" 0.0 0.0 ellipse
+11 "David Cobeño Iglesias" 0.0 0.0 ellipse
+12 "Mikel Labaka Zurriarain" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 1
+1 5 1
+1 6 1
+1 8 1
+2 1 2
+2 5 1
+2 4 1
+3 4 2
+3 6 1
+3 7 1
+3 1 2
+3 10 1
+3 5 3
+4 2 1
+4 3 3
+4 5 1
+4 10 2
+4 7 1
+4 1 1
+5 1 3
+5 3 2
+5 9 1
+5 11 1
+5 8 1
+5 7 3
+7 8 1
+7 3 1
+7 9 4
+7 1 2
+7 12 2
+7 4 2
+7 11 1
+8 3 1
+8 5 1
+8 10 1
+8 4 2
+8 1 1
+9 1 3
+9 2 2
+9 10 1
+9 5 2
+9 3 1
+10 9 1
+10 7 2
+10 11 1
+10 2 1
+10 12 1
+11 3 1
+11 2 2
+11 5 1
+11 1 1
+12 4 1
+12 7 1
+12 11 2

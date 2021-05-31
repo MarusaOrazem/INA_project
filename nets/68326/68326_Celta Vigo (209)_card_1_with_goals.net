@@ -1,0 +1,28 @@
+*vertices 9
+1 "Jesús Perera López" 0.0 0.0 ellipse
+2 "Jorge Larena Avellaneda Roig" 0.0 0.0 ellipse
+3 "Anderson Luis de Carvalho" 0.0 0.0 ellipse
+4 "Matías Emanuel Lequi" 0.0 0.0 ellipse
+5 "Jonathan Aspas Juncal" 0.0 0.0 ellipse
+6 "Borja Oubiña Meléndez" 0.0 0.0 ellipse
+7 "Pablo Andrés Contreras Fica" 0.0 0.0 ellipse
+8 "Ángel Domingo López Ruano" 0.0 0.0 ellipse
+9 "George Lucas Coser" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+2 4 1
+2 5 3
+3 4 1
+4 2 1
+4 5 1
+5 2 2
+5 6 1
+5 7 2
+6 2 2
+6 7 1
+7 6 1
+7 9 1
+7 2 1
+8 7 1
+9 6 1

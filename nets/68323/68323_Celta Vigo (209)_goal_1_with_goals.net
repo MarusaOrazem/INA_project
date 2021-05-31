@@ -1,0 +1,95 @@
+*vertices 12
+1 "Matías Emanuel Lequi" 0.0 0.0 ellipse
+2 "Ángel Domingo López Ruano" 0.0 0.0 ellipse
+3 "Sergio Fernández González" 0.0 0.0 ellipse
+4 "Esteban Andrés Suárez" 0.0 0.0 ellipse
+5 "Diego Rodolfo Placente" 0.0 0.0 ellipse
+6 "Iriney Santos Da Silva" 0.0 0.0 ellipse
+7 "Borja Oubiña Meléndez" 0.0 0.0 ellipse
+8 "David Josué Jiménez Silva" 0.0 0.0 ellipse
+9 "João Fernando Nelo" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Antonio Núñez Tena/Francisco Javier García Guerrero" 0.0 0.0 ellipse
+12 "Néstor Fabián Canobbio Bentaberry/Jorge Larena Avellaneda Roig" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 5 2
+1 9 2
+1 7 3
+1 11 3
+2 6 9
+2 3 6
+2 8 1
+2 9 1
+2 7 1
+2 11 2
+2 12 1
+3 4 2
+3 5 3
+3 9 1
+3 1 2
+3 8 1
+3 7 1
+3 6 2
+3 2 1
+3 11 1
+4 7 1
+4 1 1
+5 6 2
+5 7 7
+5 1 4
+5 8 10
+5 9 1
+5 12 3
+5 11 4
+6 7 5
+6 9 4
+6 8 4
+6 5 1
+6 2 3
+6 1 2
+6 3 1
+6 11 2
+6 12 3
+7 8 4
+7 1 5
+7 4 1
+7 3 2
+7 5 4
+7 9 2
+7 6 2
+7 2 1
+7 11 2
+7 12 2
+8 6 4
+8 7 2
+8 5 8
+8 9 1
+8 2 2
+8 11 3
+8 12 5
+9 8 1
+9 10 1
+9 7 3
+9 5 1
+9 6 2
+9 2 1
+9 12 4
+9 11 1
+11 6 2
+11 3 2
+11 9 3
+11 2 2
+11 7 5
+11 12 2
+11 8 1
+11 5 1
+12 1 1
+12 9 5
+12 5 1
+12 6 3
+12 8 2
+12 7 1
+12 2 1
+12 11 1

@@ -1,0 +1,113 @@
+*vertices 13
+1 "Andrea Pirlo" 0.0 0.0 ellipse
+2 "Andrea Barzagli" 0.0 0.0 ellipse
+3 "Leonardo Bonucci" 0.0 0.0 ellipse
+4 "Paul Pogba" 0.0 0.0 ellipse
+5 "Claudio Marchisio" 0.0 0.0 ellipse
+6 "Carlos Alberto Tevez" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Gianluigi Buffon" 0.0 0.0 ellipse
+9 "Stephan Lichtsteiner" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Arturo Erasmo Vidal Pardo/Roberto Maximiliano Pereyra" 0.0 0.0 ellipse
+12 "Álvaro Borja Morata Martín/Fernando Llorente Torres" 0.0 0.0 ellipse
+13 "Patrice Evra/Kingsley Coman" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 3 3
+1 6 9
+1 5 5
+1 4 5
+1 9 1
+1 11 4
+1 12 1
+1 13 4
+2 3 7
+2 6 2
+2 9 3
+2 4 3
+2 1 6
+2 5 3
+2 8 2
+2 11 1
+2 12 1
+3 4 6
+3 8 3
+3 2 5
+3 1 4
+3 9 2
+3 5 2
+3 11 3
+3 12 1
+3 13 5
+4 3 3
+4 9 1
+4 1 3
+4 2 1
+4 6 4
+4 10 1
+4 7 1
+4 5 2
+4 11 2
+4 12 1
+4 13 7
+5 6 3
+5 1 6
+5 9 6
+5 10 2
+5 2 1
+5 4 1
+5 7 1
+5 11 1
+5 12 2
+6 7 2
+6 2 3
+6 5 5
+6 3 1
+6 4 3
+6 1 3
+6 10 2
+6 11 3
+6 12 1
+6 13 3
+8 2 4
+8 6 2
+8 4 5
+8 3 1
+8 1 3
+8 9 2
+8 5 3
+8 13 1
+9 5 3
+9 8 1
+9 1 3
+9 2 1
+9 6 1
+9 4 1
+9 11 3
+9 12 1
+11 1 8
+11 7 2
+11 4 5
+11 2 3
+11 5 1
+11 9 1
+11 3 1
+11 12 7
+11 13 1
+12 5 3
+12 4 1
+12 7 2
+12 1 1
+12 10 1
+12 6 1
+12 11 1
+12 13 1
+13 7 1
+13 4 8
+13 6 5
+13 5 1
+13 1 2
+13 3 1
+13 11 2
+13 12 1

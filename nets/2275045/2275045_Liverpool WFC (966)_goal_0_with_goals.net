@@ -1,0 +1,28 @@
+*vertices 13
+1 "Frances Kitching" 0.0 0.0 ellipse
+2 "Rhiannon Roberts" 0.0 0.0 ellipse
+3 "Rinsola Babajide" 0.0 0.0 ellipse
+4 "Jade Bailey" 0.0 0.0 ellipse
+5 "Niamh Charles" 0.0 0.0 ellipse
+6 "Melissa Lawley" 0.0 0.0 ellipse
+7 ON_goal 0.0 0.0 ellipse
+8 "Leigh-Anne Robe" 0.0 0.0 ellipse
+9 "Kirsty Linnett" 0.0 0.0 ellipse
+10 "Niamh Fahey" 0.0 0.0 ellipse
+11 "Sophie Elizabeth Bradley-Auckland" 0.0 0.0 ellipse
+12 "Rebecca Jane" 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+4 5 1
+4 2 1
+4 12 1
+4 13 1
+6 7 1
+6 12 1
+6 9 1
+8 9 2
+9 7 1
+10 11 1
+11 4 1

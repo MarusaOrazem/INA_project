@@ -1,0 +1,63 @@
+*vertices 11
+1 "Florin Andone" 0.0 0.0 ellipse
+2 "Pedro Mosquera Parada" 0.0 0.0 ellipse
+3 "Fernando Navarro i Corbacho" 0.0 0.0 ellipse
+4 "Germán Darío Lux" 0.0 0.0 ellipse
+5 "Raúl Albentosa Redal" 0.0 0.0 ellipse
+6 "Celso Borges Mora" 0.0 0.0 ellipse
+7 "Laureano Sanabria Ruiz" 0.0 0.0 ellipse
+8 "Guilherme dos Santos Torres" 0.0 0.0 ellipse
+9 "Alejandro Arribas Garrido" 0.0 0.0 ellipse
+10 "Emre Çolak/Ryan Guno Babel" 0.0 0.0 ellipse
+11 "Bruno Alexandre Vilela Gama/Luis Carlos Correia Pinto" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 8 1
+1 10 1
+1 11 1
+2 3 1
+2 6 2
+2 7 1
+2 8 1
+2 4 1
+2 11 1
+2 10 1
+3 2 1
+3 1 3
+3 5 1
+3 6 1
+3 4 1
+3 11 1
+3 10 1
+4 5 3
+4 6 2
+4 7 1
+4 1 2
+4 10 4
+4 11 1
+5 4 1
+5 6 3
+5 3 2
+5 1 1
+6 7 4
+6 2 2
+6 8 2
+6 1 1
+6 4 1
+6 3 1
+6 10 1
+7 5 1
+7 1 2
+7 6 2
+8 2 3
+8 6 2
+8 10 2
+9 2 1
+9 11 1
+10 1 3
+10 11 1
+10 8 1
+10 6 2
+11 10 1
+11 4 1
+11 8 2

@@ -1,0 +1,12 @@
+*vertices 5
+1 "Julia Zigiotti-Olme" 0.0 0.0 ellipse
+2 "Stina Blackstenius" 0.0 0.0 ellipse
+3 "Kosovare Asllani" 0.0 0.0 ellipse
+4 "Olivia Alma Charlotta Schough" 0.0 0.0 ellipse
+5 "Jonna Andersson" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+3 4 1
+3 5 1
+5 3 1

@@ -1,0 +1,76 @@
+*vertices 12
+1 "Diego Mainz García" 0.0 0.0 ellipse
+2 "Guilherme Magdalena Siqueira" 0.0 0.0 ellipse
+3 "Roberto Fernández Alvarellos" 0.0 0.0 ellipse
+4 "Daniel González Benítez" 0.0 0.0 ellipse
+5 "Allan Romeo Nyom" 0.0 0.0 ellipse
+6 "Jaime Romero Gómez" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Abel Gómez Moreno" 0.0 0.0 ellipse
+9 "Mikel Rico Moreno" 0.0 0.0 ellipse
+10 "Íñigo López Montaña" 0.0 0.0 ellipse
+11 "Ikechukwu Uche/Alexandre Geijo Pazos" 0.0 0.0 ellipse
+12 "Francisco Manuel Rico Castro/Yohan Mollo" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 3 5
+1 9 1
+1 4 1
+1 8 1
+1 11 1
+1 12 1
+2 3 4
+2 9 5
+2 4 7
+2 1 2
+2 8 2
+2 11 1
+3 4 4
+3 6 1
+3 5 2
+3 10 2
+3 2 2
+3 1 3
+3 12 1
+3 11 3
+4 2 3
+4 10 1
+4 9 1
+4 8 1
+4 1 1
+4 11 1
+5 6 3
+5 3 2
+5 10 1
+5 8 1
+5 12 2
+6 7 1
+6 10 1
+6 5 1
+8 4 3
+8 10 3
+8 1 2
+8 11 1
+8 12 1
+9 2 3
+9 10 1
+9 6 1
+9 8 2
+9 4 2
+9 1 3
+9 12 2
+10 5 2
+10 3 3
+10 9 1
+10 12 2
+10 11 1
+11 12 2
+11 8 1
+11 9 1
+11 4 1
+12 1 5
+12 5 2
+12 10 3
+12 8 2
+12 9 1
+12 11 1

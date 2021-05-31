@@ -1,0 +1,97 @@
+*vertices 11
+1 "Alejandro Arribas Garrido" 0.0 0.0 ellipse
+2 "Jordi Figueras Montel" 0.0 0.0 ellipse
+3 "Miguel Pérez Cuesta" 0.0 0.0 ellipse
+4 "Pedro Roberto Silva Botelho" 0.0 0.0 ellipse
+5 "Jose María Movilla Cubero" 0.0 0.0 ellipse
+6 "David Cobeño Iglesias" 0.0 0.0 ellipse
+7 "Mikel Labaka Zurriarain" 0.0 0.0 ellipse
+8 "José Manuel Casado Bizcocho" 0.0 0.0 ellipse
+9 "Miguel Ángel Sánchez Muñoz/Raúl Tamudo Montero" 0.0 0.0 ellipse
+10 "Javier Fuego Martínez/Rafael García García" 0.0 0.0 ellipse
+11 "Alhassane Bangoura/Francisco Medina Luna" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 4
+1 6 1
+1 3 2
+1 7 1
+1 4 2
+1 10 1
+1 11 1
+2 3 4
+2 1 1
+2 8 13
+2 7 2
+2 6 3
+2 5 3
+2 10 2
+2 11 1
+2 9 1
+3 8 2
+3 4 2
+3 1 1
+3 2 2
+3 5 1
+3 9 2
+3 10 1
+3 11 1
+4 3 3
+4 8 1
+4 1 4
+4 5 5
+4 6 2
+4 10 4
+4 11 1
+5 2 10
+5 7 3
+5 4 7
+5 6 2
+5 8 2
+5 3 2
+5 1 2
+5 9 2
+5 10 4
+5 11 1
+6 3 2
+6 8 1
+6 2 3
+6 5 1
+6 1 2
+6 10 1
+6 11 1
+7 4 1
+7 5 2
+7 6 2
+7 8 2
+7 1 1
+7 2 1
+8 2 3
+8 6 1
+8 5 8
+8 9 5
+8 10 6
+8 11 3
+9 8 2
+9 1 1
+9 4 1
+9 5 1
+9 10 1
+9 11 1
+9 2 2
+9 3 1
+10 4 1
+10 5 3
+10 1 3
+10 8 4
+10 2 2
+10 11 4
+10 9 1
+10 7 1
+11 3 4
+11 8 1
+11 2 1
+11 7 1
+11 5 3
+11 9 2
+11 10 1

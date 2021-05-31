@@ -1,0 +1,105 @@
+*vertices 13
+1 "Jorge Miramón Santagertrudis" 0.0 0.0 ellipse
+2 "Rúben Miguel Nunes Vezo" 0.0 0.0 ellipse
+3 "Sergio Postigo Redondo" 0.0 0.0 ellipse
+4 "Rubén Rochina Naixes" 0.0 0.0 ellipse
+5 "José Ángel Gómez Campaña" 0.0 0.0 ellipse
+6 "Roger Martí Salvador" 0.0 0.0 ellipse
+7 "Aitor Fernández Abarisketa" 0.0 0.0 ellipse
+8 "Antonio García Aranda" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Gonzalo Julián Melero Manzanares/Hernâni Jorge Santos Fortes" 0.0 0.0 ellipse
+12 "José Luis Morales Nogales/Borja Mayoral Moya" 0.0 0.0 ellipse
+13 "Nikola Vukčević/Enis Bardhi" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 4
+1 6 2
+1 4 7
+1 3 3
+1 8 1
+1 12 1
+1 13 3
+1 11 1
+2 3 1
+2 8 4
+2 6 2
+2 4 3
+2 5 4
+2 1 1
+2 13 1
+2 11 2
+2 12 1
+3 4 5
+3 6 2
+3 1 4
+3 2 1
+3 5 3
+3 11 1
+3 13 1
+3 12 1
+4 1 7
+4 5 5
+4 6 3
+4 3 2
+4 2 2
+4 9 2
+4 8 3
+4 10 1
+4 11 2
+4 12 1
+5 6 4
+5 2 1
+5 1 8
+5 4 5
+5 3 3
+5 8 1
+5 11 1
+5 12 2
+5 13 2
+6 1 1
+6 4 2
+6 8 2
+6 5 1
+6 3 1
+6 9 1
+6 11 2
+6 12 1
+7 3 4
+7 1 1
+7 2 2
+7 8 1
+7 11 1
+7 12 1
+8 5 9
+8 6 2
+8 11 2
+8 12 1
+8 13 1
+11 1 1
+11 4 3
+11 8 2
+11 3 1
+11 6 1
+11 2 1
+11 5 2
+11 10 1
+11 9 1
+11 13 2
+12 8 2
+12 5 2
+12 4 4
+12 10 1
+12 6 1
+12 11 1
+12 13 1
+13 8 3
+13 2 2
+13 7 1
+13 4 1
+13 5 2
+13 12 1
+13 10 1
+13 1 1
+13 3 1

@@ -1,0 +1,95 @@
+*vertices 13
+1 "María José Urrutia" 0.0 0.0 ellipse
+2 "Rocio Andrea Soto Collao" 0.0 0.0 ellipse
+3 "Yanara Aedo" 0.0 0.0 ellipse
+4 "Yesenia López" 0.0 0.0 ellipse
+5 "Camila Alejandra Saez Oyaneder" 0.0 0.0 ellipse
+6 "Daniela Paz Zamora Mancilla" 0.0 0.0 ellipse
+7 "Rosario Balmaceda" 0.0 0.0 ellipse
+8 "Francisca Alejandra Lara Lara" 0.0 0.0 ellipse
+9 "Carla Valentina Guerrero Puelle" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Claudia Christiane Endler Mutinelli" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "Javiera Grez/Maria José Alondra Rojas Pino" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 4
+1 7 1
+1 10 2
+1 5 1
+1 12 1
+1 3 1
+1 9 1
+1 13 1
+2 3 2
+2 9 3
+2 6 3
+2 4 4
+2 7 1
+2 13 1
+3 4 2
+3 10 2
+3 6 11
+3 8 2
+3 9 3
+3 7 2
+3 2 1
+3 1 1
+3 5 1
+3 13 2
+4 5 6
+4 8 7
+4 9 2
+4 6 5
+4 2 1
+4 7 3
+4 10 2
+4 1 5
+4 3 2
+4 13 2
+5 6 1
+5 7 6
+5 4 7
+5 8 5
+5 9 2
+5 3 1
+5 10 1
+5 13 1
+6 3 7
+6 2 3
+6 4 3
+6 8 1
+6 7 1
+6 13 1
+7 8 5
+7 6 2
+7 3 5
+7 5 2
+7 2 1
+7 9 3
+7 1 1
+7 13 2
+8 4 6
+8 7 3
+8 1 1
+8 12 1
+8 5 3
+8 10 1
+8 3 2
+9 5 2
+9 8 1
+9 11 1
+9 4 4
+9 2 3
+9 7 1
+9 1 2
+11 4 2
+11 5 2
+11 13 1
+13 10 4
+13 2 1
+13 4 1
+13 6 2
+13 3 2
+13 8 1

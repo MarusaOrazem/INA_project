@@ -1,0 +1,98 @@
+*vertices 13
+1 "Danielle Colaprico" 0.0 0.0 ellipse
+2 "Kathleen Naughton" 0.0 0.0 ellipse
+3 "Julie Ertz" 0.0 0.0 ellipse
+4 "Vanessa DiBernardo" 0.0 0.0 ellipse
+5 "Alyssa Naeher" 0.0 0.0 ellipse
+6 "Casey Short" 0.0 0.0 ellipse
+7 "Arin Gilliland" 0.0 0.0 ellipse
+8 "Yuki Nagasato" 0.0 0.0 ellipse
+9 "Samantha Kerr" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Alyssa Mautz/Michele Vasconcelos" 0.0 0.0 ellipse
+13 "Morgan Brian/Rosie White" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 4 5
+1 7 5
+1 8 4
+1 9 2
+1 5 1
+1 6 1
+1 12 1
+1 13 6
+2 1 3
+2 7 2
+2 5 4
+2 6 1
+2 4 1
+2 12 2
+2 13 1
+3 1 1
+3 7 4
+3 2 1
+3 6 1
+3 4 1
+3 13 2
+3 12 1
+4 3 2
+4 6 5
+4 9 4
+4 8 8
+4 7 2
+4 10 3
+4 1 3
+4 13 1
+4 12 1
+5 6 2
+5 7 3
+5 4 2
+5 2 3
+5 1 1
+5 8 1
+5 3 1
+5 12 1
+5 13 1
+6 4 5
+6 8 4
+6 3 1
+6 9 2
+6 1 2
+6 13 2
+7 2 2
+7 8 3
+7 9 4
+7 1 2
+7 4 1
+7 12 1
+7 13 3
+8 4 7
+8 6 2
+8 9 3
+8 1 2
+8 12 2
+8 13 2
+9 8 1
+9 1 1
+9 7 1
+9 10 4
+9 11 1
+9 4 1
+9 13 2
+9 12 2
+12 8 1
+12 9 4
+12 7 4
+12 1 1
+12 13 1
+13 1 1
+13 9 2
+13 8 2
+13 5 1
+13 4 6
+13 10 3
+13 6 4
+13 3 2
+13 12 4

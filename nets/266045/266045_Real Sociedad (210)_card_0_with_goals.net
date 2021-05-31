@@ -1,0 +1,104 @@
+*vertices 13
+1 "Esteban Félix Granero Molina" 0.0 0.0 ellipse
+2 "Íñigo Martínez Berridi" 0.0 0.0 ellipse
+3 OFF_goal 0.0 0.0 ellipse
+4 "Gerónimo Rulli" 0.0 0.0 ellipse
+5 "Rubén Pardo Gutiérrez" 0.0 0.0 ellipse
+6 "Mikel González de Martín Martínez" 0.0 0.0 ellipse
+7 "Xabier Prieto Argarate" 0.0 0.0 ellipse
+8 "Carlos Martínez Díez" 0.0 0.0 ellipse
+9 "Alberto De La Bella Madureño" 0.0 0.0 ellipse
+10 "Markel Bergara Larrañaga" 0.0 0.0 ellipse
+11 "Sergio Canales Madrazo/Gonzalo Castro Irizábal" 0.0 0.0 ellipse
+12 "Carlos Alberto Vela Garrido/Alfreð Finnbogason" 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 7
+1 10 4
+1 9 2
+1 5 5
+1 6 2
+1 8 4
+1 11 1
+1 12 3
+2 3 1
+2 9 5
+2 4 2
+2 10 1
+2 6 1
+2 1 1
+2 11 1
+2 12 1
+4 2 2
+4 7 6
+4 9 5
+4 8 1
+4 12 2
+5 6 2
+5 7 4
+5 2 2
+5 9 6
+5 1 6
+5 3 1
+5 11 3
+5 12 3
+6 7 3
+6 2 2
+6 10 2
+6 4 1
+6 8 1
+6 5 2
+6 11 1
+6 12 1
+7 8 9
+7 5 8
+7 10 2
+7 2 1
+7 9 1
+7 1 6
+7 4 1
+7 3 1
+7 11 2
+7 12 2
+8 7 10
+8 4 1
+8 6 2
+8 10 1
+8 1 1
+8 5 3
+8 9 1
+8 11 1
+8 12 2
+9 1 4
+9 6 2
+9 10 2
+9 2 1
+9 4 1
+9 5 5
+9 7 2
+9 11 2
+9 12 1
+10 9 4
+10 3 1
+10 7 2
+10 1 4
+10 8 2
+10 6 1
+10 11 1
+10 12 2
+11 9 1
+11 7 2
+11 1 2
+11 8 1
+11 10 1
+11 12 3
+11 5 1
+12 7 2
+12 10 1
+12 1 2
+12 5 2
+12 9 1
+12 8 2
+12 11 1
+12 13 1

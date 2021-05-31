@@ -1,0 +1,93 @@
+*vertices 11
+1 "Danielle van de Donk" 0.0 0.0 ellipse
+2 "Lia Wälti" 0.0 0.0 ellipse
+3 "Louise Quinn" 0.0 0.0 ellipse
+4 "Leah Williamson" 0.0 0.0 ellipse
+5 "Dominique Johanna Anna Bloodworth" 0.0 0.0 ellipse
+6 "Bethany Mead" 0.0 0.0 ellipse
+7 "Pauline Peyraud Magnin" 0.0 0.0 ellipse
+8 "Lisa Evans" 0.0 0.0 ellipse
+9 "Vivianne Miedema" 0.0 0.0 ellipse
+10 "Katie McCabe" 0.0 0.0 ellipse
+11 "Paige Bailey Gayle/Amelia Hazard" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 2
+1 8 6
+1 9 3
+1 11 2
+2 1 3
+2 4 1
+2 3 4
+2 5 8
+2 7 1
+2 10 4
+2 8 3
+2 6 2
+2 9 2
+2 11 2
+3 4 15
+3 5 9
+3 6 3
+3 7 2
+3 10 3
+3 2 2
+3 1 1
+4 3 6
+4 8 16
+4 2 7
+4 1 3
+4 10 6
+4 9 2
+4 6 1
+4 7 1
+4 11 2
+5 6 10
+5 3 7
+5 2 2
+5 4 4
+5 1 4
+5 9 7
+5 8 3
+5 10 2
+5 11 1
+6 5 3
+6 1 6
+6 10 2
+6 3 1
+7 5 3
+7 3 5
+7 4 9
+7 10 1
+7 2 1
+7 8 1
+7 11 1
+8 2 2
+8 4 12
+8 7 2
+8 1 7
+8 10 3
+8 9 5
+8 6 2
+8 5 4
+8 11 2
+9 6 3
+9 10 3
+9 8 1
+9 4 1
+9 1 5
+9 2 1
+9 5 1
+10 8 3
+10 5 5
+10 9 3
+10 1 1
+10 6 3
+10 4 3
+10 3 5
+10 2 2
+10 11 1
+11 8 1
+11 1 1
+11 5 1
+11 10 1

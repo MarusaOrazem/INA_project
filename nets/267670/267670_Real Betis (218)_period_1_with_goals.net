@@ -1,0 +1,75 @@
+*vertices 13
+1 "Antonio Adán Garrido" 0.0 0.0 ellipse
+2 "Arnaldo Antonio Sanabria Ayala" 0.0 0.0 ellipse
+3 "Daniel Ceballos Fernández" 0.0 0.0 ellipse
+4 "Riza Durmisi" 0.0 0.0 ellipse
+5 "Germán Alejandro Pezzella" 0.0 0.0 ellipse
+6 "Bruno González Cabrera" 0.0 0.0 ellipse
+7 "Aïssa Mandi" 0.0 0.0 ellipse
+8 "Rubén Castro Martín" 0.0 0.0 ellipse
+9 "Álvaro Cejudo Carmona" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Felipe Alejandro Gutiérrez Leiva/Charly Musonda Junior" 0.0 0.0 ellipse
+13 "Petros Matheus dos Santos Araújo/Fabián Ruiz Peña" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+1 8 1
+1 6 1
+1 12 1
+2 8 4
+2 6 1
+2 3 1
+2 13 1
+2 12 2
+3 5 1
+3 4 1
+3 6 1
+3 2 1
+3 9 2
+3 8 1
+3 11 1
+3 13 1
+4 5 1
+4 9 1
+4 2 2
+4 1 1
+4 12 1
+4 13 1
+5 1 1
+5 12 1
+5 13 1
+6 7 1
+6 9 1
+6 1 2
+6 2 1
+6 3 1
+6 8 1
+6 12 2
+7 6 2
+7 9 1
+7 12 1
+7 13 1
+8 2 2
+8 3 3
+8 10 1
+8 12 1
+8 13 1
+9 4 1
+9 8 2
+9 2 2
+9 6 1
+9 13 2
+9 12 1
+12 8 1
+12 5 1
+12 2 1
+12 6 1
+12 13 2
+13 1 1
+13 4 1
+13 6 3
+13 7 2
+13 9 3
+13 3 2

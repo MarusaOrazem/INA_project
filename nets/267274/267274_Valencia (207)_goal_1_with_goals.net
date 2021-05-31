@@ -1,0 +1,64 @@
+*vertices 13
+1 "Francisco Alcácer García" 0.0 0.0 ellipse
+2 "José Luis Gayá Peña" 0.0 0.0 ellipse
+3 "Daniel Parejo Muñoz" 0.0 0.0 ellipse
+4 "Danilo Barbosa da Silva" 0.0 0.0 ellipse
+5 "Rúben Miguel Nunes Vezo" 0.0 0.0 ellipse
+6 OFF_goal 0.0 0.0 ellipse
+7 "Aderllan Leandro de Jesus Santos" 0.0 0.0 ellipse
+8 "Jaume Doménech Sánchez" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Aymen Abdennour" 0.0 0.0 ellipse
+11 "Enzo Nicolás Pérez/Zakaria Bakkali" 0.0 0.0 ellipse
+12 "Rodrigo Javier de Paul/Pablo Daniel Piatti" 0.0 0.0 ellipse
+13 "Santiago Mina Lorenzo/Carlos Carbonell Gil" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 12 1
+1 13 1
+2 3 2
+2 1 1
+2 11 2
+2 12 1
+3 4 5
+3 6 1
+3 2 1
+3 11 3
+3 12 2
+3 13 1
+4 5 2
+4 6 1
+4 2 1
+4 3 1
+4 9 1
+4 13 1
+4 11 1
+5 7 1
+5 3 2
+5 1 1
+5 4 1
+5 13 3
+7 8 2
+7 3 1
+7 12 1
+7 13 1
+8 11 1
+8 13 1
+10 2 1
+11 5 1
+11 3 1
+11 2 1
+11 12 6
+11 6 1
+11 1 1
+11 4 1
+12 2 1
+12 3 2
+12 9 1
+12 11 2
+12 13 2
+13 5 2
+13 4 1
+13 9 1
+13 12 2
+13 10 1

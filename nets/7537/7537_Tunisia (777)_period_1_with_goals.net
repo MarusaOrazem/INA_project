@@ -1,0 +1,83 @@
+*vertices 12
+1 "Fakhreddine Ben Youssef" 0.0 0.0 ellipse
+2 "Ferjani Sassi" 0.0 0.0 ellipse
+3 "Ellyes Skhiri" 0.0 0.0 ellipse
+4 "Anice Badri" 0.0 0.0 ellipse
+5 "Dylan Bronn" 0.0 0.0 ellipse
+6 "Ali Maâloul" 0.0 0.0 ellipse
+7 "Syam Ben Youssef" 0.0 0.0 ellipse
+8 "Yassine Meriah" 0.0 0.0 ellipse
+9 "Farouk Ben Mustapha" 0.0 0.0 ellipse
+10 "Naïm Sliti/Mohamed Amine Ben Amor" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Wahbi Khazri/Saber Khalifa" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 3 3
+1 9 1
+1 10 2
+1 12 2
+2 3 5
+2 1 6
+2 5 1
+2 6 1
+2 4 1
+2 10 1
+2 12 1
+3 4 5
+3 8 2
+3 6 2
+3 9 1
+3 2 3
+3 5 1
+3 10 1
+4 3 1
+4 2 3
+4 7 3
+4 6 3
+4 5 1
+4 1 2
+4 8 4
+4 9 1
+4 12 1
+4 10 1
+5 3 1
+5 7 1
+5 2 2
+5 1 5
+5 4 1
+5 9 1
+5 12 1
+6 4 5
+6 8 4
+6 3 3
+6 2 2
+6 10 2
+6 12 1
+7 8 2
+7 5 2
+7 3 1
+7 1 1
+7 6 1
+7 10 1
+8 6 3
+8 4 3
+8 5 3
+8 9 2
+8 3 2
+8 7 1
+8 10 1
+8 12 1
+9 8 3
+9 5 1
+9 12 1
+10 2 2
+10 4 1
+10 1 1
+10 11 1
+10 12 1
+10 6 4
+12 8 2
+12 6 2
+12 4 1
+12 11 1

@@ -1,0 +1,40 @@
+*vertices 11
+1 "Luka Modrić" 0.0 0.0 ellipse
+2 "Cristiano Ronaldo dos Santos Aveiro" 0.0 0.0 ellipse
+3 OFF_goal 0.0 0.0 ellipse
+4 "Mateo Kovačić" 0.0 0.0 ellipse
+5 "Marcelo Vieira da Silva Júnior" 0.0 0.0 ellipse
+6 "Toni Kroos" 0.0 0.0 ellipse
+7 "Marco Asensio Willemsen" 0.0 0.0 ellipse
+8 "Daniel Carvajal Ramos" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Keylor Navas Gamboa" 0.0 0.0 ellipse
+11 "Karim Benzema/James David Rodríguez Rubio" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 11 2
+2 3 2
+2 5 1
+2 7 1
+2 11 2
+4 5 1
+4 1 1
+4 2 1
+5 4 1
+5 10 1
+5 11 2
+6 7 1
+6 4 1
+6 5 1
+6 11 1
+7 2 3
+7 8 1
+7 9 1
+8 7 1
+8 11 3
+10 2 1
+11 8 2
+11 9 3
+11 6 2
+11 5 1
+11 2 1

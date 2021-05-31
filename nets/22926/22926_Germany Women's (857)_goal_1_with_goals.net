@@ -1,0 +1,67 @@
+*vertices 13
+1 "Giulia Gwinn" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+3 "Kathrin-Julia Hendrich" 0.0 0.0 ellipse
+4 "Marina Hegering" 0.0 0.0 ellipse
+5 "Sara Däbritz" 0.0 0.0 ellipse
+6 "Almuth Schult" 0.0 0.0 ellipse
+7 "Lena Oberdorf" 0.0 0.0 ellipse
+8 "Sara Doorsoun-Khajeh" 0.0 0.0 ellipse
+9 "Alexandra Popp" 0.0 0.0 ellipse
+10 "Lina Magull" 0.0 0.0 ellipse
+11 "Dzsenifer Marozsan" 0.0 0.0 ellipse
+12 "Svenja Huth/Lea Schüller" 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 5 1
+1 10 2
+1 8 2
+1 9 2
+1 4 1
+3 4 4
+3 7 2
+3 11 2
+3 6 2
+3 5 1
+4 6 3
+4 8 4
+4 11 2
+4 7 1
+4 12 1
+5 1 2
+5 10 2
+5 2 1
+5 7 1
+5 12 2
+6 9 2
+6 3 1
+7 3 2
+7 8 1
+7 9 1
+7 10 1
+7 5 1
+7 12 1
+8 5 2
+8 6 3
+8 3 1
+8 4 3
+8 1 1
+9 10 1
+9 11 1
+10 5 5
+10 1 1
+10 4 1
+10 11 2
+10 12 2
+11 5 1
+11 7 1
+11 1 1
+11 4 1
+11 3 1
+11 10 1
+12 10 1
+12 13 1
+12 11 1
+12 5 1
+12 3 2

@@ -1,0 +1,5 @@
+*vertices 2
+1 "Pedro Mario Álvarez Abrante" 0.0 0.0 ellipse
+2 "Juan Manuel Gómez Sánchez" 0.0 0.0 ellipse
+*arcs
+1 2 1

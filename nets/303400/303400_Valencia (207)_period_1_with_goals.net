@@ -1,0 +1,74 @@
+*vertices 13
+1 "Geoffrey Kondogbia" 0.0 0.0 ellipse
+2 "Ferrán Torres García" 0.0 0.0 ellipse
+3 "Daniel Wass" 0.0 0.0 ellipse
+4 "Ezequiel Marcelo Garay" 0.0 0.0 ellipse
+5 "Gabriel Armando de Abreu" 0.0 0.0 ellipse
+6 "Jaume Doménech Sánchez" 0.0 0.0 ellipse
+7 "Francis Coquelin" 0.0 0.0 ellipse
+8 "José Luis Gayá Peña" 0.0 0.0 ellipse
+9 "Kevin Gameiro/Rodrigo Moreno Machado" 0.0 0.0 ellipse
+10 "Maximiliano Gómez González/Jaume Vicent Costa Jordá" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "Carlos Soler Barragán/Rubén Sobrino Pozuelo" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 2
+1 4 3
+1 5 2
+1 3 1
+1 8 2
+1 13 1
+2 3 1
+2 4 1
+2 10 1
+2 13 1
+2 9 3
+3 4 4
+3 2 1
+3 9 1
+3 10 2
+4 5 2
+4 6 2
+4 3 2
+4 7 2
+4 2 2
+4 1 1
+4 10 2
+4 9 1
+5 4 6
+5 1 2
+5 3 1
+5 7 2
+5 13 1
+6 3 2
+6 1 1
+6 2 1
+6 10 1
+6 9 1
+7 1 3
+7 3 1
+7 8 1
+7 13 1
+7 9 2
+8 5 2
+8 4 1
+8 3 1
+8 2 1
+8 9 1
+8 10 1
+9 1 2
+9 8 1
+9 7 1
+9 10 1
+9 2 2
+10 11 1
+10 12 2
+10 2 1
+10 3 1
+10 13 1
+10 9 1
+10 5 1
+10 4 1
+13 2 1

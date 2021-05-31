@@ -1,0 +1,24 @@
+*vertices 9
+1 "Juan Pablo Colinas Ferreras" 0.0 0.0 ellipse
+2 "Javier Del Pino González" 0.0 0.0 ellipse
+3 "Carlos Bellvís LLorens" 0.0 0.0 ellipse
+4 "Juan Quero Barraso" 0.0 0.0 ellipse
+5 "Carlos Reina Aranda" 0.0 0.0 ellipse
+6 "Gorka Brit Gallego" 0.0 0.0 ellipse
+7 "Juan Ramón Cabrero Obrer" 0.0 0.0 ellipse
+8 "Sergio Ortega González" 0.0 0.0 ellipse
+9 "Dimas Delgado Morgado" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+3 4 1
+3 9 2
+3 5 1
+4 5 1
+4 6 1
+5 4 1
+6 5 1
+6 3 1
+7 6 1
+8 2 1
+9 6 1

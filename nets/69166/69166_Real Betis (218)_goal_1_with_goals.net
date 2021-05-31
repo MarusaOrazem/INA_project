@@ -1,0 +1,87 @@
+*vertices 13
+1 "Juan Gutiérrez Moreno" 0.0 0.0 ellipse
+2 "Willian Lanes Lanes de Lima" 0.0 0.0 ellipse
+3 "Juan de Dios Prados López" 0.0 0.0 ellipse
+4 "Marko Babić" 0.0 0.0 ellipse
+5 "Alberto Rivera Pizarro" 0.0 0.0 ellipse
+6 "Mark Dennis González Hoffmann" 0.0 0.0 ellipse
+7 "Branko Ilič" 0.0 0.0 ellipse
+8 "Luís Eduardo Schmidt" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Ricardo Alexandre Martins Soares Pereira" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Hugo Mariano Pavone/José María Romero Poyón" 0.0 0.0 ellipse
+13 "Leandro Daniel Somoza/Arturo García Muñoz" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 5
+1 8 3
+1 5 3
+1 12 2
+1 13 2
+2 3 2
+2 1 2
+2 4 3
+2 6 1
+3 4 2
+3 5 4
+3 6 7
+3 7 4
+3 2 2
+3 8 1
+3 12 2
+3 13 1
+4 6 2
+4 5 2
+4 3 2
+4 10 1
+4 2 1
+4 12 3
+4 13 2
+5 3 4
+5 7 4
+5 2 1
+5 4 3
+5 6 4
+5 11 1
+5 8 2
+5 1 1
+5 12 1
+5 13 4
+6 4 4
+6 5 3
+6 2 1
+6 3 3
+6 13 3
+6 12 2
+7 8 3
+7 3 4
+7 5 2
+7 2 1
+7 1 2
+7 12 1
+7 13 1
+8 9 1
+8 1 1
+8 5 2
+8 12 1
+8 13 1
+10 3 4
+10 1 3
+10 7 1
+10 4 1
+10 5 1
+10 6 1
+10 12 1
+10 13 1
+12 5 2
+12 8 2
+12 7 2
+12 11 1
+12 3 1
+13 8 1
+13 3 1
+13 5 5
+13 6 1
+13 4 3
+13 1 1

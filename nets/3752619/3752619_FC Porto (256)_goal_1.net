@@ -1,0 +1,73 @@
+*vertices 11
+1 "Vítor Manuel Martins Baía" 0.0 0.0 ellipse
+2 "Paulo Renato Rebocho Ferreira" 0.0 0.0 ellipse
+3 "Francisco José Rodrigues da Costa" 0.0 0.0 ellipse
+4 "Nuno Jorge Pereira Silva Valente" 0.0 0.0 ellipse
+5 "Ricardo Alberto Silveira de Carvalho" 0.0 0.0 ellipse
+6 "Nuno Ricardo de Oliveira Ribeiro" 0.0 0.0 ellipse
+7 "Pedro Miguel da Silva Mendes" 0.0 0.0 ellipse
+8 "Jorge Paulo Costa Almeida" 0.0 0.0 ellipse
+9 "Carlos Alberto Gomes de Jesus/Dmitriy Alenichev" 0.0 0.0 ellipse
+10 "Vanderlei Fernandes Silva/Benni McCarthy" 0.0 0.0 ellipse
+11 "Anderson Luís de Souza/Pedro Emanuel dos Santos Martins Silva" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 1
+1 4 2
+1 9 1
+1 10 2
+2 1 1
+2 7 2
+2 9 1
+2 10 1
+2 11 7
+3 4 3
+3 1 1
+3 5 1
+4 3 2
+4 5 1
+4 6 3
+4 7 1
+4 9 3
+4 11 2
+5 3 1
+5 6 4
+5 1 2
+5 4 4
+5 7 1
+5 10 2
+5 11 1
+6 5 1
+6 3 2
+6 7 3
+6 8 1
+6 10 2
+6 11 1
+6 9 3
+7 6 2
+7 4 3
+7 5 1
+7 9 1
+7 10 1
+7 11 3
+8 7 1
+8 1 2
+8 11 2
+9 7 1
+9 11 1
+9 6 3
+9 4 4
+9 10 1
+10 5 1
+10 7 1
+10 11 4
+10 9 1
+11 7 4
+11 3 1
+11 6 2
+11 4 1
+11 5 2
+11 2 1
+11 9 2
+11 10 2
+11 1 1

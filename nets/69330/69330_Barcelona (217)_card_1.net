@@ -1,0 +1,20 @@
+*vertices 7
+1 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+2 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+3 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+4 "Thiago Alcântara do Nascimento" 0.0 0.0 ellipse
+5 "Daniel Alves da Silva" 0.0 0.0 ellipse
+6 "Alexis Alejandro Sánchez Sánchez" 0.0 0.0 ellipse
+7 "Francesc Fàbregas i Soler" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 1
+1 5 1
+2 3 1
+2 1 1
+2 7 1
+4 5 2
+4 6 1
+5 2 2
+5 4 1
+6 4 1

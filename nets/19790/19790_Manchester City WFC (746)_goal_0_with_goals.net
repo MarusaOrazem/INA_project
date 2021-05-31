@@ -1,0 +1,28 @@
+*vertices 9
+1 "Lauren Hemp" 0.0 0.0 ellipse
+2 "Keira Walsh" 0.0 0.0 ellipse
+3 "Demi Stokes" 0.0 0.0 ellipse
+4 "Jennifer Beattie" 0.0 0.0 ellipse
+5 "Jill Scott" 0.0 0.0 ellipse
+6 "Gemma Bonner" 0.0 0.0 ellipse
+7 "Stephanie Houghton" 0.0 0.0 ellipse
+8 "Karen Bardsley" 0.0 0.0 ellipse
+9 "Nikita Parris" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+2 4 3
+3 4 2
+4 5 2
+4 2 3
+4 3 1
+4 7 1
+5 6 1
+5 7 1
+6 7 3
+7 4 2
+7 8 1
+7 6 1
+7 9 1
+8 4 1
+9 1 1

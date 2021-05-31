@@ -1,0 +1,23 @@
+*vertices 9
+1 "Diego Ifrán Sala" 0.0 0.0 ellipse
+2 "Rubén Pardo Gutiérrez" 0.0 0.0 ellipse
+3 "Íñigo Martínez Berridi" 0.0 0.0 ellipse
+4 "Xabier Prieto Argarate" 0.0 0.0 ellipse
+5 "Markel Bergara Larrañaga" 0.0 0.0 ellipse
+6 "Mikel Aranburu Eizagirre" 0.0 0.0 ellipse
+7 "Antoine Griezmann" 0.0 0.0 ellipse
+8 "Carlos Martínez Díez" 0.0 0.0 ellipse
+9 "Mikel González de Martín Martínez" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+2 4 1
+3 4 1
+4 1 1
+4 9 1
+5 4 1
+6 7 3
+6 5 1
+7 1 1
+7 6 2
+8 4 1

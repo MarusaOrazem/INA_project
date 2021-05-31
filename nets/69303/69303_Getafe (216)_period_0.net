@@ -1,0 +1,69 @@
+*vertices 11
+1 "Francisco Javier Casquero Paredes" 0.0 0.0 ellipse
+2 "Borja Fernández Fernández" 0.0 0.0 ellipse
+3 "Juan Ángel Albín Leites" 0.0 0.0 ellipse
+4 "Manuel del Moral Fernández" 0.0 0.0 ellipse
+5 "Miguel Torres Gómez" 0.0 0.0 ellipse
+6 "Jordi Codina Rodríguez" 0.0 0.0 ellipse
+7 "Víctor Sánchez Mata" 0.0 0.0 ellipse
+8 "Daniel Parejo Muñoz" 0.0 0.0 ellipse
+9 "Ángel Javier Arizmendi de Lucas" 0.0 0.0 ellipse
+10 "Ivan Marcano Sierra" 0.0 0.0 ellipse
+11 "Daniel Alberto Díaz" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 9 2
+1 7 1
+1 5 2
+1 11 1
+1 4 1
+2 3 2
+2 8 4
+2 9 1
+2 11 2
+2 10 1
+2 5 1
+2 1 2
+2 6 1
+3 8 2
+3 2 2
+3 7 1
+4 5 2
+4 9 2
+4 2 1
+4 8 2
+4 1 1
+5 6 1
+5 4 5
+5 9 1
+5 8 2
+5 1 2
+6 9 2
+6 3 4
+6 2 3
+6 4 3
+6 5 1
+6 10 1
+7 8 4
+7 2 2
+7 11 1
+7 3 4
+8 1 4
+8 9 3
+8 7 2
+8 11 2
+8 2 4
+8 5 1
+8 3 1
+9 8 2
+9 3 1
+10 5 1
+10 8 1
+10 6 1
+11 6 1
+11 4 1
+11 7 2
+11 1 1
+11 8 2
+11 2 1
+11 3 1

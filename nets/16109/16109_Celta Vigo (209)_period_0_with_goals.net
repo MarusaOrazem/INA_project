@@ -1,0 +1,91 @@
+*vertices 13
+1 "Jozabed Sánchez Ruiz" 0.0 0.0 ellipse
+2 "Maximiliano Gómez González" 0.0 0.0 ellipse
+3 "Brais Méndez Portela" 0.0 0.0 ellipse
+4 "Iago Aspas Juncal" 0.0 0.0 ellipse
+5 "Róbert Mazáň" 0.0 0.0 ellipse
+6 "Sofiane Boufal" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Néstor Alejandro Araújo Razo" 0.0 0.0 ellipse
+9 "Rubén Blanco Veiga" 0.0 0.0 ellipse
+10 "Hugo Mallo Novegil" 0.0 0.0 ellipse
+11 "Okay Yokuşlu" 0.0 0.0 ellipse
+12 "David Costas Cordal" 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 5
+1 9 3
+1 10 4
+1 3 5
+1 11 2
+1 12 1
+1 5 4
+1 8 4
+2 3 3
+2 8 1
+2 4 1
+2 13 1
+3 4 5
+3 5 2
+3 2 1
+3 11 2
+3 8 2
+3 10 1
+3 6 3
+3 1 1
+4 3 2
+4 1 2
+4 6 3
+4 11 1
+4 5 2
+4 2 3
+4 10 1
+5 11 2
+5 6 4
+5 1 4
+5 12 5
+5 4 1
+6 7 1
+6 4 8
+6 11 1
+6 1 3
+6 3 2
+6 5 3
+6 12 1
+8 7 1
+8 9 2
+8 12 3
+8 1 5
+8 11 3
+8 2 1
+8 10 2
+8 3 2
+8 6 1
+9 8 2
+9 5 2
+9 3 1
+9 12 5
+9 11 2
+9 2 1
+10 2 2
+10 8 5
+10 4 3
+10 1 1
+10 11 3
+10 3 1
+10 7 1
+10 9 1
+11 2 1
+11 8 2
+11 5 3
+11 6 2
+11 1 4
+11 3 2
+11 10 1
+12 1 2
+12 5 5
+12 11 1
+12 8 5
+12 3 1
+12 9 1

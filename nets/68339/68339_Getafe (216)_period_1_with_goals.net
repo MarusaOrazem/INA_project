@@ -1,0 +1,95 @@
+*vertices 13
+1 "Mario Gutiérrez Cotelo" 0.0 0.0 ellipse
+2 "Mariano Andrés Pernía" 0.0 0.0 ellipse
+3 "David Belenguer Reverter" 0.0 0.0 ellipse
+4 "Diego Rivas Gutiérrez" 0.0 0.0 ellipse
+5 "Luis García Conde" 0.0 0.0 ellipse
+6 "Aníbal Samuel Matellán" 0.0 0.0 ellipse
+7 "Iván Sánchez Rico Soto" 0.0 0.0 ellipse
+8 "Rubén Martín Pulido" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "David García Cubillo/Jaime Gavilán Martínez" 0.0 0.0 ellipse
+12 "Daniel González Güiza/Gheorghe Craioveanu" 0.0 0.0 ellipse
+13 "Fabio Celestini/Ángel Manuel Vivar Dorado" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 6
+1 7 6
+1 4 1
+1 11 3
+1 13 1
+2 3 1
+2 7 6
+2 4 1
+2 10 1
+2 6 1
+2 12 2
+2 13 2
+2 11 3
+3 6 4
+3 8 2
+3 1 3
+3 5 1
+3 4 2
+3 11 1
+3 13 3
+3 12 1
+4 1 4
+4 3 2
+4 6 3
+4 8 4
+4 2 4
+4 5 1
+4 7 1
+4 11 1
+4 13 1
+5 3 5
+5 6 1
+5 12 1
+6 7 2
+6 4 3
+6 5 4
+6 2 2
+6 8 1
+6 13 1
+6 11 1
+7 4 2
+7 2 2
+7 9 1
+7 6 1
+7 8 1
+7 1 1
+7 13 2
+7 12 2
+8 1 10
+8 5 1
+8 7 2
+8 3 1
+8 4 1
+8 11 2
+8 12 2
+8 13 1
+11 8 1
+11 1 1
+11 6 1
+11 4 1
+11 2 1
+11 7 2
+11 13 1
+12 1 1
+12 8 2
+12 13 1
+12 11 1
+12 9 1
+12 7 2
+13 8 1
+13 6 2
+13 2 2
+13 7 1
+13 1 2
+13 5 1
+13 4 1
+13 3 1
+13 11 1
+13 10 1

@@ -1,0 +1,12 @@
+*vertices 6
+1 "Leandra Little" 0.0 0.0 ellipse
+2 "Laura Coombs" 0.0 0.0 ellipse
+3 "Leigh-Anne Robe" 0.0 0.0 ellipse
+4 "Anke Preuß" 0.0 0.0 ellipse
+5 "Christie Murray" 0.0 0.0 ellipse
+6 "Jessica Anne Clarke" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+4 5 1
+5 6 1

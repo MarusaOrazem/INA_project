@@ -1,0 +1,78 @@
+*vertices 11
+1 "Fara Williams" 0.0 0.0 ellipse
+2 "Natasha Harding" 0.0 0.0 ellipse
+3 "Josanne Potter" 0.0 0.0 ellipse
+4 "Rachel Furness" 0.0 0.0 ellipse
+5 "Gemma Suzanne Davison" 0.0 0.0 ellipse
+6 "Rebecca Jane" 0.0 0.0 ellipse
+7 "Remi Allen" 0.0 0.0 ellipse
+8 "Lauren Bruton" 0.0 0.0 ellipse
+9 "Kirstyn Pearce" 0.0 0.0 ellipse
+10 "Grace Moloney" 0.0 0.0 ellipse
+11 "Brooke Chaplen" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 2
+1 7 2
+1 4 3
+1 8 4
+1 5 1
+1 3 1
+1 11 2
+2 3 7
+2 1 3
+2 7 1
+2 5 1
+2 10 1
+3 4 3
+3 5 4
+3 2 2
+3 9 4
+3 7 6
+3 1 2
+3 10 2
+4 3 7
+4 8 3
+4 9 2
+4 7 1
+4 1 1
+4 2 2
+4 6 2
+5 4 2
+5 2 1
+5 1 2
+6 1 2
+6 10 2
+6 9 2
+6 4 2
+6 3 2
+6 8 1
+6 7 1
+7 8 1
+7 5 3
+7 4 2
+7 9 2
+7 3 1
+7 1 2
+7 2 1
+7 10 2
+8 9 3
+8 6 1
+8 4 3
+8 1 3
+8 7 1
+9 3 5
+9 5 1
+9 6 3
+9 4 1
+9 8 2
+9 11 1
+9 1 1
+10 3 5
+10 9 1
+10 11 1
+10 2 2
+10 5 2
+11 2 1
+11 8 1
+11 5 1

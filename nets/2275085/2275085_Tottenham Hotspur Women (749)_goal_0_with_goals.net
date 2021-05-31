@@ -1,0 +1,11 @@
+*vertices 5
+1 "Ashleigh Neville" 0.0 0.0 ellipse
+2 "Ria Percival" 0.0 0.0 ellipse
+3 "Chloe Peplow" 0.0 0.0 ellipse
+4 "Rianna Dean" 0.0 0.0 ellipse
+5 "Kit Graham" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+3 4 1
+4 5 1

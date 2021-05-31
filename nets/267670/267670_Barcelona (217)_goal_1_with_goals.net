@@ -1,0 +1,119 @@
+*vertices 13
+1 "Arda Turan" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+3 "Ivan Rakitić" 0.0 0.0 ellipse
+4 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+5 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+6 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+7 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+8 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+9 "Samuel Yves Umtiti" 0.0 0.0 ellipse
+10 "Sergi Roberto Carnicer" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Denis Suárez Fernández/Munir El Haddadi Mohamed" 0.0 0.0 ellipse
+13 "Jordi Alba Ramos/Lucas Digne" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 11 2
+1 8 5
+1 7 7
+1 6 8
+1 3 5
+1 10 3
+1 9 2
+1 12 1
+1 13 4
+3 4 5
+3 7 18
+3 6 15
+3 10 26
+3 11 3
+3 9 2
+3 1 9
+3 8 2
+3 2 1
+3 12 6
+3 13 4
+4 5 3
+4 9 4
+4 6 8
+4 10 20
+4 3 5
+4 7 3
+4 1 2
+4 11 1
+5 10 2
+5 9 6
+5 4 2
+5 6 2
+5 8 1
+5 13 1
+6 7 19
+6 4 4
+6 3 18
+6 9 6
+6 5 1
+6 10 10
+6 8 1
+6 1 6
+6 11 1
+6 12 3
+6 13 2
+7 8 11
+7 3 15
+7 10 14
+7 6 7
+7 4 3
+7 11 7
+7 1 5
+7 2 5
+7 12 1
+7 13 1
+8 7 10
+8 6 3
+8 2 3
+8 10 5
+8 1 2
+8 3 3
+8 12 2
+8 13 1
+9 4 11
+9 6 6
+9 10 5
+9 5 3
+9 1 4
+9 12 4
+9 13 3
+10 3 32
+10 7 21
+10 5 1
+10 4 11
+10 1 5
+10 8 7
+10 6 7
+10 11 1
+10 9 2
+10 12 1
+10 13 1
+12 6 8
+12 8 1
+12 10 3
+12 11 1
+12 4 2
+12 1 1
+12 7 1
+12 9 1
+12 3 2
+12 2 1
+12 13 1
+13 9 2
+13 6 1
+13 8 4
+13 5 3
+13 1 5
+13 7 3
+13 4 1
+13 3 2
+13 10 1
+13 12 3
+13 2 1

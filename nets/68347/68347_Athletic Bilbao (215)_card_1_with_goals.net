@@ -1,0 +1,79 @@
+*vertices 12
+1 "Josu Sarriegi Zumárraga" 0.0 0.0 ellipse
+2 "Javier Martínez Aginaga" 0.0 0.0 ellipse
+3 "Pablo Orbaiz Lesaka" 0.0 0.0 ellipse
+4 "Francisco Javier Yeste Navarro" 0.0 0.0 ellipse
+5 "Ustaritz Aldekoaotalora Astarloa" 0.0 0.0 ellipse
+6 "Andoni Iraola Sagarna" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Iñaki Lafuente Sancha" 0.0 0.0 ellipse
+9 "Joseba Andoni Etxeberria Lizardi/Ismael Urzáiz Aranda" 0.0 0.0 ellipse
+10 "Joseba Garmendia Elorriaga/Igor Gabilondo del Campo" 0.0 0.0 ellipse
+11 "Fernando Llorente Torres/Unai Expósito Medina" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 2
+1 4 3
+1 5 1
+1 9 1
+1 10 1
+1 11 1
+2 1 1
+2 4 2
+2 6 4
+2 3 1
+2 9 2
+2 10 1
+3 4 4
+3 5 2
+3 2 1
+3 1 1
+3 6 4
+3 9 4
+3 10 1
+3 11 1
+4 6 5
+4 3 3
+4 7 1
+4 2 3
+4 5 1
+4 10 2
+4 11 2
+4 9 1
+5 4 4
+5 1 3
+5 3 1
+5 6 2
+5 2 2
+5 10 1
+5 9 2
+6 4 2
+6 2 2
+6 5 2
+6 3 2
+6 9 1
+6 10 2
+8 6 2
+8 5 2
+8 4 1
+8 10 4
+9 6 4
+9 3 1
+9 10 2
+9 4 3
+10 3 1
+10 2 1
+10 6 1
+10 5 1
+10 11 2
+10 12 1
+10 9 1
+11 4 4
+11 5 1
+11 8 2
+11 3 1
+11 1 1
+11 2 1
+11 10 1
+11 9 2

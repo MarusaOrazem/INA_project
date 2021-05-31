@@ -1,0 +1,75 @@
+*vertices 11
+1 "Bruno González Cabrera" 0.0 0.0 ellipse
+2 "Vitorino Gabriel Pacheco Antunes" 0.0 0.0 ellipse
+3 "Djené Dakonam Ortega" 0.0 0.0 ellipse
+4 "Mauro Wilney Arambarri Rosa" 0.0 0.0 ellipse
+5 "Fayçal Fajr" 0.0 0.0 ellipse
+6 "Damián Nicolás Suárez Suárez" 0.0 0.0 ellipse
+7 "Francisco Portillo Soler" 0.0 0.0 ellipse
+8 "Vicente Guaita Panadero" 0.0 0.0 ellipse
+9 "Ángel Luis Rodríguez Díaz/Mathieu Flamini" 0.0 0.0 ellipse
+10 "Amath Ndiaye/Jorge Molina Vidal" 0.0 0.0 ellipse
+11 "Gaku Shibasaki/Leandro Daniel Cabrera Sasía" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+1 4 1
+1 7 1
+1 10 2
+1 11 1
+2 5 2
+2 4 2
+2 3 3
+2 8 1
+2 10 4
+2 11 2
+3 4 1
+3 1 1
+3 5 1
+3 8 1
+3 7 1
+3 10 1
+3 11 1
+4 2 6
+4 6 2
+4 11 3
+5 6 7
+5 4 2
+5 2 3
+5 1 1
+5 7 3
+5 3 1
+5 10 1
+5 11 1
+6 7 4
+6 5 1
+6 4 1
+6 10 2
+6 11 1
+7 5 2
+7 2 1
+7 6 1
+7 9 4
+7 10 1
+7 11 3
+8 7 2
+8 9 2
+9 1 1
+9 2 1
+9 7 2
+9 10 3
+9 11 1
+10 2 2
+10 1 1
+10 4 1
+10 5 1
+10 9 3
+10 11 2
+11 6 2
+11 7 1
+11 5 3
+11 2 2
+11 4 1
+11 8 1
+11 9 3
+11 10 2

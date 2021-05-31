@@ -1,0 +1,95 @@
+*vertices 13
+1 "Aritz Aduriz Zubeldia" 0.0 0.0 ellipse
+2 "Aymeric Laporte" 0.0 0.0 ellipse
+3 "Eneko Bóveda Altube" 0.0 0.0 ellipse
+4 "Ander Iturraspe Derteano" 0.0 0.0 ellipse
+5 "Íñigo Lekue Martínez" 0.0 0.0 ellipse
+6 "Raúl García Escudero" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Iñigo Córdoba Kerejeta" 0.0 0.0 ellipse
+9 "Kepa Arrizabalaga Revuelta" 0.0 0.0 ellipse
+10 "Unai Núñez Gestoso" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Mikel San José Domínguez/Beñat Etxebarria Urkiaga" 0.0 0.0 ellipse
+13 "Iñaki Williams Arthuer/Markel Susaeta Laskurain" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 2
+1 4 3
+1 6 1
+1 5 1
+1 11 2
+1 12 1
+1 13 1
+2 3 2
+2 4 3
+2 6 1
+2 5 3
+2 9 1
+2 10 1
+2 12 2
+3 4 5
+3 6 3
+3 2 2
+3 10 1
+3 1 2
+3 12 1
+3 13 1
+4 3 6
+4 1 3
+4 5 4
+4 2 2
+4 6 2
+4 8 2
+4 7 1
+4 9 2
+4 10 3
+4 12 2
+4 13 1
+5 6 3
+5 7 2
+5 8 4
+5 4 6
+5 9 2
+5 1 2
+5 2 2
+5 12 3
+6 7 3
+6 8 5
+6 3 1
+6 1 1
+6 2 1
+6 12 1
+6 13 3
+8 5 2
+8 6 1
+8 7 2
+8 2 2
+8 1 1
+8 13 2
+8 12 1
+9 10 1
+9 6 1
+9 1 1
+9 13 1
+10 9 2
+10 4 1
+10 3 2
+10 12 2
+10 13 1
+12 8 1
+12 6 1
+12 4 2
+12 13 1
+12 10 1
+12 3 2
+12 2 2
+12 7 2
+12 5 3
+12 1 3
+13 1 3
+13 4 3
+13 11 1
+13 3 2
+13 8 2
+13 12 1

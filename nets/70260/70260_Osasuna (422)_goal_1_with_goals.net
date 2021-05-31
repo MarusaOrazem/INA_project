@@ -1,0 +1,83 @@
+*vertices 13
+1 "Joseba Llorente Etxarri" 0.0 0.0 ellipse
+2 "Alejandro Arribas Garrido" 0.0 0.0 ellipse
+3 "Raoul Cédric Loé" 0.0 0.0 ellipse
+4 "Andrés Eduardo Fernández Moreno" 0.0 0.0 ellipse
+5 "Fernando Macedo Da Silva Rodilla" 0.0 0.0 ellipse
+6 "Oier Sanjurjo Mate" 0.0 0.0 ellipse
+7 "Marc Bertrán Vilanova" 0.0 0.0 ellipse
+8 "Manuel Jesús Ortiz Toribio" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Miguel Ángel De las Cuevas Barberá/Masoud Shojaei Soleimani" 0.0 0.0 ellipse
+12 "Álvaro Cejudo Carmona/Francisco Puñal Martínez" 0.0 0.0 ellipse
+13 "Miguel Flaño Bezunartea/Rubén González Rocha" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 1
+1 5 1
+1 6 3
+1 3 4
+1 8 2
+1 11 1
+1 12 2
+2 3 1
+2 4 1
+2 7 1
+2 5 1
+3 10 1
+3 5 4
+3 1 1
+3 6 3
+3 11 2
+3 12 2
+3 13 2
+4 2 1
+4 1 3
+4 6 2
+4 3 1
+4 11 2
+5 6 9
+5 3 2
+5 11 1
+5 12 2
+5 13 2
+6 9 1
+6 7 1
+6 1 4
+6 8 3
+6 3 1
+6 5 5
+6 13 1
+6 11 1
+6 12 1
+7 8 1
+7 6 2
+7 1 2
+7 12 2
+7 11 1
+8 5 2
+8 3 2
+8 4 1
+8 12 1
+8 13 1
+11 5 3
+11 3 1
+11 1 2
+11 7 1
+11 12 2
+12 8 1
+12 6 1
+12 3 4
+12 4 1
+12 1 3
+12 13 1
+12 11 2
+13 9 1
+13 4 1
+13 5 1
+13 8 1
+13 6 1
+13 11 1
+13 7 1
+13 12 1

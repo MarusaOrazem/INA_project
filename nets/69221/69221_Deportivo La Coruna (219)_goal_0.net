@@ -1,0 +1,40 @@
+*vertices 11
+1 "Juan Antonio Rodríguez Villamuela" 0.0 0.0 ellipse
+2 "Sergio González Soriano" 0.0 0.0 ellipse
+3 "Pablo Álvarez Nuñez" 0.0 0.0 ellipse
+4 "Laureano Sanabria Ruiz" 0.0 0.0 ellipse
+5 "Iván Sánchez Rico Soto" 0.0 0.0 ellipse
+6 "José Andrés Guardado Hernández" 0.0 0.0 ellipse
+7 "Manuel Pablo García Díaz" 0.0 0.0 ellipse
+8 "Daniel Aranzubia Aguado" 0.0 0.0 ellipse
+9 "Adrián López Rodríguez" 0.0 0.0 ellipse
+10 "Alberto Lopo García" 0.0 0.0 ellipse
+11 "Antonio Tomás González" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 3
+1 5 2
+2 3 1
+2 6 1
+2 1 1
+2 9 1
+3 6 2
+3 2 1
+4 5 2
+4 1 3
+4 2 1
+4 11 1
+5 2 1
+5 3 1
+5 4 1
+6 5 2
+6 9 1
+7 6 3
+7 8 1
+7 3 1
+8 1 2
+8 5 1
+9 3 1
+9 10 1
+10 7 1
+11 5 1

@@ -1,0 +1,88 @@
+*vertices 11
+1 "Alejandro Menéndez Díez" 0.0 0.0 ellipse
+2 "Alen Halilović" 0.0 0.0 ellipse
+3 "Rachid Aït-Atmane" 0.0 0.0 ellipse
+4 "Igor Lichnovsky Osorio" 0.0 0.0 ellipse
+5 "Omar Mascarell González" 0.0 0.0 ellipse
+6 "Luis Hernández Rodríguez" 0.0 0.0 ellipse
+7 "Ognjen Vranješ" 0.0 0.0 ellipse
+8 "Iván Cuéllar Sacristán" 0.0 0.0 ellipse
+9 "Pablo Pérez Rodríguez/Arnaldo Antonio Sanabria Ayala" 0.0 0.0 ellipse
+10 "Ismael López Blanco/Roberto Canella Suárez" 0.0 0.0 ellipse
+11 "Miguel Ángel Guerrero Martín/Carlos Castro García" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+1 6 1
+1 5 1
+1 10 1
+1 11 1
+2 3 4
+2 7 3
+2 4 1
+2 6 2
+2 1 1
+2 5 2
+2 9 1
+2 11 2
+3 4 1
+3 6 1
+3 5 6
+3 2 5
+3 7 4
+3 9 2
+3 10 1
+3 11 1
+4 5 1
+4 1 1
+4 3 1
+4 10 5
+4 11 1
+5 4 2
+5 3 1
+5 2 2
+5 1 2
+5 6 4
+5 8 1
+5 9 3
+5 10 2
+5 11 1
+6 3 3
+6 2 4
+6 4 2
+6 5 3
+6 8 1
+6 9 2
+6 10 1
+6 11 3
+7 2 3
+7 3 4
+7 6 4
+7 5 1
+7 9 3
+7 10 1
+7 11 1
+8 1 1
+8 4 1
+8 6 1
+8 3 1
+8 9 2
+8 10 2
+8 11 1
+9 7 2
+9 2 1
+9 11 1
+9 5 2
+10 4 2
+10 1 3
+10 8 3
+10 7 1
+10 9 1
+10 11 4
+11 2 6
+11 1 1
+11 5 2
+11 3 2
+11 9 1
+11 10 2
+11 7 1

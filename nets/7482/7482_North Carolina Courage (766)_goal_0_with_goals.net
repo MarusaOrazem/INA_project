@@ -1,0 +1,58 @@
+*vertices 13
+1 "Abby Erceg" 0.0 0.0 ellipse
+2 "Jessica McDonald" 0.0 0.0 ellipse
+3 "Débora Cristiane de Oliveira" 0.0 0.0 ellipse
+4 "Crystal Alyssia Dunn" 0.0 0.0 ellipse
+5 "Lynn Williams" 0.0 0.0 ellipse
+6 "McCall Zerboni" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Heather O"Reilly" 0.0 0.0 ellipse
+9 "Abby Dahlkemper" 0.0 0.0 ellipse
+10 "Denise O"Sullivan" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Merritt Mathias" 0.0 0.0 ellipse
+13 "Katelyn Rowland" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 1
+1 9 4
+1 8 2
+1 6 4
+1 3 1
+1 10 1
+1 4 1
+2 3 2
+2 4 1
+2 5 1
+3 2 1
+3 10 1
+4 5 2
+4 10 1
+5 3 1
+5 10 1
+6 1 4
+6 8 2
+6 9 1
+6 5 1
+8 1 3
+8 3 2
+8 6 1
+8 4 1
+8 5 2
+8 10 1
+9 1 4
+9 12 2
+9 10 2
+9 13 1
+9 4 1
+9 6 1
+10 11 1
+10 1 1
+10 9 1
+10 8 2
+10 3 1
+12 10 1
+12 7 1
+12 9 1
+12 5 1
+13 8 1

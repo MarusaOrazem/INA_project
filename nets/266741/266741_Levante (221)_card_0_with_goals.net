@@ -1,0 +1,104 @@
+*vertices 13
+1 "Diego Mariño Villar" 0.0 0.0 ellipse
+2 "José Luis Morales Nogales" 0.0 0.0 ellipse
+3 "Simão Mate" 0.0 0.0 ellipse
+4 "Iván Ramis Barrios" 0.0 0.0 ellipse
+5 "David Barral Torres" 0.0 0.0 ellipse
+6 "Jordi Xumetra Feliu" 0.0 0.0 ellipse
+7 "David Navarro Pedrós" 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+9 "Antonio García Aranda" 0.0 0.0 ellipse
+10 "Kalu Uche/Víctor Casadesús Castaño" 0.0 0.0 ellipse
+11 "Iván López Mendoza/David Remeseiro Salgueiro" 0.0 0.0 ellipse
+12 "Papa Kouly Diop/José María Martín-Bejarano Serrano" 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 2
+1 5 5
+1 7 2
+1 9 2
+1 4 1
+1 6 1
+1 10 5
+1 11 2
+2 3 1
+2 4 1
+2 6 2
+2 9 2
+2 5 2
+2 7 2
+2 10 1
+2 11 3
+2 12 2
+3 5 3
+3 9 1
+3 6 2
+3 2 2
+3 7 2
+3 10 1
+3 12 1
+4 5 2
+4 6 4
+4 7 4
+4 9 4
+4 8 1
+4 2 1
+4 3 1
+4 1 1
+4 11 1
+4 10 2
+5 4 2
+5 6 1
+5 8 2
+5 9 4
+5 2 1
+5 3 1
+5 10 2
+5 11 1
+5 12 1
+6 5 2
+6 2 1
+6 10 2
+6 11 4
+6 12 2
+7 4 4
+7 3 2
+7 6 1
+7 11 1
+7 12 1
+7 10 3
+9 4 5
+9 2 2
+9 1 3
+9 3 2
+9 5 2
+9 10 1
+9 12 1
+9 11 1
+10 9 2
+10 6 1
+10 8 1
+10 5 1
+10 2 1
+10 4 1
+10 12 1
+10 11 4
+11 7 1
+11 6 5
+11 1 1
+11 3 1
+11 2 1
+11 10 3
+11 12 1
+11 5 1
+11 9 1
+11 13 1
+12 4 2
+12 5 1
+12 9 1
+12 6 1
+12 2 1
+12 10 1
+12 11 1
+12 3 1

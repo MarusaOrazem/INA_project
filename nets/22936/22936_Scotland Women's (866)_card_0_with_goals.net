@@ -1,0 +1,104 @@
+*vertices 13
+1 "Erin Cuthbert" 0.0 0.0 ellipse
+2 "Caroline Weir" 0.0 0.0 ellipse
+3 "Jennifer Beattie" 0.0 0.0 ellipse
+4 "Kim Little" 0.0 0.0 ellipse
+5 "Claire Emslie" 0.0 0.0 ellipse
+6 OFF_goal 0.0 0.0 ellipse
+7 "Rachel Corsie" 0.0 0.0 ellipse
+8 "Lisa Evans" 0.0 0.0 ellipse
+9 "Lee Alexander" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Nicola Docherty/Kirsty Smith" 0.0 0.0 ellipse
+12 "Sophie Howard/Chloe Arthur" 0.0 0.0 ellipse
+13 "Christie Murray/Elizabeth Arnott" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 5 5
+1 8 1
+1 7 2
+1 3 1
+1 4 6
+1 6 1
+1 12 2
+1 13 1
+2 3 14
+2 1 2
+2 6 1
+2 7 6
+2 4 1
+2 8 2
+2 11 6
+2 12 3
+2 13 1
+3 2 14
+3 7 11
+3 4 1
+3 9 3
+3 8 3
+3 6 1
+3 1 1
+3 11 7
+3 13 5
+3 12 1
+4 1 3
+4 7 6
+4 5 6
+4 2 4
+4 3 2
+4 8 3
+4 11 2
+4 12 2
+4 13 1
+5 10 3
+5 4 2
+5 1 3
+5 6 2
+5 2 1
+5 7 1
+5 12 2
+5 13 1
+7 8 1
+7 3 12
+7 2 6
+7 1 2
+7 4 5
+7 9 2
+7 5 4
+7 6 1
+7 12 2
+7 13 3
+8 1 8
+8 4 4
+8 2 2
+8 3 2
+8 5 1
+8 11 2
+8 13 1
+8 12 1
+9 3 11
+9 7 3
+9 2 1
+9 5 1
+9 11 1
+9 12 2
+11 1 3
+11 8 3
+11 4 1
+11 2 1
+11 3 8
+12 9 2
+12 4 4
+12 5 3
+12 1 2
+12 7 3
+12 13 3
+12 8 2
+13 2 2
+13 4 2
+13 1 2
+13 3 1
+13 5 2
+13 8 1
+13 11 3
+13 12 1

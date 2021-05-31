@@ -1,0 +1,62 @@
+*vertices 11
+1 "Vladimir Manchev" 0.0 0.0 ellipse
+2 "Fabio Celestini" 0.0 0.0 ellipse
+3 "Felix Dja Ettien Yohou" 0.0 0.0 ellipse
+4 "Iñaki Descarga Retegi" 0.0 0.0 ellipse
+5 "Alberto Rivera Pizarro" 0.0 0.0 ellipse
+6 "Ignacio Pérez Santamaría" 0.0 0.0 ellipse
+7 "Jofre González Mateu" 0.0 0.0 ellipse
+8 "Juan Luis Mora Palacios" 0.0 0.0 ellipse
+9 "Jose Antonio Culebras Arenas" 0.0 0.0 ellipse
+10 "Pablo Pinillos Caro" 0.0 0.0 ellipse
+11 "José Alejandro Suárez Martín" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 2
+1 5 1
+2 3 3
+2 6 1
+2 7 3
+2 5 2
+2 10 2
+2 11 1
+2 1 2
+3 4 2
+3 10 3
+3 5 1
+3 1 3
+3 2 1
+4 1 1
+4 2 1
+4 7 4
+4 6 1
+5 4 1
+5 2 1
+5 7 3
+5 1 3
+5 9 1
+5 10 1
+5 11 1
+6 10 1
+6 5 1
+6 7 1
+7 8 1
+7 6 2
+7 4 2
+8 3 1
+8 11 4
+8 6 1
+8 9 1
+8 10 3
+8 2 1
+8 5 1
+9 3 1
+9 8 2
+10 6 1
+10 8 2
+10 9 1
+10 3 2
+10 5 2
+11 2 2
+11 6 1
+11 3 2

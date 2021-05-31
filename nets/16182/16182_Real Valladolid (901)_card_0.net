@@ -1,0 +1,109 @@
+*vertices 12
+1 "Miguel Alfonso Herrero Javaloyas" 0.0 0.0 ellipse
+2 "Anuar Mohamed Tuhami" 0.0 0.0 ellipse
+3 "Joaquín Fernández Moreno" 0.0 0.0 ellipse
+4 "José Ignacio Martínez García" 0.0 0.0 ellipse
+5 "Sergio Guardiola Navarro" 0.0 0.0 ellipse
+6 "Antonio Jesús Regal Angulo" 0.0 0.0 ellipse
+7 "Fernando Calero Villa" 0.0 0.0 ellipse
+8 "Francisco José Olivas Alba" 0.0 0.0 ellipse
+9 "Jordi Masip López" 0.0 0.0 ellipse
+10 "Daniele Verde/Laureano Antonio Villa Suárez" 0.0 0.0 ellipse
+11 "Laureano Antonio Villa Suárez/Stiven Ricardo Plaza Castillo" 0.0 0.0 ellipse
+12 "Enes Ünal/Sergio Gontán Gallardo" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 5 2
+1 7 10
+1 8 9
+1 4 13
+1 3 3
+1 6 5
+1 9 2
+1 10 4
+1 12 1
+2 3 8
+2 9 1
+2 7 3
+2 6 5
+2 5 4
+2 4 8
+2 1 7
+2 8 4
+2 10 3
+2 12 1
+3 6 6
+3 8 7
+3 9 4
+3 2 4
+3 5 1
+3 10 1
+3 12 2
+4 5 7
+4 7 7
+4 1 16
+4 2 5
+4 3 1
+4 10 9
+4 12 2
+5 4 4
+5 2 4
+5 6 2
+5 7 1
+5 10 4
+5 11 1
+5 12 3
+6 5 6
+6 2 5
+6 3 6
+6 8 2
+6 1 2
+6 9 1
+6 10 2
+6 11 1
+6 12 2
+7 4 13
+7 8 4
+7 9 3
+7 3 3
+7 1 6
+7 5 3
+7 2 3
+7 6 1
+7 10 1
+7 12 1
+8 2 5
+8 7 6
+8 4 2
+8 1 8
+8 9 5
+8 5 4
+8 3 4
+8 6 1
+8 10 1
+8 12 1
+9 4 5
+9 6 2
+9 2 1
+9 1 2
+9 7 9
+9 8 1
+9 3 1
+9 5 1
+9 12 1
+10 1 6
+10 2 2
+10 7 1
+10 4 2
+10 6 5
+10 3 1
+10 12 3
+11 6 3
+11 5 2
+12 5 2
+12 2 1
+12 6 1
+12 1 1
+12 4 1
+12 10 3
+12 11 1

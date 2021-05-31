@@ -1,0 +1,17 @@
+*vertices 8
+1 "Ivan Rakitić" 0.0 0.0 ellipse
+2 "Marcelo Brozović" 0.0 0.0 ellipse
+3 "Dejan Lovren" 0.0 0.0 ellipse
+4 "Domagoj Vida" 0.0 0.0 ellipse
+5 "Ivan Strinić" 0.0 0.0 ellipse
+6 "Mario Mandžukić" 0.0 0.0 ellipse
+7 "Ivan Perišić" 0.0 0.0 ellipse
+8 "Šime Vrsaljko" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+2 3 1
+4 1 1
+5 2 1
+6 7 1
+8 6 1

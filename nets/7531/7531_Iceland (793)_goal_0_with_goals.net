@@ -1,0 +1,36 @@
+*vertices 11
+1 "Johann Berg Guðmunds­son" 0.0 0.0 ellipse
+2 "Birkir Bjarnason" 0.0 0.0 ellipse
+3 "Gylfi Þór Sigurðsson" 0.0 0.0 ellipse
+4 OFF_goal 0.0 0.0 ellipse
+5 "Emil Hallfreðsson" 0.0 0.0 ellipse
+6 "Aron Einar Gunnarsson" 0.0 0.0 ellipse
+7 "Ragnar Sigurðsson" 0.0 0.0 ellipse
+8 "Hannes Þór Halldórsson" 0.0 0.0 ellipse
+9 "Kári Árnason" 0.0 0.0 ellipse
+10 "Alfreð Finnbogason" 0.0 0.0 ellipse
+11 "Hörður Björgvin Magnússon" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 2
+1 4 1
+2 5 1
+2 4 1
+3 4 1
+3 2 1
+3 5 1
+5 6 1
+5 2 1
+5 3 1
+5 11 1
+6 7 1
+6 1 1
+7 8 1
+7 2 1
+8 9 1
+9 10 1
+9 11 1
+10 4 1
+10 1 1
+11 10 1
+11 5 1

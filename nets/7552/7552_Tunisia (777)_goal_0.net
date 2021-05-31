@@ -1,0 +1,18 @@
+*vertices 7
+1 "Farouk Ben Mustapha" 0.0 0.0 ellipse
+2 "Syam Ben Youssef" 0.0 0.0 ellipse
+3 "Dylan Bronn" 0.0 0.0 ellipse
+4 "Yassine Meriah" 0.0 0.0 ellipse
+5 "Ali Maâloul" 0.0 0.0 ellipse
+6 "Ferjani Sassi" 0.0 0.0 ellipse
+7 "Anice Badri" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+2 4 2
+2 6 2
+3 2 2
+4 5 1
+4 7 1
+5 6 1
+6 2 1

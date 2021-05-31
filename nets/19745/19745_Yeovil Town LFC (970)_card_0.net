@@ -1,0 +1,74 @@
+*vertices 11
+1 "Anne-Marie Heatherson" 0.0 0.0 ellipse
+2 "Amber Gaylor" 0.0 0.0 ellipse
+3 "Megan Alexander" 0.0 0.0 ellipse
+4 "Georgia Evans" 0.0 0.0 ellipse
+5 "Ellie Mason" 0.0 0.0 ellipse
+6 "Olivia Fergusson" 0.0 0.0 ellipse
+7 "Megan Walsh" 0.0 0.0 ellipse
+8 "Hannah Short" 0.0 0.0 ellipse
+9 "Nicola Cousins" 0.0 0.0 ellipse
+10 "Emily Donovan/Erin Bloomfield" 0.0 0.0 ellipse
+11 "Amy Goddard/Emily Syme" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 4 4
+1 6 2
+1 3 1
+2 3 2
+2 5 1
+2 6 1
+2 8 1
+2 1 2
+2 9 1
+2 4 1
+2 11 1
+2 10 1
+3 1 8
+3 2 7
+3 8 1
+3 5 2
+3 4 1
+3 9 1
+3 7 1
+3 10 2
+3 11 1
+4 6 1
+4 8 2
+4 9 2
+4 5 2
+4 7 1
+4 3 2
+4 11 3
+4 10 2
+5 2 6
+5 1 2
+5 9 1
+5 3 1
+5 4 1
+5 11 1
+6 4 1
+6 2 1
+7 5 4
+7 6 2
+7 1 3
+7 3 1
+7 2 3
+7 8 1
+7 10 1
+8 5 1
+8 7 4
+8 9 1
+8 1 1
+8 10 2
+9 1 1
+9 5 1
+9 7 1
+10 3 1
+10 2 1
+10 11 1
+11 4 4
+11 8 1
+11 1 1
+11 2 2
+11 10 1

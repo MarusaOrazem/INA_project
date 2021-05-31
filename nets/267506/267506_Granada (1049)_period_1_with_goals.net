@@ -1,0 +1,84 @@
+*vertices 13
+1 "Hugo Miguel Almeida Costa Lopes" 0.0 0.0 ellipse
+2 "Francisco Manuel Rico Castro" 0.0 0.0 ellipse
+3 "Jean-Sylvain Claude Babin" 0.0 0.0 ellipse
+4 "Andrés Eduardo Fernández Moreno" 0.0 0.0 ellipse
+5 "David Rodríguez Lombán" 0.0 0.0 ellipse
+6 "Rubén Salvador Pérez Del Mármol" 0.0 0.0 ellipse
+7 "Adalberto Peñaranda Maestre" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Abdoulaye Doucouré" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Youssef El-Arabi/David Barral Torres" 0.0 0.0 ellipse
+12 "Ricardo Miguel Moreira da Costa/Matheus Dória Macedo" 0.0 0.0 ellipse
+13 "Rubén Rochina Naixes/Juan Isaac Cuenca López" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 3
+1 7 3
+1 9 7
+1 6 2
+1 11 1
+1 13 2
+2 1 4
+2 7 3
+2 8 1
+2 6 4
+2 9 7
+2 3 1
+2 11 2
+2 12 1
+2 13 5
+3 4 1
+3 10 1
+3 1 1
+3 9 1
+3 2 2
+3 6 1
+3 13 1
+3 12 2
+4 2 2
+4 7 1
+4 9 1
+4 3 1
+4 5 1
+4 1 1
+4 12 1
+5 6 3
+5 2 3
+5 10 1
+5 4 2
+5 13 3
+6 1 3
+6 9 3
+6 10 1
+6 2 6
+6 7 3
+6 12 1
+6 13 5
+6 11 1
+7 2 2
+7 6 2
+7 11 1
+7 12 1
+9 2 6
+9 6 5
+9 1 5
+9 3 1
+9 11 1
+9 12 1
+11 7 1
+11 9 1
+11 2 1
+11 10 1
+11 13 1
+12 6 1
+12 4 1
+12 5 4
+12 9 1
+12 13 1
+13 2 6
+13 5 2
+13 6 5
+13 1 1
+13 11 2

@@ -1,0 +1,105 @@
+*vertices 13
+1 "Gabriel Appelt Pires" 0.0 0.0 ellipse
+2 "Raúl García Carnero" 0.0 0.0 ellipse
+3 "Dimitrios Siovas" 0.0 0.0 ellipse
+4 "Julián Omar Ramos Suárez" 0.0 0.0 ellipse
+5 "Nabil El Zhar" 0.0 0.0 ellipse
+6 "Joseba Zaldúa Bengoetxea" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Unai Bustinza Martínez" 0.0 0.0 ellipse
+9 "Iván Cuéllar Sacristán" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Nordin Amrabat/Claudio Beauvue" 0.0 0.0 ellipse
+12 "Javier Eraso Goñi/Darko Brašanac" 0.0 0.0 ellipse
+13 "Rubén Salvador Pérez Del Mármol/Miguel Ángel Guerrero Martín" 0.0 0.0 ellipse
+*arcs
+1 2 10
+1 4 3
+1 8 1
+1 5 2
+1 3 2
+1 6 1
+1 11 2
+1 12 1
+1 13 1
+2 3 2
+2 1 11
+2 5 1
+2 4 4
+2 8 1
+2 13 5
+2 11 1
+2 12 1
+3 1 2
+3 2 4
+3 4 2
+3 9 2
+3 6 1
+3 12 1
+4 1 4
+4 5 2
+4 2 6
+4 6 1
+4 9 1
+4 3 1
+4 13 2
+4 12 1
+5 6 6
+5 7 3
+5 3 1
+5 8 1
+5 1 1
+5 4 2
+5 10 1
+5 11 2
+5 12 2
+5 13 1
+6 1 1
+6 5 3
+6 8 4
+6 7 1
+6 4 1
+6 9 1
+6 11 6
+6 12 3
+6 13 4
+8 1 1
+8 5 3
+8 6 1
+8 9 1
+8 4 1
+8 2 1
+8 12 2
+8 13 1
+9 4 1
+9 8 1
+9 2 1
+9 11 1
+11 1 2
+11 6 2
+11 5 1
+11 3 1
+11 2 1
+11 12 3
+11 13 1
+11 7 4
+12 5 1
+12 4 1
+12 1 2
+12 7 2
+12 6 2
+12 3 1
+12 11 1
+12 13 4
+12 8 2
+12 2 1
+13 2 1
+13 1 3
+13 6 6
+13 5 2
+13 7 1
+13 8 1
+13 11 1
+13 12 1
+13 3 1
+13 4 1

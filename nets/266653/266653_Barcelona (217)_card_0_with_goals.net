@@ -1,0 +1,94 @@
+*vertices 13
+1 "Jérémy Mathieu" 0.0 0.0 ellipse
+2 "Javier Alejandro Mascherano" 0.0 0.0 ellipse
+3 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+4 "Ivan Rakitić" 0.0 0.0 ellipse
+5 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+6 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+7 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+8 "Neymar da Silva Santos Junior" 0.0 0.0 ellipse
+9 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+10 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+11 "Sergi Roberto Carnicer" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 7 2
+1 9 5
+1 8 2
+1 13 1
+2 3 5
+2 1 3
+2 8 1
+2 5 4
+2 4 3
+2 6 1
+2 11 1
+3 4 3
+3 5 6
+3 6 2
+3 7 3
+3 11 4
+3 2 1
+3 10 1
+4 3 4
+4 6 2
+4 8 2
+4 9 4
+4 5 4
+4 12 1
+4 7 1
+4 11 1
+4 2 1
+5 3 1
+5 2 4
+5 11 1
+5 8 2
+5 6 2
+5 7 1
+5 4 4
+5 9 2
+6 4 1
+6 3 1
+6 2 1
+6 9 4
+6 10 2
+6 8 3
+6 7 2
+6 12 2
+7 4 1
+7 10 2
+7 8 1
+7 6 3
+7 11 2
+7 13 1
+8 1 3
+8 9 4
+8 6 4
+8 4 1
+8 7 2
+8 13 1
+9 10 3
+9 8 7
+9 3 3
+9 1 1
+9 7 1
+9 2 2
+9 13 1
+9 4 2
+9 6 2
+10 8 2
+10 4 3
+10 9 3
+10 2 1
+10 6 2
+10 11 1
+10 7 2
+11 8 1
+11 3 4
+11 7 1
+11 2 2
+11 1 1
+11 6 1
+11 10 2

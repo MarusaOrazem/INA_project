@@ -1,0 +1,95 @@
+*vertices 11
+1 "Salvador Ballesta Vialcho" 0.0 0.0 ellipse
+2 "Fernando Miguel Fernández Escribano" 0.0 0.0 ellipse
+3 "Antonio Galdeano Benítez" 0.0 0.0 ellipse
+4 "Ignacio Pérez Santamaría" 0.0 0.0 ellipse
+5 "Eliseu Pereira dos Santos" 0.0 0.0 ellipse
+6 "Hélder Miguel Do Rosario Data" 0.0 0.0 ellipse
+7 "Ibán Javier Cuadrado Alonso" 0.0 0.0 ellipse
+8 "Iñaki Goitia Peña" 0.0 0.0 ellipse
+9 "Jesús Gámez Duarte/Manuel Gaspar Haro" 0.0 0.0 ellipse
+10 "Manuel Jesús Ortiz Toribio/Sérgio Paulo Barbosa Valente" 0.0 0.0 ellipse
+11 "Albert Luque Martos/Adriano Ferreira Martins" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 5 2
+1 3 1
+1 10 1
+2 3 4
+2 5 1
+2 4 2
+2 7 2
+2 6 2
+2 9 1
+2 10 2
+2 11 2
+3 4 3
+3 7 5
+3 8 1
+3 6 4
+3 2 3
+3 5 4
+3 1 1
+3 9 3
+3 10 4
+3 11 3
+4 5 6
+4 6 4
+4 1 4
+4 3 3
+4 2 1
+4 9 1
+4 10 2
+4 11 2
+5 2 2
+5 1 2
+5 4 3
+5 3 2
+5 10 3
+5 11 2
+6 4 10
+6 7 2
+6 3 2
+6 2 1
+6 9 2
+6 10 2
+6 11 1
+7 6 2
+7 2 3
+7 3 5
+7 1 3
+7 5 2
+7 4 2
+7 9 1
+7 10 2
+7 11 1
+8 3 3
+8 6 2
+8 5 3
+8 7 1
+8 2 1
+8 11 2
+8 10 1
+9 1 1
+9 3 1
+9 7 1
+9 2 2
+9 10 2
+9 11 1
+9 8 1
+10 3 3
+10 4 2
+10 7 1
+10 5 2
+10 6 3
+10 2 1
+10 9 1
+10 11 1
+10 1 2
+11 3 2
+11 5 2
+11 1 1
+11 7 2
+11 2 1
+11 9 1
+11 10 1

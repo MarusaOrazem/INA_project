@@ -1,0 +1,42 @@
+*vertices 12
+1 "Ugochi Desire Oparanozie" 0.0 0.0 ellipse
+2 "Ngozi Sonia Okobi" 0.0 0.0 ellipse
+3 "Osinachi Marvis Ohale" 0.0 0.0 ellipse
+4 "Halimatu Ibrahim Ayinde" 0.0 0.0 ellipse
+5 "Francisca Ordega" 0.0 0.0 ellipse
+6 "Ngozi Ebere" 0.0 0.0 ellipse
+7 ON_goal 0.0 0.0 ellipse
+8 "Tochukwu Oluehi" 0.0 0.0 ellipse
+9 "Asisat Lamina Oshoala" 0.0 0.0 ellipse
+10 "Rita Chikwelu" 0.0 0.0 ellipse
+11 "Faith Michael" 0.0 0.0 ellipse
+12 "Onome Ebi" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 9 1
+1 3 1
+2 4 1
+2 10 1
+2 6 1
+3 2 1
+3 5 2
+3 7 1
+3 1 1
+3 9 1
+4 5 1
+4 10 1
+5 4 2
+6 3 1
+6 10 2
+6 2 2
+6 4 1
+8 3 1
+8 11 1
+9 5 1
+10 6 3
+10 5 1
+10 12 1
+11 4 1
+11 3 1
+12 11 1
+12 6 1

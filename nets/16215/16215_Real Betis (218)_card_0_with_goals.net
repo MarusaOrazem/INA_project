@@ -1,0 +1,117 @@
+*vertices 13
+1 "Jesé Rodríguez Ruiz" 0.0 0.0 ellipse
+2 "José Andrés Guardado Hernández" 0.0 0.0 ellipse
+3 "Sidnei Rechel da Silva Júnior" 0.0 0.0 ellipse
+4 "Marc Bartra Aregall" 0.0 0.0 ellipse
+5 "Aïssa Mandi" 0.0 0.0 ellipse
+6 "Sergio Canales Madrazo" 0.0 0.0 ellipse
+7 "Cristian Tello Herrera" 0.0 0.0 ellipse
+8 "Pau López Sabata" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Joaquín Sánchez Rodríguez/Emerson Aparecido Leite de Souza Junior" 0.0 0.0 ellipse
+12 "Giovani Lo Celso/Diego Lainez Leyva" 0.0 0.0 ellipse
+13 "William Silva de Carvalho/Lorenzo Jesús Morón García" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 7 8
+1 10 2
+1 3 2
+1 6 2
+1 12 3
+1 13 1
+2 3 10
+2 7 15
+2 1 5
+2 5 4
+2 4 2
+2 6 2
+2 10 1
+2 12 3
+2 13 7
+2 11 2
+3 4 16
+3 5 3
+3 7 6
+3 2 13
+3 8 8
+3 1 2
+3 10 1
+3 6 1
+3 12 1
+3 13 11
+4 5 10
+4 3 9
+4 2 6
+4 6 11
+4 8 8
+4 7 1
+4 11 5
+4 12 2
+4 13 9
+5 4 12
+5 6 4
+5 3 3
+5 8 1
+5 2 3
+5 11 3
+5 12 1
+5 13 1
+6 2 6
+6 5 6
+6 4 5
+6 7 8
+6 3 7
+6 10 2
+6 8 1
+6 11 2
+6 12 3
+6 13 1
+7 2 11
+7 1 3
+7 4 5
+7 3 6
+7 9 1
+7 6 6
+7 10 1
+7 5 1
+7 12 2
+7 13 10
+8 4 10
+8 5 6
+8 3 3
+8 7 2
+8 2 2
+8 6 4
+8 11 1
+8 12 1
+8 13 2
+11 6 1
+11 3 1
+11 2 1
+11 5 1
+11 12 7
+11 13 1
+12 6 1
+12 4 2
+12 7 1
+12 5 2
+12 2 2
+12 1 1
+12 3 2
+12 10 2
+12 9 1
+12 11 3
+12 13 2
+13 5 11
+13 3 1
+13 7 1
+13 4 1
+13 1 7
+13 2 10
+13 6 8
+13 8 1
+13 11 1
+13 12 10
+13 10 1
+13 9 1

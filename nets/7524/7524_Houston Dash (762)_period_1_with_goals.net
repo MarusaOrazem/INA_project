@@ -1,0 +1,75 @@
+*vertices 13
+1 "Rachel Daly" 0.0 0.0 ellipse
+2 "Amber Brooks" 0.0 0.0 ellipse
+3 "Janine van Wyk" 0.0 0.0 ellipse
+4 "Allysha Chapman" 0.0 0.0 ellipse
+5 OFF_goal 0.0 0.0 ellipse
+6 "Linda Maserame Motlhalo" 0.0 0.0 ellipse
+7 "Jane Campbell" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Clare Polkinghorne" 0.0 0.0 ellipse
+10 "Sofia Huerta" 0.0 0.0 ellipse
+11 "Kealia Ohai/Veronica Latsko" 0.0 0.0 ellipse
+12 "Kyah Simon/Thembi Kgatlana" 0.0 0.0 ellipse
+13 "Taylor Comeau/Haley Hanson" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+1 8 2
+1 4 1
+1 10 3
+1 9 1
+1 12 1
+2 3 1
+2 7 2
+2 9 1
+2 6 2
+2 1 2
+2 12 1
+3 4 2
+3 2 1
+3 9 1
+3 6 2
+3 13 1
+4 1 2
+4 9 1
+4 3 1
+4 11 4
+4 12 1
+6 2 1
+6 4 3
+6 10 2
+6 9 1
+6 12 2
+7 1 1
+7 10 1
+7 12 1
+9 10 2
+9 2 1
+9 1 2
+9 4 1
+9 6 1
+10 1 4
+10 8 1
+10 11 1
+10 12 2
+10 13 3
+11 5 1
+11 4 1
+11 9 1
+11 10 1
+12 6 1
+12 3 1
+12 5 1
+12 10 1
+12 8 1
+12 9 1
+12 13 1
+12 11 1
+13 2 1
+13 10 2
+13 1 2
+13 3 1
+13 6 1
+13 12 1
+13 11 1

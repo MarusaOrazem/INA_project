@@ -1,0 +1,98 @@
+*vertices 11
+1 "Frédéric Oumar Kanouté" 0.0 0.0 ellipse
+2 "Jordi López Felpeto" 0.0 0.0 ellipse
+3 "David Castedo Escudero" 0.0 0.0 ellipse
+4 "Ivica Dragutinovic" 0.0 0.0 ellipse
+5 "Aitor Ocio Carrión" 0.0 0.0 ellipse
+6 "Jose Luis Martí Soler" 0.0 0.0 ellipse
+7 "Enzo Maresca" 0.0 0.0 ellipse
+8 "Andrés Palop Cervera" 0.0 0.0 ellipse
+9 "Javier Pedro Saviola Fernández/Luís Fabiano Clemente" 0.0 0.0 ellipse
+10 "Jesús Navas González/Diego Ángel Capel Trinidad" 0.0 0.0 ellipse
+11 "Adriano Correia Claro/Kepa Blanco Gonzalez" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 7 9
+1 4 1
+1 6 1
+1 5 1
+1 9 3
+1 10 1
+1 11 2
+2 3 2
+2 6 2
+2 7 5
+2 1 5
+2 4 5
+2 9 2
+2 10 1
+2 11 3
+3 1 11
+3 4 6
+3 2 3
+3 7 3
+3 8 2
+3 9 2
+3 11 5
+4 5 5
+4 7 7
+4 3 7
+4 8 4
+4 1 2
+4 2 3
+4 9 1
+4 10 1
+4 11 1
+5 6 1
+5 7 1
+5 2 3
+5 1 5
+5 8 1
+5 9 2
+5 10 1
+5 11 1
+6 4 1
+6 5 1
+6 1 2
+6 8 3
+6 2 1
+6 9 2
+6 10 7
+7 4 7
+7 6 3
+7 3 2
+7 1 4
+7 8 1
+7 2 1
+7 5 1
+7 9 3
+7 10 4
+7 11 4
+8 4 6
+8 1 6
+8 3 2
+8 2 1
+8 6 1
+8 9 2
+8 11 3
+9 1 2
+9 3 2
+9 2 2
+9 7 2
+9 10 5
+9 11 1
+10 6 1
+10 1 2
+10 5 1
+10 2 1
+10 7 2
+10 9 1
+10 11 3
+11 2 2
+11 6 1
+11 3 5
+11 1 2
+11 7 1
+11 4 1
+11 9 2
+11 10 1

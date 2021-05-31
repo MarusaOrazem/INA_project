@@ -1,0 +1,93 @@
+*vertices 11
+1 "Rachel Daly" 0.0 0.0 ellipse
+2 "Lindsay Elizabeth Agnew" 0.0 0.0 ellipse
+3 "Amber Brooks" 0.0 0.0 ellipse
+4 "Taylor Comeau" 0.0 0.0 ellipse
+5 "Jane Campbell" 0.0 0.0 ellipse
+6 "Sofia Huerta" 0.0 0.0 ellipse
+7 "Kealia Ohai" 0.0 0.0 ellipse
+8 "Linda Maserame Motlhalo" 0.0 0.0 ellipse
+9 "Kyah Simon/Nichelle Prince" 0.0 0.0 ellipse
+10 "Allysha Chapman/Haley Hanson" 0.0 0.0 ellipse
+11 "Clare Polkinghorne/Thembi Kgatlana" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 4
+1 4 1
+1 7 5
+1 8 1
+1 10 1
+2 3 4
+2 5 3
+2 8 7
+2 7 1
+2 6 1
+2 10 2
+3 4 4
+3 7 3
+3 6 7
+3 8 4
+3 5 4
+3 2 1
+3 10 2
+3 11 4
+3 9 1
+4 5 3
+4 6 4
+4 3 1
+4 8 1
+4 1 6
+4 9 2
+4 11 2
+5 3 5
+5 1 7
+5 7 3
+5 6 3
+5 8 1
+5 2 2
+5 9 1
+5 10 1
+6 3 4
+6 7 4
+6 1 2
+6 4 3
+6 8 2
+6 9 2
+6 10 1
+6 11 1
+7 6 6
+7 1 1
+7 10 2
+7 11 2
+7 9 1
+8 2 4
+8 7 2
+8 3 2
+8 4 4
+8 1 2
+8 5 1
+8 6 3
+8 9 1
+8 11 4
+8 10 1
+9 6 2
+9 8 1
+9 3 1
+9 4 1
+9 11 1
+9 7 1
+10 1 1
+10 2 3
+10 5 1
+10 7 4
+10 8 1
+10 3 1
+10 6 1
+10 11 1
+11 3 3
+11 7 7
+11 4 2
+11 1 3
+11 2 2
+11 9 2
+11 10 1

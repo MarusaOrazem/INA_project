@@ -1,0 +1,21 @@
+*vertices 10
+1 "Rumi Utsugi" 0.0 0.0 ellipse
+2 "Beverly Yanez" 0.0 0.0 ellipse
+3 "Megan Oyster" 0.0 0.0 ellipse
+4 "Jasmyne Spencer" 0.0 0.0 ellipse
+5 "Allie Long" 0.0 0.0 ellipse
+6 "Theresa Nielsen" 0.0 0.0 ellipse
+7 "Lydia Williams" 0.0 0.0 ellipse
+8 "Megan Rapinoe" 0.0 0.0 ellipse
+9 "Jodie Taylor/Alyssa Kleiner" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+3 4 1
+4 6 1
+5 4 1
+5 1 1
+6 4 1
+6 9 1
+7 8 1
+9 10 1

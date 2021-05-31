@@ -1,0 +1,47 @@
+*vertices 11
+1 "Maurizio Lanzaro" 0.0 0.0 ellipse
+2 "Leonardo Daniel Ponzio" 0.0 0.0 ellipse
+3 "Roberto Jiménez Gago" 0.0 0.0 ellipse
+4 "Pablo Edson Barrera Acosta" 0.0 0.0 ellipse
+5 "Efraín Juárez Váldez" 0.0 0.0 ellipse
+6 "David Mateos Ramajo" 0.0 0.0 ellipse
+7 "Hélder Manuel Marques Postiga" 0.0 0.0 ellipse
+8 "Javier Paredes Arango" 0.0 0.0 ellipse
+9 "Juan Carlos Pérez López" 0.0 0.0 ellipse
+10 "Luis García Fernández" 0.0 0.0 ellipse
+11 "Fernando José da Silva Freitas Meira" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+1 6 1
+1 3 1
+1 11 1
+2 11 1
+2 7 1
+3 4 2
+3 5 1
+3 10 1
+3 11 1
+4 1 1
+4 5 2
+4 7 1
+5 1 2
+5 7 1
+5 11 1
+5 3 1
+5 2 1
+6 9 2
+6 10 1
+7 8 1
+7 11 2
+8 9 1
+9 7 1
+9 10 2
+9 2 1
+10 2 2
+10 6 1
+10 9 1
+11 10 2
+11 5 1
+11 4 2
+11 7 2

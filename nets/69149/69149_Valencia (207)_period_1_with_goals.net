@@ -1,0 +1,82 @@
+*vertices 11
+1 "David Villa Sánchez" 0.0 0.0 ellipse
+2 "David Albelda Aliqués" 0.0 0.0 ellipse
+3 "Manuel Henrique Tavares Fernandes" 0.0 0.0 ellipse
+4 "Luís Miguel Brito Garcia Monteiro" 0.0 0.0 ellipse
+5 "Raúl Albiol Tortajada" 0.0 0.0 ellipse
+6 "Hedwiges Maduro" 0.0 0.0 ellipse
+7 "Renan Brito Soares" 0.0 0.0 ellipse
+8 "Asier del Horno Cosgaya" 0.0 0.0 ellipse
+9 "Rubén Baraja Vegas/Miguel Alfonso Herrero Javaloyas" 0.0 0.0 ellipse
+10 "Joaquín Sánchez Rodríguez/Pablo Hernández Domínguez" 0.0 0.0 ellipse
+11 "Juan Manuel Mata García/Vicente Rodríguez Guillén" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+1 3 1
+2 3 8
+2 4 5
+2 6 4
+2 8 1
+2 5 4
+2 9 2
+2 10 2
+2 11 1
+3 4 8
+3 8 2
+3 2 5
+3 6 3
+3 9 2
+3 10 5
+4 5 4
+4 3 11
+4 6 1
+4 7 2
+4 2 3
+4 9 1
+4 10 3
+4 11 1
+5 6 5
+5 4 2
+5 7 3
+5 3 4
+5 2 1
+5 10 3
+6 5 4
+6 8 4
+6 3 2
+6 2 4
+6 7 1
+6 11 3
+6 9 1
+7 4 3
+7 5 3
+7 8 1
+7 9 1
+8 1 5
+8 6 4
+8 2 1
+8 5 1
+8 11 1
+8 9 2
+9 2 2
+9 5 2
+9 4 1
+9 8 1
+9 6 1
+9 3 1
+9 10 2
+9 11 2
+10 4 5
+10 3 3
+10 2 1
+10 1 1
+10 9 1
+10 6 1
+10 8 1
+10 11 1
+11 6 1
+11 8 4
+11 9 1
+11 3 1
+11 10 2

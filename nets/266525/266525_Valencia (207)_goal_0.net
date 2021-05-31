@@ -1,0 +1,18 @@
+*vertices 8
+1 "Rodrigo Moreno Machado" 0.0 0.0 ellipse
+2 "André Filipe Tavares Gomes" 0.0 0.0 ellipse
+3 "Nicolás Hernán Otamendi" 0.0 0.0 ellipse
+4 "Daniel Parejo Muñoz" 0.0 0.0 ellipse
+5 "Antonio Barragán Fernández" 0.0 0.0 ellipse
+6 "Shkodran Mustafi" 0.0 0.0 ellipse
+7 "Diego Alves Carreira" 0.0 0.0 ellipse
+8 "Sofiane Feghouli" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+3 7 1
+4 5 1
+4 8 1
+5 6 1
+6 3 1
+7 4 1

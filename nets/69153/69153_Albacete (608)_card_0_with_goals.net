@@ -1,0 +1,103 @@
+*vertices 13
+1 "Rubén González Rocha" 0.0 0.0 ellipse
+2 "Mikel Aguirregomezkorta Larrea" 0.0 0.0 ellipse
+3 "Antonio Pacheco D"Agosti" 0.0 0.0 ellipse
+4 "Francisco Peña Romero" 0.0 0.0 ellipse
+5 "Gaspar Gálvez Burgos" 0.0 0.0 ellipse
+6 "Óscar Montiel Marín" 0.0 0.0 ellipse
+7 "Ronald Louis Gaspercic" 0.0 0.0 ellipse
+8 "Gustavo Lionel Siviero" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Pablo Redondo Martínez/Francisco Javier Rodríguez Vílchez" 0.0 0.0 ellipse
+12 "David Sánchez Rodríguez/Iván Díaz Ruiz" 0.0 0.0 ellipse
+13 "Mark Dennis González Hoffmann/Jerónimo Figueroa Cabrera" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 2
+1 8 1
+1 5 2
+1 3 1
+1 4 1
+1 11 2
+1 12 1
+1 13 2
+2 3 6
+2 8 1
+2 5 2
+2 6 2
+2 11 4
+2 12 2
+2 13 1
+3 4 3
+3 6 4
+3 2 2
+3 8 2
+3 9 1
+3 5 1
+3 10 2
+3 11 2
+3 12 7
+3 13 1
+4 3 5
+4 7 1
+4 8 4
+4 5 3
+4 2 1
+4 11 1
+4 12 1
+4 13 1
+5 6 3
+5 3 2
+5 1 2
+5 4 1
+5 10 1
+5 11 1
+5 12 2
+5 13 1
+6 3 5
+6 1 4
+6 5 3
+6 7 2
+6 2 3
+6 4 1
+6 11 2
+6 12 2
+7 4 5
+7 1 2
+7 5 1
+7 8 1
+7 3 1
+7 2 1
+7 6 1
+7 11 1
+7 13 1
+8 5 2
+8 3 1
+8 2 3
+8 4 1
+8 7 2
+8 11 1
+8 12 2
+11 5 4
+11 6 1
+11 2 3
+11 3 1
+11 1 1
+11 12 3
+11 13 1
+12 1 1
+12 4 5
+12 2 1
+12 3 4
+12 6 1
+12 5 5
+12 8 1
+12 11 2
+12 13 3
+13 3 1
+13 4 2
+13 9 1
+13 10 1
+13 11 2
+13 12 2

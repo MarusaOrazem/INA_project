@@ -1,0 +1,60 @@
+*vertices 11
+1 "Rattikan Thongsombut" 0.0 0.0 ellipse
+2 "Ainon Phancha" 0.0 0.0 ellipse
+3 "Sukanya Chor Charoenying" 0.0 0.0 ellipse
+4 "Suchawadee Nildhamrong" 0.0 0.0 ellipse
+5 "Silawan Intamee" 0.0 0.0 ellipse
+6 "Sunisa Srangthaisong" 0.0 0.0 ellipse
+7 "Kanjana Sungngoen" 0.0 0.0 ellipse
+8 "Warunee Phetwiset" 0.0 0.0 ellipse
+9 "Natthakarn Chinwong" 0.0 0.0 ellipse
+10 "Kanjanaporn Saengkoon" 0.0 0.0 ellipse
+11 "Wilaiporn Boothduang/Pikul Khueanpet" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 1
+2 7 2
+2 8 1
+2 4 1
+2 5 2
+2 6 1
+2 11 1
+3 4 1
+3 5 1
+3 1 2
+3 6 1
+3 7 1
+4 5 2
+4 1 3
+4 9 2
+4 2 1
+4 7 1
+4 11 1
+5 8 1
+5 4 1
+5 1 1
+5 6 1
+5 11 1
+6 2 2
+6 4 3
+6 1 2
+6 5 3
+6 8 1
+7 2 1
+7 8 3
+7 4 1
+8 5 1
+8 7 4
+8 2 2
+8 4 1
+8 9 2
+8 11 1
+9 4 1
+9 10 1
+9 11 2
+10 9 1
+10 3 1
+11 8 1
+11 9 1
+11 5 1
+11 1 2

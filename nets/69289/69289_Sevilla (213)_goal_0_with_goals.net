@@ -1,0 +1,17 @@
+*vertices 8
+1 "José Martín Cáceres Silva" 0.0 0.0 ellipse
+2 "Christian Koffi Romaric N"Dri" 0.0 0.0 ellipse
+3 "Renato Dirnei Florencio" 0.0 0.0 ellipse
+4 "Antonio Manuel Luna Rodríguez" 0.0 0.0 ellipse
+5 "Diego Ángel Capel Trinidad" 0.0 0.0 ellipse
+6 "Frédéric Oumar Kanouté" 0.0 0.0 ellipse
+7 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+8 "Diego Perotti" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 4 1
+3 2 1
+3 6 1
+4 5 1
+7 8 1
+8 4 1

@@ -1,0 +1,6 @@
+*vertices 2
+1 "Rubén Martín Pulido" 0.0 0.0 ellipse
+2 "Mario Gutiérrez Cotelo" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 1 1

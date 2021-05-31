@@ -1,0 +1,15 @@
+*vertices 7
+1 "Brooke Hendrix" 0.0 0.0 ellipse
+2 "Katharina Baunach" 0.0 0.0 ellipse
+3 "Laura Vetterlein" 0.0 0.0 ellipse
+4 "Kate Longhurst" 0.0 0.0 ellipse
+5 "Cecilie Redisch Kvamme" 0.0 0.0 ellipse
+6 "Kenza Dali" 0.0 0.0 ellipse
+7 "Adriana Leon" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+4 5 2
+5 6 2
+5 7 1
+6 1 1

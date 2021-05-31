@@ -1,0 +1,81 @@
+*vertices 12
+1 "Satara Murray" 0.0 0.0 ellipse
+2 "Laura Coombs" 0.0 0.0 ellipse
+3 "Sophie Elizabeth Bradley-Auckland" 0.0 0.0 ellipse
+4 "Leandra Little" 0.0 0.0 ellipse
+5 "Amy Rodgers" 0.0 0.0 ellipse
+6 "Jessica Anne Clarke" 0.0 0.0 ellipse
+7 "Leigh-Anne Robe" 0.0 0.0 ellipse
+8 "Anke Preuß" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Christie Murray/Lauren Thomas" 0.0 0.0 ellipse
+11 "Courtney Sweetman-Kirk/Simran Jhamat" 0.0 0.0 ellipse
+12 "Kirsty Linnett/Yana Daniels" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 4
+1 9 1
+1 5 2
+1 7 1
+1 4 1
+1 10 3
+1 12 1
+2 6 2
+2 7 3
+2 8 1
+2 4 1
+2 9 2
+2 1 1
+2 3 1
+2 10 3
+2 11 1
+2 12 4
+3 1 6
+3 5 3
+3 6 2
+3 2 3
+3 4 1
+3 10 1
+4 3 2
+4 7 4
+4 8 2
+4 2 1
+4 5 1
+4 10 1
+4 11 2
+4 12 1
+5 4 4
+5 3 4
+5 2 3
+5 1 2
+5 7 1
+5 10 1
+6 1 1
+6 12 3
+7 5 3
+7 2 3
+7 3 1
+7 4 2
+7 8 1
+7 10 1
+7 11 1
+7 12 1
+8 4 3
+8 2 2
+8 3 1
+8 11 1
+10 4 1
+10 3 1
+10 6 1
+10 2 1
+10 1 4
+10 12 1
+10 7 1
+11 7 2
+11 12 2
+11 4 1
+11 2 1
+12 9 2
+12 1 2
+12 2 3
+12 10 1

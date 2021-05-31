@@ -1,0 +1,99 @@
+*vertices 13
+1 "Marcos Llorente Moreno" 0.0 0.0 ellipse
+2 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+3 "Daniel Alejandro Torres Rojas" 0.0 0.0 ellipse
+4 "Rubén Sobrino Pozuelo" 0.0 0.0 ellipse
+5 "Christian Robert Santos Kwasniewski" 0.0 0.0 ellipse
+6 "Fernando Pacheco Flores" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Carlos Martín Vigaray" 0.0 0.0 ellipse
+9 "Víctor Laguardia Cisneros" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Nenad Krstičić/Francisco Femenía Far" 0.0 0.0 ellipse
+12 "Aleksandar Katai/Óscar David Romero Villamayor" 0.0 0.0 ellipse
+13 "Theo Bernard François Hernández/Raúl García Carnero" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 7 2
+1 8 6
+1 5 1
+1 3 4
+1 6 2
+1 4 5
+1 11 7
+1 12 5
+1 13 6
+2 9 1
+2 5 1
+2 4 3
+2 3 2
+2 1 1
+2 8 1
+2 11 1
+2 13 3
+3 4 2
+3 5 1
+3 1 4
+3 9 2
+3 8 3
+3 2 2
+3 11 6
+3 12 1
+3 13 1
+4 5 2
+4 1 3
+4 3 1
+4 10 1
+4 12 1
+4 13 1
+5 4 6
+5 3 3
+5 8 1
+5 2 1
+5 7 2
+5 1 1
+5 11 2
+5 12 1
+5 13 1
+6 3 1
+6 2 1
+6 4 1
+6 5 3
+6 12 1
+8 1 5
+8 9 3
+8 5 2
+8 6 2
+8 3 2
+8 12 1
+8 13 1
+8 11 2
+9 8 3
+9 1 2
+9 2 2
+9 3 2
+9 6 1
+9 13 1
+9 12 1
+11 1 8
+11 5 1
+11 12 6
+11 13 3
+11 8 2
+11 3 2
+12 5 6
+12 1 5
+12 8 1
+12 7 1
+12 11 3
+12 10 1
+12 4 1
+12 13 5
+13 3 8
+13 5 4
+13 2 1
+13 10 2
+13 4 5
+13 1 4
+13 11 2
+13 12 2

@@ -1,0 +1,8 @@
+*vertices 4
+1 "Pablo Maffeo Becerra" 0.0 0.0 ellipse
+2 "Juan Pedro Ramírez López" 0.0 0.0 ellipse
+3 "Pere Pons Riera" 0.0 0.0 ellipse
+4 "Anthony Rubén Lozano Colón" 0.0 0.0 ellipse
+*arcs
+1 2 1
+3 4 1

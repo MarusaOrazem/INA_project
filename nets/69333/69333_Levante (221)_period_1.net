@@ -1,0 +1,71 @@
+*vertices 11
+1 "Francisco Javier Farinós Zapata" 0.0 0.0 ellipse
+2 "Valmiro Lópes Rocha" 0.0 0.0 ellipse
+3 "Juan Francisco García García" 0.0 0.0 ellipse
+4 "Gustavo Adolfo Munúa Vera" 0.0 0.0 ellipse
+5 "Pedro López Muñoz" 0.0 0.0 ellipse
+6 "Xavier Torres Buigues" 0.0 0.0 ellipse
+7 "Arouna Koné" 0.0 0.0 ellipse
+8 "Sergio Martínez Ballesteros" 0.0 0.0 ellipse
+9 "Vicente Iborra De La Fuente/Nabil El Zhar" 0.0 0.0 ellipse
+10 "Javier Rodríguez Venta/Rubén Suárez Estrada" 0.0 0.0 ellipse
+11 "Asier del Horno Cosgaya/Gustavo Daniel Cabral Cáceres" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 5 2
+1 6 1
+1 4 1
+1 9 4
+1 10 1
+2 3 3
+2 6 2
+2 1 1
+2 4 1
+2 7 2
+2 5 1
+2 10 1
+2 9 1
+3 4 1
+3 2 1
+3 6 2
+3 7 1
+3 11 1
+3 9 3
+3 10 2
+4 2 3
+4 5 1
+4 7 1
+4 10 1
+5 2 2
+5 8 3
+5 4 1
+5 1 1
+5 9 1
+5 10 2
+6 2 3
+6 3 1
+6 5 1
+6 10 3
+6 9 3
+7 5 1
+7 3 1
+7 6 1
+7 2 1
+7 10 2
+8 6 2
+8 1 1
+9 2 1
+9 3 4
+9 5 1
+9 10 1
+9 11 1
+10 7 1
+10 5 2
+10 6 2
+10 2 2
+10 11 2
+10 9 4
+11 1 2
+11 10 1
+11 3 1

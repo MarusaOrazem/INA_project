@@ -1,0 +1,92 @@
+*vertices 13
+1 "Fabio Celestini" 0.0 0.0 ellipse
+2 "Roberto Soldado Rillo" 0.0 0.0 ellipse
+3 "Rafael López Gómez" 0.0 0.0 ellipse
+4 "José Manuel Jiménez Ortiz" 0.0 0.0 ellipse
+5 "Juan Ángel Albín Leites" 0.0 0.0 ellipse
+6 "Óscar Alfredo Ustari" 0.0 0.0 ellipse
+7 ON_goal 0.0 0.0 ellipse
+8 "Daniel Alberto Díaz" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "David Cortés Caballero" 0.0 0.0 ellipse
+11 "Daniel Parejo Muñoz/Francisco Javier Casquero Paredes" 0.0 0.0 ellipse
+12 "Pedro León Sánchez Gil/Manuel del Moral Fernández" 0.0 0.0 ellipse
+13 "Adrián González Morales/Pedro Ríos Maestre" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 1
+1 5 3
+1 4 3
+1 10 3
+1 3 1
+1 12 5
+1 13 3
+1 11 3
+2 1 2
+2 5 2
+2 9 1
+2 11 2
+2 13 1
+3 4 5
+3 1 1
+3 6 1
+3 8 1
+3 13 5
+3 12 1
+4 5 3
+4 1 7
+4 3 2
+4 2 1
+4 11 1
+4 13 2
+4 12 4
+5 4 4
+5 1 4
+5 9 1
+5 10 1
+5 11 1
+5 13 1
+6 3 1
+6 5 1
+6 4 3
+6 12 1
+6 11 1
+8 9 1
+8 6 1
+8 1 4
+8 3 1
+8 12 1
+8 13 2
+8 11 1
+10 2 2
+10 1 5
+10 8 1
+10 5 2
+10 11 4
+10 12 2
+10 13 1
+11 10 2
+11 2 1
+11 9 1
+11 4 1
+11 1 2
+11 12 1
+11 13 2
+11 5 2
+11 8 1
+12 10 1
+12 9 1
+12 2 1
+12 7 1
+12 4 4
+12 5 2
+12 1 2
+12 11 1
+13 3 2
+13 2 2
+13 4 5
+13 1 4
+13 5 1
+13 12 4
+13 11 1
+13 10 1

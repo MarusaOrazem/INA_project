@@ -1,0 +1,75 @@
+*vertices 11
+1 "Oleguer Presas Renom" 0.0 0.0 ellipse
+2 "Ronaldo de Assis Moreira" 0.0 0.0 ellipse
+3 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+4 "Xavier Hernández Creus" 0.0 0.0 ellipse
+5 "Samuel Eto"o Fils" 0.0 0.0 ellipse
+6 "Eric-Sylvain Bilal Abidal" 0.0 0.0 ellipse
+7 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+8 "Lilian Thuram" 0.0 0.0 ellipse
+9 "Thierry Henry" 0.0 0.0 ellipse
+10 "Gianluca Zambrotta/Rafael Márquez Álvarez" 0.0 0.0 ellipse
+11 "Gnégnéri Yaya Touré/Anderson Luís de Souza" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 6
+1 5 2
+1 4 1
+1 10 1
+1 11 4
+2 1 2
+2 4 4
+2 3 2
+2 6 1
+2 9 1
+2 5 1
+2 11 4
+3 4 4
+3 5 3
+3 2 2
+3 1 3
+3 6 1
+3 11 3
+3 10 2
+4 5 6
+4 2 5
+4 1 3
+4 3 3
+4 6 3
+4 10 1
+5 4 3
+5 3 2
+5 6 1
+5 1 1
+5 10 1
+5 11 2
+6 4 3
+6 2 4
+6 3 2
+6 9 1
+6 11 3
+6 10 1
+7 6 1
+7 2 2
+7 1 1
+7 4 1
+8 4 1
+8 7 1
+8 10 1
+8 11 1
+9 2 1
+9 6 1
+10 3 2
+10 4 1
+10 5 1
+10 6 2
+10 8 1
+10 9 1
+10 11 3
+11 6 2
+11 9 3
+11 2 2
+11 5 2
+11 4 2
+11 1 3
+11 10 1

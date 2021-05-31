@@ -1,0 +1,20 @@
+*vertices 9
+1 "Alfonso Pedraza Sag" 0.0 0.0 ellipse
+2 "Santiago Cazorla González" 0.0 0.0 ellipse
+3 "Sergio Asenjo Andrés" 0.0 0.0 ellipse
+4 "Vicente Iborra De La Fuente" 0.0 0.0 ellipse
+5 "Víctor Ruíz Torre" 0.0 0.0 ellipse
+6 "Carlos Arturo Bacca Ahumada" 0.0 0.0 ellipse
+7 "Santiago Cáseres" 0.0 0.0 ellipse
+8 "Mario Gaspar Pérez Martínez" 0.0 0.0 ellipse
+9 "José Ramiro Funes Mori" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+3 4 1
+4 1 1
+5 7 1
+6 7 1
+7 8 1
+7 2 1
+8 9 1

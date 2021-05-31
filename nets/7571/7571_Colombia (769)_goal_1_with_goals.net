@@ -1,0 +1,39 @@
+*vertices 12
+1 "Yerry Fernando Mina González" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+3 "Santiago Arias Naranjo" 0.0 0.0 ellipse
+4 "Davinson Sánchez Mina" 0.0 0.0 ellipse
+5 "Juan Guillermo Cuadrado Bello" 0.0 0.0 ellipse
+6 "Carlos Alberto Sánchez Moreno" 0.0 0.0 ellipse
+7 "David Ospina Ramírez" 0.0 0.0 ellipse
+8 "Luis Fernando Muriel Fruto" 0.0 0.0 ellipse
+9 "Johan Andrés Mojica Palacio" 0.0 0.0 ellipse
+10 "Juan Fernando Quintero Paniagua" 0.0 0.0 ellipse
+11 "Radamel Falcao García Zárate/Miguel Ángel Borja Hernández" 0.0 0.0 ellipse
+12 "Andrés Mateus Uribe Villa/Jefferson Andrés Lerma Solís" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 1
+1 11 1
+3 1 1
+3 5 1
+4 5 1
+4 11 1
+5 4 2
+5 6 1
+5 10 1
+5 11 1
+6 4 1
+6 10 1
+7 8 1
+7 10 1
+8 9 3
+8 7 1
+9 10 1
+9 12 1
+9 11 1
+10 8 1
+10 5 2
+10 11 1
+11 12 2
+12 5 2

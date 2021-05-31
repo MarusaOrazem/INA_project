@@ -1,0 +1,74 @@
+*vertices 12
+1 "Ashley Cole" 0.0 0.0 ellipse
+2 "Patrick Vieira" 0.0 0.0 ellipse
+3 "Gilberto Aparecido da Silva" 0.0 0.0 ellipse
+4 "Martin Keown" 0.0 0.0 ellipse
+5 "Laureano Bisan-Etame Mayer" 0.0 0.0 ellipse
+6 "Fredrik Ljungberg" 0.0 0.0 ellipse
+7 "Thierry Henry" 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+9 "Jens Lehmann" 0.0 0.0 ellipse
+10 "Kolo Habib Touré" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Robert Pirès /Ray Parlour" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 7 2
+1 9 1
+1 12 4
+2 3 3
+2 8 2
+2 7 3
+2 11 1
+2 6 7
+2 5 3
+2 1 1
+2 12 4
+3 2 7
+3 1 3
+3 10 1
+3 5 2
+3 7 2
+3 12 2
+4 5 2
+4 8 1
+4 7 1
+4 3 1
+4 12 2
+5 6 4
+5 10 1
+5 3 4
+5 2 3
+5 1 1
+5 7 1
+5 12 2
+6 5 3
+6 7 5
+6 3 2
+6 2 3
+6 4 1
+6 8 1
+6 1 1
+6 12 1
+7 6 2
+7 4 1
+7 2 3
+7 11 1
+7 1 1
+7 3 2
+7 12 4
+9 7 2
+9 6 1
+9 12 1
+10 9 1
+10 1 1
+10 12 1
+12 2 2
+12 1 2
+12 5 2
+12 3 4
+12 6 1
+12 7 1
+12 11 1
+12 10 1
+12 4 1

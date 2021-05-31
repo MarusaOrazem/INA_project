@@ -1,0 +1,107 @@
+*vertices 13
+1 "Juan Manuel Mata García" 0.0 0.0 ellipse
+2 "Pablo Hernández Domínguez" 0.0 0.0 ellipse
+3 ON_goal 0.0 0.0 ellipse
+4 "César Sánchez Domínguez" 0.0 0.0 ellipse
+5 "Bruno Saltor Grau" 0.0 0.0 ellipse
+6 "Luís Miguel Brito Garcia Monteiro" 0.0 0.0 ellipse
+7 "Ángel Dealbert Ibáñez" 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+9 "David Navarro Pedrós" 0.0 0.0 ellipse
+10 "Éver Maximiliano David Banega" 0.0 0.0 ellipse
+11 "Jérémy Mathieu/Nicolás Ladislao Fedor Flores" 0.0 0.0 ellipse
+12 "David Albelda Aliqués/Hedwiges Maduro" 0.0 0.0 ellipse
+13 "David Josué Jiménez Silva/Rubén Baraja Vegas" 0.0 0.0 ellipse
+*arcs
+1 2 10
+1 8 3
+1 6 3
+1 10 2
+1 11 1
+1 12 1
+1 13 7
+2 3 2
+2 6 3
+2 1 10
+2 10 3
+2 7 1
+2 5 1
+2 9 1
+2 11 2
+2 12 4
+2 13 6
+4 5 3
+4 6 3
+4 9 3
+4 7 6
+4 2 1
+4 11 8
+4 12 1
+4 13 1
+5 7 4
+5 10 6
+5 2 3
+5 1 4
+5 4 3
+5 11 1
+5 12 1
+5 13 5
+6 2 8
+6 10 2
+6 1 4
+6 9 7
+6 7 1
+6 4 2
+6 11 2
+6 12 3
+6 13 1
+7 1 2
+7 5 7
+7 4 7
+7 9 5
+7 8 1
+7 10 3
+7 2 1
+7 12 3
+9 10 2
+9 4 9
+9 6 3
+9 2 4
+9 7 4
+9 11 1
+10 1 4
+10 2 8
+10 6 4
+10 8 1
+10 7 3
+10 5 4
+10 11 2
+10 12 2
+10 13 3
+11 5 3
+11 7 1
+11 8 2
+11 1 5
+11 10 1
+11 2 1
+11 12 1
+11 13 4
+12 10 3
+12 1 4
+12 9 2
+12 6 4
+12 7 1
+12 2 2
+12 4 1
+12 11 1
+12 13 5
+13 10 5
+13 5 3
+13 1 5
+13 7 1
+13 6 1
+13 8 2
+13 3 1
+13 2 2
+13 11 1
+13 12 2

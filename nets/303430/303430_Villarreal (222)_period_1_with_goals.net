@@ -1,0 +1,93 @@
+*vertices 13
+1 "Rubén Peña Jiménez" 0.0 0.0 ellipse
+2 "Raúl Albiol Tortajada" 0.0 0.0 ellipse
+3 "Pau Francisco Torres" 0.0 0.0 ellipse
+4 "Xavier Quintillà Guasch" 0.0 0.0 ellipse
+5 "Vicente Iborra De La Fuente" 0.0 0.0 ellipse
+6 "Samuel Chimerenka Chukwueze" 0.0 0.0 ellipse
+7 "Sergio Asenjo Andrés" 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+9 "André-Frank Zambo Anguissa" 0.0 0.0 ellipse
+10 "Javier Ontiveros Parra/Karl Brillant Toko Ekambi" 0.0 0.0 ellipse
+11 "Gerard Moreno Balaguero/Moisés Gómez Bordonado" 0.0 0.0 ellipse
+12 "Santiago Cazorla González/Carlos Arturo Bacca Ahumada" 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 4
+1 9 4
+1 5 2
+1 11 2
+2 3 3
+2 1 1
+2 5 3
+2 4 4
+2 7 3
+2 9 1
+2 6 1
+2 11 1
+2 12 1
+2 10 1
+3 4 3
+3 5 2
+3 7 3
+3 2 3
+3 1 1
+3 9 2
+3 6 1
+3 12 1
+3 10 1
+4 3 5
+4 7 1
+4 5 4
+4 9 1
+4 2 1
+4 10 1
+4 12 1
+4 11 4
+5 2 3
+5 4 3
+5 6 2
+5 1 2
+5 3 3
+5 9 3
+5 10 1
+5 11 1
+5 12 3
+6 8 2
+6 5 1
+6 1 1
+6 11 2
+6 12 2
+6 10 1
+7 4 1
+7 5 2
+7 2 4
+7 3 2
+7 6 1
+9 2 2
+9 1 5
+9 5 3
+9 3 1
+9 4 1
+9 12 1
+10 5 1
+10 4 2
+10 12 1
+10 3 1
+10 8 1
+11 6 1
+11 5 1
+11 1 2
+11 10 1
+11 4 1
+11 13 1
+11 3 1
+11 12 1
+12 6 3
+12 13 1
+12 2 1
+12 1 2
+12 5 1
+12 11 1
+12 10 1

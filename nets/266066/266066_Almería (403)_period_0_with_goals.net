@@ -1,0 +1,68 @@
+*vertices 13
+1 "José Antonio García Rabasco" 0.0 0.0 ellipse
+2 "Rafael Ramos Lozano" 0.0 0.0 ellipse
+3 "Ramon Olamilekan Azeez" 0.0 0.0 ellipse
+4 "Jonathan Sundy Zongo" 0.0 0.0 ellipse
+5 "Esteban Andrés Suárez" 0.0 0.0 ellipse
+6 "Miguel Ángel García Pérez Roldán" 0.0 0.0 ellipse
+7 "Ángel Trujillo Canorea" 0.0 0.0 ellipse
+8 "Aleix Vidal Parreu" 0.0 0.0 ellipse
+9 "Sebastián Dubarbier" 0.0 0.0 ellipse
+10 "Rodrigo Ríos Lozano" 0.0 0.0 ellipse
+11 "Marco Natanel Torsiglieri" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 2
+1 9 5
+1 10 2
+1 5 1
+1 11 1
+2 3 2
+2 4 2
+2 1 1
+3 4 1
+3 5 1
+3 2 1
+3 10 1
+3 8 2
+3 1 1
+3 12 2
+4 2 1
+4 3 2
+4 6 2
+4 10 2
+5 4 4
+5 10 3
+5 1 1
+6 7 3
+6 3 2
+6 4 3
+6 12 1
+6 2 1
+6 11 2
+6 8 2
+6 9 1
+7 3 1
+7 6 1
+7 10 1
+7 13 1
+8 9 1
+8 3 2
+8 6 3
+8 2 1
+8 1 1
+9 10 2
+9 1 2
+9 5 1
+9 8 1
+9 4 1
+9 6 1
+10 6 4
+10 9 3
+10 8 1
+11 1 2
+11 4 1
+11 5 1
+11 6 1

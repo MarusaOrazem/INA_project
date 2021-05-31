@@ -1,0 +1,81 @@
+*vertices 13
+1 "Anne-Marie Heatherson" 0.0 0.0 ellipse
+2 "Amber Gaylor" 0.0 0.0 ellipse
+3 "Megan Alexander" 0.0 0.0 ellipse
+4 "Ellie Mason" 0.0 0.0 ellipse
+5 OFF_goal 0.0 0.0 ellipse
+6 "Georgia Evans" 0.0 0.0 ellipse
+7 "Olivia Fergusson" 0.0 0.0 ellipse
+8 "Megan Walsh" 0.0 0.0 ellipse
+9 "Hannah Short" 0.0 0.0 ellipse
+10 "Nicola Cousins" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Emily Donovan/Erin Bloomfield" 0.0 0.0 ellipse
+13 "Amy Goddard/Emily Syme" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 4
+1 7 2
+1 5 1
+1 3 1
+2 3 2
+2 5 2
+2 4 1
+2 7 1
+2 9 1
+2 1 2
+2 10 1
+2 6 1
+2 13 1
+2 12 1
+3 1 8
+3 2 7
+3 9 1
+3 4 2
+3 6 1
+3 10 1
+3 8 1
+3 12 2
+3 13 1
+4 5 1
+4 2 6
+4 1 2
+4 10 1
+4 3 1
+4 11 2
+4 6 1
+4 13 1
+6 7 1
+6 9 2
+6 10 2
+6 4 2
+6 8 1
+6 3 2
+6 13 3
+6 12 2
+7 6 1
+7 2 1
+8 4 4
+8 7 2
+8 1 3
+8 3 1
+8 2 3
+8 9 1
+8 12 1
+9 4 1
+9 8 4
+9 10 1
+9 1 1
+9 12 2
+10 1 1
+10 4 1
+10 8 1
+12 3 1
+12 2 1
+12 13 1
+13 6 4
+13 9 1
+13 1 1
+13 2 2
+13 11 1
+13 12 1

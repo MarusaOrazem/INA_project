@@ -1,0 +1,99 @@
+*vertices 11
+1 "Jesús Navas González" 0.0 0.0 ellipse
+2 "Steven N"Kemboanza Mike Christopher Nzonzi" 0.0 0.0 ellipse
+3 "Clément Lenglet" 0.0 0.0 ellipse
+4 "David Soria Solís" 0.0 0.0 ellipse
+5 "Guido Hernán Pizarro" 0.0 0.0 ellipse
+6 "Éver Maximiliano David Banega" 0.0 0.0 ellipse
+7 "Sergio Escudero Palomo" 0.0 0.0 ellipse
+8 "Sébastien Corchia" 0.0 0.0 ellipse
+9 "Pablo Sarabia García/Manuel Agudo Durán" 0.0 0.0 ellipse
+10 "Simon Thorup Kjær/Johannes Geis" 0.0 0.0 ellipse
+11 "Luis Fernando Muriel Fruto/Wissam Ben Yedder" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 4 1
+1 5 4
+1 8 8
+1 7 1
+1 6 3
+1 3 1
+1 9 2
+1 10 2
+1 11 1
+2 3 4
+2 5 10
+2 6 13
+2 7 12
+2 1 4
+2 8 8
+2 9 1
+2 10 2
+2 11 1
+3 4 3
+3 5 6
+3 7 5
+3 8 1
+3 2 1
+3 6 1
+3 9 3
+3 10 2
+4 3 3
+4 5 1
+4 7 2
+4 2 1
+4 10 1
+5 6 14
+5 1 6
+5 2 12
+5 8 5
+5 3 2
+5 7 6
+5 9 3
+5 10 1
+5 11 1
+6 7 5
+6 2 7
+6 1 4
+6 5 15
+6 8 2
+6 3 1
+6 9 2
+6 10 1
+6 11 1
+7 5 7
+7 2 11
+7 3 3
+7 6 5
+7 9 4
+7 11 2
+8 2 4
+8 1 12
+8 5 2
+8 4 1
+8 6 3
+8 9 1
+8 11 1
+8 10 1
+9 7 1
+9 1 3
+9 6 3
+9 2 1
+9 8 2
+9 5 1
+9 11 1
+9 3 1
+10 2 4
+10 3 3
+10 5 1
+10 8 1
+10 6 1
+10 1 2
+10 9 1
+10 7 1
+10 11 1
+11 1 1
+11 6 3
+11 5 1
+11 2 5
+11 9 1

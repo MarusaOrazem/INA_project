@@ -1,0 +1,57 @@
+*vertices 12
+1 "Bryan Ruiz González" 0.0 0.0 ellipse
+2 "Bryan Oviedo" 0.0 0.0 ellipse
+3 "Keylor Navas Gamboa" 0.0 0.0 ellipse
+4 "Celso Borges Mora" 0.0 0.0 ellipse
+5 "Giancarlo González Castro" 0.0 0.0 ellipse
+6 "Johnny Acosta Zamora" 0.0 0.0 ellipse
+7 "Johan Alberto Venegas Ulloa" 0.0 0.0 ellipse
+8 "Óscar Esau Duarte Gaitán" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Marcos Danilo Ureña Porras/Christian Bolaños Navarro" 0.0 0.0 ellipse
+11 "Cristian Gamboa Luna/Francisco Javier Calvo Quesada" 0.0 0.0 ellipse
+12 "David Alberto Guzmán Pérez/Yeltsin Ignacio Tejeda Valverde" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 4 2
+1 8 1
+1 11 1
+1 12 2
+2 3 1
+2 1 3
+2 12 2
+2 11 1
+3 7 2
+3 4 1
+3 2 2
+3 8 1
+4 5 1
+4 7 4
+4 12 1
+4 10 1
+5 6 2
+5 1 1
+6 7 1
+6 1 1
+6 3 1
+6 11 1
+6 12 1
+6 10 2
+7 4 1
+7 1 2
+7 3 1
+7 10 1
+8 9 1
+8 4 1
+8 6 1
+8 10 2
+10 5 1
+10 6 2
+11 7 1
+11 4 1
+11 6 1
+11 12 1
+12 1 1
+12 8 1
+12 2 1
+12 11 1

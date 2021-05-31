@@ -1,0 +1,70 @@
+*vertices 12
+1 "José Julián De La Cuesta Herrera" 0.0 0.0 ellipse
+2 "Ramón de Quintana Dalmau" 0.0 0.0 ellipse
+3 "Alejandro Varela López" 0.0 0.0 ellipse
+4 "Matías Nicolás Pavoni" 0.0 0.0 ellipse
+5 "Enrique Fernando Ortiz Moruno" 0.0 0.0 ellipse
+6 "Roberto Suárez Álvarez" 0.0 0.0 ellipse
+7 "Andrés José Fleurquin Rubio" 0.0 0.0 ellipse
+8 "Oliverio Jesús Alvarez González" 0.0 0.0 ellipse
+9 "Jonathan Sesma González" 0.0 0.0 ellipse
+10 "Armando Riveiro de Aguilar Malda" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Mário Fernando Magalhães da Silva" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+1 12 1
+1 10 2
+1 4 1
+2 10 2
+2 6 2
+3 4 4
+3 5 3
+3 6 5
+3 7 2
+3 1 2
+3 2 1
+3 9 1
+4 9 2
+4 6 4
+4 5 4
+4 12 1
+4 11 1
+5 8 3
+5 4 2
+5 9 1
+5 11 1
+5 6 1
+5 3 2
+6 7 4
+6 5 3
+6 8 3
+6 4 2
+6 2 1
+6 12 3
+6 10 1
+6 1 2
+7 6 3
+7 1 1
+7 9 2
+7 3 1
+7 5 1
+7 2 1
+8 5 3
+8 9 2
+8 1 1
+8 4 2
+8 6 1
+9 4 5
+9 11 1
+9 8 1
+9 6 1
+10 8 1
+10 4 1
+10 7 1
+12 4 4
+12 9 2
+12 2 2
+12 6 3
+12 7 1

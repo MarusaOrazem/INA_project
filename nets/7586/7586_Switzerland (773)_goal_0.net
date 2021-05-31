@@ -1,0 +1,100 @@
+*vertices 11
+1 "Blerim Džemaili" 0.0 0.0 ellipse
+2 "Josip Drmic" 0.0 0.0 ellipse
+3 "Xherdan Shaqiri" 0.0 0.0 ellipse
+4 "Granit Xhaka" 0.0 0.0 ellipse
+5 "Manuel Obafemi Akanji" 0.0 0.0 ellipse
+6 "Ricardo Iván Rodríguez Araya" 0.0 0.0 ellipse
+7 "Valon Behrami" 0.0 0.0 ellipse
+8 "Johan Danon Djourou-Gbadjere" 0.0 0.0 ellipse
+9 "Michael Lang" 0.0 0.0 ellipse
+10 "Yann Sommer" 0.0 0.0 ellipse
+11 "Steven Zuber" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 1
+1 11 4
+1 3 3
+1 4 3
+1 5 1
+1 7 2
+1 9 1
+2 3 2
+2 6 1
+2 1 1
+2 11 1
+2 4 1
+2 9 2
+3 7 5
+3 4 7
+3 9 8
+3 10 1
+3 2 2
+3 11 1
+3 8 1
+3 5 1
+3 6 1
+3 1 2
+4 5 12
+4 7 9
+4 8 3
+4 9 6
+4 3 8
+4 10 1
+4 6 14
+4 1 5
+4 11 4
+4 2 2
+5 6 11
+5 7 13
+5 8 12
+5 4 14
+5 10 3
+5 2 2
+5 11 2
+5 1 1
+5 3 2
+5 9 1
+6 2 2
+6 4 11
+6 5 7
+6 11 8
+6 10 2
+6 7 4
+6 3 2
+6 8 1
+6 1 1
+7 4 10
+7 5 16
+7 8 14
+7 9 6
+7 11 3
+7 6 3
+7 1 2
+7 3 1
+8 3 8
+8 7 9
+8 9 9
+8 10 4
+8 4 1
+8 5 15
+8 1 2
+9 3 10
+9 7 5
+9 4 8
+9 2 1
+9 5 1
+9 8 11
+9 11 1
+10 8 5
+10 5 4
+10 2 2
+10 9 2
+10 6 1
+10 4 2
+10 7 2
+11 6 6
+11 4 5
+11 9 3
+11 7 2
+11 1 3

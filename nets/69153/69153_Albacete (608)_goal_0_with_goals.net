@@ -1,0 +1,14 @@
+*vertices 6
+1 "Rubén González Rocha" 0.0 0.0 ellipse
+2 "David Sánchez Rodríguez" 0.0 0.0 ellipse
+3 "Mikel Aguirregomezkorta Larrea" 0.0 0.0 ellipse
+4 "Óscar Montiel Marín" 0.0 0.0 ellipse
+5 "Pablo Redondo Martínez" 0.0 0.0 ellipse
+6 "Gaspar Gálvez Burgos" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+2 1 1
+4 5 1
+5 6 1
+6 2 1

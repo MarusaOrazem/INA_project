@@ -1,0 +1,81 @@
+*vertices 11
+1 "Miguel Ángel Trauco Saavedra" 0.0 0.0 ellipse
+2 "Christian Alberto Cueva Bravo" 0.0 0.0 ellipse
+3 "José Paolo Guerrero González" 0.0 0.0 ellipse
+4 "Pedro David Gallese Quiróz" 0.0 0.0 ellipse
+5 "Anderson Santamaría Bardales" 0.0 0.0 ellipse
+6 "Luis Jan Piers Advíncula Castrillón" 0.0 0.0 ellipse
+7 "Christian Guillermo Martín Ramos Garagay" 0.0 0.0 ellipse
+8 "Édison Michael Flores Peralta" 0.0 0.0 ellipse
+9 "Renato Fabrizio Tapia Cortijo/Christopher Paolo César Hurtado Huertas" 0.0 0.0 ellipse
+10 "André Martín Carrillo Díaz/Wilder José Cartagena Mendoza" 0.0 0.0 ellipse
+11 "Víctor Yoshimar Yotún Flores/Pedro Jesús Aquino Sánchez" 0.0 0.0 ellipse
+*arcs
+1 2 9
+1 3 2
+1 8 5
+1 10 1
+1 11 3
+1 9 1
+2 3 2
+2 1 3
+2 8 1
+2 4 1
+2 6 2
+2 5 1
+2 10 1
+2 11 3
+2 9 2
+3 1 1
+3 8 1
+3 9 2
+4 5 1
+4 7 2
+4 1 1
+4 2 1
+4 11 1
+4 9 2
+5 1 7
+5 7 1
+5 8 1
+5 2 1
+5 11 3
+6 7 3
+6 3 2
+6 9 4
+6 10 4
+6 11 1
+7 5 1
+7 6 2
+7 8 1
+7 2 1
+7 4 3
+7 10 1
+7 11 2
+7 9 1
+8 2 3
+8 1 3
+8 7 1
+8 10 1
+9 11 4
+9 8 1
+9 6 2
+9 7 2
+9 2 2
+9 4 1
+9 10 1
+10 6 4
+10 7 1
+10 11 1
+10 9 1
+10 3 1
+11 4 2
+11 1 3
+11 6 5
+11 3 1
+11 5 3
+11 2 1
+11 7 2
+11 8 1
+11 9 2
+11 10 1

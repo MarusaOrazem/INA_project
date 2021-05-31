@@ -1,0 +1,75 @@
+*vertices 13
+1 "Ignacio Monreal Eraso" 0.0 0.0 ellipse
+2 "Javier Camuñas Gallego" 0.0 0.0 ellipse
+3 "Miguel Flaño Bezunartea" 0.0 0.0 ellipse
+4 "Walter Gerardo Pandiani Urquiza" 0.0 0.0 ellipse
+5 "César Azpilicueta Tanco" 0.0 0.0 ellipse
+6 "Ricardo López Felipe" 0.0 0.0 ellipse
+7 "Javad Nekounam" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "José Romero Urtasun" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Carlos Reina Aranda/Masoud Shojaei Soleimani" 0.0 0.0 ellipse
+12 "Francisco Puñal Martínez/Roberto López Esquiroz" 0.0 0.0 ellipse
+13 "Juan Francisco Torres Belén/Jorge Galán Anaut" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 4 4
+1 7 1
+1 9 2
+1 11 2
+1 12 1
+2 1 4
+2 7 1
+2 4 1
+2 9 1
+2 11 1
+3 1 1
+3 4 1
+3 6 1
+3 12 1
+3 13 1
+4 7 3
+4 8 1
+4 2 1
+4 10 1
+4 9 1
+4 12 1
+4 13 2
+4 11 1
+5 6 2
+5 4 2
+5 11 1
+5 12 2
+5 13 1
+6 3 1
+6 4 6
+6 5 1
+6 7 1
+6 11 1
+6 13 1
+7 2 3
+7 8 1
+7 1 4
+7 12 2
+7 11 1
+9 2 1
+9 6 1
+9 1 1
+9 11 1
+11 2 3
+11 5 1
+11 7 1
+11 4 2
+11 1 1
+12 3 2
+12 4 2
+12 6 1
+12 7 1
+12 2 1
+12 13 1
+12 1 2
+13 4 1
+13 5 1
+13 11 1
+13 12 1

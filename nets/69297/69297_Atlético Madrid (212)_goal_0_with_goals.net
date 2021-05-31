@@ -1,0 +1,34 @@
+*vertices 12
+1 "José Antonio Reyes Calderón" 0.0 0.0 ellipse
+2 "Diego Ribas da Cunha" 0.0 0.0 ellipse
+3 "Gabriel Fernández Arenas" 0.0 0.0 ellipse
+4 "Antonio López Guerrero" 0.0 0.0 ellipse
+5 "Mario Suárez Mata" 0.0 0.0 ellipse
+6 "Thibaut Courtois" 0.0 0.0 ellipse
+7 "Radamel Falcao García Zárate" 0.0 0.0 ellipse
+8 "Diego Roberto Godín Leal" 0.0 0.0 ellipse
+9 "Tiago Cardoso Mendes" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "João Miranda de Souza Filho" 0.0 0.0 ellipse
+12 "Luis Amaranto Perea Mosquera" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 9 2
+1 12 1
+1 11 1
+2 9 1
+2 1 2
+3 2 1
+4 5 1
+5 7 1
+5 11 1
+5 2 1
+5 9 1
+6 7 1
+7 2 2
+8 5 1
+9 1 4
+9 10 1
+9 3 1
+11 5 1
+12 1 1

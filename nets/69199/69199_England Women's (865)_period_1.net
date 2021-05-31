@@ -1,0 +1,76 @@
+*vertices 11
+1 "Lucy Bronze" 0.0 0.0 ellipse
+2 "Stephanie Houghton" 0.0 0.0 ellipse
+3 "Millie Bright" 0.0 0.0 ellipse
+4 "Demi Stokes" 0.0 0.0 ellipse
+5 "Ellen White" 0.0 0.0 ellipse
+6 "Karen Bardsley" 0.0 0.0 ellipse
+7 "Jill Scott" 0.0 0.0 ellipse
+8 "Keira Walsh" 0.0 0.0 ellipse
+9 "Toni Duggan/Bethany Mead" 0.0 0.0 ellipse
+10 "Francesca Kirby/Georgia Stanway" 0.0 0.0 ellipse
+11 "Nikita Parris/Rachel Daly" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 3 1
+1 8 2
+1 5 3
+1 7 1
+1 11 2
+1 9 1
+1 10 1
+2 3 2
+2 7 2
+2 1 3
+2 8 4
+2 4 1
+2 11 3
+2 9 1
+3 4 4
+3 2 4
+3 7 1
+3 8 1
+3 9 1
+4 5 1
+4 3 4
+4 8 3
+4 2 1
+4 9 4
+5 2 1
+5 1 1
+5 10 1
+5 11 1
+5 9 1
+6 7 2
+6 1 2
+6 8 1
+7 1 5
+7 8 1
+7 2 1
+7 5 1
+7 10 2
+7 11 2
+8 1 3
+8 5 1
+8 3 1
+8 4 1
+8 11 1
+8 9 3
+9 5 2
+9 1 1
+9 4 4
+9 3 2
+9 8 1
+9 10 3
+9 11 1
+10 5 1
+10 11 1
+10 9 2
+10 8 1
+10 1 1
+10 4 1
+11 1 2
+11 7 1
+11 5 1
+11 10 3
+11 8 1

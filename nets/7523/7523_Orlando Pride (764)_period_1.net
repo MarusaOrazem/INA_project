@@ -1,0 +1,65 @@
+*vertices 11
+1 "Sydney Leroux" 0.0 0.0 ellipse
+2 "Emily van Egmond" 0.0 0.0 ellipse
+3 "Alanna Kennedy" 0.0 0.0 ellipse
+4 "Shelina Zadorsky" 0.0 0.0 ellipse
+5 "Poliana Barbosa Medeiros" 0.0 0.0 ellipse
+6 "Carson Pickett" 0.0 0.0 ellipse
+7 "Haley Judith Kopmeyer" 0.0 0.0 ellipse
+8 "Kristen Edmonds" 0.0 0.0 ellipse
+9 "Monica Hickmann Alves" 0.0 0.0 ellipse
+10 "Chioma Ubogagu/Danica Evans" 0.0 0.0 ellipse
+11 "Dani Weatherholt/Christine Nairn" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 3 2
+1 10 2
+2 1 3
+2 3 1
+2 6 1
+2 8 2
+2 5 1
+2 10 2
+2 11 1
+3 1 5
+3 6 2
+3 8 1
+3 10 1
+4 5 1
+4 3 3
+4 7 2
+5 1 1
+5 4 1
+5 3 2
+5 2 1
+5 10 2
+5 11 1
+6 1 3
+6 2 2
+6 10 1
+7 6 1
+7 2 2
+7 9 1
+7 11 1
+8 2 8
+8 6 1
+8 3 2
+8 1 1
+8 9 1
+9 3 2
+9 5 2
+9 2 2
+9 8 1
+9 10 1
+9 11 1
+10 8 1
+10 1 2
+10 2 1
+10 5 3
+10 11 1
+11 6 1
+11 5 1
+11 1 1
+11 8 1
+11 3 1
+11 9 1

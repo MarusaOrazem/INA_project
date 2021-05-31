@@ -1,0 +1,54 @@
+*vertices 11
+1 "Anne Moorhouse" 0.0 0.0 ellipse
+2 "Kate Longhurst" 0.0 0.0 ellipse
+3 "Gilly Louise Scarlett Flaherty" 0.0 0.0 ellipse
+4 "Ria Percival" 0.0 0.0 ellipse
+5 "Brooke Hendrix" 0.0 0.0 ellipse
+6 "Erin Simon" 0.0 0.0 ellipse
+7 "Leanne Kiernan" 0.0 0.0 ellipse
+8 "Lucienne Reichardt" 0.0 0.0 ellipse
+9 "Jane Ross" 0.0 0.0 ellipse
+10 "Alisha Lehmann" 0.0 0.0 ellipse
+11 "So-Hyun Cho" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 4
+1 5 5
+1 9 1
+2 4 2
+2 10 1
+2 7 1
+2 11 1
+3 1 6
+3 6 1
+3 4 3
+3 2 1
+3 10 1
+3 5 1
+4 2 1
+4 3 4
+4 1 1
+4 10 3
+4 9 2
+5 1 3
+5 6 3
+5 8 1
+5 11 1
+5 3 1
+6 7 3
+6 11 2
+6 5 1
+6 3 1
+7 10 1
+7 2 1
+7 8 1
+7 6 1
+8 9 1
+8 3 2
+8 4 1
+9 7 1
+9 2 1
+10 7 1
+10 4 1
+11 7 2
+11 9 1

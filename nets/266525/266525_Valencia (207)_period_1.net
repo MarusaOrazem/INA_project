@@ -1,0 +1,71 @@
+*vertices 11
+1 "Javier Fuego Martínez" 0.0 0.0 ellipse
+2 "Daniel Parejo Muñoz" 0.0 0.0 ellipse
+3 "André Filipe Tavares Gomes" 0.0 0.0 ellipse
+4 "Rodrigo Moreno Machado" 0.0 0.0 ellipse
+5 "Nicolás Hernán Otamendi" 0.0 0.0 ellipse
+6 "Diego Alves Carreira" 0.0 0.0 ellipse
+7 "Antonio Barragán Fernández" 0.0 0.0 ellipse
+8 "Shkodran Mustafi" 0.0 0.0 ellipse
+9 "Sofiane Feghouli/João Pedro Cavaco Cancelo" 0.0 0.0 ellipse
+10 "Francisco Alcácer García/Álvaro Negredo Sánchez" 0.0 0.0 ellipse
+11 "Lucas Alfonso Orbán Alegre/José Luis Gayá Peña" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 5 3
+1 7 3
+1 3 1
+1 10 3
+1 11 1
+1 9 2
+2 3 2
+2 4 2
+2 5 2
+2 1 1
+2 7 1
+2 9 3
+2 11 2
+3 4 1
+3 7 1
+3 8 2
+3 5 1
+3 1 1
+3 9 1
+3 11 1
+4 2 1
+4 3 1
+4 11 5
+4 10 1
+5 2 2
+5 4 2
+5 1 1
+5 3 1
+5 7 1
+5 10 2
+5 11 5
+6 3 1
+6 4 1
+6 5 1
+6 2 1
+6 10 2
+7 8 5
+7 1 5
+7 3 2
+7 5 1
+7 9 4
+8 5 3
+8 2 2
+8 1 2
+8 9 1
+9 3 1
+9 7 3
+9 1 1
+9 10 1
+10 2 1
+10 3 1
+10 11 1
+10 4 1
+11 4 6
+11 1 1
+11 5 1
+11 10 1

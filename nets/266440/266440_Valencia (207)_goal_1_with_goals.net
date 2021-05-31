@@ -1,0 +1,77 @@
+*vertices 13
+1 "Eliaquim Mangala" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+3 "Daniel Parejo Muñoz" 0.0 0.0 ellipse
+4 "Carlos Soler Barragán" 0.0 0.0 ellipse
+5 "José Luis Gayá Peña" 0.0 0.0 ellipse
+6 "Ezequiel Marcelo Garay" 0.0 0.0 ellipse
+7 "Diego Alves Carreira" 0.0 0.0 ellipse
+8 "Martín Montoya Torralbo" 0.0 0.0 ellipse
+9 "Enzo Nicolás Pérez" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Munir El Haddadi Mohamed/Simone Zaza" 0.0 0.0 ellipse
+12 "João Pedro Cavaco Cancelo/Zakaria Bakkali" 0.0 0.0 ellipse
+13 "Fabián Ariel Orellana Valenzuela/Aymen Abdennour" 0.0 0.0 ellipse
+*arcs
+1 2 1
+3 4 2
+3 8 1
+3 9 1
+3 7 1
+3 10 1
+3 11 2
+3 12 1
+4 8 4
+4 5 2
+4 2 1
+4 3 1
+4 9 2
+4 11 2
+4 12 1
+5 3 4
+5 9 3
+5 7 1
+5 11 2
+5 13 1
+6 7 1
+6 12 1
+6 13 1
+7 8 4
+7 6 1
+7 9 1
+7 3 1
+7 5 1
+7 11 2
+7 12 1
+7 13 1
+8 9 3
+8 4 3
+8 7 1
+8 11 1
+8 12 1
+8 13 1
+9 8 1
+9 5 1
+9 6 3
+9 3 2
+9 12 1
+9 13 2
+11 4 1
+11 2 1
+11 9 1
+11 8 2
+11 3 4
+11 12 2
+11 6 1
+12 6 1
+12 8 1
+12 4 4
+12 3 1
+12 11 4
+12 9 1
+12 13 1
+13 5 2
+13 7 1
+13 9 1
+13 3 1
+13 12 1

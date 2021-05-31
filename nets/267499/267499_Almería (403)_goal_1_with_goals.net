@@ -1,0 +1,66 @@
+*vertices 13
+1 "Rubén Iván Martínez Andrade" 0.0 0.0 ellipse
+2 "Jonathan Sundy Zongo" 0.0 0.0 ellipse
+3 "Ramon Olamilekan Azeez" 0.0 0.0 ellipse
+4 "José Antonio García Rabasco" 0.0 0.0 ellipse
+5 "Joaquín Navarro Jiménez" 0.0 0.0 ellipse
+6 "Sebastián Dubarbier" 0.0 0.0 ellipse
+7 "Francisco Manuel Vélez Jiménez" 0.0 0.0 ellipse
+8 "Ángel Trujillo Canorea" 0.0 0.0 ellipse
+9 "Fernando Soriano Marco/Tomer Hemed" 0.0 0.0 ellipse
+10 "Thievy Guivane Bifouma Koulossa/Edgar Antonio Méndez Ortega" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Thomas Teye Partey/Wellington Alves da Silva" 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 5 1
+1 9 2
+2 3 2
+2 9 1
+2 10 2
+2 12 1
+3 2 3
+3 4 2
+3 6 1
+3 9 1
+4 3 2
+4 5 2
+4 8 1
+4 12 2
+5 3 1
+5 2 5
+5 4 1
+5 9 5
+5 10 3
+5 12 1
+6 2 2
+6 9 2
+6 10 1
+7 4 2
+7 5 1
+7 2 2
+7 9 1
+7 12 1
+8 4 2
+8 12 1
+9 6 2
+9 7 1
+9 5 1
+9 10 1
+9 12 1
+9 2 1
+9 4 1
+10 11 1
+10 3 2
+10 2 1
+10 5 1
+10 6 1
+10 9 1
+10 12 1
+12 4 2
+12 2 2
+12 3 1
+12 7 3
+12 13 1
+12 10 1

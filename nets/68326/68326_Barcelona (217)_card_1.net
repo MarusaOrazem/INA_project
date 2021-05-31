@@ -1,0 +1,34 @@
+*vertices 10
+1 "José Edmílson Gomes de Moraes" 0.0 0.0 ellipse
+2 "Anderson Luís de Souza" 0.0 0.0 ellipse
+3 "Eiður Smári Guðjohnsen" 0.0 0.0 ellipse
+4 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+5 "Rafael Márquez Álvarez" 0.0 0.0 ellipse
+6 "Carles Puyol i Saforcada" 0.0 0.0 ellipse
+7 "Giovanni van Bronckhorst" 0.0 0.0 ellipse
+8 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+9 "Samuel Eto"o Fils" 0.0 0.0 ellipse
+10 "Gianluca Zambrotta" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+2 3 1
+2 7 1
+2 9 2
+2 10 1
+3 4 2
+4 3 1
+4 1 1
+4 2 1
+5 6 1
+5 10 1
+6 7 1
+6 5 1
+7 2 3
+7 8 3
+7 1 1
+7 6 1
+8 2 1
+9 8 2
+10 5 1
+10 4 1

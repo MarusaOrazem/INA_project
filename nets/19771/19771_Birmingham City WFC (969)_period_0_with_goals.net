@@ -1,0 +1,109 @@
+*vertices 13
+1 "Lucy Quinn" 0.0 0.0 ellipse
+2 "Hayley Ladd" 0.0 0.0 ellipse
+3 "Paige Williams" 0.0 0.0 ellipse
+4 "Lucy Staniforth" 0.0 0.0 ellipse
+5 "Harriet Scott" 0.0 0.0 ellipse
+6 OFF_goal 0.0 0.0 ellipse
+7 "Hannah Hampton" 0.0 0.0 ellipse
+8 "Chloe Arthur" 0.0 0.0 ellipse
+9 "Meaghan Sargeant" 0.0 0.0 ellipse
+10 "Emma Follis" 0.0 0.0 ellipse
+11 "Connie Scofield" 0.0 0.0 ellipse
+12 "Aoife Mannion" 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 3
+1 3 3
+1 11 4
+1 10 2
+1 5 2
+1 9 2
+1 4 2
+2 3 3
+2 4 4
+2 11 2
+2 8 4
+2 12 3
+2 9 2
+2 5 2
+2 1 1
+2 10 1
+3 4 3
+3 2 1
+3 1 6
+3 12 8
+3 7 2
+3 11 2
+3 5 2
+3 10 2
+4 3 1
+4 10 4
+4 8 8
+4 9 3
+4 1 2
+4 5 5
+4 11 2
+4 13 1
+4 6 1
+5 1 2
+5 7 5
+5 10 2
+5 8 4
+5 2 6
+5 9 6
+5 4 6
+5 12 1
+5 6 1
+5 3 1
+7 9 7
+7 12 9
+7 5 5
+7 3 1
+8 9 1
+8 4 6
+8 12 3
+8 2 3
+8 11 8
+8 6 1
+8 10 3
+8 3 1
+8 1 1
+8 5 3
+8 13 1
+9 8 2
+9 7 3
+9 4 6
+9 5 1
+9 11 1
+9 12 10
+9 2 3
+9 3 2
+9 1 1
+9 10 2
+10 1 3
+10 4 2
+10 9 2
+10 8 2
+10 3 1
+10 13 2
+10 2 3
+10 5 2
+10 11 1
+11 1 3
+11 2 2
+11 3 2
+11 10 2
+11 4 3
+11 9 1
+11 5 3
+12 4 2
+12 7 7
+12 9 6
+12 3 8
+12 10 4
+12 8 6
+12 5 2
+12 2 1
+12 1 1

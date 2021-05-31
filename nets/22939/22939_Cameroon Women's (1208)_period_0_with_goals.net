@@ -1,0 +1,59 @@
+*vertices 12
+1 "Ajara Nchout" 0.0 0.0 ellipse
+2 "Gabrielle Onguene" 0.0 0.0 ellipse
+3 "Christine Manie" 0.0 0.0 ellipse
+4 OFF_goal 0.0 0.0 ellipse
+5 "Marlyse Bernadette Ngo Ndoumbouk" 0.0 0.0 ellipse
+6 "Jeannette Yango" 0.0 0.0 ellipse
+7 "Raissa Feudjio Tchuanyo" 0.0 0.0 ellipse
+8 "Claudine Falonne Meffometou Tcheno" 0.0 0.0 ellipse
+9 "Estelle Johnson" 0.0 0.0 ellipse
+10 "Yvonne Patrice Leuko" 0.0 0.0 ellipse
+11 "Annette Ngo" 0.0 0.0 ellipse
+12 "Marie Aurelle Awona" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+1 7 1
+1 10 2
+1 5 1
+2 6 2
+2 7 1
+3 4 1
+3 5 1
+3 1 1
+3 7 1
+5 6 2
+5 2 3
+5 1 1
+5 8 2
+5 10 1
+5 11 1
+6 12 1
+6 1 1
+6 8 2
+6 2 2
+6 5 1
+7 4 1
+7 8 2
+7 10 2
+7 1 1
+8 1 1
+8 5 4
+8 12 1
+8 2 3
+8 4 1
+9 10 2
+10 2 1
+10 7 2
+10 5 2
+10 1 1
+10 9 1
+11 9 1
+11 5 1
+12 7 1
+12 8 2
+12 1 1
+12 5 2
+12 6 2
+12 2 2

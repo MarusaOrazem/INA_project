@@ -1,0 +1,80 @@
+*vertices 11
+1 "Sergio Guardiola Navarro" 0.0 0.0 ellipse
+2 "Daniele Verde" 0.0 0.0 ellipse
+3 "Miguel Alfonso Herrero Javaloyas" 0.0 0.0 ellipse
+4 "Anuar Mohamed Tuhami" 0.0 0.0 ellipse
+5 "Joaquín Fernández Moreno" 0.0 0.0 ellipse
+6 "Antonio Jesús Regal Angulo" 0.0 0.0 ellipse
+7 "Enes Ünal" 0.0 0.0 ellipse
+8 "José Ignacio Martínez García" 0.0 0.0 ellipse
+9 "Fernando Calero Villa" 0.0 0.0 ellipse
+10 "Jordi Masip López" 0.0 0.0 ellipse
+11 "Francisco José Olivas Alba" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 8 2
+1 4 2
+1 7 3
+2 3 6
+2 4 2
+2 9 1
+2 7 1
+2 8 2
+2 6 3
+3 4 3
+3 1 2
+3 9 3
+3 11 6
+3 7 2
+3 8 6
+3 5 2
+3 2 3
+3 6 1
+4 5 4
+4 10 1
+4 2 2
+4 7 2
+4 9 1
+4 6 3
+4 1 2
+4 8 3
+4 3 1
+4 11 1
+5 6 2
+5 11 3
+5 10 1
+6 7 2
+6 1 2
+6 4 2
+6 5 2
+6 2 1
+6 11 1
+7 1 2
+7 2 3
+7 4 4
+7 6 3
+7 3 1
+7 8 1
+8 1 5
+8 2 6
+8 9 2
+8 3 9
+8 4 1
+8 7 1
+9 8 6
+9 11 2
+9 10 1
+9 5 1
+9 2 1
+10 7 1
+10 8 1
+10 6 2
+10 4 1
+11 4 2
+11 9 5
+11 8 2
+11 2 1
+11 7 2
+11 3 5
+11 10 3
+11 1 1

@@ -1,0 +1,60 @@
+*vertices 11
+1 "Eugénie Le Sommer" 0.0 0.0 ellipse
+2 "Amel Majri" 0.0 0.0 ellipse
+3 "Wendie Renard" 0.0 0.0 ellipse
+4 "Kadidiatou Diani" 0.0 0.0 ellipse
+5 "Charlotte Bilbault" 0.0 0.0 ellipse
+6 "Eve Perisset" 0.0 0.0 ellipse
+7 "Viviane Asseyi" 0.0 0.0 ellipse
+8 "Griedge Mbock Bathy Nka" 0.0 0.0 ellipse
+9 "Amandine Henry" 0.0 0.0 ellipse
+10 "Sarah Bouhaddi" 0.0 0.0 ellipse
+11 "Gaëtane Thiney/Onema Grace Geyoro" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 4 1
+1 11 1
+2 1 7
+2 7 1
+2 3 3
+2 4 2
+2 8 1
+3 4 1
+3 2 6
+3 8 2
+3 9 1
+4 5 1
+4 1 1
+5 4 1
+5 6 3
+5 2 1
+5 7 1
+5 8 1
+6 10 1
+6 9 1
+6 7 4
+6 8 4
+6 4 1
+7 8 1
+7 6 3
+7 9 1
+7 1 1
+7 11 1
+8 9 3
+8 2 1
+8 7 1
+8 10 1
+8 6 1
+8 5 1
+9 5 1
+9 6 2
+9 2 3
+9 10 1
+9 1 1
+9 4 1
+9 7 2
+10 3 3
+11 5 1
+11 6 1
+11 1 1
+11 2 1

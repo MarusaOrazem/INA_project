@@ -1,0 +1,19 @@
+*vertices 9
+1 "Uche Henry Agbo" 0.0 0.0 ellipse
+2 "Edgar Antonio Méndez Ortega" 0.0 0.0 ellipse
+3 "Rubén Rochina Naixes" 0.0 0.0 ellipse
+4 OFF_goal 0.0 0.0 ellipse
+5 "Adalberto Peñaranda Maestre" 0.0 0.0 ellipse
+6 "Rene Krhin" 0.0 0.0 ellipse
+7 "Isaac Ajayi Success" 0.0 0.0 ellipse
+8 "Rubén Salvador Pérez Del Mármol" 0.0 0.0 ellipse
+9 "Cristiano Biraghi" 0.0 0.0 ellipse
+*arcs
+1 2 1
+3 4 1
+3 5 1
+3 7 1
+5 2 1
+6 3 1
+7 8 1
+8 9 1

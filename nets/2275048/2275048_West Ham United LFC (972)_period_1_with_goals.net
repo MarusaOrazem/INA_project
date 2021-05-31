@@ -1,0 +1,91 @@
+*vertices 13
+1 "Kate Longhurst" 0.0 0.0 ellipse
+2 "Katharina Baunach" 0.0 0.0 ellipse
+3 "So-Hyun Cho" 0.0 0.0 ellipse
+4 "Cecilie Redisch Kvamme" 0.0 0.0 ellipse
+5 "Gilly Louise Scarlett Flaherty" 0.0 0.0 ellipse
+6 "Martha Thomas" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Courtney Brosnan" 0.0 0.0 ellipse
+9 "Laura Vetterlein" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Adriana Leon/Jacinta Galabadaarachchi" 0.0 0.0 ellipse
+12 "Alisha Lehmann/Leanne Kiernan" 0.0 0.0 ellipse
+13 "Tessel Middag/Kenza Dali" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 4 3
+1 7 2
+1 9 6
+1 5 2
+1 6 1
+1 11 1
+1 12 2
+2 3 6
+2 8 1
+2 9 3
+2 5 1
+2 1 5
+2 6 3
+2 13 6
+2 11 1
+3 1 1
+3 5 1
+3 2 1
+3 4 1
+3 12 1
+3 13 2
+3 11 1
+4 5 2
+4 6 3
+4 1 2
+4 3 2
+4 8 1
+4 12 3
+4 13 7
+5 1 2
+5 6 2
+5 4 2
+5 9 2
+5 8 1
+5 3 1
+5 12 1
+5 13 3
+5 11 1
+6 7 3
+6 1 2
+6 10 1
+6 11 1
+6 12 1
+8 2 1
+8 6 1
+8 3 1
+8 5 1
+8 9 1
+8 13 1
+9 2 4
+9 5 1
+9 8 1
+9 3 1
+9 11 2
+11 3 1
+11 7 3
+11 1 2
+11 13 2
+11 6 1
+11 2 1
+11 9 1
+12 1 1
+12 6 1
+12 4 1
+12 11 1
+12 2 1
+13 9 1
+13 2 2
+13 1 4
+13 5 1
+13 6 2
+13 7 3
+13 4 2
+13 11 2
+13 12 3

@@ -1,0 +1,109 @@
+*vertices 13
+1 "Karim Benzema" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+3 "Marcelo Vieira da Silva Júnior" 0.0 0.0 ellipse
+4 "Xabier Alonso Olano" 0.0 0.0 ellipse
+5 "Cristiano Ronaldo dos Santos Aveiro" 0.0 0.0 ellipse
+6 "Fábio Alexandre da Silva Coentrão" 0.0 0.0 ellipse
+7 "Sergio Ramos García" 0.0 0.0 ellipse
+8 "Iker Casillas Fernández" 0.0 0.0 ellipse
+9 "Kléper Laveran Lima Ferreira" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Mesut Özil/Ricardo Izecson dos Santos Leite" 0.0 0.0 ellipse
+12 "Lassana Diarra/Sami Khedira" 0.0 0.0 ellipse
+13 "Ángel Fabián Di María Hernández/Gonzalo Gerardo Higuaín" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 2
+1 5 6
+1 4 4
+1 10 3
+1 3 1
+1 11 3
+1 12 1
+1 13 3
+3 4 7
+3 1 8
+3 7 6
+3 5 5
+3 9 1
+3 11 4
+3 12 4
+3 13 3
+4 5 9
+4 1 5
+4 3 12
+4 10 1
+4 7 3
+4 6 5
+4 9 1
+4 11 1
+4 12 2
+5 4 5
+5 1 5
+5 3 3
+5 2 2
+5 10 5
+5 9 2
+5 11 4
+5 12 1
+5 13 1
+6 7 1
+6 9 6
+6 8 3
+6 1 1
+6 5 1
+6 4 1
+6 11 2
+6 12 1
+6 13 6
+7 4 2
+7 3 6
+7 5 6
+7 9 3
+7 1 1
+7 8 2
+7 11 2
+7 12 1
+7 13 1
+8 3 2
+8 7 5
+8 5 2
+8 9 1
+8 13 1
+8 11 1
+9 7 2
+9 6 3
+9 4 4
+9 3 1
+9 8 1
+9 11 2
+9 12 1
+9 13 1
+11 10 1
+11 3 1
+11 5 5
+11 1 1
+11 6 1
+11 9 1
+11 4 4
+11 12 2
+11 13 1
+11 2 1
+11 7 2
+12 4 2
+12 9 1
+12 6 1
+12 7 3
+12 10 1
+12 3 2
+12 1 2
+12 5 1
+12 11 1
+12 13 2
+13 1 4
+13 5 1
+13 9 1
+13 3 2
+13 11 4
+13 12 1

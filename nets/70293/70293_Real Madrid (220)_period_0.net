@@ -1,0 +1,88 @@
+*vertices 11
+1 "Luka Modrić" 0.0 0.0 ellipse
+2 "Daniel Carvajal Ramos" 0.0 0.0 ellipse
+3 "Cristiano Ronaldo dos Santos Aveiro" 0.0 0.0 ellipse
+4 "Gareth Frank Bale" 0.0 0.0 ellipse
+5 "Kléper Laveran Lima Ferreira" 0.0 0.0 ellipse
+6 "Diego López Rodríguez" 0.0 0.0 ellipse
+7 "Marcelo Vieira da Silva Júnior" 0.0 0.0 ellipse
+8 "Sergio Ramos García" 0.0 0.0 ellipse
+9 "Ángel Fabián Di María Hernández" 0.0 0.0 ellipse
+10 "Sami Khedira" 0.0 0.0 ellipse
+11 "Raphaël Varane" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 7
+1 7 4
+1 6 1
+1 9 2
+1 8 1
+1 4 3
+1 10 1
+1 11 1
+2 3 1
+2 11 5
+2 9 3
+2 10 3
+2 4 1
+2 5 1
+2 1 1
+2 8 1
+3 4 1
+3 5 1
+3 9 1
+3 1 1
+3 11 1
+3 7 1
+3 8 2
+3 10 2
+4 1 2
+4 10 4
+4 9 1
+4 8 2
+4 2 1
+4 11 2
+5 6 2
+5 11 4
+5 7 6
+5 1 2
+5 4 1
+5 8 1
+6 7 1
+6 4 2
+6 1 1
+6 5 2
+6 11 1
+7 8 2
+7 1 6
+7 4 1
+7 5 2
+7 9 5
+7 3 1
+8 9 1
+8 10 3
+8 1 2
+8 4 3
+8 11 5
+8 5 1
+8 7 1
+9 3 3
+9 10 3
+9 2 1
+9 7 3
+9 1 1
+10 3 2
+10 9 1
+10 2 3
+10 8 3
+10 5 2
+10 4 3
+11 2 2
+11 5 8
+11 9 1
+11 1 4
+11 4 1
+11 8 1
+11 6 1
+11 3 1
+11 10 1

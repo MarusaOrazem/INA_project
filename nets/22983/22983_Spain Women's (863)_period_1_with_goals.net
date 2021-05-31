@@ -1,0 +1,108 @@
+*vertices 13
+1 "María Pilar León Cebrián" 0.0 0.0 ellipse
+2 "Irene Paredes Hernandez" 0.0 0.0 ellipse
+3 "Leila Ouahabi El Ouahabi" 0.0 0.0 ellipse
+4 "Virginia Torrecilla Reyes" 0.0 0.0 ellipse
+5 "Marta Corredera Rueda" 0.0 0.0 ellipse
+6 "Jennifer Hermoso Fuentes" 0.0 0.0 ellipse
+7 "Patricia Guijarro Gutiérrez" 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Sandra Paños García-Villamil" 0.0 0.0 ellipse
+11 "Nahikari García Pérez/Alexia Putellas Segura" 0.0 0.0 ellipse
+12 "Lucía García Córdoba/Celia Jiménez Delgado" 0.0 0.0 ellipse
+13 "Mariona Caldentey Oliver/Andrea Sánchez Falcón" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 5 1
+1 4 4
+1 7 3
+1 6 2
+1 10 1
+1 13 1
+1 11 2
+2 6 2
+2 5 3
+2 1 3
+2 10 4
+2 8 1
+2 7 2
+2 4 2
+2 3 1
+2 13 3
+2 11 3
+3 4 4
+3 1 5
+3 2 2
+3 6 1
+3 10 1
+3 5 1
+3 7 1
+3 8 1
+3 13 2
+3 11 3
+3 12 1
+4 7 3
+4 3 2
+4 1 5
+4 6 3
+4 10 1
+4 2 1
+4 12 1
+4 13 5
+4 11 5
+5 4 3
+5 7 1
+5 6 2
+5 2 5
+5 8 1
+5 11 1
+5 12 8
+6 7 3
+6 5 5
+6 4 1
+6 3 1
+6 2 1
+6 8 1
+6 9 1
+6 11 2
+6 12 5
+6 13 2
+7 5 2
+7 1 1
+7 8 2
+7 9 3
+7 4 2
+7 2 2
+7 6 2
+7 3 1
+7 13 4
+7 11 1
+10 1 2
+10 7 1
+10 6 2
+10 4 1
+10 2 1
+10 11 1
+11 1 1
+11 8 1
+11 6 4
+11 5 2
+11 4 5
+11 7 4
+11 9 2
+11 2 2
+11 3 1
+11 12 3
+12 5 3
+12 6 5
+12 8 1
+12 7 1
+12 3 1
+12 11 2
+12 4 1
+13 3 7
+13 7 1
+13 6 3
+13 9 1
+13 11 1

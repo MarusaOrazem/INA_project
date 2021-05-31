@@ -1,0 +1,72 @@
+*vertices 11
+1 "Jae-Sung Lee" 0.0 0.0 ellipse
+2 "Young-Gwon Kim" 0.0 0.0 ellipse
+3 "Shin-Wook Kim" 0.0 0.0 ellipse
+4 "Sung-Yeung Ki" 0.0 0.0 ellipse
+5 "Yong Lee" 0.0 0.0 ellipse
+6 "Hyun-Soo Jang" 0.0 0.0 ellipse
+7 "Hyun-Woo Cho" 0.0 0.0 ellipse
+8 "Hee-Chan Hwang" 0.0 0.0 ellipse
+9 "Heung-Min Son" 0.0 0.0 ellipse
+10 "Ja-Cheol Koo" 0.0 0.0 ellipse
+11 "Joo-Ho Park/Min-Woo Kim" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 5 5
+1 6 3
+1 9 1
+1 8 1
+1 11 1
+2 3 2
+2 4 1
+2 10 2
+2 6 2
+2 8 1
+2 11 2
+3 8 1
+3 5 1
+3 9 1
+3 11 1
+4 5 4
+4 6 2
+4 8 2
+4 9 2
+4 10 2
+4 1 2
+4 2 2
+4 11 2
+5 1 7
+5 6 5
+5 8 2
+5 4 1
+5 10 1
+5 9 1
+6 2 1
+6 5 5
+6 4 4
+6 7 3
+6 10 1
+6 9 1
+6 8 1
+6 11 1
+7 3 4
+7 5 1
+7 2 2
+8 1 1
+8 2 1
+8 10 3
+9 2 1
+9 1 2
+9 11 1
+10 3 2
+10 2 1
+10 4 2
+10 5 1
+10 8 1
+10 11 2
+11 2 1
+11 9 2
+11 10 2
+11 3 1
+11 1 1
+11 8 2

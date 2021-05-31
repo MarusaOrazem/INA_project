@@ -1,0 +1,86 @@
+*vertices 12
+1 "Luis Fernando Muriel Fruto" 0.0 0.0 ellipse
+2 "Simon Thorup Kjær" 0.0 0.0 ellipse
+3 "Sergio Escudero Palomo" 0.0 0.0 ellipse
+4 "Clément Lenglet" 0.0 0.0 ellipse
+5 "Éver Maximiliano David Banega" 0.0 0.0 ellipse
+6 "Steven N"Kemboanza Mike Christopher Nzonzi" 0.0 0.0 ellipse
+7 "Gabriel Iván Mercado" 0.0 0.0 ellipse
+8 "Jesús Navas González" 0.0 0.0 ellipse
+9 "Franco Damián Vázquez" 0.0 0.0 ellipse
+10 "Carlos Joaquín Correa" 0.0 0.0 ellipse
+11 "Sergio Rico González" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 12 3
+1 3 2
+1 10 1
+1 9 1
+1 8 1
+2 5 4
+2 4 3
+2 6 2
+2 7 1
+2 11 2
+2 8 1
+3 4 3
+3 5 6
+3 9 3
+3 1 2
+3 2 1
+3 7 1
+3 6 1
+3 10 1
+4 2 2
+4 5 7
+4 9 1
+4 6 3
+4 3 2
+4 8 2
+5 2 5
+5 6 8
+5 9 3
+5 10 1
+5 3 6
+5 4 1
+5 11 1
+5 1 1
+5 8 2
+6 4 7
+6 7 5
+6 11 1
+6 3 2
+6 5 4
+6 10 1
+6 8 2
+6 1 2
+6 2 2
+6 9 1
+7 8 3
+7 2 5
+7 9 3
+7 6 3
+7 1 1
+7 4 1
+8 7 3
+8 6 1
+8 9 2
+8 4 1
+8 10 2
+8 1 1
+9 8 1
+9 10 4
+9 3 2
+9 5 3
+9 12 1
+9 1 1
+9 6 1
+10 4 1
+10 12 2
+10 9 2
+10 1 1
+10 3 2
+11 6 1
+11 5 1
+11 7 1

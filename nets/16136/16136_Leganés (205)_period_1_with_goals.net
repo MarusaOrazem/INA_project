@@ -1,0 +1,75 @@
+*vertices 13
+1 "José Luis García del Pozo" 0.0 0.0 ellipse
+2 "Youssef En-Nesyri" 0.0 0.0 ellipse
+3 "Jonathan Cristian Silva" 0.0 0.0 ellipse
+4 "Iván Cuéllar Sacristán" 0.0 0.0 ellipse
+5 "Rodrigo Tarín Higón" 0.0 0.0 ellipse
+6 "Kenneth Josiah Omeruo" 0.0 0.0 ellipse
+7 "Allan Romeo Nyom" 0.0 0.0 ellipse
+8 "Dimitrios Siovas" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Martin Braithwaite Christensen/Michael Nicolás Santos Rosadilla" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Mikel Vesga Arruti/Javier Eraso Goñi" 0.0 0.0 ellipse
+13 "Óscar Rodríguez Arnaiz/Nabil El Zhar" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 5 3
+1 7 3
+1 3 3
+1 8 1
+1 10 2
+1 12 1
+1 13 3
+2 3 2
+2 6 1
+2 9 1
+2 7 1
+2 5 1
+2 10 1
+2 13 3
+3 2 1
+3 12 2
+3 10 1
+4 2 2
+4 8 2
+5 1 2
+5 7 2
+5 4 1
+5 6 2
+5 2 2
+5 13 1
+6 1 1
+6 7 1
+6 3 2
+6 5 1
+6 12 2
+7 1 2
+7 2 1
+7 8 1
+7 12 1
+7 13 5
+8 4 1
+8 3 2
+8 1 1
+8 2 1
+8 10 1
+10 11 1
+10 5 1
+10 9 1
+10 1 1
+10 13 1
+12 7 2
+12 6 1
+12 1 2
+12 5 1
+12 3 2
+12 4 1
+12 10 1
+13 1 4
+13 11 1
+13 2 1
+13 5 1
+13 8 1
+13 12 2
+13 7 1

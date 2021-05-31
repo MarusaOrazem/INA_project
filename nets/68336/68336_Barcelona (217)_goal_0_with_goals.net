@@ -1,0 +1,75 @@
+*vertices 13
+1 "Gianluca Zambrotta" 0.0 0.0 ellipse
+2 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+3 "Xavier Hernández Creus" 0.0 0.0 ellipse
+4 "Giovanni van Bronckhorst" 0.0 0.0 ellipse
+5 "Carles Puyol i Saforcada" 0.0 0.0 ellipse
+6 "Lilian Thuram" 0.0 0.0 ellipse
+7 "Ronaldo de Assis Moreira" 0.0 0.0 ellipse
+8 "Samuel Eto"o Fils" 0.0 0.0 ellipse
+9 "Anderson Luís de Souza" 0.0 0.0 ellipse
+10 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+11 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 6 4
+1 5 1
+1 3 4
+1 11 3
+2 3 4
+2 1 6
+2 5 3
+2 9 2
+2 4 2
+2 7 1
+3 4 1
+3 5 2
+3 11 3
+3 6 4
+3 1 1
+3 9 3
+3 8 1
+4 7 7
+4 8 2
+4 9 2
+4 3 1
+4 5 1
+5 6 5
+5 4 7
+5 2 1
+5 3 1
+6 1 3
+6 5 3
+6 2 4
+6 3 6
+6 9 1
+6 11 1
+6 8 1
+7 4 2
+7 8 4
+7 12 1
+7 9 1
+7 11 1
+8 9 3
+8 2 1
+8 12 3
+8 1 1
+8 7 1
+8 11 1
+9 5 1
+9 2 1
+9 4 1
+9 7 3
+9 6 1
+9 1 1
+9 8 2
+9 11 1
+10 6 3
+10 4 2
+11 9 1
+11 8 2
+11 13 1
+11 1 1
+11 5 1

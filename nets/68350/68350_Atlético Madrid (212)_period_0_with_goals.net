@@ -1,0 +1,85 @@
+*vertices 13
+1 "Maximiliano Rubén Rodríguez" 0.0 0.0 ellipse
+2 "Peter Luccin" 0.0 0.0 ellipse
+3 "Fernando José Torres Sanz" 0.0 0.0 ellipse
+4 "Luciano Martín Galletti" 0.0 0.0 ellipse
+5 "Ariel Miguel Santiago Ibagaza" 0.0 0.0 ellipse
+6 "Luis Amaranto Perea Mosquera" 0.0 0.0 ellipse
+7 "Leonardo Neoren Franco" 0.0 0.0 ellipse
+8 "Francisco José Molinero Calderón" 0.0 0.0 ellipse
+9 "Antonio López Guerrero" 0.0 0.0 ellipse
+10 "Pablo Ibáñez Tébar" 0.0 0.0 ellipse
+11 "Martin Petrov" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 9 2
+1 4 2
+1 3 1
+1 5 1
+2 3 1
+2 8 3
+2 1 1
+2 5 6
+2 6 1
+2 9 2
+3 4 2
+3 5 3
+3 9 1
+3 1 1
+3 2 1
+3 11 1
+3 12 1
+3 13 1
+4 3 2
+4 8 5
+4 1 1
+4 2 3
+4 11 3
+4 10 2
+4 5 2
+5 3 5
+5 1 1
+5 4 2
+5 8 3
+5 11 4
+5 10 1
+5 2 1
+5 9 1
+6 7 1
+6 4 2
+6 5 2
+6 9 2
+6 10 2
+6 2 1
+6 11 1
+7 3 6
+7 9 1
+7 11 1
+7 4 1
+8 4 5
+8 1 2
+8 5 2
+8 12 1
+8 9 1
+9 1 3
+9 2 5
+9 10 1
+9 4 1
+9 5 2
+9 3 2
+9 11 1
+10 1 1
+10 2 2
+10 4 2
+10 8 1
+10 6 1
+10 3 1
+10 5 1
+11 9 2
+11 2 1
+11 1 2
+11 6 1
+11 12 1
+11 13 1

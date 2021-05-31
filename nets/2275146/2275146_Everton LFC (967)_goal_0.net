@@ -1,0 +1,25 @@
+*vertices 9
+1 "Maéva Clemaron" 0.0 0.0 ellipse
+2 "Megan Finnigan" 0.0 0.0 ellipse
+3 "Danielle Turner" 0.0 0.0 ellipse
+4 "Gabrielle George" 0.0 0.0 ellipse
+5 "Lucy Graham" 0.0 0.0 ellipse
+6 "Esme Beth Morgan" 0.0 0.0 ellipse
+7 "Chloe Kelly" 0.0 0.0 ellipse
+8 "Simone Magill" 0.0 0.0 ellipse
+9 "Molly Pike" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+2 1 1
+2 6 2
+3 1 2
+3 4 1
+3 7 1
+5 6 1
+6 7 1
+6 2 1
+6 8 1
+7 8 1
+8 9 1
+9 3 1

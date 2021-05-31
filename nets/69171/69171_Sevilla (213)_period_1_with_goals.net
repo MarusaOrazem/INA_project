@@ -1,0 +1,82 @@
+*vertices 12
+1 "Frédéric Oumar Kanouté" 0.0 0.0 ellipse
+2 "Adriano Correia Claro" 0.0 0.0 ellipse
+3 "Federico Julián Fazio" 0.0 0.0 ellipse
+4 "Aquivaldo Mosquera Romaña" 0.0 0.0 ellipse
+5 "Luís Fabiano Clemente" 0.0 0.0 ellipse
+6 "Julien Escudé" 0.0 0.0 ellipse
+7 "Fernando Navarro i Corbacho" 0.0 0.0 ellipse
+8 "Andrés Palop Cervera" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Tom De Mul/Diego Ángel Capel Trinidad" 0.0 0.0 ellipse
+11 "Enzo Maresca/Christian Koffi Romaric N"Dri" 0.0 0.0 ellipse
+12 "Sébastien Squillaci/Renato Dirnei Florencio" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 3 4
+1 6 3
+1 11 3
+1 10 1
+2 3 1
+2 1 3
+2 7 1
+2 5 2
+2 11 1
+2 12 1
+3 1 4
+3 2 1
+3 4 2
+3 5 1
+3 7 1
+3 8 2
+3 6 1
+3 11 2
+3 12 2
+4 5 2
+4 1 2
+4 8 2
+4 3 2
+4 12 1
+5 9 2
+5 1 1
+5 4 1
+5 2 1
+5 10 1
+5 11 1
+6 5 1
+6 7 4
+6 2 1
+6 8 2
+6 3 1
+6 10 1
+7 2 3
+7 5 1
+7 1 1
+7 6 2
+7 10 2
+7 11 1
+8 1 2
+8 2 1
+8 6 2
+8 7 2
+8 5 1
+8 3 2
+8 4 1
+10 6 1
+10 4 1
+10 1 1
+10 3 1
+10 12 1
+11 1 4
+11 2 1
+11 5 2
+11 3 1
+11 7 2
+11 12 1
+12 1 1
+12 4 1
+12 6 1
+12 10 1
+12 3 4
+12 5 1
+12 11 1

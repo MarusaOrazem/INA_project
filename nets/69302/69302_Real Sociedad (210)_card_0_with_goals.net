@@ -1,0 +1,95 @@
+*vertices 12
+1 "Gorka Elustondo Urkola" 0.0 0.0 ellipse
+2 "Alberto De La Bella Madureño" 0.0 0.0 ellipse
+3 "Mikel González de Martín Martínez" 0.0 0.0 ellipse
+4 "Jon Ansotegi Gorostola" 0.0 0.0 ellipse
+5 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+6 "Antoine Griezmann" 0.0 0.0 ellipse
+7 "Diego Rivas Gutiérrez" 0.0 0.0 ellipse
+8 "Carlos Martínez Díez" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Mikel Aranburu Eizagirre/David Zurutuza Veillet" 0.0 0.0 ellipse
+11 "Joseba Llorente Etxarri/Raúl Tamudo Montero" 0.0 0.0 ellipse
+12 "Xabier Prieto Argarate/Jeffrey Sarpong" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 5
+1 6 3
+1 7 3
+1 5 3
+1 8 1
+1 3 1
+1 10 1
+1 11 1
+1 12 1
+2 7 5
+2 4 2
+2 6 10
+2 1 1
+2 10 1
+2 11 4
+2 12 2
+3 1 2
+3 8 3
+3 10 2
+3 11 1
+3 12 1
+4 3 1
+4 5 2
+4 6 2
+4 1 1
+4 8 1
+4 12 1
+4 10 1
+5 6 2
+5 4 1
+5 10 1
+5 12 10
+5 11 1
+6 2 5
+6 9 1
+6 7 2
+6 1 1
+6 10 3
+6 11 1
+6 12 2
+7 2 5
+7 6 2
+7 4 2
+7 5 3
+7 1 2
+7 3 1
+7 10 2
+7 12 1
+8 1 7
+8 7 1
+8 5 1
+8 6 2
+8 10 2
+8 11 1
+8 12 6
+10 8 3
+10 7 3
+10 6 2
+10 2 2
+10 1 1
+10 4 2
+10 11 1
+10 12 2
+11 1 1
+11 6 2
+11 8 2
+11 2 3
+11 10 1
+11 12 2
+11 9 1
+11 7 1
+12 1 2
+12 3 1
+12 8 10
+12 6 2
+12 7 1
+12 5 1
+12 2 1
+12 10 1
+12 11 1

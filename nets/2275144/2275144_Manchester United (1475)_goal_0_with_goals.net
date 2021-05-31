@@ -1,0 +1,55 @@
+*vertices 12
+1 "Kirsty Smith" 0.0 0.0 ellipse
+2 "Jane Ross" 0.0 0.0 ellipse
+3 "Abbie McManus" 0.0 0.0 ellipse
+4 "Lotta Ökvist" 0.0 0.0 ellipse
+5 "Ella Toone" 0.0 0.0 ellipse
+6 "Millie Turner" 0.0 0.0 ellipse
+7 "Mary Alexandra Earps" 0.0 0.0 ellipse
+8 "Jessica Sigsworth" 0.0 0.0 ellipse
+9 "Leah Galton" 0.0 0.0 ellipse
+10 "Hayley Ladd" 0.0 0.0 ellipse
+11 "Jackie Groenen" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 11 2
+1 3 1
+2 3 1
+2 4 2
+2 9 2
+2 12 1
+2 5 1
+3 7 1
+3 1 1
+3 6 1
+3 11 1
+3 10 1
+4 5 3
+4 6 3
+4 2 7
+5 10 1
+5 4 1
+5 12 2
+5 9 1
+6 3 1
+6 7 2
+6 10 1
+6 4 2
+6 9 1
+7 8 1
+7 4 1
+7 3 1
+8 11 1
+9 10 1
+9 8 1
+9 11 1
+10 6 2
+10 1 1
+10 2 2
+10 11 2
+10 9 1
+11 10 2
+11 6 2
+11 9 1
+11 3 1

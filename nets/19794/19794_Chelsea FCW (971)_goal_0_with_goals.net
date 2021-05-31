@@ -1,0 +1,20 @@
+*vertices 7
+1 "Carly Mitchell Telford" 0.0 0.0 ellipse
+2 "Deanna Cooper" 0.0 0.0 ellipse
+3 "Hannah Jayne Blundell" 0.0 0.0 ellipse
+4 "Erin Cuthbert" 0.0 0.0 ellipse
+5 "So-yun Ji" 0.0 0.0 ellipse
+6 "Magdalena Ericsson" 0.0 0.0 ellipse
+7 "Francesca Kirby" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 1
+2 3 1
+2 1 1
+2 6 1
+3 4 1
+4 3 1
+4 7 1
+5 4 1
+6 2 2
+6 4 1

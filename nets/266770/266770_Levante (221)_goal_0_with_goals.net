@@ -1,0 +1,56 @@
+*vertices 13
+1 "David Barral Torres" 0.0 0.0 ellipse
+2 "Víctor Casadesús Castaño" 0.0 0.0 ellipse
+3 "Papa Kouly Diop" 0.0 0.0 ellipse
+4 "Pedro López Muñoz" 0.0 0.0 ellipse
+5 "Héctor Rodas Ramírez" 0.0 0.0 ellipse
+6 "José Luis Morales Nogales" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Víctor Camarasa Ferrando" 0.0 0.0 ellipse
+9 "Jesús Fernández Collado" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Antonio García Aranda" 0.0 0.0 ellipse
+12 "Simão Mate" 0.0 0.0 ellipse
+13 "Loukas Vyntra" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 8 1
+1 3 1
+1 6 1
+1 11 1
+1 7 1
+1 12 1
+2 3 3
+2 4 1
+2 1 1
+3 4 1
+3 5 1
+3 2 2
+3 10 1
+3 6 1
+4 3 3
+4 1 1
+4 2 3
+4 6 1
+4 13 1
+5 6 1
+5 9 1
+6 7 2
+6 1 2
+6 12 1
+6 3 1
+8 4 1
+8 6 1
+8 2 1
+8 12 1
+9 2 2
+11 2 1
+11 1 4
+12 11 1
+12 13 1
+12 4 1
+12 2 1
+12 1 1
+13 9 1
+13 8 1
+13 5 1

@@ -1,0 +1,102 @@
+*vertices 13
+1 "Alanna Kennedy" 0.0 0.0 ellipse
+2 "Sydney Leroux" 0.0 0.0 ellipse
+3 "Carson Pickett" 0.0 0.0 ellipse
+4 "Poliana Barbosa Medeiros" 0.0 0.0 ellipse
+5 "Kristen Edmonds" 0.0 0.0 ellipse
+6 "Emily van Egmond" 0.0 0.0 ellipse
+7 "Monica Hickmann Alves" 0.0 0.0 ellipse
+8 "Haley Judith Kopmeyer" 0.0 0.0 ellipse
+9 "Shelina Zadorsky" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Chioma Ubogagu/Danica Evans" 0.0 0.0 ellipse
+13 "Dani Weatherholt/Christine Nairn" 0.0 0.0 ellipse
+*arcs
+1 2 10
+1 5 2
+1 4 2
+1 7 2
+1 8 1
+1 9 3
+1 3 5
+1 10 1
+1 6 3
+1 12 1
+1 13 2
+2 3 2
+2 1 4
+2 10 3
+2 6 7
+2 12 2
+3 1 3
+3 9 4
+3 2 5
+3 8 1
+3 6 4
+3 12 2
+3 13 2
+4 1 9
+4 6 4
+4 2 3
+4 7 1
+4 10 3
+4 9 1
+4 12 2
+4 13 1
+5 4 1
+5 6 11
+5 3 3
+5 2 2
+5 10 1
+5 1 2
+5 7 1
+5 12 3
+6 2 7
+6 1 2
+6 3 2
+6 5 3
+6 11 1
+6 4 1
+6 12 4
+6 13 1
+7 4 7
+7 1 5
+7 5 2
+7 9 1
+7 8 1
+7 6 2
+7 12 2
+7 13 1
+8 6 4
+8 9 2
+8 3 2
+8 2 1
+8 7 1
+8 13 1
+9 8 7
+9 6 1
+9 1 5
+9 5 2
+9 2 1
+9 4 1
+9 12 1
+12 10 1
+12 2 2
+12 6 1
+12 1 2
+12 3 2
+12 4 4
+12 5 1
+12 11 1
+12 13 1
+13 1 1
+13 3 3
+13 7 1
+13 4 1
+13 6 2
+13 2 1
+13 9 1
+13 5 1
+13 10 1
+13 12 1

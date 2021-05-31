@@ -1,0 +1,105 @@
+*vertices 13
+1 "Germán Darío Lux" 0.0 0.0 ellipse
+2 "Fernando Navarro i Corbacho" 0.0 0.0 ellipse
+3 "Laureano Sanabria Ruiz" 0.0 0.0 ellipse
+4 "Alejandro Bergantiños García" 0.0 0.0 ellipse
+5 "Lucas Pérez Martínez" 0.0 0.0 ellipse
+6 "Sidnei Rechel da Silva Júnior" 0.0 0.0 ellipse
+7 "Fayçal Fajr" 0.0 0.0 ellipse
+8 "Alejandro Arribas Garrido" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Luis Carlos Correia Pinto/Juan Domínguez Lamas" 0.0 0.0 ellipse
+12 "Jonathan Javier Rodríguez Portillo/Luis Alberto Romero Alconchel" 0.0 0.0 ellipse
+13 "Juan Francisco Moreno Fuertes/Miguel Filipe Nunes Cardoso" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 3
+1 6 2
+1 4 5
+1 5 3
+1 8 1
+1 7 3
+1 12 1
+1 13 2
+2 4 2
+2 8 1
+2 6 3
+2 7 2
+2 5 3
+2 11 2
+2 12 3
+2 13 1
+3 4 6
+3 5 6
+3 8 5
+3 7 4
+3 12 1
+3 13 6
+3 11 1
+4 3 6
+4 5 4
+4 7 5
+4 2 2
+4 1 1
+4 8 2
+4 6 2
+4 10 1
+4 11 4
+4 12 1
+4 13 2
+5 3 2
+5 7 4
+5 4 4
+5 9 1
+5 2 1
+5 10 1
+5 12 4
+5 13 2
+5 11 2
+6 3 1
+6 1 2
+6 7 3
+6 2 3
+6 8 1
+6 5 1
+6 4 1
+6 13 2
+7 6 2
+7 2 3
+7 4 4
+7 3 5
+7 5 5
+7 8 1
+7 9 1
+7 11 3
+7 12 2
+7 13 3
+8 4 2
+8 1 3
+8 3 2
+8 6 3
+8 2 1
+8 11 1
+11 7 3
+11 2 3
+11 5 2
+11 13 1
+11 4 4
+11 9 1
+11 8 2
+12 7 2
+12 10 2
+12 5 2
+12 2 1
+12 9 1
+12 4 1
+12 11 1
+12 13 1
+13 7 2
+13 3 1
+13 5 4
+13 4 1
+13 11 1
+13 12 1
+13 9 3

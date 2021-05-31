@@ -1,0 +1,85 @@
+*vertices 13
+1 "Kléper Laveran Lima Ferreira" 0.0 0.0 ellipse
+2 "Sergio Ramos García" 0.0 0.0 ellipse
+3 "Luka Modrić" 0.0 0.0 ellipse
+4 "Gareth Frank Bale" 0.0 0.0 ellipse
+5 OFF_goal 0.0 0.0 ellipse
+6 "Cristiano Ronaldo dos Santos Aveiro" 0.0 0.0 ellipse
+7 "Keylor Navas Gamboa" 0.0 0.0 ellipse
+8 "Marcelo Vieira da Silva Júnior" 0.0 0.0 ellipse
+9 "Carlos Henrique Casimiro" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Daniel Carvajal Ramos/Danilo Luiz da Silva" 0.0 0.0 ellipse
+12 "Toni Kroos/Francisco Román Alarcón Suárez" 0.0 0.0 ellipse
+13 "Karim Benzema/Lucas Vázquez Iglesias" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 2
+1 7 1
+1 9 4
+1 6 1
+2 6 1
+2 8 4
+2 9 1
+2 1 1
+2 12 1
+2 13 1
+3 4 5
+3 2 1
+3 9 5
+3 6 1
+3 8 2
+3 12 3
+3 13 1
+3 11 1
+4 5 7
+4 8 2
+4 2 2
+4 6 2
+4 3 1
+4 12 2
+4 13 1
+4 11 1
+6 3 2
+6 4 2
+6 10 2
+6 13 3
+6 11 1
+6 12 3
+7 6 1
+7 8 1
+7 13 2
+7 11 1
+8 6 1
+8 4 8
+8 9 2
+8 12 4
+8 13 3
+9 7 1
+9 6 3
+9 8 4
+9 4 3
+9 3 5
+9 12 2
+9 11 5
+9 13 2
+11 7 1
+11 1 2
+11 3 5
+11 6 2
+11 13 2
+12 1 2
+12 3 1
+12 4 3
+12 2 1
+12 6 1
+12 8 3
+12 13 3
+12 7 1
+12 9 3
+13 8 2
+13 10 1
+13 12 3
+13 11 1
+13 3 2
+13 1 1

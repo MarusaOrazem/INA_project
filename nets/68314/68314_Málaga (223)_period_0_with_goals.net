@@ -1,0 +1,65 @@
+*vertices 12
+1 "Edgar Patricio De Carvalho Pacheco" 0.0 0.0 ellipse
+2 "Juan Antonio Rodríguez Villamuela" 0.0 0.0 ellipse
+3 "Márcio Amoroso dos Santos" 0.0 0.0 ellipse
+4 "Miguel Ángel Lozano Ayala" 0.0 0.0 ellipse
+5 OFF_goal 0.0 0.0 ellipse
+6 "Juan Jesús Calatayud Sánchez" 0.0 0.0 ellipse
+7 "Fernando Sanz Durán" 0.0 0.0 ellipse
+8 "Raúl Iznata Zabala" 0.0 0.0 ellipse
+9 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+10 "Carlos Manuel de Oliveira Magalhães" 0.0 0.0 ellipse
+11 "Juan Jesús Gutiérrez Robles" 0.0 0.0 ellipse
+12 "Antonio Manuel Sánchez Gómez/Sérgio Paulo Barbosa Valente" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+2 4 3
+2 3 2
+2 9 2
+2 8 2
+2 12 1
+3 4 4
+3 2 2
+3 11 2
+3 1 4
+3 12 1
+4 5 1
+4 11 3
+4 2 3
+4 3 3
+4 8 3
+4 10 1
+4 12 1
+6 7 1
+6 3 1
+6 2 3
+6 8 1
+6 12 1
+7 8 2
+7 1 1
+7 3 1
+7 4 1
+8 1 1
+8 4 3
+8 3 3
+8 2 1
+8 11 1
+9 10 2
+9 2 2
+9 3 1
+9 4 1
+10 9 1
+10 11 3
+10 4 1
+11 2 2
+11 4 1
+11 9 1
+11 10 2
+11 7 1
+11 3 1
+12 3 1
+12 4 1
+12 11 1
+12 2 2
+12 5 1

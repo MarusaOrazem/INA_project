@@ -1,0 +1,38 @@
+*vertices 11
+1 "Kalidou Koulibaly" 0.0 0.0 ellipse
+2 "Ismaïla Sarr" 0.0 0.0 ellipse
+3 "Moussa Wagué" 0.0 0.0 ellipse
+4 "Papa Alioune N"Diaye" 0.0 0.0 ellipse
+5 "Sadio Mané" 0.0 0.0 ellipse
+6 "Alfred John Momar N"Diaye" 0.0 0.0 ellipse
+7 "M"Baye Babacar Niang" 0.0 0.0 ellipse
+8 "Idrissa Gana Gueye" 0.0 0.0 ellipse
+9 "Youssouf Sabaly" 0.0 0.0 ellipse
+10 "Khadim N"Diaye" 0.0 0.0 ellipse
+11 "Salif Sané" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 1
+2 3 3
+2 7 2
+3 4 3
+3 2 2
+3 5 1
+3 7 1
+4 3 2
+4 2 1
+4 9 1
+4 6 1
+6 4 1
+6 8 1
+6 2 2
+6 11 2
+6 1 3
+7 2 1
+7 8 1
+7 4 1
+7 3 2
+8 6 1
+9 6 1
+10 7 1
+11 6 3

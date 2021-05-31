@@ -1,0 +1,94 @@
+*vertices 12
+1 "Jae-Sung Lee" 0.0 0.0 ellipse
+2 "Hee-Chan Hwang" 0.0 0.0 ellipse
+3 "Sung-Yeung Ki" 0.0 0.0 ellipse
+4 "Min-Woo Kim" 0.0 0.0 ellipse
+5 "Young-Gwon Kim" 0.0 0.0 ellipse
+6 "Yong Lee" 0.0 0.0 ellipse
+7 "Hyun-Soo Jang" 0.0 0.0 ellipse
+8 "Heung-Min Son" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Hyun-Woo Cho" 0.0 0.0 ellipse
+11 "Shin-Wook Kim/Woo-Young Jung" 0.0 0.0 ellipse
+12 "Ja-Cheol Koo/Seung-Woo Lee" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 1
+1 7 1
+1 6 2
+1 8 4
+1 5 1
+1 3 1
+1 11 2
+1 12 1
+2 3 1
+2 8 1
+2 6 1
+2 9 1
+3 4 2
+3 8 3
+3 10 2
+3 5 3
+3 7 3
+3 1 3
+3 6 4
+3 12 2
+3 11 2
+4 5 3
+4 9 1
+4 3 1
+4 12 2
+4 11 5
+5 8 2
+5 3 4
+5 10 2
+5 4 7
+5 7 1
+5 6 1
+5 11 3
+5 12 1
+6 7 3
+6 3 1
+6 1 4
+6 5 1
+6 2 2
+6 8 2
+6 12 1
+6 11 2
+7 6 2
+7 10 2
+7 5 4
+7 3 7
+7 8 1
+7 1 1
+7 11 2
+7 12 1
+8 4 3
+8 1 1
+8 3 2
+8 7 1
+8 6 1
+8 2 1
+8 12 2
+8 11 1
+10 7 6
+10 5 1
+10 6 1
+10 11 1
+11 1 1
+11 2 1
+11 8 3
+11 6 1
+11 5 4
+11 3 5
+11 4 1
+11 7 2
+11 12 3
+12 6 1
+12 9 1
+12 4 1
+12 1 1
+12 8 3
+12 2 2
+12 5 1
+12 11 2

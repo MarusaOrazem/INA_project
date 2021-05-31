@@ -1,0 +1,68 @@
+*vertices 11
+1 "Mubarak Wakaso" 0.0 0.0 ellipse
+2 "David Simón Rodríguez Santana" 0.0 0.0 ellipse
+3 "Antolín Alcáraz Viveros" 0.0 0.0 ellipse
+4 "Roque Mesa Quevedo" 0.0 0.0 ellipse
+5 "Pedro Bigas Rigo" 0.0 0.0 ellipse
+6 "Javier Varas Herrera" 0.0 0.0 ellipse
+7 "Dani Castellano Betancor" 0.0 0.0 ellipse
+8 "Hernán Daniel Santana Trujillo" 0.0 0.0 ellipse
+9 "Sergio Ezequiel Araújo" 0.0 0.0 ellipse
+10 "Jonathan Viera Ramos" 0.0 0.0 ellipse
+11 "Aythami Artiles Oliva" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 5 2
+1 9 2
+1 7 2
+1 8 1
+2 4 5
+2 11 1
+2 10 1
+2 9 1
+3 4 2
+3 8 1
+3 9 1
+3 2 3
+3 7 1
+4 9 2
+4 2 4
+4 10 7
+4 8 3
+4 3 1
+5 6 2
+5 1 2
+5 8 2
+5 10 1
+5 7 2
+5 9 1
+5 4 1
+6 9 4
+7 3 2
+7 10 6
+7 1 2
+7 9 1
+8 3 1
+8 10 3
+8 4 3
+8 9 2
+8 1 2
+8 5 1
+8 6 1
+8 7 1
+9 4 3
+9 10 1
+9 7 1
+9 8 1
+9 5 1
+10 7 3
+10 4 5
+10 9 2
+10 2 1
+10 8 3
+10 11 1
+11 2 1
+11 4 1
+11 8 1
+11 5 1
+11 1 1

@@ -1,0 +1,75 @@
+*vertices 12
+1 "Lauren Hemp" 0.0 0.0 ellipse
+2 "Keira Walsh" 0.0 0.0 ellipse
+3 "Demi Stokes" 0.0 0.0 ellipse
+4 "Jennifer Beattie" 0.0 0.0 ellipse
+5 "Jill Scott" 0.0 0.0 ellipse
+6 "Abbie McManus" 0.0 0.0 ellipse
+7 "Stephanie Houghton" 0.0 0.0 ellipse
+8 "Caroline Weir" 0.0 0.0 ellipse
+9 "Nikita Parris" 0.0 0.0 ellipse
+10 "Claire Emslie" 0.0 0.0 ellipse
+11 "Ellie Roebuck" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 2
+2 3 8
+2 8 5
+2 4 5
+2 7 6
+2 1 1
+2 9 1
+2 5 1
+3 4 8
+3 2 13
+3 5 1
+3 1 4
+3 8 1
+4 5 5
+4 3 6
+4 7 7
+4 2 7
+4 11 2
+4 8 6
+4 9 1
+5 6 4
+5 10 6
+5 7 5
+5 4 2
+5 2 1
+5 12 1
+5 8 1
+6 7 8
+6 10 2
+6 9 5
+6 4 4
+6 11 1
+6 5 1
+6 12 1
+7 4 13
+7 9 1
+7 2 3
+7 6 6
+7 8 3
+7 1 1
+7 10 2
+7 5 3
+8 3 6
+8 7 2
+8 5 2
+8 1 1
+8 6 1
+8 2 2
+9 10 2
+9 6 2
+9 5 2
+10 6 3
+10 2 1
+10 7 1
+10 9 2
+10 5 2
+11 4 1
+11 7 2
+11 3 1
+11 6 1

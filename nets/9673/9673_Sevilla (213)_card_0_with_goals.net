@@ -1,0 +1,111 @@
+*vertices 13
+1 "Sergio Escudero Palomo" 0.0 0.0 ellipse
+2 "Éver Maximiliano David Banega" 0.0 0.0 ellipse
+3 "Guido Hernán Pizarro" 0.0 0.0 ellipse
+4 "Sébastien Corchia" 0.0 0.0 ellipse
+5 "Jesús Navas González" 0.0 0.0 ellipse
+6 "Steven N"Kemboanza Mike Christopher Nzonzi" 0.0 0.0 ellipse
+7 "David Soria Solís" 0.0 0.0 ellipse
+8 "Clément Lenglet" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Pablo Sarabia García/Manuel Agudo Durán" 0.0 0.0 ellipse
+12 "Simon Thorup Kjær/Johannes Geis" 0.0 0.0 ellipse
+13 "Luis Fernando Muriel Fruto/Wissam Ben Yedder" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 6 15
+1 8 4
+1 3 9
+1 11 4
+1 13 2
+2 3 16
+2 4 3
+2 6 10
+2 5 6
+2 1 6
+2 9 1
+2 8 1
+2 11 2
+2 12 1
+2 13 1
+3 4 7
+3 5 8
+3 6 16
+3 1 8
+3 8 4
+3 2 14
+3 9 2
+3 10 1
+3 11 3
+3 12 1
+3 13 2
+4 5 15
+4 2 6
+4 6 5
+4 3 3
+4 7 1
+4 11 1
+4 12 1
+4 13 2
+5 6 7
+5 4 9
+5 7 1
+5 3 4
+5 1 1
+5 2 3
+5 8 1
+5 11 4
+5 12 2
+5 13 1
+6 3 16
+6 2 16
+6 4 12
+6 7 1
+6 1 14
+6 8 7
+6 5 4
+6 11 1
+6 12 2
+6 13 1
+7 4 2
+7 2 1
+7 6 2
+7 8 3
+7 3 1
+7 1 2
+7 12 1
+7 13 1
+8 6 4
+8 2 2
+8 3 7
+8 7 3
+8 1 5
+8 4 1
+8 11 3
+8 12 2
+11 2 3
+11 4 3
+11 3 1
+11 1 1
+11 5 3
+11 6 1
+11 10 1
+11 13 1
+11 8 1
+12 6 4
+12 2 2
+12 4 1
+12 7 2
+12 8 3
+12 3 1
+12 5 2
+12 11 1
+12 1 1
+12 13 1
+13 2 3
+13 5 1
+13 10 3
+13 3 1
+13 6 5
+13 11 1

@@ -1,0 +1,109 @@
+*vertices 13
+1 "David García De La Cruz" 0.0 0.0 ellipse
+2 "Alberto Lopo García" 0.0 0.0 ellipse
+3 "Idriss Carlos Kameni" 0.0 0.0 ellipse
+4 "Hugo Benjamín Ibarra" 0.0 0.0 ellipse
+5 "Mauricio Roberto Pochettino Trossero" 0.0 0.0 ellipse
+6 "Iván De la Peña López" 0.0 0.0 ellipse
+7 "Raúl Tamudo Montero" 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Antonio Álvarez Pérez" 0.0 0.0 ellipse
+11 "Ángel Morales Cuerva/Alex Fernandez Sanchez" 0.0 0.0 ellipse
+12 "Maximiliano Rubén Rodríguez/José Emilio Amavisca Gárate" 0.0 0.0 ellipse
+13 "Óscar Serrano Rodriguez/Ferrán Corominas Telechea" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 5 6
+1 10 1
+1 7 2
+1 6 2
+1 11 2
+1 13 8
+1 12 2
+2 1 1
+2 3 4
+2 4 3
+2 5 3
+2 10 1
+2 6 2
+2 7 1
+2 11 1
+2 13 1
+3 4 3
+3 5 4
+3 2 3
+3 7 2
+3 1 1
+3 10 1
+3 12 3
+3 13 1
+4 3 2
+4 7 4
+4 2 1
+4 5 3
+4 10 2
+4 12 3
+4 11 1
+4 13 1
+5 6 3
+5 2 5
+5 1 4
+5 3 4
+5 9 1
+5 8 1
+5 11 1
+5 13 1
+5 12 1
+6 1 1
+6 7 2
+6 9 1
+6 10 2
+6 8 1
+6 2 2
+6 4 1
+6 5 1
+6 3 1
+6 11 1
+6 13 5
+7 8 1
+7 6 5
+7 10 1
+7 5 1
+7 13 1
+7 12 1
+10 8 1
+10 5 3
+10 1 3
+10 6 3
+10 2 2
+10 4 1
+10 11 1
+10 12 2
+10 13 4
+11 6 2
+11 1 1
+11 2 2
+11 5 1
+11 4 1
+11 10 1
+11 7 1
+11 12 1
+11 13 3
+12 7 3
+12 10 3
+12 8 1
+12 13 1
+12 6 1
+12 4 2
+12 3 2
+12 11 2
+13 6 3
+13 7 2
+13 1 2
+13 10 1
+13 8 2
+13 4 1
+13 11 1
+13 12 1

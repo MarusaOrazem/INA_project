@@ -1,0 +1,16 @@
+*vertices 7
+1 "Gustavo Adolfo Munúa Vera" 0.0 0.0 ellipse
+2 "Fernando Martín Forestieri" 0.0 0.0 ellipse
+3 "Manuel Torres Caturla" 0.0 0.0 ellipse
+4 "Juan Jesús Gutiérrez Robles" 0.0 0.0 ellipse
+5 "Xavier Torres Buigues" 0.0 0.0 ellipse
+6 "Jesús Gámez Duarte" 0.0 0.0 ellipse
+7 "Weligton Róbson Pena de Oliveira" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 1
+2 3 2
+3 2 2
+4 5 1
+6 1 1
+7 2 1

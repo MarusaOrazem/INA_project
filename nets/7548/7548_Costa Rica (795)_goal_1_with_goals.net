@@ -1,0 +1,19 @@
+*vertices 8
+1 "Keylor Navas Gamboa" 0.0 0.0 ellipse
+2 "Óscar Esau Duarte Gaitán" 0.0 0.0 ellipse
+3 "Christian Bolaños Navarro" 0.0 0.0 ellipse
+4 "Francisco Javier Calvo Quesada" 0.0 0.0 ellipse
+5 "Johnny Acosta Zamora" 0.0 0.0 ellipse
+6 "Bryan Oviedo" 0.0 0.0 ellipse
+7 "Yeltsin Ignacio Tejeda Valverde" 0.0 0.0 ellipse
+8 "Johan Alberto Venegas Ulloa" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 1
+2 3 1
+4 5 1
+4 7 1
+5 1 1
+6 7 1
+7 4 1
+8 1 1

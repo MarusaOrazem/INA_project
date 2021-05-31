@@ -1,0 +1,64 @@
+*vertices 11
+1 "Esteban Matías Cambiasso Delau" 0.0 0.0 ellipse
+2 "Wesley Sneijder" 0.0 0.0 ellipse
+3 "Samuel Eto"o Fils" 0.0 0.0 ellipse
+4 "Maicon Douglas Sisenando" 0.0 0.0 ellipse
+5 "Javier Aldemar Zanetti" 0.0 0.0 ellipse
+6 "Lucimar da Silva Ferreira" 0.0 0.0 ellipse
+7 "Walter Adrián Samuel Luján " 0.0 0.0 ellipse
+8 "Júlio César Soares de Espíndola" 0.0 0.0 ellipse
+9 "Cristian Eugen Chivu/Dejan Stanković" 0.0 0.0 ellipse
+10 "Goran Pandev/Sulley Ali Muntari" 0.0 0.0 ellipse
+11 "Diego Alberto Milito/Marco Materazzi" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 3 3
+1 9 1
+1 10 2
+1 11 3
+2 3 3
+2 4 1
+2 6 1
+2 1 4
+2 10 2
+2 11 3
+3 4 3
+3 2 3
+3 1 1
+3 10 1
+3 11 3
+4 3 5
+4 5 1
+4 2 2
+4 11 2
+5 4 2
+5 7 1
+5 8 1
+5 2 1
+5 1 1
+5 10 3
+6 1 1
+6 5 1
+6 4 1
+6 8 1
+7 2 1
+7 3 1
+7 10 2
+7 11 2
+8 10 5
+8 11 2
+9 2 2
+9 1 2
+9 5 1
+9 7 1
+9 4 2
+9 3 1
+10 1 2
+10 8 1
+10 11 1
+10 2 2
+11 3 4
+11 4 1
+11 2 3
+11 7 1
+11 10 2

@@ -1,0 +1,117 @@
+*vertices 13
+1 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+2 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+3 "Sergi Roberto Carnicer" 0.0 0.0 ellipse
+4 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+5 "Norberto Murara Neto" 0.0 0.0 ellipse
+6 "Clément Lenglet" 0.0 0.0 ellipse
+7 "Frenkie de Jong" 0.0 0.0 ellipse
+8 "Jordi Alba Ramos" 0.0 0.0 ellipse
+9 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+10 "Antoine Griezmann" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+13 "Ivan Rakitić/Arturo Erasmo Vidal Pardo" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 7 2
+1 3 3
+1 10 3
+1 4 1
+1 12 1
+1 9 2
+1 11 2
+1 13 2
+2 8 11
+2 3 8
+2 4 14
+2 9 7
+2 7 15
+2 1 2
+2 6 14
+2 10 3
+2 13 7
+3 4 14
+3 9 22
+3 5 1
+3 2 9
+3 10 1
+3 1 3
+3 7 1
+3 13 5
+4 5 10
+4 6 17
+4 2 14
+4 8 3
+4 3 9
+4 9 3
+4 7 4
+4 1 1
+4 13 4
+5 6 8
+5 4 8
+5 7 3
+5 8 1
+5 2 5
+5 10 1
+6 7 16
+6 4 13
+6 2 7
+6 5 4
+6 8 14
+6 9 2
+6 1 4
+6 10 2
+6 12 1
+6 3 1
+6 13 1
+7 8 17
+7 6 5
+7 2 12
+7 4 9
+7 10 10
+7 3 7
+7 1 4
+7 9 2
+7 5 1
+7 13 1
+8 7 15
+8 1 7
+8 10 12
+8 2 10
+8 3 1
+8 6 10
+8 4 2
+8 5 3
+8 9 2
+8 13 1
+9 3 9
+9 8 2
+9 4 2
+9 11 3
+9 7 5
+9 10 5
+9 6 1
+9 2 6
+9 12 2
+9 1 1
+9 13 1
+10 8 12
+10 7 4
+10 3 4
+10 2 2
+10 9 5
+10 1 2
+10 12 1
+10 13 1
+13 3 6
+13 9 2
+13 12 1
+13 2 4
+13 7 1
+13 4 2
+13 8 1
+13 1 2
+13 10 1
+13 11 1
+13 6 2

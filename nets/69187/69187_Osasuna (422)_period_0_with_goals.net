@@ -1,0 +1,75 @@
+*vertices 12
+1 "Francisco Puñal Martínez" 0.0 0.0 ellipse
+2 "Enrique Sola Clemente" 0.0 0.0 ellipse
+3 "Ignacio Monreal Eraso" 0.0 0.0 ellipse
+4 "Carlos Alberto Vela Garrido" 0.0 0.0 ellipse
+5 "Juan Francisco Torres Belén" 0.0 0.0 ellipse
+6 "Francisco Javier García Fernández" 0.0 0.0 ellipse
+7 "César Cruchaga Lasa" 0.0 0.0 ellipse
+8 "César Azpilicueta Tanco" 0.0 0.0 ellipse
+9 "Ricardo López Felipe" 0.0 0.0 ellipse
+10 "Jaroslav Plašil" 0.0 0.0 ellipse
+11 "Miguel Flaño Bezunartea" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 3
+1 8 2
+1 5 1
+1 10 3
+1 3 2
+1 11 2
+1 4 1
+2 4 2
+2 3 1
+2 5 4
+2 8 1
+2 10 1
+2 12 1
+3 2 4
+3 12 1
+3 10 3
+3 1 3
+4 5 2
+4 2 2
+4 10 1
+4 1 1
+4 3 1
+5 10 1
+5 8 2
+5 1 1
+5 2 1
+6 1 5
+6 4 1
+6 5 2
+6 8 3
+6 10 2
+7 2 1
+7 4 1
+7 8 2
+7 9 1
+8 9 1
+8 1 4
+8 5 1
+8 10 1
+8 2 2
+8 7 2
+8 6 2
+9 1 2
+9 4 1
+9 6 3
+9 5 1
+9 2 2
+9 10 3
+10 5 1
+10 6 1
+10 8 1
+10 2 2
+10 11 1
+10 1 1
+11 7 1
+11 9 1
+11 1 1
+11 6 1
+11 12 1
+11 8 1

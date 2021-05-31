@@ -1,0 +1,107 @@
+*vertices 13
+1 "Christine Sinclair" 0.0 0.0 ellipse
+2 "Ana-Maria Crnogorcevic" 0.0 0.0 ellipse
+3 "Meghan Klingenberg" 0.0 0.0 ellipse
+4 "Hayley Raso" 0.0 0.0 ellipse
+5 ON_goal 0.0 0.0 ellipse
+6 "Britt Eckerstrom" 0.0 0.0 ellipse
+7 "Emily Menges" 0.0 0.0 ellipse
+8 "Ellie Carpenter" 0.0 0.0 ellipse
+9 "Celeste Boureille" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Katherine Reynolds/Elizabeth Ball" 0.0 0.0 ellipse
+12 "Andressa Cavalari Machry/Tyler Lussi" 0.0 0.0 ellipse
+13 "Angela Salem/Mallory Weber" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 4 6
+1 10 2
+1 3 3
+1 8 1
+1 9 1
+1 12 5
+1 13 2
+2 5 1
+2 3 2
+2 4 4
+2 1 4
+2 9 1
+2 12 3
+2 13 1
+3 2 7
+3 6 2
+3 4 2
+3 7 11
+3 1 7
+3 12 1
+3 13 3
+4 5 1
+4 10 2
+4 2 4
+4 1 2
+4 8 2
+4 9 3
+4 11 2
+4 12 1
+4 13 1
+6 7 6
+6 3 1
+6 9 1
+6 1 2
+6 2 1
+6 11 1
+6 13 1
+7 3 21
+7 6 2
+7 2 2
+7 1 3
+7 9 3
+7 4 2
+7 11 6
+7 12 5
+7 13 3
+8 9 9
+8 4 8
+8 6 1
+8 2 1
+8 1 2
+8 7 1
+8 11 4
+8 13 2
+8 12 1
+9 7 4
+9 8 7
+9 2 1
+9 4 1
+9 11 2
+9 12 2
+9 13 4
+11 1 1
+11 7 9
+11 8 4
+11 9 2
+11 10 1
+11 12 1
+11 2 2
+11 6 1
+11 13 2
+12 7 3
+12 3 9
+12 2 3
+12 1 1
+12 8 3
+12 9 2
+12 13 1
+12 11 1
+12 10 2
+12 5 1
+12 4 1
+13 4 4
+13 3 3
+13 8 5
+13 2 1
+13 1 3
+13 7 1
+13 9 1
+13 11 2
+13 12 1

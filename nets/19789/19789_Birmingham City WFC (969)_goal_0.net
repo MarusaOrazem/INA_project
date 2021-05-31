@@ -1,0 +1,45 @@
+*vertices 11
+1 "Lucy Quinn" 0.0 0.0 ellipse
+2 "Lucy Staniforth" 0.0 0.0 ellipse
+3 "Hannah Hampton" 0.0 0.0 ellipse
+4 "Kerys Harrop" 0.0 0.0 ellipse
+5 "Meaghan Sargeant" 0.0 0.0 ellipse
+6 "Chloe Arthur" 0.0 0.0 ellipse
+7 "Emma Follis" 0.0 0.0 ellipse
+8 "Aoife Mannion" 0.0 0.0 ellipse
+9 "Paige Williams" 0.0 0.0 ellipse
+10 "Hayley Ladd" 0.0 0.0 ellipse
+11 "Charlie Wellings" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 1
+1 10 1
+2 6 1
+2 9 2
+3 4 2
+3 5 1
+4 3 1
+4 9 1
+5 6 2
+5 1 2
+5 8 1
+6 7 1
+6 8 1
+6 10 1
+6 11 1
+6 5 1
+7 2 1
+7 9 1
+8 5 1
+8 1 1
+8 2 1
+8 6 2
+8 3 1
+8 9 2
+9 2 2
+9 4 1
+9 1 1
+9 3 1
+9 7 1
+11 6 1
+11 8 1

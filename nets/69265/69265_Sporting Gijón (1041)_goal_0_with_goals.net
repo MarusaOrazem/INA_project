@@ -1,0 +1,30 @@
+*vertices 10
+1 "David Barral Torres" 0.0 0.0 ellipse
+2 "André de Castro Pereira" 0.0 0.0 ellipse
+3 "Alberto Rivera Pizarro" 0.0 0.0 ellipse
+4 "Alberto Botía Rabasco" 0.0 0.0 ellipse
+5 "Juan Pablo Colinas Ferreras" 0.0 0.0 ellipse
+6 "Ignacio Cases Mora" 0.0 0.0 ellipse
+7 "Miguel Ángel De las Cuevas Barberá" 0.0 0.0 ellipse
+8 "Roberto Canella Suárez" 0.0 0.0 ellipse
+9 "Óscar Guido Trejo" 0.0 0.0 ellipse
+10 "Alberto Lora Ramos" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 1
+1 3 1
+1 10 1
+2 3 1
+2 7 1
+3 4 1
+3 2 2
+3 8 1
+4 5 1
+5 1 2
+6 8 1
+7 2 2
+7 1 1
+8 6 1
+9 10 1
+9 3 1
+10 2 1

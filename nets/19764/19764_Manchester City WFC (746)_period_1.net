@@ -1,0 +1,95 @@
+*vertices 11
+1 "Nikita Parris" 0.0 0.0 ellipse
+2 "Keira Walsh" 0.0 0.0 ellipse
+3 "Stephanie Houghton" 0.0 0.0 ellipse
+4 "Ellie Roebuck" 0.0 0.0 ellipse
+5 "Caroline Weir" 0.0 0.0 ellipse
+6 "Jill Scott" 0.0 0.0 ellipse
+7 "Gemma Bonner" 0.0 0.0 ellipse
+8 "Jennifer Beattie" 0.0 0.0 ellipse
+9 "Demi Stokes/Abbie McManus" 0.0 0.0 ellipse
+10 "Georgia Stanway/Janine Beckie" 0.0 0.0 ellipse
+11 "Tessa Wullaert/Claire Emslie" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 6 3
+1 7 2
+1 3 1
+1 5 1
+1 9 2
+1 10 2
+1 11 1
+2 3 2
+2 5 8
+2 1 3
+2 8 3
+2 4 1
+2 6 2
+2 7 3
+2 9 5
+2 11 1
+2 10 2
+3 4 7
+3 7 4
+3 8 4
+3 1 3
+3 5 2
+3 2 2
+3 6 1
+3 9 1
+3 11 1
+3 10 3
+4 3 6
+4 8 4
+4 6 1
+4 2 1
+4 11 1
+5 1 3
+5 3 1
+5 6 1
+5 2 5
+5 9 2
+5 10 2
+5 11 5
+6 2 4
+6 7 6
+6 5 3
+6 3 2
+6 1 4
+6 8 2
+6 11 4
+6 10 3
+7 1 3
+7 6 6
+7 3 6
+7 5 1
+7 11 4
+7 10 3
+8 4 2
+8 6 3
+8 2 6
+8 3 3
+8 1 3
+8 5 1
+8 11 1
+8 9 2
+9 5 2
+9 8 2
+9 6 2
+9 2 4
+9 10 4
+9 1 3
+10 5 2
+10 1 4
+10 3 1
+10 6 1
+10 7 2
+10 9 1
+10 11 2
+11 2 2
+11 1 1
+11 6 4
+11 7 2
+11 5 2
+11 10 3
+11 3 2

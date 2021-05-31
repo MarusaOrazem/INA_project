@@ -1,0 +1,42 @@
+*vertices 11
+1 "Fernando Pacheco Flores" 0.0 0.0 ellipse
+2 "Deyverson Brum Silva Acosta" 0.0 0.0 ellipse
+3 "Víctor Laguardia Cisneros" 0.0 0.0 ellipse
+4 "Theo Bernard François Hernández" 0.0 0.0 ellipse
+5 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+6 "Marcos Llorente Moreno" 0.0 0.0 ellipse
+7 "Daniel Alejandro Torres Rojas" 0.0 0.0 ellipse
+8 "Edgar Antonio Méndez Ortega/Cristian Omar Espinoza" 0.0 0.0 ellipse
+9 "Francisco Femenía Far/Carlos Martín Vigaray" 0.0 0.0 ellipse
+10 "Ibai Gómez Pérez/Víctor Camarasa Ferrando" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 8 1
+1 9 1
+1 10 1
+2 4 2
+2 6 2
+2 8 2
+2 10 1
+2 9 1
+3 4 1
+4 2 2
+4 5 1
+4 10 1
+5 2 1
+6 7 1
+6 8 1
+7 2 1
+7 9 2
+7 10 1
+7 8 1
+8 2 1
+8 7 2
+8 9 2
+9 7 2
+9 8 2
+10 11 2
+10 2 1
+10 4 1
+10 8 2

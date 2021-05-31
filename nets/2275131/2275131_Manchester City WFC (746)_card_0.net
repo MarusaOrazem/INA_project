@@ -1,0 +1,104 @@
+*vertices 11
+1 "Gemma Bonner" 0.0 0.0 ellipse
+2 "Ellie Roebuck" 0.0 0.0 ellipse
+3 "Pauline Bremer" 0.0 0.0 ellipse
+4 "Jill Scott" 0.0 0.0 ellipse
+5 "Aoife Mannion" 0.0 0.0 ellipse
+6 "Caroline Weir" 0.0 0.0 ellipse
+7 "Keira Walsh" 0.0 0.0 ellipse
+8 "Stephanie Houghton" 0.0 0.0 ellipse
+9 "Janine Beckie" 0.0 0.0 ellipse
+10 "Tessa Wullaert/Lauren Hemp" 0.0 0.0 ellipse
+11 "Demi Stokes/Megan Campbell" 0.0 0.0 ellipse
+*arcs
+1 2 23
+1 3 4
+1 6 7
+1 7 8
+1 8 4
+1 4 2
+1 5 4
+1 10 3
+1 11 21
+2 1 18
+2 8 4
+2 7 4
+2 5 4
+2 4 5
+2 3 1
+2 9 2
+2 6 1
+2 11 2
+3 4 5
+3 7 2
+3 6 6
+3 5 2
+3 9 6
+3 10 2
+3 11 2
+4 6 3
+4 5 9
+4 9 5
+4 3 5
+4 8 4
+4 7 4
+4 1 1
+4 10 3
+4 11 1
+5 6 2
+5 3 7
+5 8 4
+5 1 7
+5 4 10
+5 9 7
+5 7 6
+5 11 1
+6 9 3
+6 7 11
+6 8 3
+6 1 8
+6 5 5
+6 4 2
+6 3 1
+6 10 2
+6 11 14
+7 5 4
+7 2 1
+7 4 4
+7 8 5
+7 6 8
+7 1 8
+7 3 1
+7 9 5
+7 10 1
+7 11 7
+8 1 5
+8 5 2
+8 2 9
+8 4 5
+8 9 3
+8 6 1
+8 7 1
+8 3 1
+8 11 1
+9 5 7
+9 6 5
+9 4 6
+9 3 5
+9 1 2
+9 7 2
+9 10 3
+10 6 3
+10 1 1
+10 7 5
+10 3 1
+10 9 3
+10 5 2
+10 11 4
+11 6 15
+11 1 21
+11 7 5
+11 3 10
+11 2 1
+11 4 1
+11 10 2

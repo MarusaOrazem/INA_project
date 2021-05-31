@@ -1,0 +1,55 @@
+*vertices 11
+1 "Vítor Hugo Gomes Passos" 0.0 0.0 ellipse
+2 "Javier Baraja Vegas" 0.0 0.0 ellipse
+3 "Henrique Sereno Fonseca" 0.0 0.0 ellipse
+4 "Jonathan Sesma González" 0.0 0.0 ellipse
+5 "Diego da Silva Costa" 0.0 0.0 ellipse
+6 "Jacobo Sanz Ovejero" 0.0 0.0 ellipse
+7 "Alberto Mateus Contreiras Gonçalves" 0.0 0.0 ellipse
+8 "Pedro López Muñoz" 0.0 0.0 ellipse
+9 "Raúl Rodríguez Navas" 0.0 0.0 ellipse
+10 "Antonio Barragán Fernández" 0.0 0.0 ellipse
+11 "Luis Prieto Zalbidegoitia" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 9 1
+1 11 1
+1 4 2
+1 6 1
+2 3 2
+2 5 1
+2 11 1
+2 1 2
+2 7 2
+2 4 1
+2 10 1
+3 6 1
+3 7 1
+4 5 4
+4 7 1
+4 1 1
+5 1 1
+5 10 1
+5 2 2
+5 4 1
+6 7 6
+7 1 2
+7 5 1
+7 10 1
+7 2 1
+7 4 1
+7 11 1
+8 7 1
+8 4 1
+8 2 1
+8 5 1
+9 10 1
+10 2 2
+10 4 1
+10 5 1
+11 6 1
+11 10 1
+11 4 1
+11 1 1
+11 5 1

@@ -1,0 +1,91 @@
+*vertices 13
+1 "Kim Little" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+3 "Katie McCabe" 0.0 0.0 ellipse
+4 "Jennifer Beattie" 0.0 0.0 ellipse
+5 "Leah Williamson" 0.0 0.0 ellipse
+6 "Danielle van de Donk" 0.0 0.0 ellipse
+7 "Lisa Evans" 0.0 0.0 ellipse
+8 "Manuela Zinsberger" 0.0 0.0 ellipse
+9 "Lia Wälti" 0.0 0.0 ellipse
+10 "Vivianne Miedema" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Bethany Mead/Leonie Maier" 0.0 0.0 ellipse
+13 "Jordan Nobbs/Jill Roord" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 3
+1 7 3
+1 5 3
+1 3 3
+1 9 1
+1 13 1
+1 12 2
+3 4 7
+3 10 2
+3 9 4
+3 6 1
+3 1 1
+3 7 3
+3 12 2
+3 13 1
+4 5 4
+4 6 2
+4 9 3
+4 3 3
+4 8 4
+4 10 1
+4 12 1
+4 13 1
+5 8 1
+5 7 2
+5 6 2
+5 1 4
+5 4 3
+5 3 1
+5 13 1
+6 7 2
+6 1 1
+6 11 1
+6 3 1
+6 10 1
+6 12 1
+6 13 1
+7 6 3
+7 5 3
+7 8 1
+7 10 1
+7 11 1
+7 3 1
+7 1 2
+7 13 1
+8 5 1
+8 9 2
+8 4 3
+9 10 1
+9 3 4
+9 4 3
+9 7 3
+9 1 2
+9 12 2
+9 13 1
+10 2 1
+10 6 1
+10 7 1
+10 13 1
+12 10 1
+12 3 1
+12 1 1
+12 4 1
+12 13 2
+12 8 2
+12 9 1
+13 11 1
+13 7 1
+13 5 2
+13 3 2
+13 4 2
+13 6 1
+13 9 1
+13 1 3
+13 12 2

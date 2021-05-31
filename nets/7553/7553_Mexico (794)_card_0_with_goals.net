@@ -1,0 +1,112 @@
+*vertices 13
+1 "Jesús Daniel Gallardo Vasconcelos" 0.0 0.0 ellipse
+2 "Héctor Alfredo Moreno Herrera" 0.0 0.0 ellipse
+3 "Miguel Arturo Layún Prado" 0.0 0.0 ellipse
+4 "Edson Omar Álvarez Velázquez" 0.0 0.0 ellipse
+5 "Carlos Joel Salcedo Hernández" 0.0 0.0 ellipse
+6 "Héctor Miguel Herrera López" 0.0 0.0 ellipse
+7 "Javier Hernández Balcázar" 0.0 0.0 ellipse
+8 "Francisco Guillermo Ochoa Magaña" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "José Andrés Guardado Hernández/Rafael Márquez Álvarez" 0.0 0.0 ellipse
+12 "Hirving Rodrigo Lozano Bahena/Jesús Manuel Corona Ruíz" 0.0 0.0 ellipse
+13 "Carlos Alberto Vela Garrido/Giovani dos Santos Ramírez" 0.0 0.0 ellipse
+*arcs
+1 2 13
+1 5 2
+1 8 2
+1 6 5
+1 7 1
+1 3 1
+1 11 1
+1 12 5
+1 13 2
+2 5 19
+2 1 7
+2 6 10
+2 7 3
+2 8 2
+2 3 1
+2 4 1
+2 11 2
+2 12 3
+3 4 7
+3 2 1
+3 7 4
+3 10 1
+3 5 3
+3 6 1
+3 12 1
+3 13 7
+4 6 14
+4 5 16
+4 3 11
+4 9 1
+4 7 5
+4 8 2
+4 11 2
+4 13 1
+5 4 25
+5 2 13
+5 1 1
+5 10 1
+5 6 4
+5 7 1
+5 8 5
+5 3 1
+5 11 2
+5 12 2
+5 13 1
+6 5 3
+6 2 5
+6 1 7
+6 4 6
+6 7 12
+6 3 2
+6 8 1
+6 9 1
+6 11 5
+6 12 2
+6 13 3
+7 9 2
+7 4 3
+7 3 5
+7 6 3
+7 10 1
+7 11 1
+7 13 4
+8 2 7
+8 5 3
+8 1 1
+8 4 1
+8 3 2
+8 7 1
+11 5 2
+11 4 5
+11 6 4
+11 1 4
+11 2 1
+11 7 1
+11 9 1
+11 10 1
+11 12 3
+11 13 5
+12 1 4
+12 2 1
+12 9 3
+12 6 3
+12 7 3
+12 3 1
+12 11 1
+12 13 1
+13 3 6
+13 5 1
+13 1 2
+13 10 1
+13 2 1
+13 6 7
+13 7 2
+13 9 1
+13 11 2
+13 12 4

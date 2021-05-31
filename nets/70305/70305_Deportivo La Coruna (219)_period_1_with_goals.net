@@ -1,0 +1,82 @@
+*vertices 12
+1 "Aythami Artiles Oliva" 0.0 0.0 ellipse
+2 "Bruno Alexandre Vilela Gama" 0.0 0.0 ellipse
+3 "Manuel Pablo García Díaz" 0.0 0.0 ellipse
+4 "Abel Enrique Aguilar Tapia" 0.0 0.0 ellipse
+5 "Sílvio Manuel Azevedo Ferreira Sá Pereira" 0.0 0.0 ellipse
+6 "Luís Miguel Afonso Fernandes" 0.0 0.0 ellipse
+7 "Pablo Ínsua Blanco" 0.0 0.0 ellipse
+8 "Daniel Aranzubia Aguado" 0.0 0.0 ellipse
+9 "Juan Carlos Valerón Santana/Javier Camuñas Gallego" 0.0 0.0 ellipse
+10 "Nélson Miguel Castro Oliveira/Diogo Ferreira Salomão" 0.0 0.0 ellipse
+11 "Paulo Assunção da Silva/Juan Domínguez Lamas" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 4 3
+1 6 1
+1 3 1
+1 11 1
+2 3 2
+2 4 1
+2 9 2
+3 2 1
+3 8 2
+3 6 3
+3 1 1
+3 9 2
+3 10 2
+3 11 2
+4 5 2
+4 6 2
+4 7 1
+4 2 2
+4 1 1
+4 3 1
+4 10 2
+4 11 1
+4 9 4
+5 6 1
+5 7 1
+5 4 3
+5 2 1
+5 11 1
+5 9 1
+5 10 2
+6 7 1
+6 5 1
+6 4 3
+6 2 1
+6 3 2
+6 1 2
+6 11 2
+6 9 2
+6 10 2
+7 8 1
+7 6 1
+7 1 3
+8 2 2
+8 9 3
+8 10 1
+9 4 1
+9 2 1
+9 6 2
+9 10 2
+9 3 1
+9 5 4
+9 12 1
+9 11 1
+10 4 1
+10 6 2
+10 2 1
+10 9 2
+10 11 2
+10 3 1
+11 3 1
+11 2 1
+11 6 3
+11 4 2
+11 7 1
+11 1 2
+11 10 1
+11 9 1

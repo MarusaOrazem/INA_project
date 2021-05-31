@@ -1,0 +1,89 @@
+*vertices 13
+1 "Juan Pablo Colinas Ferreras" 0.0 0.0 ellipse
+2 "Mate Bilić" 0.0 0.0 ellipse
+3 "Luis Morán Sánchez" 0.0 0.0 ellipse
+4 "Alberto Botía Rabasco" 0.0 0.0 ellipse
+5 "Alberto Lora Ramos" 0.0 0.0 ellipse
+6 "Alberto Rivera Pizarro" 0.0 0.0 ellipse
+7 "Roberto Canella Suárez" 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Grégory Arnolin" 0.0 0.0 ellipse
+11 "Carmelo José González Jiménez/Diego Castro Giménez" 0.0 0.0 ellipse
+12 "Miguel Ángel De las Cuevas Barberá/David Barral Torres" 0.0 0.0 ellipse
+13 "Cristian Portilla Rodríguez/Sergio Matabuena Delgado" 0.0 0.0 ellipse
+*arcs
+1 2 7
+1 3 1
+1 7 2
+1 5 1
+1 11 1
+1 13 1
+1 12 1
+2 3 3
+2 8 2
+2 9 1
+2 11 1
+2 13 2
+2 12 1
+3 4 1
+3 6 3
+3 5 3
+3 2 1
+3 11 2
+3 12 1
+3 13 1
+4 5 1
+4 6 3
+4 3 2
+4 12 1
+4 11 2
+5 4 1
+5 2 3
+5 1 1
+5 6 4
+5 3 4
+5 11 3
+5 12 1
+5 13 1
+6 4 4
+6 3 3
+6 5 6
+6 1 1
+6 7 3
+6 11 3
+6 12 1
+6 13 1
+7 6 4
+7 5 1
+7 2 1
+7 11 5
+7 12 2
+7 13 2
+10 1 2
+10 12 1
+11 4 2
+11 3 1
+11 6 3
+11 5 2
+11 2 2
+11 12 2
+11 13 1
+11 7 1
+12 6 3
+12 7 2
+12 2 1
+12 4 1
+12 8 1
+12 11 3
+12 13 1
+12 3 1
+13 7 1
+13 1 1
+13 3 1
+13 10 1
+13 4 1
+13 9 1
+13 11 2
+13 12 1
+13 5 1

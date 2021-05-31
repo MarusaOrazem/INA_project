@@ -1,0 +1,70 @@
+*vertices 11
+1 "David Rodríguez Lombán" 0.0 0.0 ellipse
+2 "Rúben Miguel Nunes Vezo" 0.0 0.0 ellipse
+3 "Juan Isaac Cuenca López" 0.0 0.0 ellipse
+4 "Matthieu Saunier" 0.0 0.0 ellipse
+5 "Uche Henry Agbo" 0.0 0.0 ellipse
+6 "Mehdi Carcela-González" 0.0 0.0 ellipse
+7 "Francisco Guillermo Ochoa Magaña" 0.0 0.0 ellipse
+8 "Gabriel Moisés Antunes da Silva" 0.0 0.0 ellipse
+9 "Andreas Hoelgebaum Pereira/Jeremie Boga" 0.0 0.0 ellipse
+10 "Artem Kravets/David Barral Torres" 0.0 0.0 ellipse
+11 "Jon Miquel Toral Harper/Sergi Samper Montaña" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 2
+1 6 1
+1 4 1
+1 9 1
+2 3 5
+2 7 2
+2 6 1
+2 8 1
+2 10 1
+3 5 4
+3 2 3
+3 6 1
+3 1 1
+3 4 2
+3 11 1
+3 10 2
+4 1 1
+4 2 1
+4 5 2
+4 3 1
+4 10 1
+5 3 1
+5 6 3
+5 8 4
+5 2 3
+5 11 2
+5 9 2
+5 10 1
+6 5 1
+6 11 1
+7 8 1
+7 6 1
+7 3 1
+7 2 2
+7 10 1
+8 5 2
+8 7 1
+8 9 4
+8 10 1
+8 11 1
+9 1 1
+9 10 2
+9 11 1
+9 5 2
+9 8 2
+10 8 1
+10 9 1
+10 11 1
+10 5 1
+10 6 1
+11 4 1
+11 8 2
+11 5 3
+11 9 1
+11 1 1
+11 3 1

@@ -1,0 +1,27 @@
+*vertices 9
+1 "Pere Pons Riera" 0.0 0.0 ellipse
+2 "Javier Muñoz Jiménez" 0.0 0.0 ellipse
+3 "Mubarak Wakaso" 0.0 0.0 ellipse
+4 "Joaquín Navarro Jiménez" 0.0 0.0 ellipse
+5 "Rubén Duarte Sánchez" 0.0 0.0 ellipse
+6 "Aleix Vidal Parreu" 0.0 0.0 ellipse
+7 "Martín Aguirregabiria Padilla" 0.0 0.0 ellipse
+8 "Fernando Pacheco Flores" 0.0 0.0 ellipse
+9 "Lucas Pérez Martínez" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 1
+2 3 1
+2 6 2
+3 5 1
+4 5 1
+5 9 1
+5 3 1
+6 7 2
+6 1 2
+6 3 1
+7 6 2
+8 1 1
+8 7 2
+8 6 1
+9 2 1
