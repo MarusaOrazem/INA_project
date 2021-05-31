@@ -1,0 +1,7 @@
+ID: 69293   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Barcelona (217), goals: 3   
+Away team: Racing Santander (1217), goals: 0    

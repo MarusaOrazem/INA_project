@@ -1,0 +1,7 @@
+ID: 69164   
+Competition: La Liga    
+Country: Spain    
+Season: 2005/2006    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Málaga (223), goals: 0    

@@ -1,0 +1,7 @@
+ID: 16157   
+Competition: La Liga    
+Country: Spain    
+Season: 2018/2019    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Valencia (207), goals: 2    

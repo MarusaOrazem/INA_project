@@ -1,0 +1,7 @@
+ID: 7581   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Croatia (785), goals: 1   
+Away team: Denmark (776), goals: 1    

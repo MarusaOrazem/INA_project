@@ -1,0 +1,7 @@
+ID: 2275042   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2019/2020    
+Gender: female     
+Home team: Manchester City WFC (746), goals: 5   
+Away team: West Ham United LFC (972), goals: 0    

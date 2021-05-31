@@ -1,0 +1,7 @@
+ID: 7532   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Peru (784), goals: 0   
+Away team: Denmark (776), goals: 1    

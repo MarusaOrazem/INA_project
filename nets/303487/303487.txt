@@ -1,0 +1,7 @@
+ID: 303487   
+Competition: La Liga    
+Country: Spain    
+Season: 2019/2020    
+Gender: male     
+Home team: Barcelona (217), goals: 4   
+Away team: Celta Vigo (209), goals: 1    

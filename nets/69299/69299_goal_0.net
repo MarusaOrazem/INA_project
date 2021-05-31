@@ -1,0 +1,57 @@
+*vertices 10
+1 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+2 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+3 "Xavier Hernández Creus" 0.0 0.0 ellipse
+4 "Carles Puyol i Saforcada" 0.0 0.0 ellipse
+5 "Eric-Sylvain Bilal Abidal" 0.0 0.0 ellipse
+6 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+7 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+8 "Pedro Eliezer Rodríguez Ledesma" 0.0 0.0 ellipse
+9 "Daniel Alves da Silva" 0.0 0.0 ellipse
+10 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 6 1
+2 3 5
+2 6 1
+2 7 1
+2 4 2
+2 10 1
+2 8 1
+3 4 2
+3 6 3
+3 2 3
+3 9 5
+3 8 2
+3 10 1
+4 5 4
+4 2 2
+4 3 1
+4 10 1
+4 1 1
+4 6 1
+5 2 1
+5 7 2
+5 1 1
+5 9 1
+5 4 1
+6 2 2
+6 7 1
+6 9 1
+6 3 2
+6 10 1
+7 3 2
+7 8 1
+7 5 1
+8 6 1
+8 3 2
+8 9 1
+9 8 1
+9 3 1
+9 2 1
+9 10 3
+10 2 1
+10 9 2
+10 3 1
+10 7 1

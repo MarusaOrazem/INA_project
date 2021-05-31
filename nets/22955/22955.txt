@@ -1,0 +1,7 @@
+ID: 22955   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Australia Women's (1205), goals: 3   
+Away team: Brazil Women's (1203), goals: 2    

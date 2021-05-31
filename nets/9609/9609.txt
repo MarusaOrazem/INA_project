@@ -1,0 +1,7 @@
+ID: 9609   
+Competition: La Liga    
+Country: Spain    
+Season: 2017/2018    
+Gender: male     
+Home team: Barcelona (217), goals: 6   
+Away team: Eibar (322), goals: 1    

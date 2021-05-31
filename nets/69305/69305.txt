@@ -1,0 +1,7 @@
+ID: 69305   
+Competition: La Liga    
+Country: Spain    
+Season: 2010/2011    
+Gender: male     
+Home team: Barcelona (217), goals: 3   
+Away team: Almería (403), goals: 1    

@@ -1,0 +1,69 @@
+*vertices 10
+1 "Frédéric Oumar Kanouté" 0.0 0.0 ellipse
+2 "Jose Luis Martí Soler" 0.0 0.0 ellipse
+3 "Andrés Palop Cervera" 0.0 0.0 ellipse
+4 "Christian Bjørnshøj Poulsen" 0.0 0.0 ellipse
+5 "Ivica Dragutinovic" 0.0 0.0 ellipse
+6 "Jesús Navas González" 0.0 0.0 ellipse
+7 "Daniel Alves da Silva" 0.0 0.0 ellipse
+8 "David Castedo Escudero" 0.0 0.0 ellipse
+9 "Adriano Correia Claro/Antonio Puerta Pérez" 0.0 0.0 ellipse
+10 "Alexander Kerzhakov/Alejandro Alfaro Ligero" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 4
+1 8 2
+1 7 3
+1 9 1
+1 10 1
+2 6 1
+2 7 3
+2 5 1
+2 1 3
+2 4 2
+2 8 1
+2 3 1
+2 9 1
+2 10 1
+3 4 5
+3 1 5
+3 5 1
+4 5 4
+4 3 5
+4 1 3
+4 2 2
+4 7 2
+4 6 3
+5 4 2
+5 3 4
+5 2 2
+5 1 2
+5 6 1
+5 8 1
+5 9 1
+5 10 1
+6 5 1
+6 4 1
+6 7 5
+6 2 1
+6 8 1
+6 10 3
+7 1 5
+7 6 3
+7 4 1
+7 2 5
+7 5 1
+7 9 1
+7 10 1
+8 6 2
+8 1 3
+8 10 2
+8 9 5
+9 5 1
+9 1 1
+9 7 2
+9 10 2
+10 1 1
+10 6 3
+10 7 1
+10 9 3

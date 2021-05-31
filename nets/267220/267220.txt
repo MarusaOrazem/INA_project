@@ -1,0 +1,7 @@
+ID: 267220   
+Competition: La Liga    
+Country: Spain    
+Season: 2016/2017    
+Gender: male     
+Home team: Barcelona (217), goals: 1   
+Away team: Atlético Madrid (212), goals: 1    

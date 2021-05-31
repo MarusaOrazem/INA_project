@@ -1,0 +1,7 @@
+ID: 7553   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: South Korea (791), goals: 1   
+Away team: Mexico (794), goals: 2    

@@ -1,0 +1,7 @@
+ID: 7556   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Japan (778), goals: 2   
+Away team: Senegal (787), goals: 2    

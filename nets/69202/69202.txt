@@ -1,0 +1,7 @@
+ID: 69202   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: France Women's (861), goals: 1   
+Away team: United States Women's (1214), goals: 2    

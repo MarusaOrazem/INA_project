@@ -1,0 +1,7 @@
+ID: 2275083   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2019/2020    
+Gender: female     
+Home team: Birmingham City WFC (969), goals: 0   
+Away team: Bristol City WFC (973), goals: 1    

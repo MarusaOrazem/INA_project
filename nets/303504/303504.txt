@@ -1,0 +1,7 @@
+ID: 303504   
+Competition: La Liga    
+Country: Spain    
+Season: 2019/2020    
+Gender: male     
+Home team: Levante (221), goals: 3   
+Away team: Barcelona (217), goals: 1    

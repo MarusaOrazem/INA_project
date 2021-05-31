@@ -1,0 +1,7 @@
+ID: 69188   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Netherlands Women's (851), goals: 2   
+Away team: Japan Women's (1210), goals: 1    

@@ -1,0 +1,7 @@
+ID: 7549   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Nigeria (775), goals: 2   
+Away team: Iceland (793), goals: 0    

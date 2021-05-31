@@ -1,0 +1,7 @@
+ID: 69174   
+Competition: La Liga    
+Country: Spain    
+Season: 2006/2007    
+Gender: male     
+Home team: Deportivo La Coruna (219), goals: 1   
+Away team: Barcelona (217), goals: 1    

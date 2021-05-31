@@ -1,0 +1,105 @@
+*vertices 11
+1 "Vivianne Miedema" 0.0 0.0 ellipse
+2 "Kim Little" 0.0 0.0 ellipse
+3 "Leah Williamson" 0.0 0.0 ellipse
+4 "Viktoria Schnaderbeck" 0.0 0.0 ellipse
+5 "Lia Wälti" 0.0 0.0 ellipse
+6 "Lisa Evans" 0.0 0.0 ellipse
+7 "Katie McCabe" 0.0 0.0 ellipse
+8 "Leonie Maier" 0.0 0.0 ellipse
+9 "Jordan Nobbs" 0.0 0.0 ellipse
+10 "Pauline Peyraud Magnin" 0.0 0.0 ellipse
+11 "Danielle van de Donk/Jill Roord" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 2
+1 5 1
+1 7 1
+1 9 1
+1 11 1
+2 3 4
+2 4 6
+2 8 2
+2 1 1
+2 5 2
+2 9 4
+2 6 2
+2 7 6
+2 10 2
+2 11 4
+3 4 11
+3 6 5
+3 7 3
+3 5 7
+3 10 4
+3 9 2
+3 8 3
+3 2 2
+3 11 1
+4 5 5
+4 3 6
+4 7 12
+4 9 3
+4 8 1
+4 2 4
+4 6 1
+4 10 4
+4 1 1
+4 11 4
+5 7 5
+5 4 5
+5 9 6
+5 3 3
+5 6 2
+5 10 4
+5 2 5
+5 8 4
+5 11 2
+6 3 2
+6 8 3
+6 7 5
+6 2 3
+6 1 2
+6 4 1
+6 9 3
+6 11 6
+7 4 5
+7 3 3
+7 10 6
+7 2 4
+7 6 5
+7 1 6
+7 5 3
+7 9 3
+7 11 2
+8 5 9
+8 3 4
+8 10 2
+8 6 3
+8 2 1
+8 9 6
+8 1 1
+8 4 1
+8 11 3
+9 5 3
+9 1 1
+9 6 5
+9 3 4
+9 2 6
+9 8 3
+9 7 2
+9 11 2
+10 3 12
+10 7 3
+10 4 5
+10 5 1
+10 2 1
+10 6 1
+11 4 3
+11 5 2
+11 9 7
+11 8 2
+11 1 1
+11 2 4
+11 6 2
+11 7 1

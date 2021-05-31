@@ -1,0 +1,7 @@
+ID: 7486   
+Competition: NWSL    
+Country: United States of America    
+Season: 2018    
+Gender: female     
+Home team: Portland Thorns (765), goals: 3   
+Away team: Houston Dash (762), goals: 1    

@@ -1,0 +1,68 @@
+*vertices 11
+1 "Alfonso Pedraza Sag" 0.0 0.0 ellipse
+2 "Rodrigo Ely" 0.0 0.0 ellipse
+3 "Tomás Pina Isla" 0.0 0.0 ellipse
+4 "Manuel Alejandro García Sánchez" 0.0 0.0 ellipse
+5 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+6 "Óscar David Romero Villamayor" 0.0 0.0 ellipse
+7 "Fernando Pacheco Flores" 0.0 0.0 ellipse
+8 "Carlos Martín Vigaray" 0.0 0.0 ellipse
+9 "Ibai Gómez Pérez/Jorge Franco Alviz" 0.0 0.0 ellipse
+10 "Mubarak Wakaso/Enzo Alan Zidane Fernández" 0.0 0.0 ellipse
+11 "Rubén Sobrino Pozuelo/Christian Robert Santos Kwasniewski" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 9 3
+1 10 1
+2 3 3
+2 4 3
+2 5 2
+2 1 1
+2 7 2
+2 9 2
+2 10 1
+3 1 2
+3 6 2
+3 4 1
+3 7 1
+3 5 1
+3 2 2
+3 8 3
+3 10 3
+3 9 2
+4 1 1
+4 5 2
+4 3 3
+4 10 1
+4 11 1
+4 9 2
+5 4 5
+5 2 1
+5 3 1
+5 11 1
+6 8 1
+6 10 1
+7 2 1
+7 5 1
+8 6 2
+8 3 5
+8 11 2
+8 10 1
+9 4 1
+9 1 1
+9 10 1
+9 11 3
+10 4 1
+10 3 4
+10 2 2
+10 6 1
+10 5 2
+10 8 1
+10 1 1
+10 11 2
+11 4 1
+11 3 1
+11 8 2
+11 6 1
+11 9 1
+11 10 2

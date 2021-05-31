@@ -1,0 +1,7 @@
+ID: 69327   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Barcelona (217), goals: 4   
+Away team: Real Betis (218), goals: 2    

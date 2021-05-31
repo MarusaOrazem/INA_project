@@ -1,0 +1,7 @@
+ID: 22942   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: New Zealand Women's (1215), goals: 0   
+Away team: Netherlands Women's (851), goals: 1    

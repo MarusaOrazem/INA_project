@@ -1,0 +1,7 @@
+ID: 265857   
+Competition: La Liga    
+Country: Spain    
+Season: 2013/2014    
+Gender: male     
+Home team: Real Madrid (220), goals: 3   
+Away team: Barcelona (217), goals: 4    

@@ -1,0 +1,67 @@
+*vertices 11
+1 "Birkir Már Sævarsson" 0.0 0.0 ellipse
+2 "Hörður Björgvin Magnússon" 0.0 0.0 ellipse
+3 "Hannes Þór Halldórsson" 0.0 0.0 ellipse
+4 "Emil Hallfreðsson" 0.0 0.0 ellipse
+5 "Gylfi Þór Sigurðsson" 0.0 0.0 ellipse
+6 "Aron Einar Gunnarsson" 0.0 0.0 ellipse
+7 "Johann Berg Guðmunds­son" 0.0 0.0 ellipse
+8 "Sverrir Ingi Ingason" 0.0 0.0 ellipse
+9 "Ragnar Sigurðsson/Björn Bergmann Sigurðarson" 0.0 0.0 ellipse
+10 "Alfreð Finnbogason/Albert Gudmundsson" 0.0 0.0 ellipse
+11 "Birkir Bjarnason/Arnór Ingvi Traustason" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+1 7 2
+1 4 2
+1 11 1
+1 9 2
+2 3 1
+2 8 1
+2 7 2
+2 6 2
+2 11 3
+3 2 1
+3 11 2
+4 5 5
+4 6 2
+4 7 2
+4 1 1
+4 10 1
+4 11 4
+5 7 2
+5 8 1
+5 6 4
+5 4 1
+5 10 1
+5 11 1
+6 4 2
+6 2 1
+6 5 3
+6 7 3
+6 1 1
+6 9 1
+7 4 1
+7 2 3
+7 5 2
+7 10 1
+7 11 3
+7 9 1
+8 4 2
+8 1 3
+8 7 1
+8 3 2
+9 7 1
+9 4 1
+9 5 1
+9 6 1
+10 4 1
+10 11 1
+11 2 4
+11 5 1
+11 1 1
+11 8 1
+11 7 1
+11 9 1
+11 10 1

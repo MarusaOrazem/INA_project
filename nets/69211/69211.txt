@@ -1,0 +1,7 @@
+ID: 69211   
+Competition: La Liga    
+Country: Spain    
+Season: 2008/2009    
+Gender: male     
+Home team: Espanyol (214), goals: 1   
+Away team: Barcelona (217), goals: 2    

@@ -1,0 +1,7 @@
+ID: 68344   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Netherlands Women's (851), goals: 2   
+Away team: Canada Women's (1206), goals: 1    

@@ -1,0 +1,88 @@
+*vertices 11
+1 "Morgan Brian" 0.0 0.0 ellipse
+2 "Ali Krieger" 0.0 0.0 ellipse
+3 "Mallory Pugh" 0.0 0.0 ellipse
+4 "Becky Sauerbrunn" 0.0 0.0 ellipse
+5 "Tierna Davidson" 0.0 0.0 ellipse
+6 "Christen Press" 0.0 0.0 ellipse
+7 "Carli Lloyd" 0.0 0.0 ellipse
+8 "Alyssa Naeher" 0.0 0.0 ellipse
+9 "Lindsey Horan/Allie Long" 0.0 0.0 ellipse
+10 "Abby Dahlkemper/Emily Sonnett" 0.0 0.0 ellipse
+11 "Julie Ertz/Jessica McDonald" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 3 1
+1 4 4
+1 7 2
+1 5 2
+1 6 4
+1 10 5
+1 9 1
+2 3 9
+2 4 9
+2 7 1
+2 5 5
+2 1 2
+2 9 2
+2 10 5
+2 11 1
+3 2 6
+3 1 2
+3 9 2
+3 10 1
+3 11 2
+4 5 18
+4 1 2
+4 7 3
+4 8 2
+4 2 7
+4 6 1
+4 10 2
+4 11 1
+4 9 1
+5 6 16
+5 4 8
+5 7 6
+5 1 4
+5 2 3
+5 10 1
+5 9 1
+6 7 5
+6 4 2
+6 2 1
+6 5 3
+6 9 3
+6 10 2
+6 11 4
+7 5 2
+7 2 2
+7 6 6
+7 1 1
+7 4 1
+7 11 3
+8 1 1
+8 2 1
+8 10 2
+9 1 3
+9 3 2
+9 2 6
+9 10 1
+9 11 1
+9 4 2
+9 5 3
+9 7 1
+10 4 3
+10 3 3
+10 2 5
+10 8 1
+10 1 4
+10 5 5
+10 6 1
+10 9 3
+11 3 3
+11 1 1
+11 4 1
+11 5 1
+11 7 1
+11 9 2

@@ -1,0 +1,7 @@
+ID: 19801   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: Reading WFC (974), goals: 3   
+Away team: Manchester City WFC (746), goals: 4    

@@ -1,0 +1,7 @@
+ID: 69216   
+Competition: La Liga    
+Country: Spain    
+Season: 2008/2009    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Athletic Bilbao (215), goals: 0    

@@ -1,0 +1,7 @@
+ID: 18236   
+Competition: Champions League    
+Country: Europe    
+Season: 2010/2011    
+Gender: male     
+Home team: Barcelona (217), goals: 3   
+Away team: Manchester United (39), goals: 1    

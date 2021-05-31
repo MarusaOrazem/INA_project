@@ -1,0 +1,7 @@
+ID: 7530   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: France (771), goals: 2   
+Away team: Australia (792), goals: 1    

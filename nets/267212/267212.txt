@@ -1,0 +1,7 @@
+ID: 267212   
+Competition: La Liga    
+Country: Spain    
+Season: 2016/2017    
+Gender: male     
+Home team: Leganés (205), goals: 1   
+Away team: Barcelona (217), goals: 5    

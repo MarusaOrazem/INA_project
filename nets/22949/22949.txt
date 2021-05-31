@@ -1,0 +1,7 @@
+ID: 22949   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Germany Women's (857), goals: 1   
+Away team: Spain Women's (863), goals: 0    

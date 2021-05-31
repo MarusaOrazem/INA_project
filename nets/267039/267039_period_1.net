@@ -1,0 +1,89 @@
+*vertices 11
+1 "Javier Varas Herrera" 0.0 0.0 ellipse
+2 "Mauricio Lemos Merladet" 0.0 0.0 ellipse
+3 "Roque Mesa Quevedo" 0.0 0.0 ellipse
+4 "Kevin-Prince Boateng" 0.0 0.0 ellipse
+5 "Míchel Macedo Rocha Machado" 0.0 0.0 ellipse
+6 "Hélder Filipe Oliveira Lopes" 0.0 0.0 ellipse
+7 "Pedro Bigas Rigo" 0.0 0.0 ellipse
+8 "Jesé Rodríguez Ruiz" 0.0 0.0 ellipse
+9 "Jerónimo Figueroa Cabrera/Alen Halilović" 0.0 0.0 ellipse
+10 "Ángel Montoro Sánchez/Hernán Daniel Santana Trujillo" 0.0 0.0 ellipse
+11 "Jonathan Viera Ramos/Javi Castellano Betancor" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 5
+1 8 1
+1 10 3
+2 1 4
+2 5 2
+2 4 2
+2 3 1
+2 7 1
+2 10 2
+2 11 1
+3 4 3
+3 2 2
+3 8 2
+3 7 1
+3 9 1
+3 10 1
+3 11 5
+4 5 3
+4 6 3
+4 7 2
+4 8 1
+4 10 1
+4 11 1
+4 9 1
+5 8 1
+5 2 1
+5 10 2
+5 11 1
+5 9 5
+6 7 3
+6 8 2
+6 3 1
+6 1 1
+6 4 1
+6 9 1
+6 10 2
+6 11 3
+7 1 2
+7 3 3
+7 8 1
+7 6 2
+7 4 1
+7 2 1
+7 9 1
+7 10 6
+7 11 2
+8 7 1
+8 4 1
+8 6 1
+8 3 1
+8 11 2
+8 9 1
+9 3 1
+9 5 3
+9 4 1
+9 11 1
+9 8 2
+9 10 1
+10 6 2
+10 2 4
+10 1 1
+10 4 1
+10 7 3
+10 3 1
+10 8 1
+10 11 4
+10 9 1
+11 6 1
+11 4 5
+11 3 2
+11 7 3
+11 2 2
+11 8 1
+11 9 3
+11 10 1

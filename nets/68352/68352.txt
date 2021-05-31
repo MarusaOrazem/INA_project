@@ -1,0 +1,7 @@
+ID: 68352   
+Competition: La Liga    
+Country: Spain    
+Season: 2004/2005    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Getafe (216), goals: 0    

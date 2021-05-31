@@ -1,0 +1,84 @@
+*vertices 11
+1 "Aritz Aduriz Zubeldia" 0.0 0.0 ellipse
+2 "Iñigo Córdoba Kerejeta" 0.0 0.0 ellipse
+3 "Íñigo Lekue Martínez" 0.0 0.0 ellipse
+4 "Ander Iturraspe Derteano" 0.0 0.0 ellipse
+5 "Kepa Arrizabalaga Revuelta" 0.0 0.0 ellipse
+6 "Aymeric Laporte" 0.0 0.0 ellipse
+7 "Raúl García Escudero" 0.0 0.0 ellipse
+8 "Eneko Bóveda Altube" 0.0 0.0 ellipse
+9 "Unai Núñez Gestoso" 0.0 0.0 ellipse
+10 "Mikel San José Domínguez/Beñat Etxebarria Urkiaga" 0.0 0.0 ellipse
+11 "Iñaki Williams Arthuer/Markel Susaeta Laskurain" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 3
+1 7 1
+1 3 1
+1 10 1
+1 11 1
+2 3 2
+2 7 1
+2 6 2
+2 1 1
+2 11 1
+2 10 1
+3 2 3
+3 5 2
+3 1 2
+3 6 2
+3 7 2
+3 4 5
+3 10 3
+4 1 3
+4 3 4
+4 6 2
+4 7 2
+4 8 5
+4 2 2
+4 5 2
+4 9 3
+4 11 1
+4 10 2
+5 9 1
+5 7 1
+5 1 1
+5 11 1
+6 4 3
+6 7 1
+6 3 3
+6 5 1
+6 9 1
+6 10 2
+7 8 1
+7 1 1
+7 2 4
+7 6 1
+7 10 1
+7 11 3
+8 6 1
+8 4 4
+8 9 1
+8 1 2
+8 7 2
+8 10 1
+8 11 1
+9 5 2
+9 4 1
+9 8 2
+9 10 2
+9 11 1
+10 2 1
+10 7 1
+10 4 2
+10 11 1
+10 9 1
+10 8 2
+10 6 2
+10 3 3
+10 1 3
+11 4 3
+11 1 2
+11 8 2
+11 2 2
+11 10 1

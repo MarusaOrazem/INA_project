@@ -1,0 +1,7 @@
+ID: 266477   
+Competition: La Liga    
+Country: Spain    
+Season: 2016/2017    
+Gender: male     
+Home team: Villarreal (222), goals: 1   
+Away team: Barcelona (217), goals: 1    

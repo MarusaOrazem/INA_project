@@ -1,0 +1,63 @@
+*vertices 11
+1 "Hernán Darío Pellerano" 0.0 0.0 ellipse
+2 "Iriney Santos Da Silva" 0.0 0.0 ellipse
+3 "Álvaro Negredo Sánchez" 0.0 0.0 ellipse
+4 "José Manuel Jiménez Ortiz" 0.0 0.0 ellipse
+5 "Santiago Wilmer Acasiete Ariadela" 0.0 0.0 ellipse
+6 "Albert Crusat Domene" 0.0 0.0 ellipse
+7 "Bruno Saltor Grau" 0.0 0.0 ellipse
+8 "Diego Alves Carreira" 0.0 0.0 ellipse
+9 "Juan Manuel Ortiz Palazón/José Ortiz Bernal" 0.0 0.0 ellipse
+10 "Juan Jesús Gutiérrez Robles/Miguel Ángel García Pérez Roldán" 0.0 0.0 ellipse
+11 "Kalu Uche/Pablo Daniel Piatti" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 5 2
+1 4 3
+1 6 2
+1 8 2
+1 10 2
+1 11 1
+2 1 3
+2 4 2
+2 7 2
+2 6 1
+2 5 1
+2 10 1
+3 4 1
+3 7 1
+4 2 2
+4 1 2
+4 6 2
+4 7 1
+4 10 1
+4 11 1
+5 1 3
+5 7 1
+5 9 1
+5 10 1
+6 4 2
+6 10 1
+7 3 3
+7 2 4
+7 1 1
+7 9 2
+7 10 4
+8 7 1
+8 3 1
+8 1 1
+8 11 1
+8 10 1
+9 7 1
+9 11 1
+9 3 1
+10 7 2
+10 6 2
+10 5 2
+10 4 3
+10 2 2
+10 3 1
+11 3 2
+11 4 1
+11 6 1
+11 2 1

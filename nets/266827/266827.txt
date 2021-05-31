@@ -1,0 +1,7 @@
+ID: 266827   
+Competition: La Liga    
+Country: Spain    
+Season: 2012/2013    
+Gender: male     
+Home team: Málaga (223), goals: 1   
+Away team: Barcelona (217), goals: 3    

@@ -1,0 +1,79 @@
+*vertices 11
+1 "Ricardo Miguel Moreira da Costa" 0.0 0.0 ellipse
+2 "Vicente Guaita Panadero" 0.0 0.0 ellipse
+3 "Éver Maximiliano David Banega" 0.0 0.0 ellipse
+4 "Pablo Hernández Domínguez" 0.0 0.0 ellipse
+5 "Juan Manuel Mata García" 0.0 0.0 ellipse
+6 "Marius Stankevičius" 0.0 0.0 ellipse
+7 "Jordi Alba Ramos" 0.0 0.0 ellipse
+8 "Ángel Dealbert Ibáñez" 0.0 0.0 ellipse
+9 "Jérémy Mathieu/Jonas Gonçalves Oliveira" 0.0 0.0 ellipse
+10 "Alberto Facundo Costa /Francisco Román Alarcón Suárez" 0.0 0.0 ellipse
+11 "Joaquín Sánchez Rodríguez/Roberto Soldado Rillo" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 5 1
+1 3 1
+1 6 2
+1 10 2
+2 7 2
+2 1 2
+2 8 1
+2 6 2
+2 4 1
+2 3 1
+2 9 2
+2 11 4
+3 4 2
+3 6 4
+3 7 3
+3 5 5
+3 8 1
+3 10 4
+3 11 2
+3 9 1
+4 5 2
+4 6 3
+4 10 2
+5 4 3
+5 6 2
+5 3 3
+5 7 4
+5 9 2
+5 10 1
+6 5 2
+6 3 5
+6 1 1
+6 4 2
+6 2 2
+6 11 1
+6 9 1
+6 10 2
+7 8 2
+7 3 1
+7 5 4
+7 9 3
+7 10 1
+8 2 4
+8 7 1
+8 3 2
+8 6 1
+8 1 1
+9 3 2
+9 5 2
+9 4 2
+9 7 1
+9 6 1
+9 11 2
+10 7 1
+10 3 4
+10 1 2
+10 5 1
+10 4 2
+10 6 1
+10 8 1
+10 9 1
+10 11 2
+11 5 2
+11 4 1
+11 10 1

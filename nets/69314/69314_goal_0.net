@@ -1,0 +1,67 @@
+*vertices 11
+1 "David Villa Sánchez" 0.0 0.0 ellipse
+2 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+3 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+4 "Thiago Alcântara do Nascimento" 0.0 0.0 ellipse
+5 "Daniel Alves da Silva" 0.0 0.0 ellipse
+6 "Javier Alejandro Mascherano" 0.0 0.0 ellipse
+7 "Eric-Sylvain Bilal Abidal" 0.0 0.0 ellipse
+8 "Seydou Kéita" 0.0 0.0 ellipse
+9 "Adriano Correia Claro" 0.0 0.0 ellipse
+10 "Juan Isaac Cuenca López" 0.0 0.0 ellipse
+11 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 10 1
+2 3 3
+2 5 3
+2 1 2
+2 8 2
+2 10 1
+2 9 2
+3 4 4
+3 5 3
+3 2 3
+3 10 2
+4 5 2
+4 3 3
+4 10 3
+4 8 5
+4 6 2
+4 2 2
+4 9 2
+5 6 1
+5 2 4
+5 4 4
+5 11 2
+5 10 3
+5 3 1
+5 8 1
+6 7 2
+6 4 1
+6 8 1
+7 8 1
+7 4 2
+7 5 1
+7 10 1
+7 3 1
+7 2 1
+7 9 1
+7 11 1
+8 9 4
+8 4 2
+8 2 1
+8 5 2
+8 7 1
+8 3 1
+9 7 2
+9 2 2
+9 4 2
+9 3 1
+10 4 1
+10 5 3
+10 3 1
+10 2 1
+11 5 2
+11 3 1
+11 8 1

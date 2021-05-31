@@ -1,0 +1,108 @@
+*vertices 11
+1 "Nélson Cabral Semedo" 0.0 0.0 ellipse
+2 "Arturo Erasmo Vidal Pardo" 0.0 0.0 ellipse
+3 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+4 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+5 "Jordi Alba Ramos" 0.0 0.0 ellipse
+6 "Samuel Yves Umtiti" 0.0 0.0 ellipse
+7 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+8 "Marc-André ter Stegen" 0.0 0.0 ellipse
+9 "Arthur Henrique Ramos de Oliveira Melo/Ousmane Dembélé" 0.0 0.0 ellipse
+10 "Philippe Coutinho Correia/Ivan Rakitić" 0.0 0.0 ellipse
+11 "Sergio Busquets i Burgos/Malcom Filipe Silva de Oliveira" 0.0 0.0 ellipse
+*arcs
+1 2 13
+1 4 7
+1 6 1
+1 3 4
+1 8 1
+1 7 2
+1 10 3
+1 11 2
+1 9 16
+2 3 5
+2 4 9
+2 1 19
+2 6 4
+2 5 7
+2 7 3
+2 10 3
+2 11 17
+2 9 2
+3 4 3
+3 6 2
+3 7 1
+3 2 5
+3 5 3
+3 1 1
+3 8 1
+3 9 1
+3 10 1
+3 11 3
+4 5 4
+4 3 2
+4 7 6
+4 1 1
+4 2 9
+4 9 7
+4 10 1
+4 11 4
+5 4 6
+5 7 11
+5 1 1
+5 2 3
+5 6 4
+5 9 4
+5 10 14
+5 11 7
+6 5 4
+6 2 3
+6 1 2
+6 3 2
+6 8 2
+6 7 1
+6 9 1
+6 10 2
+6 11 5
+7 4 3
+7 1 1
+7 5 2
+7 2 2
+7 9 3
+7 10 2
+7 11 4
+8 4 1
+8 3 3
+8 2 1
+8 1 1
+8 6 2
+8 10 2
+8 9 1
+9 5 3
+9 4 9
+9 10 4
+9 11 3
+9 1 10
+9 7 3
+9 2 5
+9 6 1
+10 1 3
+10 5 1
+10 7 2
+10 4 4
+10 2 1
+10 6 1
+10 9 4
+10 11 2
+10 3 3
+10 8 2
+11 1 3
+11 3 5
+11 7 1
+11 5 11
+11 4 1
+11 2 11
+11 6 2
+11 8 1
+11 9 5
+11 10 4

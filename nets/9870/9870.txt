@@ -1,0 +1,7 @@
+ID: 9870   
+Competition: La Liga    
+Country: Spain    
+Season: 2017/2018    
+Gender: male     
+Home team: Barcelona (217), goals: 3   
+Away team: Leganés (205), goals: 1    

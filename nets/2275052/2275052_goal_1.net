@@ -1,0 +1,19 @@
+*vertices 8
+1 "Matilde Lundorf Skovsen" 0.0 0.0 ellipse
+2 "Ellie Brazil" 0.0 0.0 ellipse
+3 "Kayleigh Green" 0.0 0.0 ellipse
+4 "Victoria Williams" 0.0 0.0 ellipse
+5 "Megan Connolly" 0.0 0.0 ellipse
+6 "Danielle Buet" 0.0 0.0 ellipse
+7 "Aileen Whelan" 0.0 0.0 ellipse
+8 "Felicity Gibbons" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+2 3 2
+3 6 1
+4 2 1
+5 3 1
+6 7 1
+6 2 1
+8 7 1

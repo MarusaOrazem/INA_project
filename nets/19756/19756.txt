@@ -1,0 +1,7 @@
+ID: 19756   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: Everton LFC (967), goals: 1   
+Away team: Birmingham City WFC (969), goals: 3    

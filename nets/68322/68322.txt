@@ -1,0 +1,7 @@
+ID: 68322   
+Competition: La Liga    
+Country: Spain    
+Season: 2005/2006    
+Gender: male     
+Home team: Cádiz (552), goals: 1   
+Away team: Barcelona (217), goals: 3    

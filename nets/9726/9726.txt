@@ -1,0 +1,7 @@
+ID: 9726   
+Competition: La Liga    
+Country: Spain    
+Season: 2017/2018    
+Gender: male     
+Home team: Barcelona (217), goals: 4   
+Away team: Deportivo La Coruna (219), goals: 0    

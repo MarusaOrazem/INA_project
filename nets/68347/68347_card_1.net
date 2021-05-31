@@ -1,0 +1,75 @@
+*vertices 10
+1 "Josu Sarriegi Zumárraga" 0.0 0.0 ellipse
+2 "Javier Martínez Aginaga" 0.0 0.0 ellipse
+3 "Pablo Orbaiz Lesaka" 0.0 0.0 ellipse
+4 "Francisco Javier Yeste Navarro" 0.0 0.0 ellipse
+5 "Ustaritz Aldekoaotalora Astarloa" 0.0 0.0 ellipse
+6 "Andoni Iraola Sagarna" 0.0 0.0 ellipse
+7 "Iñaki Lafuente Sancha" 0.0 0.0 ellipse
+8 "Joseba Andoni Etxeberria Lizardi/Ismael Urzáiz Aranda" 0.0 0.0 ellipse
+9 "Joseba Garmendia Elorriaga/Igor Gabilondo del Campo" 0.0 0.0 ellipse
+10 "Fernando Llorente Torres/Unai Expósito Medina" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 2
+1 4 3
+1 5 1
+1 8 1
+1 9 1
+1 10 1
+2 1 1
+2 4 2
+2 6 4
+2 3 1
+2 8 2
+2 9 1
+3 4 4
+3 5 2
+3 2 1
+3 1 1
+3 6 4
+3 8 4
+3 9 1
+3 10 1
+4 6 5
+4 3 3
+4 2 3
+4 5 1
+4 9 2
+4 10 2
+4 8 1
+5 4 4
+5 1 3
+5 3 1
+5 6 2
+5 2 2
+5 9 1
+5 8 2
+6 4 2
+6 2 2
+6 5 2
+6 3 2
+6 8 1
+6 9 2
+7 6 2
+7 5 2
+7 4 1
+7 9 4
+8 6 4
+8 3 1
+8 9 2
+8 4 3
+9 3 1
+9 2 1
+9 6 1
+9 5 1
+9 10 2
+9 8 1
+10 4 4
+10 5 1
+10 7 2
+10 3 1
+10 1 1
+10 2 1
+10 9 1
+10 8 2

@@ -1,0 +1,7 @@
+ID: 69157   
+Competition: La Liga    
+Country: Spain    
+Season: 2006/2007    
+Gender: male     
+Home team: Barcelona (217), goals: 1   
+Away team: Getafe (216), goals: 0    

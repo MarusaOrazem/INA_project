@@ -1,0 +1,7 @@
+ID: 69161   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Spain Women's (863), goals: 1   
+Away team: United States Women's (1214), goals: 2    

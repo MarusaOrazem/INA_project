@@ -1,0 +1,7 @@
+ID: 303517   
+Competition: La Liga    
+Country: Spain    
+Season: 2019/2020    
+Gender: male     
+Home team: Barcelona (217), goals: 4   
+Away team: Deportivo Alavés (206), goals: 1    

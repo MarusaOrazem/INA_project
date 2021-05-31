@@ -1,0 +1,38 @@
+*vertices 10
+1 "Ludwig Augustinsson" 0.0 0.0 ellipse
+2 "Gustav Svensson" 0.0 0.0 ellipse
+3 "Ola Toivonen" 0.0 0.0 ellipse
+4 "Albin Ekdal" 0.0 0.0 ellipse
+5 "Robin Olsen" 0.0 0.0 ellipse
+6 "Emil Forsberg/Martin Olsson" 0.0 0.0 ellipse
+7 "Viktor Claesson" 0.0 0.0 ellipse
+8 "Andreas Granqvist" 0.0 0.0 ellipse
+9 "Mikael Lustig/Emil Krafth" 0.0 0.0 ellipse
+10 "Marcus Berg/Isaac Kiese Thelin" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+2 4 1
+3 6 3
+3 10 2
+4 3 1
+4 9 1
+4 10 1
+4 6 1
+5 3 2
+5 10 1
+6 7 1
+6 2 1
+6 3 2
+6 1 1
+6 4 1
+7 6 1
+7 10 1
+7 9 1
+8 6 1
+9 2 1
+9 10 2
+9 7 1
+10 4 1
+10 7 1
+10 6 1

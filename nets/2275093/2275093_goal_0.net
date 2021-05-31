@@ -1,0 +1,5 @@
+*vertices 2
+1 "Lucy Staniforth" 0.0 0.0 ellipse
+2 "Chloe Arthur" 0.0 0.0 ellipse
+*arcs
+1 2 1

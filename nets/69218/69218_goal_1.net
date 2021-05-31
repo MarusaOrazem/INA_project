@@ -1,0 +1,82 @@
+*vertices 11
+1 "Filipe Luis Kasmirski" 0.0 0.0 ellipse
+2 "Sergio González Soriano" 0.0 0.0 ellipse
+3 "Miguel Ángel Ferrer Martínez" 0.0 0.0 ellipse
+4 "Daniel Aranzubia Aguado" 0.0 0.0 ellipse
+5 "Manuel Pablo García Díaz" 0.0 0.0 ellipse
+6 "Alberto Lopo García" 0.0 0.0 ellipse
+7 "Juan Antonio Rodríguez Villamuela" 0.0 0.0 ellipse
+8 "Diego Daniel Colotto" 0.0 0.0 ellipse
+9 "Adrián López Álvarez/Juliano Roberto Antonello" 0.0 0.0 ellipse
+10 "Antonio Tomás González/Rodolfo Bodipo Díaz" 0.0 0.0 ellipse
+11 "José Andrés Guardado Hernández/Pablo Álvarez Nuñez" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 4 2
+1 3 1
+1 7 1
+1 8 1
+1 10 2
+1 11 1
+1 9 1
+2 3 1
+2 5 4
+2 6 1
+2 7 2
+2 1 1
+2 9 1
+2 11 3
+3 7 4
+3 5 1
+3 2 1
+3 10 1
+3 11 1
+4 1 2
+4 7 6
+4 3 5
+4 5 1
+4 6 1
+4 10 2
+5 2 6
+5 4 2
+5 7 4
+5 8 2
+5 3 2
+5 9 1
+5 10 3
+6 4 1
+6 7 1
+6 5 1
+6 2 1
+6 1 2
+7 1 2
+7 5 2
+7 3 1
+7 9 1
+7 10 1
+7 11 1
+8 3 2
+8 5 1
+8 4 1
+8 9 1
+9 2 1
+9 5 1
+9 8 1
+9 10 1
+9 7 1
+9 1 1
+9 3 1
+9 11 1
+10 8 1
+10 5 2
+10 1 2
+10 2 2
+10 6 1
+10 3 1
+10 7 1
+10 11 4
+10 9 1
+11 3 1
+11 1 1
+11 5 1
+11 10 1

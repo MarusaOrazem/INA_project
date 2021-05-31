@@ -1,0 +1,7 @@
+ID: 69284   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Netherlands Women's (851), goals: 1   
+Away team: Sweden Women's (858), goals: 0    

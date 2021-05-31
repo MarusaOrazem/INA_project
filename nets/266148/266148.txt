@@ -1,0 +1,7 @@
+ID: 266148   
+Competition: La Liga    
+Country: Spain    
+Season: 2014/2015    
+Gender: male     
+Home team: Barcelona (217), goals: 0   
+Away team: Málaga (223), goals: 1    

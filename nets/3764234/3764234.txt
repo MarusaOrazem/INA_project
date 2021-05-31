@@ -1,0 +1,7 @@
+ID: 3764234   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2020/2021    
+Gender: female     
+Home team: Aston Villa (2647), goals: 0   
+Away team: Manchester City WFC (746), goals: 2    

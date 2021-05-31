@@ -1,0 +1,7 @@
+ID: 68359   
+Competition: La Liga    
+Country: Spain    
+Season: 2007/2008    
+Gender: male     
+Home team: Barcelona (217), goals: 0   
+Away team: Espanyol (214), goals: 0    

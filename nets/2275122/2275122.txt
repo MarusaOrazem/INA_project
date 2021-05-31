@@ -1,0 +1,7 @@
+ID: 2275122   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2019/2020    
+Gender: female     
+Home team: Reading WFC (974), goals: 3   
+Away team: Bristol City WFC (973), goals: 3    

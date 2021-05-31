@@ -1,0 +1,7 @@
+ID: 7557   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Iran (797), goals: 1   
+Away team: Portugal (780), goals: 1    

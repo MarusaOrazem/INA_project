@@ -1,0 +1,7 @@
+ID: 69165   
+Competition: La Liga    
+Country: Spain    
+Season: 2006/2007    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Espanyol (214), goals: 2    

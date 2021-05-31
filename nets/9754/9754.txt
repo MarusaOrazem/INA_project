@@ -1,0 +1,7 @@
+ID: 9754   
+Competition: La Liga    
+Country: Spain    
+Season: 2017/2018    
+Gender: male     
+Home team: Real Sociedad (210), goals: 2   
+Away team: Barcelona (217), goals: 4    

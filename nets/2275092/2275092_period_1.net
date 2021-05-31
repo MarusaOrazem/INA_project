@@ -1,0 +1,80 @@
+*vertices 11
+1 "Rachel Williams" 0.0 0.0 ellipse
+2 "Lucy Staniforth" 0.0 0.0 ellipse
+3 "Hannah Hampton" 0.0 0.0 ellipse
+4 "Harriet Scott" 0.0 0.0 ellipse
+5 "Sarah Emma Mayling" 0.0 0.0 ellipse
+6 "Lucy Whipp" 0.0 0.0 ellipse
+7 "Adrienne Jordan" 0.0 0.0 ellipse
+8 "Chloe Arthur" 0.0 0.0 ellipse
+9 "Abbi Grant/Brianna Visalli" 0.0 0.0 ellipse
+10 "Rebecca Holloway/Kerys Harrop" 0.0 0.0 ellipse
+11 "Claudia Walker/Emma Rose Kelly" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 7 3
+1 11 1
+1 9 2
+2 1 2
+2 8 1
+2 7 3
+2 5 2
+2 9 1
+2 10 1
+2 11 2
+3 4 7
+3 7 2
+3 5 1
+3 8 1
+3 9 1
+3 11 1
+3 10 1
+4 5 4
+4 6 3
+4 3 1
+4 2 2
+4 8 3
+4 10 5
+4 9 2
+5 3 1
+5 7 2
+5 4 3
+5 2 2
+5 8 1
+5 6 1
+5 1 1
+5 11 1
+5 9 1
+6 2 3
+6 1 2
+6 4 1
+6 5 2
+6 11 1
+7 3 1
+7 5 2
+7 1 2
+7 8 1
+7 2 2
+7 10 1
+7 11 3
+8 6 1
+8 4 1
+8 2 1
+8 5 1
+8 1 1
+8 10 1
+8 11 1
+9 2 1
+9 1 1
+9 5 2
+9 11 1
+10 3 4
+10 1 1
+10 7 4
+10 4 3
+10 11 1
+10 2 1
+10 8 1
+11 5 1
+11 1 2
+11 9 1

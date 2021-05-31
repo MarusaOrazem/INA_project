@@ -1,0 +1,101 @@
+*vertices 11
+1 "Stephan Lichtsteiner" 0.0 0.0 ellipse
+2 "Fabian Lukas Schär" 0.0 0.0 ellipse
+3 "Manuel Obafemi Akanji" 0.0 0.0 ellipse
+4 "Granit Xhaka" 0.0 0.0 ellipse
+5 "Breel-Donald Embolo" 0.0 0.0 ellipse
+6 "Yann Sommer" 0.0 0.0 ellipse
+7 "Ricardo Iván Rodríguez Araya" 0.0 0.0 ellipse
+8 "Blerim Džemaili" 0.0 0.0 ellipse
+9 "Valon Behrami/Denis Lemi Zakaria Lako Lado" 0.0 0.0 ellipse
+10 "Mario Gavranović/Josip Drmic" 0.0 0.0 ellipse
+11 "Xherdan Shaqiri/Michael Lang" 0.0 0.0 ellipse
+*arcs
+1 2 9
+1 4 8
+1 5 3
+1 8 2
+1 9 5
+1 10 1
+1 11 1
+2 3 13
+2 7 3
+2 4 19
+2 1 12
+2 5 2
+2 6 9
+2 9 4
+2 11 1
+2 10 2
+3 2 14
+3 4 19
+3 6 6
+3 8 5
+3 7 14
+3 1 2
+3 9 3
+3 11 2
+4 5 6
+4 7 18
+4 8 12
+4 2 18
+4 3 14
+4 1 2
+4 6 2
+4 9 6
+4 11 1
+4 10 2
+5 2 1
+5 8 3
+5 4 5
+5 7 5
+5 3 3
+5 9 1
+5 11 2
+5 10 1
+6 3 14
+6 7 2
+6 4 3
+6 5 2
+6 2 5
+6 9 1
+6 11 1
+7 5 12
+7 4 9
+7 3 4
+7 8 4
+7 1 2
+7 2 1
+7 9 3
+7 10 1
+8 1 1
+8 4 4
+8 3 3
+8 7 2
+8 5 1
+8 9 1
+8 10 2
+8 11 4
+9 4 1
+9 1 1
+9 2 6
+9 5 1
+9 7 1
+9 3 6
+9 6 1
+9 8 3
+9 11 1
+9 10 1
+10 4 1
+10 5 1
+10 1 1
+10 7 1
+10 11 2
+11 1 11
+11 4 3
+11 3 1
+11 8 4
+11 5 2
+11 9 1
+11 10 1
+11 2 2

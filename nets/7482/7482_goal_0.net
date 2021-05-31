@@ -1,0 +1,53 @@
+*vertices 11
+1 "Abby Erceg" 0.0 0.0 ellipse
+2 "Jessica McDonald" 0.0 0.0 ellipse
+3 "Débora Cristiane de Oliveira" 0.0 0.0 ellipse
+4 "Crystal Alyssia Dunn" 0.0 0.0 ellipse
+5 "Lynn Williams" 0.0 0.0 ellipse
+6 "McCall Zerboni" 0.0 0.0 ellipse
+7 "Heather O"Reilly" 0.0 0.0 ellipse
+8 "Abby Dahlkemper" 0.0 0.0 ellipse
+9 "Denise O"Sullivan" 0.0 0.0 ellipse
+10 "Merritt Mathias" 0.0 0.0 ellipse
+11 "Katelyn Rowland" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 4
+1 7 2
+1 6 4
+1 3 1
+1 9 1
+1 4 1
+2 3 2
+2 4 1
+2 5 1
+3 2 1
+3 9 1
+4 5 2
+4 9 1
+5 3 1
+5 9 1
+6 1 4
+6 7 2
+6 8 1
+6 5 1
+7 1 3
+7 3 2
+7 6 1
+7 4 1
+7 5 2
+7 9 1
+8 1 4
+8 10 2
+8 9 2
+8 11 1
+8 4 1
+8 6 1
+9 1 1
+9 8 1
+9 7 2
+9 3 1
+10 9 1
+10 8 1
+10 5 1
+11 7 1

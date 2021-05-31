@@ -1,0 +1,7 @@
+ID: 68314   
+Competition: La Liga    
+Country: Spain    
+Season: 2004/2005    
+Gender: male     
+Home team: Barcelona (217), goals: 4   
+Away team: Málaga (223), goals: 0    

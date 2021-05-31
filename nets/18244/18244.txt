@@ -1,0 +1,7 @@
+ID: 18244   
+Competition: Champions League    
+Country: Europe    
+Season: 2016/2017    
+Gender: male     
+Home team: Juventus (224), goals: 1   
+Away team: Real Madrid (220), goals: 4    

@@ -1,0 +1,7 @@
+ID: 2275041   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2019/2020    
+Gender: female     
+Home team: Everton LFC (967), goals: 2   
+Away team: Bristol City WFC (973), goals: 0    

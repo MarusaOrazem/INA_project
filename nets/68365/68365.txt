@@ -1,0 +1,7 @@
+ID: 68365   
+Competition: La Liga    
+Country: Spain    
+Season: 2007/2008    
+Gender: male     
+Home team: Atlético Madrid (212), goals: 4   
+Away team: Barcelona (217), goals: 2    

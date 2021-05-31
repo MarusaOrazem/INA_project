@@ -1,0 +1,7 @@
+ID: 266074   
+Competition: La Liga    
+Country: Spain    
+Season: 2013/2014    
+Gender: male     
+Home team: Barcelona (217), goals: 7   
+Away team: Osasuna (422), goals: 0    

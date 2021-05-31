@@ -1,0 +1,7 @@
+ID: 266516   
+Competition: La Liga    
+Country: Spain    
+Season: 2016/2017    
+Gender: male     
+Home team: Real Betis (218), goals: 1   
+Away team: Barcelona (217), goals: 1    

@@ -1,0 +1,7 @@
+ID: 22921   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: France Women's (861), goals: 4   
+Away team: Korea Republic Women's (1211), goals: 0    

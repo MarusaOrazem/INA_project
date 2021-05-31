@@ -1,0 +1,7 @@
+ID: 7537   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Tunisia (777), goals: 1   
+Away team: England (768), goals: 2    

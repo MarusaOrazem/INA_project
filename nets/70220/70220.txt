@@ -1,0 +1,7 @@
+ID: 70220   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Barcelona (217), goals: 8   
+Away team: Osasuna (422), goals: 0    

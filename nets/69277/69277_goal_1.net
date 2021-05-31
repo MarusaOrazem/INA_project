@@ -1,0 +1,45 @@
+*vertices 11
+1 "Masoud Shojaei Soleimani" 0.0 0.0 ellipse
+2 "Walter Gerardo Pandiani Urquiza" 0.0 0.0 ellipse
+3 "Ricardo López Felipe" 0.0 0.0 ellipse
+4 "Javad Nekounam" 0.0 0.0 ellipse
+5 "Ignacio Monreal Eraso" 0.0 0.0 ellipse
+6 "Javier Camuñas Gallego" 0.0 0.0 ellipse
+7 "José Romero Urtasun" 0.0 0.0 ellipse
+8 "César Azpilicueta Tanco" 0.0 0.0 ellipse
+9 "Francisco Puñal Martínez/Roberto López Esquiroz" 0.0 0.0 ellipse
+10 "Miguel Flaño Bezunartea" 0.0 0.0 ellipse
+11 "Juan Francisco Torres Belén/Jorge Galán Anaut" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 5 1
+2 1 1
+2 7 1
+2 4 2
+2 9 1
+2 11 1
+3 4 1
+3 2 3
+4 5 4
+4 1 1
+4 9 2
+5 6 2
+5 1 2
+5 2 3
+5 7 2
+5 9 1
+6 5 2
+7 1 1
+7 3 1
+7 5 1
+8 2 2
+8 1 1
+8 11 1
+9 3 1
+9 4 1
+9 6 1
+9 11 1
+9 5 2
+10 9 1
+11 1 1
+11 9 1

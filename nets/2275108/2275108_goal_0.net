@@ -1,0 +1,23 @@
+*vertices 9
+1 "Yana Daniels" 0.0 0.0 ellipse
+2 "Carla Humphrey" 0.0 0.0 ellipse
+3 "Loren Dykes" 0.0 0.0 ellipse
+4 "Meaghan Sargeant" 0.0 0.0 ellipse
+5 "Jasmine Matthews" 0.0 0.0 ellipse
+6 "Gemma Evans" 0.0 0.0 ellipse
+7 "Frankie Brown" 0.0 0.0 ellipse
+8 "Charlie Wellings" 0.0 0.0 ellipse
+9 "Olivia Chance" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 1
+2 3 1
+3 7 2
+4 5 1
+5 8 2
+6 1 1
+6 8 1
+6 5 1
+7 8 1
+8 9 1
+8 6 2

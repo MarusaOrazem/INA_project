@@ -1,0 +1,7 @@
+ID: 7585   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Colombia (769), goals: 1   
+Away team: England (768), goals: 1    

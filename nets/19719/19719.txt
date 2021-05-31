@@ -1,0 +1,7 @@
+ID: 19719   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: West Ham United LFC (972), goals: 0   
+Away team: Reading WFC (974), goals: 0    

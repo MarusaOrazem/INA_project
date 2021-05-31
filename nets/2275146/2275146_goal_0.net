@@ -1,0 +1,26 @@
+*vertices 9
+1 "Katie Zelem" 0.0 0.0 ellipse
+2 "Lauren James" 0.0 0.0 ellipse
+3 "Amy Turner" 0.0 0.0 ellipse
+4 "Abbie McManus" 0.0 0.0 ellipse
+5 "Millie Turner" 0.0 0.0 ellipse
+6 "Mary Alexandra Earps" 0.0 0.0 ellipse
+7 "Martha Harris" 0.0 0.0 ellipse
+8 "Jackie Groenen" 0.0 0.0 ellipse
+9 "Jessica Sigsworth" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+1 5 1
+2 1 1
+3 4 1
+3 8 1
+4 5 1
+4 3 1
+5 6 1
+5 7 1
+5 4 1
+6 4 1
+7 5 1
+8 9 1
+9 2 1

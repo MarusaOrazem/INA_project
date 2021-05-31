@@ -1,0 +1,7 @@
+ID: 8655   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: France (771), goals: 1   
+Away team: Belgium (782), goals: 0    

@@ -1,0 +1,7 @@
+ID: 7582   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Spain (772), goals: 1   
+Away team: Russia (796), goals: 1    

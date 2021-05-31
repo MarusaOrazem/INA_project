@@ -1,0 +1,49 @@
+*vertices 11
+1 "Kumi Yokoyama" 0.0 0.0 ellipse
+2 "Hina Sugita" 0.0 0.0 ellipse
+3 "Jun Endo" 0.0 0.0 ellipse
+4 "Aya Sameshima" 0.0 0.0 ellipse
+5 "Mana Iwabuchi" 0.0 0.0 ellipse
+6 "Rikako Kobayashi" 0.0 0.0 ellipse
+7 "Saki Kumagai" 0.0 0.0 ellipse
+8 "Emi Nakajima" 0.0 0.0 ellipse
+9 "Risa Shimizu" 0.0 0.0 ellipse
+10 "Nana Ichise" 0.0 0.0 ellipse
+11 "Ayaka Yamashita" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 1
+1 5 3
+1 3 1
+1 4 1
+2 3 2
+2 9 1
+2 1 1
+2 5 1
+3 4 2
+3 5 1
+3 1 1
+4 5 1
+4 3 1
+4 1 1
+4 2 2
+4 10 1
+5 9 1
+5 1 2
+5 3 2
+6 9 2
+6 2 1
+7 3 1
+7 11 1
+7 9 1
+8 5 1
+8 1 1
+8 7 1
+9 6 2
+9 2 1
+9 10 2
+9 8 1
+9 7 2
+10 4 2
+11 10 1
+11 9 1

@@ -1,0 +1,7 @@
+ID: 69186   
+Competition: La Liga    
+Country: Spain    
+Season: 2007/2008    
+Gender: male     
+Home team: Real Murcia (1230), goals: 3   
+Away team: Barcelona (217), goals: 5    

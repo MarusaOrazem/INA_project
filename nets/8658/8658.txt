@@ -1,0 +1,7 @@
+ID: 8658   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: France (771), goals: 4   
+Away team: Croatia (785), goals: 2    

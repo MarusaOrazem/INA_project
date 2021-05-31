@@ -1,0 +1,86 @@
+*vertices 11
+1 "Elin Ingrid Johanna Rubensson" 0.0 0.0 ellipse
+2 "Nilla Fischer" 0.0 0.0 ellipse
+3 "Lina Hurtig" 0.0 0.0 ellipse
+4 "Kosovare Asllani" 0.0 0.0 ellipse
+5 "Hanna Glas" 0.0 0.0 ellipse
+6 "Magdalena Ericsson" 0.0 0.0 ellipse
+7 "Linda Brigitta Sembrant" 0.0 0.0 ellipse
+8 "Rut Hedvig Lindahl" 0.0 0.0 ellipse
+9 "Sara Caroline Seger/Olivia Alma Charlotta Schough" 0.0 0.0 ellipse
+10 "Anna Anvegård/Mimmi Larsson" 0.0 0.0 ellipse
+11 "Fridolina Rolfö/Madelen Janogy" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 5 7
+1 6 3
+1 4 4
+1 7 1
+1 3 1
+1 9 6
+1 11 1
+2 3 1
+2 7 10
+2 5 9
+2 1 3
+2 4 8
+2 9 1
+2 10 1
+2 11 1
+3 4 3
+3 6 1
+3 9 1
+3 10 1
+4 1 6
+4 5 5
+4 6 2
+4 2 2
+4 3 1
+4 7 4
+4 10 1
+4 11 4
+4 9 3
+5 2 6
+5 1 6
+5 7 2
+5 4 10
+5 3 1
+5 9 1
+5 11 8
+6 7 3
+6 2 1
+6 3 3
+6 1 6
+6 9 2
+6 10 2
+7 2 9
+7 3 3
+7 8 1
+7 6 3
+7 1 4
+7 5 2
+7 9 2
+8 5 1
+8 2 3
+8 3 1
+8 1 1
+8 10 1
+9 3 2
+9 6 2
+9 2 2
+9 4 3
+9 7 1
+9 1 3
+9 10 3
+9 11 1
+10 1 1
+10 4 1
+10 3 3
+10 6 1
+10 9 1
+10 11 1
+10 2 1
+11 3 3
+11 5 4
+11 4 1
+11 9 1

@@ -1,0 +1,62 @@
+*vertices 11
+1 "Allan Romeo Nyom" 0.0 0.0 ellipse
+2 "Youssef El-Arabi" 0.0 0.0 ellipse
+3 "Orestis Karnezis" 0.0 0.0 ellipse
+4 "Dimitri Foulquier" 0.0 0.0 ellipse
+5 "Francisco Manuel Rico Castro" 0.0 0.0 ellipse
+6 "José Luis García del Pozo" 0.0 0.0 ellipse
+7 "Tiago Abiola Delfim Almeida Ilori" 0.0 0.0 ellipse
+8 "Manuel Rolando Iturra Urrutia" 0.0 0.0 ellipse
+9 "Yacine Brahimi/Christian Daniel Bravo Araneda" 0.0 0.0 ellipse
+10 "Francisco Medina Luna/Alexandre Coeff" 0.0 0.0 ellipse
+11 "Jeison Fabián Murillo Cerón/Diego Mainz García" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 5 2
+1 10 1
+2 4 1
+2 5 1
+2 9 2
+2 10 2
+3 2 9
+3 7 2
+3 1 1
+3 4 2
+3 6 1
+3 11 1
+3 10 1
+4 2 4
+4 6 4
+4 8 1
+4 9 6
+4 10 1
+5 2 3
+5 1 1
+5 6 2
+5 4 2
+5 9 1
+6 5 1
+6 4 3
+6 2 1
+6 8 3
+6 7 1
+6 9 1
+6 10 1
+6 11 1
+7 3 1
+7 1 1
+7 5 2
+7 9 1
+8 5 1
+8 10 1
+9 6 3
+9 2 1
+9 4 3
+9 7 1
+10 5 2
+10 8 1
+10 6 2
+10 2 2
+11 3 2
+11 2 1
+11 9 1

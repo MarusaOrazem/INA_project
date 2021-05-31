@@ -1,0 +1,76 @@
+*vertices 11
+1 "Abdoulay Konko" 0.0 0.0 ellipse
+2 "Frédéric Oumar Kanouté" 0.0 0.0 ellipse
+3 "Julien Escudé" 0.0 0.0 ellipse
+4 "Alain Didier Zokora-Déguy" 0.0 0.0 ellipse
+5 "Diego Ángel Capel Trinidad" 0.0 0.0 ellipse
+6 "Andrés Palop Cervera" 0.0 0.0 ellipse
+7 "Luís Fabiano Clemente" 0.0 0.0 ellipse
+8 "Sébastien Squillaci" 0.0 0.0 ellipse
+9 "Jesús Navas González" 0.0 0.0 ellipse
+10 "Renato Dirnei Florencio/Marius Stankevičius" 0.0 0.0 ellipse
+11 "Adriano Correia Claro/Manuel Jesús Ortiz Toribio" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+1 4 2
+1 9 2
+2 9 2
+2 4 1
+2 8 1
+2 7 2
+3 4 2
+3 6 5
+3 7 5
+3 8 1
+3 11 3
+3 10 1
+4 6 1
+4 3 2
+4 1 1
+4 9 1
+4 8 1
+4 2 1
+4 7 3
+4 11 2
+4 10 1
+5 3 1
+5 7 1
+5 4 1
+5 2 1
+5 11 1
+6 4 1
+6 3 3
+6 8 2
+6 2 3
+6 5 1
+6 10 2
+6 11 1
+7 8 1
+7 1 1
+7 2 3
+7 5 1
+7 9 3
+7 4 2
+7 10 1
+8 1 1
+8 4 3
+8 7 1
+8 6 2
+8 3 4
+9 2 3
+9 1 1
+9 7 2
+9 3 1
+10 2 3
+10 9 2
+10 7 3
+10 8 3
+10 6 2
+10 4 1
+11 5 2
+11 4 1
+11 3 2
+11 9 2
+11 6 1
+11 7 1

@@ -1,0 +1,7 @@
+ID: 266406   
+Competition: La Liga    
+Country: Spain    
+Season: 2014/2015    
+Gender: male     
+Home team: Villarreal (222), goals: 0   
+Away team: Barcelona (217), goals: 1    

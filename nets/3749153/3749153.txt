@@ -1,0 +1,7 @@
+ID: 3749153   
+Competition: Premier League    
+Country: England    
+Season: 2003/2004    
+Gender: male     
+Home team: Arsenal (1), goals: 4   
+Away team: Middlesbrough (47), goals: 1    

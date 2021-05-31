@@ -1,0 +1,64 @@
+*vertices 11
+1 "László Sepsi" 0.0 0.0 ellipse
+2 "Mehdi Lacen" 0.0 0.0 ellipse
+3 "Óscar Serrano Rodriguez" 0.0 0.0 ellipse
+4 "Pedro Manuel Munitis Álvarez" 0.0 0.0 ellipse
+5 "Alexandre Geijo Pazos" 0.0 0.0 ellipse
+6 "Antonio Rodríguez Martínez" 0.0 0.0 ellipse
+7 "Mogammat Nasief Morris" 0.0 0.0 ellipse
+8 "Henrique Adriano Buss" 0.0 0.0 ellipse
+9 "Pablo Pinillos Caro" 0.0 0.0 ellipse
+10 "Papa Kouly Diop" 0.0 0.0 ellipse
+11 "Manuel Jesús Arana Rodríguez" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 2
+1 3 7
+1 11 1
+1 5 1
+1 10 2
+2 3 2
+2 10 3
+2 6 2
+2 1 1
+2 4 2
+2 5 1
+3 7 1
+3 1 3
+3 11 1
+3 4 2
+3 2 1
+4 5 1
+4 3 2
+4 2 3
+4 8 1
+4 11 2
+5 2 1
+5 11 1
+5 4 4
+5 3 1
+6 5 3
+6 7 1
+6 9 1
+6 11 1
+6 1 1
+6 10 1
+6 3 1
+6 8 1
+7 8 1
+7 1 4
+7 3 1
+7 11 1
+8 1 2
+8 7 2
+8 9 1
+9 10 2
+9 11 2
+9 4 1
+10 8 1
+10 5 2
+10 7 2
+10 11 1
+10 2 1
+11 4 2
+11 9 2

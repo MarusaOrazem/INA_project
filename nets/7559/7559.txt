@@ -1,0 +1,7 @@
+ID: 7559   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Saudi Arabia (799), goals: 2   
+Away team: Egypt (774), goals: 1    

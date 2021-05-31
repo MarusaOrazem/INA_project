@@ -1,0 +1,82 @@
+*vertices 11
+1 "Raphaël Varane" 0.0 0.0 ellipse
+2 "Benjamin Pavard" 0.0 0.0 ellipse
+3 "N"Golo Kanté" 0.0 0.0 ellipse
+4 "Samuel Yves Umtiti" 0.0 0.0 ellipse
+5 "Lucas Hernández Pi" 0.0 0.0 ellipse
+6 "Kylian Mbappé Lottin" 0.0 0.0 ellipse
+7 "Paul Pogba" 0.0 0.0 ellipse
+8 "Hugo Lloris" 0.0 0.0 ellipse
+9 "Antoine Griezmann/Olivier Giroud" 0.0 0.0 ellipse
+10 "Ousmane Dembélé/Nabil Fekir" 0.0 0.0 ellipse
+11 "Corentin Tolisso/Blaise Matuidi" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 4 7
+1 7 3
+1 8 1
+1 10 3
+2 1 5
+2 8 1
+2 3 2
+2 10 2
+2 11 7
+3 4 4
+3 7 6
+3 5 6
+3 2 2
+3 6 2
+3 9 1
+3 11 2
+4 5 4
+4 3 5
+4 7 6
+4 1 2
+4 11 1
+4 9 1
+5 3 3
+5 6 3
+5 7 3
+5 8 1
+5 4 3
+5 1 1
+5 9 1
+5 10 1
+5 11 3
+6 4 1
+6 7 3
+6 3 3
+6 5 1
+6 9 1
+6 10 2
+6 11 2
+7 6 2
+7 5 8
+7 1 3
+7 3 2
+7 2 1
+7 9 1
+7 11 2
+7 10 2
+8 4 2
+8 2 1
+8 1 1
+9 1 1
+9 6 1
+9 4 1
+9 7 1
+9 5 1
+10 2 3
+10 11 1
+10 3 1
+10 7 3
+10 5 1
+10 1 1
+11 2 6
+11 3 2
+11 7 1
+11 1 1
+11 9 1
+11 10 3
+11 5 2
+11 6 4

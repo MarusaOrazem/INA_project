@@ -1,0 +1,38 @@
+*vertices 11
+1 "Raúl Tamudo Montero" 0.0 0.0 ellipse
+2 "Diego da Silva Costa" 0.0 0.0 ellipse
+3 "Roberto Román Triguero" 0.0 0.0 ellipse
+4 "David Cobeño Iglesias" 0.0 0.0 ellipse
+5 "Roberto Antonio Correa Silva" 0.0 0.0 ellipse
+6 "Jose María Movilla Cubero" 0.0 0.0 ellipse
+7 "Roberto Trashorras Gayoso" 0.0 0.0 ellipse
+8 "Alhassane Bangoura" 0.0 0.0 ellipse
+9 "Alejandro Arribas Garrido" 0.0 0.0 ellipse
+10 "Miguel Pérez Cuesta" 0.0 0.0 ellipse
+11 "Jorge Pulido Mayoral" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+2 3 1
+2 8 1
+2 1 1
+3 4 1
+3 8 1
+4 2 2
+4 5 1
+4 10 1
+5 6 1
+5 9 2
+5 10 1
+6 4 1
+6 7 1
+6 2 1
+6 8 1
+7 8 1
+7 11 1
+8 1 1
+9 4 1
+10 2 1
+10 7 1
+11 4 2
+11 3 1

@@ -1,0 +1,90 @@
+*vertices 11
+1 "David Cortés Caballero" 0.0 0.0 ellipse
+2 "Jorge López Marco" 0.0 0.0 ellipse
+3 "Abel Enrique Aguilar Tapia" 0.0 0.0 ellipse
+4 "Francisco Peña Romero" 0.0 0.0 ellipse
+5 "David Sergio Trézéguet" 0.0 0.0 ellipse
+6 "Juan Jesús Calatayud Sánchez" 0.0 0.0 ellipse
+7 "Mohamed Adama Sarr" 0.0 0.0 ellipse
+8 "Sergio Rodríguez García" 0.0 0.0 ellipse
+9 "Francisco Femenía Far/Cristian Hidalgo González" 0.0 0.0 ellipse
+10 "Matías Lionel Fritzler/Francisco Javier Farinós Zapata" 0.0 0.0 ellipse
+11 "Nelson Antonio Haedo Valdez/Javier García Portillo" 0.0 0.0 ellipse
+*arcs
+1 2 14
+1 6 2
+1 5 1
+1 3 1
+1 8 1
+1 9 3
+1 10 3
+1 11 5
+2 3 7
+2 1 13
+2 4 1
+2 9 2
+2 10 3
+2 11 1
+3 4 2
+3 1 6
+3 2 7
+3 8 1
+3 7 3
+3 5 1
+3 9 3
+3 10 1
+3 11 1
+4 3 2
+4 2 1
+4 5 2
+4 8 1
+4 6 1
+4 9 4
+4 11 6
+4 10 2
+5 1 2
+5 3 1
+5 2 4
+5 9 2
+5 10 1
+5 11 3
+6 3 1
+6 1 1
+6 5 2
+6 2 1
+6 4 1
+6 11 6
+6 10 1
+7 6 3
+7 4 2
+7 8 1
+7 3 2
+7 1 1
+7 2 2
+8 4 3
+8 7 1
+8 6 1
+8 1 1
+8 10 1
+9 1 3
+9 2 3
+9 3 4
+9 4 2
+9 8 1
+9 10 1
+10 1 2
+10 3 2
+10 2 2
+10 4 2
+10 7 1
+10 8 4
+10 9 1
+10 11 1
+10 5 1
+10 6 1
+11 5 5
+11 4 1
+11 1 2
+11 2 2
+11 3 1
+11 9 1

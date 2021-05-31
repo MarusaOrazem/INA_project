@@ -1,0 +1,82 @@
+*vertices 11
+1 "Gerard Autet Serrabasa" 0.0 0.0 ellipse
+2 "Raúl Miguel Cámara" 0.0 0.0 ellipse
+3 "Sergio Sánchez Sánchez" 0.0 0.0 ellipse
+4 "Andreu Guerao Mayoral" 0.0 0.0 ellipse
+5 "Diego Castro Giménez" 0.0 0.0 ellipse
+6 "Carmelo José González Jiménez" 0.0 0.0 ellipse
+7 "Rafael Sastre Reus" 0.0 0.0 ellipse
+8 "Jorge García Torre" 0.0 0.0 ellipse
+9 "Mate Bilić/David Barral Torres" 0.0 0.0 ellipse
+10 "Francisco José Maldonado Collantes/Enrique Mateo Montoya" 0.0 0.0 ellipse
+11 "Sergio Matabuena Delgado/Miguel Marcos Madera" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 2
+1 8 1
+1 7 1
+1 9 2
+2 3 3
+2 5 2
+2 1 1
+2 4 3
+2 6 1
+2 11 1
+2 10 1
+3 1 2
+3 2 1
+3 4 3
+3 11 3
+4 5 3
+4 6 4
+4 1 2
+4 7 4
+4 2 3
+4 8 1
+4 9 1
+4 11 3
+5 6 2
+5 4 1
+5 7 1
+5 9 1
+5 10 2
+5 11 1
+6 5 1
+6 4 5
+6 7 1
+6 11 1
+7 6 2
+7 8 3
+7 9 1
+7 10 1
+7 11 4
+8 1 1
+8 3 1
+8 2 1
+8 6 1
+8 5 1
+8 4 1
+8 11 1
+8 9 1
+9 1 1
+9 6 1
+9 10 2
+9 11 1
+9 4 2
+9 8 1
+10 4 1
+10 7 1
+10 11 1
+10 8 1
+10 6 1
+10 2 1
+10 5 1
+10 9 1
+11 2 1
+11 4 4
+11 6 2
+11 5 2
+11 7 1
+11 3 1
+11 9 1
+11 10 1

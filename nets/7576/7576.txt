@@ -1,0 +1,7 @@
+ID: 7576   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Portugal (780), goals: 3   
+Away team: Spain (772), goals: 3    

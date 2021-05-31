@@ -1,0 +1,7 @@
+ID: 9774   
+Competition: La Liga    
+Country: Spain    
+Season: 2017/2018    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Deportivo Alavés (206), goals: 1    

@@ -1,0 +1,7 @@
+ID: 303652   
+Competition: La Liga    
+Country: Spain    
+Season: 2019/2020    
+Gender: male     
+Home team: Espanyol (214), goals: 2   
+Away team: Barcelona (217), goals: 2    

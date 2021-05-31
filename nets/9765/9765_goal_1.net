@@ -1,0 +1,83 @@
+*vertices 11
+1 "Cristian Tello Herrera" 0.0 0.0 ellipse
+2 "Joaquín Sánchez Rodríguez" 0.0 0.0 ellipse
+3 "José Andrés Guardado Hernández" 0.0 0.0 ellipse
+4 "Zouhair Feddal" 0.0 0.0 ellipse
+5 "Riza Durmisi" 0.0 0.0 ellipse
+6 "Francisco Javier Guerrero Martín" 0.0 0.0 ellipse
+7 "Aïssa Mandi" 0.0 0.0 ellipse
+8 "Antonio Adán Garrido" 0.0 0.0 ellipse
+9 "Francisco Javier García Fernández/Ryad Boudebouz" 0.0 0.0 ellipse
+10 "Fabián Ruiz Peña/Víctor Camarasa Ferrando" 0.0 0.0 ellipse
+11 "Sergio León Limones/Rubén Castro Martín" 0.0 0.0 ellipse
+*arcs
+1 2 7
+1 4 3
+1 5 2
+1 6 1
+1 3 1
+1 10 5
+1 9 1
+2 3 7
+2 6 4
+2 5 2
+2 1 2
+2 4 1
+2 10 1
+2 9 1
+3 4 4
+3 7 1
+3 1 4
+3 8 1
+3 2 3
+3 5 3
+3 6 2
+3 9 1
+3 10 6
+4 5 3
+4 6 1
+4 3 4
+4 8 1
+4 2 3
+4 1 1
+4 10 1
+5 1 6
+5 8 1
+5 2 1
+5 3 3
+5 7 1
+5 4 3
+5 11 1
+5 9 4
+5 10 1
+6 2 7
+6 8 2
+6 3 2
+6 7 1
+6 9 2
+6 10 4
+7 5 1
+7 4 2
+7 2 1
+7 8 2
+7 1 1
+7 6 1
+7 10 1
+7 9 1
+8 4 2
+8 2 1
+8 9 4
+8 10 2
+9 5 3
+9 6 2
+9 7 3
+9 3 3
+9 8 1
+9 10 1
+9 4 1
+10 3 2
+10 6 7
+10 7 1
+10 1 3
+10 5 3
+11 2 1

@@ -1,0 +1,60 @@
+*vertices 11
+1 "Juan Francisco Martínez Modesto" 0.0 0.0 ellipse
+2 "Alejandro Alfaro Ligero" 0.0 0.0 ellipse
+3 "Ezequiel Luna" 0.0 0.0 ellipse
+4 "Ricardo León Brito" 0.0 0.0 ellipse
+5 "Carlos Bellvís LLorens" 0.0 0.0 ellipse
+6 "Pablo Sicilia Roig" 0.0 0.0 ellipse
+7 "Ayoze García Pérez" 0.0 0.0 ellipse
+8 "Sergio Aragoneses Almeida" 0.0 0.0 ellipse
+9 "Daniel Armand N"Gom Komé" 0.0 0.0 ellipse
+10 "Mikel Alonso Olano" 0.0 0.0 ellipse
+11 "Juan Luis Hens Lorite" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 4 3
+1 10 1
+1 11 1
+2 3 1
+2 1 1
+3 1 2
+3 9 2
+3 8 2
+3 2 1
+3 4 1
+4 5 5
+4 8 1
+4 1 1
+4 2 1
+4 9 1
+4 7 1
+5 4 4
+5 7 3
+5 1 2
+5 6 1
+5 8 1
+6 7 1
+6 8 1
+6 5 1
+6 10 2
+6 3 1
+7 5 2
+7 4 1
+7 10 2
+8 3 1
+8 7 2
+8 5 1
+9 11 5
+9 10 2
+9 2 1
+10 1 2
+10 2 1
+10 11 2
+10 9 1
+10 8 1
+10 7 1
+10 6 1
+11 9 5
+11 4 2
+11 6 1
+11 2 3

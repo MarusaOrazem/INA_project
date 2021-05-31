@@ -1,0 +1,95 @@
+*vertices 11
+1 "Ángel Manuel Vivar Dorado" 0.0 0.0 ellipse
+2 "Rafael López Gómez" 0.0 0.0 ellipse
+3 "Álvaro Rubio Robles" 0.0 0.0 ellipse
+4 "José Antonio García Calvo" 0.0 0.0 ellipse
+5 "Pedro López Muñoz" 0.0 0.0 ellipse
+6 "Jonathan Sesma González" 0.0 0.0 ellipse
+7 "Alberto Marcos Rey" 0.0 0.0 ellipse
+8 "Alberto López Fernández" 0.0 0.0 ellipse
+9 "Joseba Llorente Etxarri/Bartholomew Ogbeche" 0.0 0.0 ellipse
+10 "Sisinio González Martínez/Víctor Manuel Fernández Gutiérrez" 0.0 0.0 ellipse
+11 "Daniel Armand N"Gom Komé/Óscar Sánchez Fuentes" 0.0 0.0 ellipse
+*arcs
+1 2 10
+1 4 3
+1 6 3
+1 3 14
+1 7 2
+1 5 3
+1 10 3
+1 11 4
+1 9 2
+2 1 4
+2 6 2
+2 5 2
+2 8 3
+2 3 1
+2 4 1
+2 9 1
+2 10 4
+2 11 2
+3 4 8
+3 2 4
+3 1 9
+3 6 2
+3 8 2
+3 5 2
+3 7 1
+3 9 1
+3 10 4
+3 11 2
+4 5 1
+4 7 2
+4 6 3
+4 3 4
+4 1 3
+4 9 1
+4 11 1
+4 10 2
+5 3 2
+5 6 2
+5 1 3
+5 2 4
+5 10 1
+5 11 3
+6 1 5
+6 7 2
+6 4 1
+6 9 1
+6 11 3
+6 10 1
+7 3 2
+7 6 6
+7 4 1
+7 10 5
+7 11 2
+7 9 1
+8 6 4
+8 4 1
+8 7 2
+8 1 1
+8 11 1
+9 6 1
+9 3 2
+9 1 1
+9 10 2
+9 11 1
+9 7 1
+10 1 4
+10 5 4
+10 3 2
+10 7 2
+10 2 1
+10 9 1
+10 11 3
+10 6 3
+11 1 1
+11 3 2
+11 5 1
+11 2 1
+11 7 1
+11 4 1
+11 6 1
+11 9 1
+11 10 1

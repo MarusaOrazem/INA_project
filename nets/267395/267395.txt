@@ -1,0 +1,7 @@
+ID: 267395   
+Competition: La Liga    
+Country: Spain    
+Season: 2016/2017    
+Gender: male     
+Home team: Barcelona (217), goals: 5   
+Away team: Las Palmas (208), goals: 0    

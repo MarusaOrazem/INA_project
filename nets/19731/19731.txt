@@ -1,0 +1,7 @@
+ID: 19731   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: West Ham United LFC (972), goals: 2   
+Away team: Yeovil Town LFC (970), goals: 1    

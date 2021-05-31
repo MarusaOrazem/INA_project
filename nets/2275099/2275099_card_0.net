@@ -1,0 +1,95 @@
+*vertices 11
+1 "Anke Preuß" 0.0 0.0 ellipse
+2 "Niamh Charles" 0.0 0.0 ellipse
+3 "Leigh-Anne Robe" 0.0 0.0 ellipse
+4 "Rebecca Jane" 0.0 0.0 ellipse
+5 "Sophie Elizabeth Bradley-Auckland" 0.0 0.0 ellipse
+6 "Melissa Lawley" 0.0 0.0 ellipse
+7 "Jade Bailey" 0.0 0.0 ellipse
+8 "Niamh Fahey" 0.0 0.0 ellipse
+9 "Jessica Anne Clarke/Rinsola Babajide" 0.0 0.0 ellipse
+10 "Courtney Sweetman-Kirk/Ashley Hodson" 0.0 0.0 ellipse
+11 "Amy Rodgers/Kirsty Linnett" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 5 4
+1 8 2
+1 3 2
+1 6 1
+1 4 1
+2 6 5
+2 7 1
+2 3 2
+2 4 3
+2 10 4
+2 11 1
+3 2 12
+3 7 5
+3 6 7
+3 8 2
+3 5 1
+3 10 1
+3 11 1
+4 5 8
+4 7 4
+4 1 1
+4 6 3
+4 8 4
+4 2 1
+4 9 5
+4 10 4
+4 11 7
+5 1 2
+5 4 7
+5 7 5
+5 8 3
+5 6 3
+5 2 1
+5 9 1
+5 11 2
+6 7 5
+6 3 3
+6 4 5
+6 2 5
+6 5 6
+6 8 2
+6 9 1
+6 10 4
+6 11 1
+7 1 1
+7 6 7
+7 4 3
+7 8 4
+7 3 1
+7 5 3
+7 9 4
+7 10 1
+7 11 1
+8 3 5
+8 7 4
+8 6 2
+8 2 4
+8 5 3
+8 4 1
+8 1 4
+8 9 1
+8 10 2
+8 11 2
+9 6 2
+9 4 1
+9 2 1
+9 11 1
+9 7 1
+10 6 3
+10 3 3
+10 7 4
+10 9 1
+10 11 1
+11 2 1
+11 4 1
+11 3 3
+11 6 2
+11 5 2
+11 8 2
+11 10 1
+11 9 1

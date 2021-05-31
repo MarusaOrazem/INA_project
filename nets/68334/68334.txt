@@ -1,0 +1,7 @@
+ID: 68334   
+Competition: La Liga    
+Country: Spain    
+Season: 2006/2007    
+Gender: male     
+Home team: Sevilla (213), goals: 2   
+Away team: Barcelona (217), goals: 1    

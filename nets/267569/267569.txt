@@ -1,0 +1,7 @@
+ID: 267569   
+Competition: La Liga    
+Country: Spain    
+Season: 2016/2017    
+Gender: male     
+Home team: Real Madrid (220), goals: 2   
+Away team: Barcelona (217), goals: 3    

@@ -1,0 +1,82 @@
+*vertices 11
+1 "Yuki Nagasato" 0.0 0.0 ellipse
+2 "Julie Ertz" 0.0 0.0 ellipse
+3 "Danielle Colaprico" 0.0 0.0 ellipse
+4 "Morgan Brian" 0.0 0.0 ellipse
+5 "Alyssa Mautz" 0.0 0.0 ellipse
+6 "Arin Gilliland" 0.0 0.0 ellipse
+7 "Kathleen Naughton" 0.0 0.0 ellipse
+8 "Samantha Kerr" 0.0 0.0 ellipse
+9 "Casey Short" 0.0 0.0 ellipse
+10 "Vanessa DiBernardo" 0.0 0.0 ellipse
+11 "Alyssa Naeher" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 10 4
+1 3 2
+1 8 1
+1 4 4
+1 9 2
+1 5 1
+2 4 1
+2 9 1
+2 3 3
+2 5 1
+2 1 1
+2 10 1
+2 6 3
+3 4 7
+3 7 3
+3 5 3
+3 1 3
+3 6 3
+3 9 1
+3 10 4
+3 2 1
+3 8 2
+3 11 1
+4 5 4
+4 2 1
+4 9 1
+4 10 4
+4 8 2
+4 3 3
+4 1 1
+4 11 1
+5 6 5
+5 8 3
+5 9 1
+5 1 2
+5 3 1
+5 4 1
+6 3 3
+6 5 10
+6 1 4
+6 8 2
+6 7 1
+6 4 2
+7 10 2
+7 6 2
+7 3 2
+7 11 1
+8 3 2
+8 5 1
+8 4 2
+8 1 1
+9 1 2
+9 10 7
+9 2 4
+9 3 2
+9 4 1
+9 8 1
+10 8 2
+10 4 4
+10 9 4
+10 2 3
+10 1 3
+10 6 1
+11 5 3
+11 9 2
+11 6 3
+11 10 1
+11 7 1

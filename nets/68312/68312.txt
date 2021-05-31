@@ -1,0 +1,7 @@
+ID: 68312   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Italy Women's (855), goals: 0   
+Away team: Brazil Women's (1203), goals: 1    

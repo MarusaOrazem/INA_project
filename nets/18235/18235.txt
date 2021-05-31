@@ -1,0 +1,7 @@
+ID: 18235   
+Competition: Champions League    
+Country: Europe    
+Season: 2009/2010    
+Gender: male     
+Home team: Bayern Munich (169), goals: 0   
+Away team: Inter Milan (238), goals: 2    

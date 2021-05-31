@@ -1,0 +1,7 @@
+ID: 7539   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Poland (789), goals: 1   
+Away team: Senegal (787), goals: 2    

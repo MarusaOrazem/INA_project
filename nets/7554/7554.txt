@@ -1,0 +1,7 @@
+ID: 7554   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: England (768), goals: 6   
+Away team: Panama (798), goals: 1    

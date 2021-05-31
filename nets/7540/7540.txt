@@ -1,0 +1,7 @@
+ID: 7540   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Russia (796), goals: 3   
+Away team: Egypt (774), goals: 1    

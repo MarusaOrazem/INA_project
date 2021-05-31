@@ -1,0 +1,82 @@
+*vertices 11
+1 "Juan Francisco Moreno Fuertes" 0.0 0.0 ellipse
+2 "Juan Domínguez Lamas" 0.0 0.0 ellipse
+3 "Fabricio Martín Agosto Ramírez" 0.0 0.0 ellipse
+4 "Luis Carlos Correia Pinto" 0.0 0.0 ellipse
+5 "Juan Isaac Cuenca López" 0.0 0.0 ellipse
+6 "Alberto Lopo García" 0.0 0.0 ellipse
+7 "Alejandro Bergantiños García" 0.0 0.0 ellipse
+8 "Sidnei Rechel da Silva Júnior" 0.0 0.0 ellipse
+9 "Oriol Riera Magem/José Verdú Nicolás" 0.0 0.0 ellipse
+10 "Haris Medunjanin/Lucas Pérez Martínez" 0.0 0.0 ellipse
+11 "Ivan Ricardo Neves Abreu Cavaleiro/José Rodríguez Martínez" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 3
+1 8 2
+1 6 1
+1 11 6
+1 9 2
+2 7 2
+2 1 2
+2 5 1
+2 4 1
+2 11 4
+2 9 3
+2 10 2
+3 4 1
+3 9 3
+3 11 2
+3 10 1
+4 5 7
+4 3 3
+4 7 4
+4 6 1
+4 2 1
+4 1 1
+4 8 1
+4 11 1
+5 4 2
+5 2 1
+5 10 1
+5 11 1
+6 4 2
+6 3 1
+6 2 1
+6 7 4
+6 11 1
+7 5 2
+7 1 3
+7 6 1
+7 4 1
+7 8 1
+7 2 1
+7 3 2
+7 9 1
+7 11 2
+7 10 1
+8 4 1
+8 1 1
+8 3 1
+8 6 1
+8 10 1
+8 11 1
+8 9 1
+9 5 1
+9 2 1
+9 8 1
+9 4 1
+9 11 3
+9 10 1
+10 5 1
+10 4 1
+10 2 2
+10 8 2
+10 1 1
+11 1 6
+11 6 2
+11 5 1
+11 8 2
+11 2 3
+11 7 1
+11 10 1

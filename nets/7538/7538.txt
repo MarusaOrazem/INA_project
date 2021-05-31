@@ -1,0 +1,7 @@
+ID: 7538   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Sweden (790), goals: 1   
+Away team: South Korea (791), goals: 0    

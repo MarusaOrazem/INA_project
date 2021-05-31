@@ -1,0 +1,7 @@
+ID: 265839   
+Competition: La Liga    
+Country: Spain    
+Season: 2015/2016    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Sevilla (213), goals: 1    

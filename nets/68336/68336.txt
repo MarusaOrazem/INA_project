@@ -1,0 +1,7 @@
+ID: 68336   
+Competition: La Liga    
+Country: Spain    
+Season: 2006/2007    
+Gender: male     
+Home team: Gimnàstic Tarragona (1036), goals: 1   
+Away team: Barcelona (217), goals: 5    

@@ -1,0 +1,7 @@
+ID: 69176   
+Competition: La Liga    
+Country: Spain    
+Season: 2006/2007    
+Gender: male     
+Home team: Atlético Madrid (212), goals: 0   
+Away team: Barcelona (217), goals: 6    

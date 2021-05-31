@@ -1,0 +1,8 @@
+*vertices 4
+1 "Christie Murray" 0.0 0.0 ellipse
+2 "Leigh-Anne Robe" 0.0 0.0 ellipse
+3 "Satara Murray" 0.0 0.0 ellipse
+4 "Sophie Elizabeth Bradley-Auckland" 0.0 0.0 ellipse
+*arcs
+1 2 1
+3 4 1

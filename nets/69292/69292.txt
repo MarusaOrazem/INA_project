@@ -1,0 +1,7 @@
+ID: 69292   
+Competition: La Liga    
+Country: Spain    
+Season: 2009/2010    
+Gender: male     
+Home team: Barcelona (217), goals: 5   
+Away team: Atlético Madrid (212), goals: 2    

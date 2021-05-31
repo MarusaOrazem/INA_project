@@ -1,0 +1,69 @@
+*vertices 11
+1 "Henok Goitom" 0.0 0.0 ellipse
+2 "Pablo Daniel Piatti" 0.0 0.0 ellipse
+3 "Hernán Darío Bernardello" 0.0 0.0 ellipse
+4 "Fabián Andrés Vargas Rivera" 0.0 0.0 ellipse
+5 "Santiago Wilmer Acasiete Ariadela" 0.0 0.0 ellipse
+6 "Miguel Ángel García Pérez Roldán" 0.0 0.0 ellipse
+7 "Juan Manuel Ortiz Palazón" 0.0 0.0 ellipse
+8 "Diego Alves Carreira" 0.0 0.0 ellipse
+9 "Míchel Macedo Rocha Machado" 0.0 0.0 ellipse
+10 "Carlos García Badías" 0.0 0.0 ellipse
+11 "Modeste M"bami" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 1
+1 10 2
+1 4 1
+1 3 2
+2 3 1
+2 6 1
+2 9 2
+2 5 1
+3 4 2
+3 7 1
+3 11 3
+3 2 3
+3 9 1
+3 5 2
+4 5 2
+4 3 2
+4 8 1
+4 10 1
+4 7 1
+4 2 1
+5 6 1
+5 4 1
+5 2 1
+5 10 3
+5 3 1
+5 7 2
+6 7 4
+6 1 1
+6 2 1
+6 11 2
+6 9 1
+7 5 1
+7 2 2
+7 1 1
+7 3 1
+8 7 1
+8 9 1
+8 4 1
+8 2 1
+8 1 3
+8 6 2
+9 10 3
+9 2 2
+9 11 4
+9 3 2
+10 11 2
+10 9 2
+10 5 1
+10 3 1
+10 7 1
+11 9 2
+11 3 3
+11 1 1
+11 6 2
+11 10 1

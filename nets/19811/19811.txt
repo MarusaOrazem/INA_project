@@ -1,0 +1,7 @@
+ID: 19811   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: Arsenal WFC (968), goals: 2   
+Away team: Everton LFC (967), goals: 1    

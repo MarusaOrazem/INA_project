@@ -1,0 +1,7 @@
+ID: 3749465   
+Competition: Premier League    
+Country: England    
+Season: 2003/2004    
+Gender: male     
+Home team: Blackburn Rovers (98), goals: 0   
+Away team: Arsenal (1), goals: 2    

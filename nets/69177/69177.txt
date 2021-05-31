@@ -1,0 +1,7 @@
+ID: 69177   
+Competition: La Liga    
+Country: Spain    
+Season: 2008/2009    
+Gender: male     
+Home team: Almería (403), goals: 0   
+Away team: Barcelona (217), goals: 2    

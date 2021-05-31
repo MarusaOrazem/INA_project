@@ -1,0 +1,7 @@
+ID: 3749052   
+Competition: Premier League    
+Country: England    
+Season: 2003/2004    
+Gender: male     
+Home team: Wolverhampton Wanderers (46), goals: 1   
+Away team: Arsenal (1), goals: 3    

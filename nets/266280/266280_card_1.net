@@ -1,0 +1,6 @@
+*vertices 2
+1 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+2 "Neymar da Silva Santos Junior" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 1 1

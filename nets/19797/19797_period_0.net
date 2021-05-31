@@ -1,0 +1,94 @@
+*vertices 11
+1 "Katrine Veje" 0.0 0.0 ellipse
+2 "Lisa Evans" 0.0 0.0 ellipse
+3 "Danielle van de Donk" 0.0 0.0 ellipse
+4 "Vivianne Miedema" 0.0 0.0 ellipse
+5 "Janni Arnth-Jensen" 0.0 0.0 ellipse
+6 "Kim Little" 0.0 0.0 ellipse
+7 "Leah Williamson" 0.0 0.0 ellipse
+8 "Louise Quinn" 0.0 0.0 ellipse
+9 "Dominique Johanna Anna Bloodworth" 0.0 0.0 ellipse
+10 "Sari van Veenendaal" 0.0 0.0 ellipse
+11 "Bethany Mead" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 8 8
+1 9 7
+1 4 6
+1 6 1
+1 3 2
+1 10 1
+2 3 2
+2 5 4
+2 4 5
+2 9 2
+2 6 1
+2 7 1
+3 4 3
+3 11 2
+3 8 1
+3 5 4
+3 6 2
+3 2 2
+3 1 2
+3 7 1
+3 9 1
+4 6 5
+4 3 2
+4 2 1
+4 1 1
+4 9 4
+4 11 3
+4 7 1
+4 5 2
+5 6 5
+5 7 6
+5 4 4
+5 9 10
+5 2 8
+5 3 3
+5 10 1
+5 11 1
+6 7 2
+6 9 3
+6 4 4
+6 3 2
+6 2 4
+6 8 1
+6 1 2
+6 5 2
+6 11 1
+7 5 9
+7 8 7
+7 10 4
+7 4 2
+7 9 3
+7 3 3
+7 2 4
+7 11 1
+7 1 1
+8 1 8
+8 10 5
+8 9 11
+8 3 3
+8 7 7
+8 6 2
+8 4 1
+9 2 3
+9 6 8
+9 8 5
+9 7 7
+9 11 3
+9 1 5
+9 4 5
+9 5 2
+9 3 9
+10 8 5
+10 7 4
+10 9 4
+10 5 2
+10 1 1
+11 4 3
+11 6 1
+11 1 1
+11 5 2

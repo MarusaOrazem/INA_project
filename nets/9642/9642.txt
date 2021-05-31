@@ -1,0 +1,7 @@
+ID: 9642   
+Competition: La Liga    
+Country: Spain    
+Season: 2017/2018    
+Gender: male     
+Home team: Atlético Madrid (212), goals: 1   
+Away team: Barcelona (217), goals: 1    

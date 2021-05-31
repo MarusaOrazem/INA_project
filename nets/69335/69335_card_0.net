@@ -1,0 +1,93 @@
+*vertices 11
+1 "Martín Gastón Demichelis" 0.0 0.0 ellipse
+2 "Joris Mathijsen" 0.0 0.0 ellipse
+3 "Jesús Gámez Duarte" 0.0 0.0 ellipse
+4 "Ignacio Camacho Barnola" 0.0 0.0 ellipse
+5 "Francisco Román Alarcón Suárez" 0.0 0.0 ellipse
+6 "Eliseu Pereira dos Santos" 0.0 0.0 ellipse
+7 "Ignacio Monreal Eraso" 0.0 0.0 ellipse
+8 "Wilfredo Daniel Caballero" 0.0 0.0 ellipse
+9 "Ruud van Nistelrooy/José Salomón Rondón Giménez" 0.0 0.0 ellipse
+10 "Enzo Maresca/Sebastián Bruno Fernández Miglierina" 0.0 0.0 ellipse
+11 "Santiago Cazorla González/José Luis García del Pozo" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 1
+1 8 2
+1 3 1
+1 9 1
+1 10 1
+1 11 1
+2 8 2
+2 3 1
+2 6 1
+2 7 1
+2 10 2
+2 11 1
+3 4 5
+3 5 6
+3 8 1
+3 1 2
+3 2 1
+3 9 1
+3 10 2
+3 11 7
+4 3 4
+4 1 6
+4 6 1
+4 7 3
+4 10 1
+4 11 1
+5 6 5
+5 3 7
+5 4 8
+5 7 3
+5 8 1
+5 9 1
+5 10 4
+5 11 6
+6 7 5
+6 8 1
+6 2 1
+6 5 5
+6 4 1
+6 9 2
+6 10 2
+7 5 6
+7 1 1
+7 6 5
+7 4 1
+7 2 2
+7 10 3
+7 11 1
+7 9 1
+8 4 1
+8 6 2
+8 7 1
+8 2 1
+8 9 1
+8 11 1
+9 2 1
+9 3 2
+9 6 1
+9 5 3
+9 10 2
+9 11 1
+10 6 1
+10 1 3
+10 5 2
+10 7 2
+10 3 3
+10 4 1
+10 11 4
+10 9 1
+11 4 1
+11 6 1
+11 3 2
+11 1 2
+11 5 1
+11 7 2
+11 9 1
+11 10 1
+11 2 1
+11 8 1

@@ -1,0 +1,7 @@
+ID: 69325   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Mallorca (1043), goals: 0   
+Away team: Barcelona (217), goals: 2    

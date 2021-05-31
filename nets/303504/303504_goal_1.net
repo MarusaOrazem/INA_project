@@ -1,0 +1,88 @@
+*vertices 11
+1 "Gonzalo Julián Melero Manzanares" 0.0 0.0 ellipse
+2 "Nemanja Radoja" 0.0 0.0 ellipse
+3 "Sergio Postigo Redondo" 0.0 0.0 ellipse
+4 "Jorge Miramón Santagertrudis" 0.0 0.0 ellipse
+5 "Rúben Miguel Nunes Vezo" 0.0 0.0 ellipse
+6 "Aitor Fernández Abarisketa" 0.0 0.0 ellipse
+7 "Carlos Clerc Martínez" 0.0 0.0 ellipse
+8 "Borja Mayoral Moya" 0.0 0.0 ellipse
+9 "Enis Bardhi/Rubén Rochina Naixes" 0.0 0.0 ellipse
+10 "José Luis Morales Nogales/Nikola Vukčević" 0.0 0.0 ellipse
+11 "José Ángel Gómez Campaña/Erick Cathriel Cabaco Almada" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 5 2
+1 4 4
+1 7 3
+1 8 3
+1 3 1
+1 9 4
+1 10 1
+1 11 5
+2 3 3
+2 7 1
+2 1 5
+2 6 1
+2 4 3
+2 8 1
+2 9 1
+2 10 1
+2 11 3
+3 2 2
+3 6 1
+3 4 2
+3 5 1
+3 1 1
+3 8 1
+3 10 1
+3 11 1
+4 2 2
+4 7 1
+4 8 2
+4 1 6
+4 9 7
+4 11 5
+5 6 2
+5 1 2
+5 2 4
+5 3 3
+5 7 1
+5 9 1
+5 11 2
+6 7 2
+6 5 1
+6 3 1
+7 2 2
+7 1 4
+7 5 3
+7 8 1
+7 9 1
+7 10 1
+7 11 4
+8 1 4
+8 4 3
+8 9 1
+8 10 1
+8 11 2
+9 4 3
+9 7 1
+9 10 1
+9 3 3
+9 8 1
+9 1 1
+9 2 1
+9 11 1
+10 1 1
+10 8 1
+10 9 1
+10 11 4
+10 5 1
+10 2 1
+11 8 4
+11 1 5
+11 4 3
+11 7 5
+11 2 1
+11 9 1
+11 10 3

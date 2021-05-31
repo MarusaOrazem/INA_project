@@ -1,0 +1,7 @@
+ID: 69166   
+Competition: La Liga    
+Country: Spain    
+Season: 2007/2008    
+Gender: male     
+Home team: Barcelona (217), goals: 3   
+Away team: Real Betis (218), goals: 0    

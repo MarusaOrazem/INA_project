@@ -1,0 +1,7 @@
+ID: 69240   
+Competition: La Liga    
+Country: Spain    
+Season: 2009/2010    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Getafe (216), goals: 1    

@@ -1,0 +1,64 @@
+*vertices 10
+1 "Braulio Nóbrega Rodríguez" 0.0 0.0 ellipse
+2 "Gabriel Fernández Arenas" 0.0 0.0 ellipse
+3 "Maurizio Lanzaro" 0.0 0.0 ellipse
+4 "Ivan Obradović" 0.0 0.0 ellipse
+5 "Carlos Andrés Diogo Enseñat" 0.0 0.0 ellipse
+6 "Jirí Jarošík" 0.0 0.0 ellipse
+7 "Antonio Baltasar Doblas Santana" 0.0 0.0 ellipse
+8 "Ander Herrera Agüera/Jorge López Montaña" 0.0 0.0 ellipse
+9 "Ángel Lafita Castillo/Saïd Boutahar" 0.0 0.0 ellipse
+10 "Matteo Contini/Marco Jhonnier Pérez Murillo" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 8 1
+1 9 1
+2 3 1
+2 1 1
+2 6 4
+2 5 2
+2 4 2
+2 8 2
+2 9 1
+2 10 1
+3 5 3
+3 2 1
+3 1 1
+3 8 2
+3 9 1
+3 10 1
+4 2 6
+4 1 2
+4 6 1
+4 9 1
+5 3 1
+5 2 2
+5 6 2
+5 8 3
+5 9 2
+6 3 1
+6 7 1
+6 5 1
+6 4 2
+6 2 2
+6 8 1
+6 9 1
+7 1 2
+7 3 1
+7 6 1
+7 5 1
+8 3 2
+8 2 1
+8 6 1
+8 5 1
+8 4 1
+9 4 3
+9 2 1
+9 8 1
+9 1 2
+9 3 1
+9 5 2
+9 10 1
+10 3 2
+10 2 2
+10 8 1

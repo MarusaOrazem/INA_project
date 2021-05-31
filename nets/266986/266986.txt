@@ -1,0 +1,7 @@
+ID: 266986   
+Competition: La Liga    
+Country: Spain    
+Season: 2015/2016    
+Gender: male     
+Home team: Real Betis (218), goals: 0   
+Away team: Barcelona (217), goals: 2    

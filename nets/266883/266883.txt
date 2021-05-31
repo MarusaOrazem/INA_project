@@ -1,0 +1,7 @@
+ID: 266883   
+Competition: La Liga    
+Country: Spain    
+Season: 2013/2014    
+Gender: male     
+Home team: Real Betis (218), goals: 1   
+Away team: Barcelona (217), goals: 4    

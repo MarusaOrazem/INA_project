@@ -1,0 +1,7 @@
+ID: 266273   
+Competition: La Liga    
+Country: Spain    
+Season: 2016/2017    
+Gender: male     
+Home team: Deportivo Alavés (206), goals: 0   
+Away team: Barcelona (217), goals: 6    

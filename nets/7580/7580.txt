@@ -1,0 +1,7 @@
+ID: 7580   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: France (771), goals: 4   
+Away team: Argentina (779), goals: 3    

@@ -1,0 +1,7 @@
+ID: 70309   
+Competition: La Liga    
+Country: Spain    
+Season: 2012/2013    
+Gender: male     
+Home team: Barcelona (217), goals: 3   
+Away team: Real Zaragoza (395), goals: 1    

@@ -1,0 +1,7 @@
+ID: 7570   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: England (768), goals: 0   
+Away team: Belgium (782), goals: 1    

@@ -1,0 +1,7 @@
+ID: 19785   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: Arsenal WFC (968), goals: 1   
+Away team: Chelsea FCW (971), goals: 2    

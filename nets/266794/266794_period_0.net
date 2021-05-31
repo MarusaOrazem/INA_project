@@ -1,0 +1,62 @@
+*vertices 11
+1 "Jonathas Cristian de Jesus" 0.0 0.0 ellipse
+2 "Fayçal Fajr" 0.0 0.0 ellipse
+3 "Adrián González Morales" 0.0 0.0 ellipse
+4 "Damián Nicolás Suárez Suárez" 0.0 0.0 ellipse
+5 "Sergio Pelegrín López" 0.0 0.0 ellipse
+6 "Domingo Cisma González" 0.0 0.0 ellipse
+7 "Aarón Níguez Esclapez" 0.0 0.0 ellipse
+8 "Enzo Pablo Roco Roco" 0.0 0.0 ellipse
+9 "Víctor Rodríguez Romero" 0.0 0.0 ellipse
+10 "Mario Pašalić" 0.0 0.0 ellipse
+11 "Przemysław Tytoń" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 9 4
+1 3 1
+1 7 1
+1 4 2
+1 10 2
+2 3 3
+2 1 2
+2 9 4
+2 8 3
+2 7 1
+2 10 1
+2 4 1
+3 4 4
+3 8 2
+3 6 2
+3 7 1
+3 10 2
+3 1 1
+4 8 2
+4 2 3
+4 9 3
+4 6 1
+4 1 5
+5 6 3
+5 1 1
+5 11 1
+6 7 6
+6 1 2
+6 10 2
+7 6 2
+7 5 1
+7 10 1
+7 3 1
+8 1 3
+8 4 2
+8 5 1
+9 1 3
+9 2 5
+9 10 1
+10 2 1
+10 1 2
+10 7 1
+10 9 1
+10 6 1
+11 4 1
+11 1 3
+11 5 1
+11 2 1

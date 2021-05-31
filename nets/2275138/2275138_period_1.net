@@ -1,0 +1,79 @@
+*vertices 11
+1 "Ella Toone" 0.0 0.0 ellipse
+2 "Lauren James" 0.0 0.0 ellipse
+3 "Abbie McManus" 0.0 0.0 ellipse
+4 "Mary Alexandra Earps" 0.0 0.0 ellipse
+5 "Millie Turner" 0.0 0.0 ellipse
+6 "Kirsty Smith" 0.0 0.0 ellipse
+7 "Katie Zelem" 0.0 0.0 ellipse
+8 "Leah Galton" 0.0 0.0 ellipse
+9 "Hayley Ladd" 0.0 0.0 ellipse
+10 "Jessica Sigsworth/Kirsty Hanson" 0.0 0.0 ellipse
+11 "Lotta Ökvist/Amy Turner" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 5
+1 8 7
+1 3 2
+1 7 2
+1 9 3
+1 11 1
+2 1 4
+2 9 2
+2 7 1
+2 10 2
+2 11 1
+3 4 5
+3 2 1
+3 9 4
+3 7 6
+3 5 2
+3 6 1
+3 1 3
+3 11 5
+3 10 1
+4 5 4
+4 3 3
+4 8 1
+4 11 1
+4 10 1
+5 6 4
+5 3 5
+5 1 1
+5 7 3
+5 4 2
+5 9 1
+6 7 2
+6 8 6
+6 5 4
+6 3 1
+6 1 7
+6 11 1
+7 2 6
+7 5 2
+7 1 3
+7 8 3
+7 3 1
+7 4 1
+7 6 1
+7 11 2
+8 6 2
+8 1 4
+8 10 2
+9 1 3
+9 3 2
+9 6 2
+9 7 1
+9 5 3
+9 8 2
+9 2 1
+9 11 3
+10 1 1
+10 2 4
+10 3 1
+10 11 1
+11 9 6
+11 7 4
+11 3 6
+11 2 2
+11 10 4

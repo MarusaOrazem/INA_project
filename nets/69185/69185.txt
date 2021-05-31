@@ -1,0 +1,7 @@
+ID: 69185   
+Competition: La Liga    
+Country: Spain    
+Season: 2008/2009    
+Gender: male     
+Home team: Atlético Madrid (212), goals: 4   
+Away team: Barcelona (217), goals: 3    

@@ -1,0 +1,81 @@
+*vertices 11
+1 "Dudú Aouate" 0.0 0.0 ellipse
+2 "Pierre Achille Webó Kouamo" 0.0 0.0 ellipse
+3 "Pablo Cendrós López" 0.0 0.0 ellipse
+4 "José Carlos de Araújo Nunes" 0.0 0.0 ellipse
+5 "Ayoze Díaz Díaz" 0.0 0.0 ellipse
+6 "Rubén González Rocha" 0.0 0.0 ellipse
+7 "Emilio Nsue López" 0.0 0.0 ellipse
+8 "Jose Luis Martí Soler" 0.0 0.0 ellipse
+9 "João Victor de Albuquerque Bruno/Michaël Pereira" 0.0 0.0 ellipse
+10 "Gonzalo Castro Irizábal/Akihiro Ienaga" 0.0 0.0 ellipse
+11 "Jonathan de Guzmán/Sergio Tejera Rodríguez" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 2
+2 4 1
+2 8 1
+2 7 1
+2 9 1
+2 10 1
+2 11 2
+3 1 2
+3 7 4
+3 8 4
+3 2 2
+3 6 1
+3 9 1
+3 10 1
+4 3 4
+4 8 1
+4 7 1
+4 1 1
+4 6 1
+4 5 1
+4 9 1
+5 2 1
+5 10 1
+5 9 3
+5 11 2
+6 1 2
+6 7 1
+6 5 2
+6 4 1
+6 8 1
+6 3 1
+6 10 1
+6 11 2
+7 8 2
+7 2 1
+7 4 1
+7 3 1
+7 10 1
+8 5 1
+8 3 5
+8 2 2
+8 4 1
+8 9 2
+8 10 2
+8 11 3
+9 4 1
+9 3 1
+9 8 1
+9 10 2
+9 2 1
+9 6 3
+9 7 1
+10 5 1
+10 6 1
+10 8 3
+10 2 1
+10 7 1
+10 4 1
+10 9 2
+11 2 2
+11 8 2
+11 4 1
+11 3 1
+11 6 3
+11 7 1
+11 9 1
+11 10 1

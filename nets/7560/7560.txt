@@ -1,0 +1,7 @@
+ID: 7560   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Spain (772), goals: 2   
+Away team: Morocco (788), goals: 2    

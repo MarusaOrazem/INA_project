@@ -1,0 +1,7 @@
+ID: 68320   
+Competition: La Liga    
+Country: Spain    
+Season: 2005/2006    
+Gender: male     
+Home team: Villarreal (222), goals: 0   
+Away team: Barcelona (217), goals: 2    

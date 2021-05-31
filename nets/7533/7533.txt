@@ -1,0 +1,7 @@
+ID: 7533   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Brazil (781), goals: 1   
+Away team: Switzerland (773), goals: 1    

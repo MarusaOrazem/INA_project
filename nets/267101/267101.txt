@@ -1,0 +1,7 @@
+ID: 267101   
+Competition: La Liga    
+Country: Spain    
+Season: 2016/2017    
+Gender: male     
+Home team: Barcelona (217), goals: 7   
+Away team: Osasuna (422), goals: 1    

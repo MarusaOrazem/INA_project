@@ -1,0 +1,7 @@
+ID: 68353   
+Competition: La Liga    
+Country: Spain    
+Season: 2004/2005    
+Gender: male     
+Home team: Espanyol (214), goals: 0   
+Away team: Barcelona (217), goals: 1    

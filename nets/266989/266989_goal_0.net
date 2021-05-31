@@ -1,0 +1,57 @@
+*vertices 11
+1 "Samir Nasri" 0.0 0.0 ellipse
+2 "Steven N"Kemboanza Mike Christopher Nzonzi" 0.0 0.0 ellipse
+3 "Adil Rami" 0.0 0.0 ellipse
+4 "Sergio Escudero Palomo" 0.0 0.0 ellipse
+5 "Franco Damián Vázquez" 0.0 0.0 ellipse
+6 "Pablo Sarabia García" 0.0 0.0 ellipse
+7 "Luciano Vietto" 0.0 0.0 ellipse
+8 "Mariano Ferreira Filho" 0.0 0.0 ellipse
+9 "Sergio Rico González" 0.0 0.0 ellipse
+10 "Daniel Filipe Martins Carriço" 0.0 0.0 ellipse
+11 "Víctor Machín Pérez" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 11 2
+1 4 1
+1 5 1
+1 8 1
+2 3 6
+2 5 1
+2 8 1
+2 10 1
+2 1 3
+3 4 2
+3 8 2
+3 9 1
+3 10 2
+3 2 2
+4 11 1
+4 1 1
+5 6 4
+5 7 2
+5 8 2
+5 11 1
+5 1 1
+6 7 1
+6 5 2
+6 3 1
+6 2 1
+6 11 1
+7 5 1
+7 11 1
+8 3 1
+8 5 5
+8 7 1
+8 2 2
+8 4 1
+8 9 1
+8 6 1
+9 2 1
+10 4 1
+10 2 1
+10 8 1
+10 9 1
+11 4 2
+11 5 1
+11 1 1

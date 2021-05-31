@@ -1,0 +1,7 @@
+ID: 70292   
+Competition: La Liga    
+Country: Spain    
+Season: 2012/2013    
+Gender: male     
+Home team: Getafe (216), goals: 1   
+Away team: Barcelona (217), goals: 4    

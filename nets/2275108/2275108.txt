@@ -1,0 +1,7 @@
+ID: 2275108   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2019/2020    
+Gender: female     
+Home team: Bristol City WFC (973), goals: 0   
+Away team: Chelsea FCW (971), goals: 4    

@@ -1,0 +1,60 @@
+*vertices 11
+1 "Alexandra Popp" 0.0 0.0 ellipse
+2 "Lena Goeßling" 0.0 0.0 ellipse
+3 "Marina Hegering" 0.0 0.0 ellipse
+4 "Lena Oberdorf" 0.0 0.0 ellipse
+5 "Almuth Schult" 0.0 0.0 ellipse
+6 "Giulia Gwinn" 0.0 0.0 ellipse
+7 "Kathrin-Julia Hendrich" 0.0 0.0 ellipse
+8 "Sara Doorsoun-Khajeh" 0.0 0.0 ellipse
+9 "Verena Schweers" 0.0 0.0 ellipse
+10 "Sara Däbritz" 0.0 0.0 ellipse
+11 "Svenja Huth" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 11 2
+2 3 1
+2 9 1
+2 11 2
+2 4 3
+2 6 2
+2 8 1
+3 2 1
+3 5 1
+3 8 1
+3 1 1
+3 6 1
+4 5 1
+4 6 3
+4 9 3
+4 11 1
+5 1 2
+5 8 2
+5 6 3
+5 2 1
+5 10 1
+6 9 1
+6 7 3
+6 10 2
+6 1 1
+6 11 2
+6 4 1
+6 2 1
+7 8 4
+7 11 5
+7 10 2
+7 6 4
+7 2 3
+7 4 1
+8 5 5
+8 6 2
+8 7 1
+9 6 3
+9 3 2
+9 1 1
+10 11 2
+10 7 1
+10 6 1
+11 7 1
+11 9 1
+11 1 1

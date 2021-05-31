@@ -1,0 +1,7 @@
+ID: 69321   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: United States Women's (1214), goals: 2   
+Away team: Netherlands Women's (851), goals: 0    

@@ -1,0 +1,76 @@
+*vertices 11
+1 "Mikel González de Martín Martínez" 0.0 0.0 ellipse
+2 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+3 "Markel Bergara Larrañaga" 0.0 0.0 ellipse
+4 "Íñigo Martínez Berridi" 0.0 0.0 ellipse
+5 "José Ángel Valdés Díaz" 0.0 0.0 ellipse
+6 "David Zurutuza Veillet" 0.0 0.0 ellipse
+7 "Joseba Zaldúa Bengoetxea" 0.0 0.0 ellipse
+8 "Carlos Alberto Vela Garrido" 0.0 0.0 ellipse
+9 "Antoine Griezmann/Xabier Prieto Argarate" 0.0 0.0 ellipse
+10 "Sergio Canales Madrazo/Jon Ansotegi Gorostola" 0.0 0.0 ellipse
+11 "Gorka Elustondo Urkola/Rubén Pardo Gutiérrez" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 7 1
+1 6 1
+1 9 3
+1 10 1
+2 4 2
+2 1 1
+2 8 2
+2 7 1
+2 9 2
+3 1 1
+3 4 1
+3 5 1
+3 9 2
+3 10 1
+3 11 2
+4 6 1
+4 2 1
+4 1 1
+4 8 2
+4 11 1
+4 9 1
+5 6 6
+5 4 1
+5 9 1
+5 10 1
+6 8 4
+6 5 4
+6 2 1
+6 9 2
+6 10 1
+7 1 2
+7 8 1
+7 10 1
+7 9 1
+8 5 2
+8 6 1
+8 9 2
+8 10 2
+8 11 2
+9 3 1
+9 8 3
+9 6 3
+9 5 1
+9 10 1
+9 11 1
+9 7 1
+10 1 2
+10 3 1
+10 6 3
+10 4 1
+10 5 1
+10 8 3
+10 7 1
+10 9 1
+10 11 3
+11 1 1
+11 3 2
+11 7 3
+11 2 1
+11 6 1
+11 9 1
+11 10 2

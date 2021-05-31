@@ -1,0 +1,7 @@
+ID: 7550   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Serbia (786), goals: 1   
+Away team: Switzerland (773), goals: 2    

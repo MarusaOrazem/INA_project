@@ -1,0 +1,7 @@
+ID: 266846   
+Competition: La Liga    
+Country: Spain    
+Season: 2014/2015    
+Gender: male     
+Home team: Barcelona (217), goals: 5   
+Away team: Córdoba (373), goals: 0    

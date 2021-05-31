@@ -1,0 +1,41 @@
+*vertices 11
+1 "Rebecca Leigh Spencer" 0.0 0.0 ellipse
+2 "Gilly Louise Scarlett Flaherty" 0.0 0.0 ellipse
+3 "Kate Longhurst" 0.0 0.0 ellipse
+4 "Ria Percival" 0.0 0.0 ellipse
+5 "Jane Ross" 0.0 0.0 ellipse
+6 "Lucienne Reichardt" 0.0 0.0 ellipse
+7 "Brianna Visalli" 0.0 0.0 ellipse
+8 "Vyan Sampson" 0.0 0.0 ellipse
+9 "Claire Lauren Rafferty" 0.0 0.0 ellipse
+10 "Brooke Hendrix" 0.0 0.0 ellipse
+11 "Alisha Lehmann" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 11 1
+2 3 2
+2 5 1
+2 8 1
+2 6 1
+3 4 1
+3 2 1
+3 9 1
+3 10 1
+4 5 1
+4 8 1
+4 2 1
+4 3 1
+5 7 2
+5 9 1
+6 5 1
+6 8 1
+6 10 1
+7 8 1
+7 9 2
+7 10 1
+8 9 2
+8 4 2
+9 7 2
+9 5 4
+9 3 2
+11 5 1

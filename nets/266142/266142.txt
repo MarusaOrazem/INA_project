@@ -1,0 +1,7 @@
+ID: 266142   
+Competition: La Liga    
+Country: Spain    
+Season: 2014/2015    
+Gender: male     
+Home team: Sevilla (213), goals: 2   
+Away team: Barcelona (217), goals: 2    

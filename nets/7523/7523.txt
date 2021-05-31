@@ -1,0 +1,7 @@
+ID: 7523   
+Competition: NWSL    
+Country: United States of America    
+Season: 2018    
+Gender: female     
+Home team: Seattle Reign (760), goals: 0   
+Away team: Orlando Pride (764), goals: 0    

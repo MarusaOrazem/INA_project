@@ -1,0 +1,7 @@
+ID: 18243   
+Competition: Champions League    
+Country: Europe    
+Season: 2015/2016    
+Gender: male     
+Home team: Real Madrid (220), goals: 1   
+Away team: Atlético Madrid (212), goals: 1    

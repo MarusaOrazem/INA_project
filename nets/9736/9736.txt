@@ -1,0 +1,7 @@
+ID: 9736   
+Competition: La Liga    
+Country: Spain    
+Season: 2017/2018    
+Gender: male     
+Home team: Real Madrid (220), goals: 0   
+Away team: Barcelona (217), goals: 3    

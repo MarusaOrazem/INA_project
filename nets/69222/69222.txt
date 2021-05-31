@@ -1,0 +1,7 @@
+ID: 69222   
+Competition: La Liga    
+Country: Spain    
+Season: 2008/2009    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Recreativo Huelva (1220), goals: 0    

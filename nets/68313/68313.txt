@@ -1,0 +1,7 @@
+ID: 68313   
+Competition: La Liga    
+Country: Spain    
+Season: 2004/2005    
+Gender: male     
+Home team: Barcelona (217), goals: 3   
+Away team: Osasuna (422), goals: 0    

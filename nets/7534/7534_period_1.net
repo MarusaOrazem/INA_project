@@ -1,0 +1,91 @@
+*vertices 11
+1 "Mesut Özil" 0.0 0.0 ellipse
+2 "Toni Kroos" 0.0 0.0 ellipse
+3 "Jérôme Boateng" 0.0 0.0 ellipse
+4 "Joshua Kimmich" 0.0 0.0 ellipse
+5 "Mats Hummels" 0.0 0.0 ellipse
+6 "Thomas Müller" 0.0 0.0 ellipse
+7 "Manuel Neuer" 0.0 0.0 ellipse
+8 "Julian Draxler" 0.0 0.0 ellipse
+9 "Sami Khedira/Marco Reus" 0.0 0.0 ellipse
+10 "Marvin Plattenhardt/Mario Gómez García" 0.0 0.0 ellipse
+11 "Timo Werner/Julian Brandt" 0.0 0.0 ellipse
+*arcs
+1 2 7
+1 8 6
+1 6 9
+1 3 2
+1 4 7
+1 5 1
+1 9 7
+1 10 1
+2 3 4
+2 1 8
+2 8 5
+2 4 5
+2 6 4
+2 5 1
+2 9 5
+2 10 4
+2 11 2
+3 4 7
+3 5 3
+3 6 3
+3 2 2
+3 8 3
+3 7 2
+3 1 4
+3 9 4
+3 10 1
+3 11 1
+4 3 12
+4 8 2
+4 2 5
+4 1 5
+4 6 2
+4 9 4
+4 10 1
+5 3 3
+5 7 3
+5 6 1
+5 1 3
+5 2 2
+5 8 1
+5 11 2
+6 4 3
+6 8 4
+6 1 3
+6 2 1
+6 3 1
+6 9 5
+7 3 4
+7 5 1
+7 4 2
+7 2 1
+8 2 8
+8 3 3
+8 6 3
+8 1 6
+8 4 1
+8 9 1
+8 10 2
+9 2 4
+9 4 2
+9 6 2
+9 8 1
+9 1 10
+9 5 1
+9 11 1
+9 10 1
+10 1 1
+10 8 3
+10 7 1
+10 2 1
+10 11 1
+11 4 1
+11 1 1
+11 8 2
+11 2 2
+11 9 1
+11 5 1
+11 3 1

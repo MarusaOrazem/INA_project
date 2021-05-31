@@ -1,0 +1,7 @@
+ID: 69178   
+Competition: La Liga    
+Country: Spain    
+Season: 2007/2008    
+Gender: male     
+Home team: Getafe (216), goals: 2   
+Away team: Barcelona (217), goals: 0    

@@ -1,0 +1,7 @@
+ID: 68338   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Scotland Women's (866), goals: 3   
+Away team: Argentina Women's (1204), goals: 3    

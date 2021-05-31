@@ -1,0 +1,7 @@
+ID: 19796   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: Brighton & Hove Albion WFC (965), goals: 2   
+Away team: Birmingham City WFC (969), goals: 1    

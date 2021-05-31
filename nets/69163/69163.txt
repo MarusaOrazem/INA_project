@@ -1,0 +1,7 @@
+ID: 69163   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Sweden Women's (858), goals: 1   
+Away team: Canada Women's (1206), goals: 0    

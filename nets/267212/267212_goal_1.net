@@ -1,0 +1,93 @@
+*vertices 11
+1 "Mamadou Koné" 0.0 0.0 ellipse
+2 "Gabriel Appelt Pires" 0.0 0.0 ellipse
+3 "Víctor David Díaz Miguel" 0.0 0.0 ellipse
+4 "Jon Ander Serantes Simon" 0.0 0.0 ellipse
+5 "Diego Rico Salguero" 0.0 0.0 ellipse
+6 "Lluis Sastre Reus" 0.0 0.0 ellipse
+7 "Unai Bustinza Martínez" 0.0 0.0 ellipse
+8 "Pablo Ínsua Blanco" 0.0 0.0 ellipse
+9 "Carl Medjani/Rubén Salvador Pérez Del Mármol" 0.0 0.0 ellipse
+10 "Unai López Cabrera/Alexander Szymanowski" 0.0 0.0 ellipse
+11 "Darwin Daniel Machís Marcano/Julián Omar Ramos Suárez" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 3 1
+1 7 1
+1 10 1
+1 9 2
+2 1 2
+2 8 1
+2 6 3
+2 7 1
+2 5 1
+2 10 1
+2 11 2
+2 9 3
+3 1 3
+3 4 1
+3 7 3
+3 2 3
+3 6 1
+3 9 2
+3 10 1
+3 11 2
+4 5 1
+4 8 1
+4 7 1
+4 1 2
+4 2 4
+4 10 1
+4 11 1
+5 2 7
+5 8 3
+5 6 3
+5 7 1
+5 10 1
+5 11 2
+5 9 1
+6 7 2
+6 1 2
+6 8 1
+6 5 2
+6 3 4
+6 2 2
+6 9 4
+6 10 3
+6 11 1
+7 4 3
+7 8 4
+7 3 2
+7 6 2
+7 1 1
+7 9 1
+7 10 2
+7 11 1
+8 5 6
+8 6 3
+8 2 1
+8 7 2
+8 4 1
+8 9 2
+8 10 3
+9 6 2
+9 8 2
+9 7 2
+9 2 2
+9 10 1
+9 11 1
+9 3 1
+9 1 2
+9 5 1
+10 1 1
+10 3 6
+10 6 3
+10 5 1
+10 2 2
+10 7 1
+10 9 1
+11 2 2
+11 6 2
+11 9 1
+11 5 1
+11 10 1

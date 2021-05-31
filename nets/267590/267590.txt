@@ -1,0 +1,7 @@
+ID: 267590   
+Competition: La Liga    
+Country: Spain    
+Season: 2016/2017    
+Gender: male     
+Home team: Málaga (223), goals: 2   
+Away team: Barcelona (217), goals: 0    

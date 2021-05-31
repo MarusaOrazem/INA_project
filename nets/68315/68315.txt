@@ -1,0 +1,7 @@
+ID: 68315   
+Competition: La Liga    
+Country: Spain    
+Season: 2004/2005    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Levante (221), goals: 1    

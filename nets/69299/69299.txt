@@ -1,0 +1,7 @@
+ID: 69299   
+Competition: La Liga    
+Country: Spain    
+Season: 2010/2011    
+Gender: male     
+Home team: Barcelona (217), goals: 5   
+Away team: Real Madrid (220), goals: 0    

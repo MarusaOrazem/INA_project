@@ -1,0 +1,7 @@
+ID: 303700   
+Competition: La Liga    
+Country: Spain    
+Season: 2019/2020    
+Gender: male     
+Home team: Eibar (322), goals: 0   
+Away team: Barcelona (217), goals: 3    

@@ -1,0 +1,26 @@
+*vertices 9
+1 "Gorka Iraizoz Moreno" 0.0 0.0 ellipse
+2 "Aritz Aduriz Zubeldia" 0.0 0.0 ellipse
+3 "Beñat Etxebarria Urkiaga" 0.0 0.0 ellipse
+4 "Mikel San José Domínguez" 0.0 0.0 ellipse
+5 "Jon Aurtenetxe Borde" 0.0 0.0 ellipse
+6 "Unai López Cabrera" 0.0 0.0 ellipse
+7 "Mikel Rico Moreno" 0.0 0.0 ellipse
+8 "Aymeric Laporte" 0.0 0.0 ellipse
+9 "Óscar de Marcos Arana" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 6 2
+2 3 1
+2 7 1
+2 6 1
+4 5 2
+4 3 1
+4 8 1
+6 4 1
+6 1 1
+6 9 1
+7 2 1
+7 1 1
+8 4 1
+9 2 1

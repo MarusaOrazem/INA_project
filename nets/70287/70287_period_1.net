@@ -1,0 +1,83 @@
+*vertices 11
+1 "Asier Illarramendi Andonegi" 0.0 0.0 ellipse
+2 "Mikel González de Martín Martínez" 0.0 0.0 ellipse
+3 "Carlos Martínez Díez" 0.0 0.0 ellipse
+4 "Antoine Griezmann" 0.0 0.0 ellipse
+5 "Alberto De La Bella Madureño" 0.0 0.0 ellipse
+6 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+7 "Íñigo Martínez Berridi" 0.0 0.0 ellipse
+8 "Markel Bergara Larrañaga" 0.0 0.0 ellipse
+9 "Gonzalo Castro Irizábal/Diego Ifrán Sala" 0.0 0.0 ellipse
+10 "Xabier Prieto Argarate/Rubén Pardo Gutiérrez" 0.0 0.0 ellipse
+11 "Carlos Alberto Vela Garrido/Imanol Agirretxe Arruti" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 3
+1 5 4
+1 3 5
+1 6 1
+1 7 2
+1 9 3
+1 10 1
+2 3 3
+2 4 2
+2 8 1
+2 6 1
+2 1 3
+2 5 1
+3 2 1
+3 6 1
+3 8 1
+3 1 4
+3 10 1
+3 11 1
+3 9 1
+4 1 2
+4 5 4
+4 10 1
+4 11 1
+4 9 1
+5 7 3
+5 4 2
+5 8 1
+5 1 3
+5 9 5
+5 10 1
+6 7 3
+6 2 2
+6 5 1
+6 10 1
+6 11 1
+7 5 4
+7 2 3
+7 8 1
+7 6 2
+7 10 1
+7 11 1
+7 9 1
+8 1 3
+8 3 1
+8 6 1
+8 5 1
+8 4 1
+8 2 1
+8 11 1
+9 5 2
+9 1 3
+9 3 1
+9 4 1
+9 10 1
+9 11 1
+9 2 1
+10 1 3
+10 3 2
+10 5 2
+10 9 1
+10 11 2
+10 4 3
+11 1 3
+11 4 2
+11 3 1
+11 8 1
+11 9 2
+11 10 1

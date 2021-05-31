@@ -1,0 +1,7 @@
+ID: 2275045   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2019/2020    
+Gender: female     
+Home team: Liverpool WFC (966), goals: 1   
+Away team: Chelsea FCW (971), goals: 1    

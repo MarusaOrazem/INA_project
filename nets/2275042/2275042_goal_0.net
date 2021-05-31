@@ -1,0 +1,44 @@
+*vertices 11
+1 "Georgia Stanway" 0.0 0.0 ellipse
+2 "Caroline Weir" 0.0 0.0 ellipse
+3 "Jill Scott" 0.0 0.0 ellipse
+4 "Gemma Bonner" 0.0 0.0 ellipse
+5 "Stephanie Houghton" 0.0 0.0 ellipse
+6 "Ellie Roebuck" 0.0 0.0 ellipse
+7 "Tessa Wullaert" 0.0 0.0 ellipse
+8 "Lauren Hemp" 0.0 0.0 ellipse
+9 "Demi Stokes" 0.0 0.0 ellipse
+10 "Janine Beckie" 0.0 0.0 ellipse
+11 "Ellen White" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 10 1
+1 5 1
+2 3 2
+2 5 2
+2 4 1
+2 9 1
+3 4 1
+3 7 1
+4 5 1
+4 6 1
+4 9 1
+4 8 1
+5 4 3
+5 3 1
+5 10 4
+6 5 2
+7 8 1
+7 5 1
+7 1 1
+8 9 1
+8 2 1
+9 8 1
+9 2 2
+9 6 1
+9 11 1
+9 1 1
+10 1 2
+10 5 2
+10 7 1

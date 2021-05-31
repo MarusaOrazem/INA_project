@@ -1,0 +1,7 @@
+ID: 303473   
+Competition: La Liga    
+Country: Spain    
+Season: 2019/2020    
+Gender: male     
+Home team: Barcelona (217), goals: 4   
+Away team: Sevilla (213), goals: 0    

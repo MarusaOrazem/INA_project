@@ -1,0 +1,7 @@
+ID: 70264   
+Competition: La Liga    
+Country: Spain    
+Season: 2014/2015    
+Gender: male     
+Home team: Getafe (216), goals: 0   
+Away team: Barcelona (217), goals: 0    

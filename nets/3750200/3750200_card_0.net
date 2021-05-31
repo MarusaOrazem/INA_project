@@ -1,0 +1,97 @@
+*vertices 11
+1 "Nelson de Jesus da Silva" 0.0 0.0 ellipse
+2 "Massimo Ambrosini" 0.0 0.0 ellipse
+3 "Andrea Pirlo" 0.0 0.0 ellipse
+4 "Ivan Gennaro Gattuso" 0.0 0.0 ellipse
+5 "Massimo Oddo" 0.0 0.0 ellipse
+6 "Alessandro Nesta" 0.0 0.0 ellipse
+7 "Paolo Maldini" 0.0 0.0 ellipse
+8 "Ricardo Izecson dos Santos Leite" 0.0 0.0 ellipse
+9 "Marek Jankulovski/Kakhaber Kaladze" 0.0 0.0 ellipse
+10 "Filippo Inzaghi/Alberto Gilardino" 0.0 0.0 ellipse
+11 "Clarence Seedorf/Giuseppe Favalli" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 6 5
+1 5 2
+1 3 1
+1 9 2
+1 10 4
+1 11 2
+2 3 8
+2 7 6
+2 8 3
+2 6 1
+2 4 4
+2 5 1
+2 9 1
+2 11 3
+3 4 10
+3 5 7
+3 2 3
+3 6 4
+3 8 6
+3 7 2
+3 9 3
+3 11 6
+4 3 19
+4 5 9
+4 8 3
+4 7 1
+4 6 2
+4 2 1
+4 9 1
+4 11 3
+4 10 2
+5 6 2
+5 4 8
+5 3 7
+5 8 3
+5 10 2
+5 11 2
+6 1 1
+6 4 5
+6 7 8
+6 3 6
+6 2 3
+6 5 2
+6 9 1
+6 10 1
+6 11 1
+7 8 1
+7 6 9
+7 4 3
+7 2 5
+7 3 1
+7 1 1
+7 9 10
+7 10 1
+7 11 3
+8 2 2
+8 3 3
+8 5 2
+8 10 5
+8 11 3
+8 9 1
+9 3 1
+9 7 10
+9 8 2
+9 6 1
+9 2 2
+9 5 1
+9 4 1
+9 11 2
+10 4 1
+10 3 2
+10 5 1
+10 8 2
+10 2 1
+10 11 1
+11 3 7
+11 7 3
+11 8 2
+11 2 4
+11 6 2
+11 4 2
+11 9 1
+11 10 1

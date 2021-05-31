@@ -1,0 +1,7 @@
+ID: 266274   
+Competition: La Liga    
+Country: Spain    
+Season: 2013/2014    
+Gender: male     
+Home team: Barcelona (217), goals: 3   
+Away team: Celta Vigo (209), goals: 0    

@@ -1,0 +1,7 @@
+ID: 2275051   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2019/2020    
+Gender: female     
+Home team: Everton LFC (967), goals: 2   
+Away team: Brighton & Hove Albion WFC (965), goals: 0    

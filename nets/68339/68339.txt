@@ -1,0 +1,7 @@
+ID: 68339   
+Competition: La Liga    
+Country: Spain    
+Season: 2005/2006    
+Gender: male     
+Home team: Getafe (216), goals: 1   
+Away team: Barcelona (217), goals: 3    

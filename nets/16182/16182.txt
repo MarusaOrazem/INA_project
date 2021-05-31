@@ -1,0 +1,7 @@
+ID: 16182   
+Competition: La Liga    
+Country: Spain    
+Season: 2018/2019    
+Gender: male     
+Home team: Barcelona (217), goals: 1   
+Away team: Real Valladolid (901), goals: 0    

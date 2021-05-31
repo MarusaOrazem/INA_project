@@ -1,0 +1,9 @@
+*vertices 4
+1 "Sel-Gi Jang" 0.0 0.0 ellipse
+2 "Geum-Min Lee" 0.0 0.0 ellipse
+3 "Eun-Mi Lee" 0.0 0.0 ellipse
+4 "Mi-Ra Moon" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 1 1
+3 4 1

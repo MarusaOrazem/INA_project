@@ -1,0 +1,7 @@
+ID: 7577   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Morocco (788), goals: 0   
+Away team: Iran (797), goals: 1    

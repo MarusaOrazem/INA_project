@@ -1,0 +1,7 @@
+ID: 68360   
+Competition: La Liga    
+Country: Spain    
+Season: 2007/2008    
+Gender: male     
+Home team: Barcelona (217), goals: 5   
+Away team: Levante (221), goals: 1    

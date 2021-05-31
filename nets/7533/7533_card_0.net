@@ -1,0 +1,100 @@
+*vertices 11
+1 "Philippe Coutinho Correia" 0.0 0.0 ellipse
+2 "Marcelo Vieira da Silva Júnior" 0.0 0.0 ellipse
+3 "Alisson Ramsés Becker" 0.0 0.0 ellipse
+4 "João Miranda de Souza Filho" 0.0 0.0 ellipse
+5 "Thiago Emiliano da Silva" 0.0 0.0 ellipse
+6 "Willian Borges da Silva" 0.0 0.0 ellipse
+7 "Neymar da Silva Santos Junior" 0.0 0.0 ellipse
+8 "Danilo Luiz da Silva" 0.0 0.0 ellipse
+9 "Carlos Henrique Casimiro/Fernando Luiz Rosa" 0.0 0.0 ellipse
+10 "José Paulo Bezzera Maciel Júnior/Renato Soares de Oliveira Augusto" 0.0 0.0 ellipse
+11 "Gabriel Fernando de Jesus/Roberto Firmino Barbosa de Oliveira" 0.0 0.0 ellipse
+*arcs
+1 2 18
+1 7 20
+1 4 4
+1 5 4
+1 8 2
+1 6 3
+1 9 1
+1 10 2
+1 11 1
+2 4 14
+2 1 15
+2 7 17
+2 6 2
+2 5 2
+2 9 2
+2 10 3
+2 11 2
+3 2 1
+3 8 3
+3 4 6
+3 6 1
+3 11 1
+4 2 26
+4 5 14
+4 1 11
+4 6 1
+4 3 1
+4 7 1
+4 9 1
+4 10 2
+5 1 5
+5 6 3
+5 8 18
+5 4 13
+5 3 2
+5 2 2
+5 9 3
+5 10 2
+6 8 7
+6 2 4
+6 5 3
+6 7 2
+6 1 5
+6 4 2
+6 10 2
+7 4 2
+7 2 9
+7 1 8
+7 5 1
+7 9 2
+7 10 1
+7 11 3
+8 5 6
+8 6 19
+8 4 5
+8 1 4
+8 7 3
+8 3 1
+8 10 1
+8 11 3
+8 9 1
+9 1 2
+9 4 1
+9 2 2
+9 5 5
+9 7 2
+9 6 2
+9 3 1
+9 10 3
+9 11 2
+9 8 1
+10 8 2
+10 5 1
+10 6 1
+10 4 2
+10 7 1
+10 1 2
+10 2 4
+10 9 2
+10 11 1
+11 7 2
+11 1 1
+11 6 2
+11 8 1
+11 9 1
+11 10 1
+11 2 1

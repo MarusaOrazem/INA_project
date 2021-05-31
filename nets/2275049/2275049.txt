@@ -1,0 +1,7 @@
+ID: 2275049   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2019/2020    
+Gender: female     
+Home team: West Ham United LFC (972), goals: 2   
+Away team: Reading WFC (974), goals: 3    

@@ -1,0 +1,85 @@
+*vertices 11
+1 "Gunnhildur Yrsa Jónsdóttir" 0.0 0.0 ellipse
+2 "Desiree Scott" 0.0 0.0 ellipse
+3 "Christen Press" 0.0 0.0 ellipse
+4 "Samantha Johnson" 0.0 0.0 ellipse
+5 "Erika Tymrak" 0.0 0.0 ellipse
+6 "Abby Smith" 0.0 0.0 ellipse
+7 "Becky Sauerbrunn" 0.0 0.0 ellipse
+8 "Katie Bowen" 0.0 0.0 ellipse
+9 "Rebecca Moros/Elise Thorsnes" 0.0 0.0 ellipse
+10 "Katrina Gorry/Rachel Corsie" 0.0 0.0 ellipse
+11 "Katie Stengel/Sydney Miramontez" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 3
+1 4 2
+1 8 1
+1 5 3
+1 9 3
+1 10 2
+1 11 5
+2 3 3
+2 7 1
+2 5 2
+2 1 2
+2 8 1
+2 10 3
+3 4 1
+3 8 1
+3 1 1
+3 10 3
+3 11 1
+3 9 2
+4 6 7
+4 1 1
+4 7 1
+4 9 2
+4 11 1
+5 1 4
+5 8 1
+5 3 4
+5 10 4
+5 11 3
+6 1 4
+6 7 5
+6 4 2
+6 8 1
+6 3 1
+6 10 1
+7 6 3
+7 8 2
+7 5 1
+7 2 4
+7 4 1
+7 10 1
+7 11 2
+8 2 2
+8 7 3
+8 1 1
+8 10 1
+8 11 2
+8 9 3
+9 4 2
+9 1 6
+9 10 1
+9 11 1
+9 3 2
+9 6 1
+9 5 1
+10 5 1
+10 1 3
+10 8 4
+10 7 1
+10 3 1
+10 9 1
+10 4 1
+10 11 2
+11 1 1
+11 3 1
+11 5 1
+11 8 1
+11 2 1
+11 9 1
+11 10 3
+11 4 1

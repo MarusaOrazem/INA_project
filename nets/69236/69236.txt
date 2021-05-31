@@ -1,0 +1,7 @@
+ID: 69236   
+Competition: La Liga    
+Country: Spain    
+Season: 2010/2011    
+Gender: male     
+Home team: Barcelona (217), goals: 1   
+Away team: Mallorca (1043), goals: 1    

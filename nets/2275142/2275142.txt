@@ -1,0 +1,7 @@
+ID: 2275142   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2019/2020    
+Gender: female     
+Home team: Manchester United (1475), goals: 0   
+Away team: Bristol City WFC (973), goals: 1    

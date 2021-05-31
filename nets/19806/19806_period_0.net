@@ -1,0 +1,71 @@
+*vertices 11
+1 "Lucy Graham" 0.0 0.0 ellipse
+2 "Carla Humphrey" 0.0 0.0 ellipse
+3 "Danique Kerkdijk" 0.0 0.0 ellipse
+4 "Sophie Baggaley" 0.0 0.0 ellipse
+5 "Loren Dykes" 0.0 0.0 ellipse
+6 "Frankie Brown" 0.0 0.0 ellipse
+7 "Poppy Pattinson" 0.0 0.0 ellipse
+8 "Gemma Evans" 0.0 0.0 ellipse
+9 "Abigail Harrison" 0.0 0.0 ellipse
+10 "Rosella Ayane" 0.0 0.0 ellipse
+11 "Julie Biesmans" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 1
+1 9 1
+1 11 1
+1 10 2
+2 3 3
+2 5 3
+2 9 4
+2 7 2
+3 4 2
+3 8 2
+3 7 2
+3 9 2
+3 2 2
+3 10 2
+3 5 1
+4 2 3
+4 5 3
+4 3 2
+4 1 4
+4 11 1
+4 8 4
+4 7 4
+5 2 4
+5 3 1
+5 9 1
+5 10 1
+5 4 2
+5 1 2
+6 7 3
+6 10 1
+6 1 1
+7 1 4
+7 9 5
+7 6 4
+7 2 1
+7 4 1
+7 8 2
+8 6 2
+8 10 1
+8 4 1
+8 7 2
+8 9 2
+8 5 1
+9 6 1
+9 1 1
+9 10 1
+9 2 3
+9 11 1
+9 7 1
+10 2 1
+10 5 2
+10 9 1
+10 1 1
+11 4 1
+11 5 3
+11 6 1
+11 9 1

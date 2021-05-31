@@ -1,0 +1,7 @@
+ID: 7565   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Serbia (786), goals: 0   
+Away team: Brazil (781), goals: 2    

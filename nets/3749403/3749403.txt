@@ -1,0 +1,7 @@
+ID: 3749403   
+Competition: Premier League    
+Country: England    
+Season: 2003/2004    
+Gender: male     
+Home team: Arsenal (1), goals: 2   
+Away team: Bolton Wanderers (328), goals: 1    

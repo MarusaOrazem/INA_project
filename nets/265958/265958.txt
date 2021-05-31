@@ -1,0 +1,7 @@
+ID: 265958   
+Competition: La Liga    
+Country: Spain    
+Season: 2015/2016    
+Gender: male     
+Home team: Barcelona (217), goals: 5   
+Away team: Espanyol (214), goals: 0    

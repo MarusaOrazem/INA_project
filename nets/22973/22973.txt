@@ -1,0 +1,7 @@
+ID: 22973   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Sweden Women's (858), goals: 5   
+Away team: Thailand Women's (1107), goals: 1    

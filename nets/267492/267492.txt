@@ -1,0 +1,7 @@
+ID: 267492   
+Competition: La Liga    
+Country: Spain    
+Season: 2016/2017    
+Gender: male     
+Home team: Barcelona (217), goals: 4   
+Away team: Deportivo La Coruna (219), goals: 0    

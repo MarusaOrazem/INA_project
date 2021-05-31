@@ -1,0 +1,88 @@
+*vertices 11
+1 "Isabell Herlovsen" 0.0 0.0 ellipse
+2 "Maren Nævdal Mjelde" 0.0 0.0 ellipse
+3 "Maria Thorisdottir" 0.0 0.0 ellipse
+4 "Kristine Minde" 0.0 0.0 ellipse
+5 "Vilde Bøe Risa" 0.0 0.0 ellipse
+6 "Ingrid Syrstad Engen" 0.0 0.0 ellipse
+7 "Caroline Graham Hansen" 0.0 0.0 ellipse
+8 "Ingrid Hjelmseth" 0.0 0.0 ellipse
+9 "Karina Sævik/Lisa-Marie Utland" 0.0 0.0 ellipse
+10 "Guro Reiten/Amalie Vevle Eikeland" 0.0 0.0 ellipse
+11 "Ingrid Moe Wold/Synne Skinnes Hansen" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 1
+1 6 2
+1 9 1
+1 10 1
+2 3 10
+2 5 8
+2 6 4
+2 4 2
+2 1 1
+2 8 3
+2 7 1
+2 10 1
+2 11 10
+3 4 3
+3 2 12
+3 6 2
+3 1 1
+3 5 3
+3 8 2
+3 7 1
+3 10 1
+3 9 1
+4 3 5
+4 1 2
+4 5 9
+4 6 5
+4 2 1
+4 9 2
+5 3 2
+5 2 4
+5 1 4
+5 4 5
+5 7 1
+5 9 1
+5 10 3
+5 11 1
+6 2 5
+6 4 4
+6 3 4
+6 5 1
+6 7 2
+6 1 1
+6 10 1
+6 11 2
+6 9 1
+7 5 1
+7 3 2
+7 11 2
+7 9 1
+8 4 1
+8 6 1
+8 3 4
+8 5 2
+8 2 3
+8 11 2
+8 9 1
+9 7 1
+9 4 1
+9 2 1
+9 6 1
+9 1 1
+9 5 1
+10 5 1
+10 6 3
+10 3 1
+10 7 1
+10 11 1
+11 2 7
+11 6 2
+11 1 1
+11 7 5
+11 5 3
+11 10 3
+11 9 3

@@ -1,0 +1,7 @@
+ID: 7572   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Japan (778), goals: 0   
+Away team: Poland (789), goals: 1    

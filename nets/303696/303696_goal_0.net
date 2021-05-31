@@ -1,0 +1,71 @@
+*vertices 11
+1 "Ivan Rakitić" 0.0 0.0 ellipse
+2 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+3 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+4 "Ricard Puig Martí" 0.0 0.0 ellipse
+5 "Nélson Cabral Semedo" 0.0 0.0 ellipse
+6 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+7 "Arturo Erasmo Vidal Pardo" 0.0 0.0 ellipse
+8 "Clément Lenglet" 0.0 0.0 ellipse
+9 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+10 "Marc-André ter Stegen" 0.0 0.0 ellipse
+11 "Jordi Alba Ramos" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 4
+1 11 2
+1 9 4
+1 5 1
+1 4 2
+2 3 1
+2 9 1
+2 1 1
+2 4 1
+3 4 3
+3 5 4
+3 6 1
+4 2 2
+4 11 4
+4 9 4
+4 8 1
+4 6 1
+5 6 3
+5 4 1
+5 3 1
+5 7 4
+5 9 1
+6 4 1
+6 11 1
+6 8 5
+6 9 1
+6 10 2
+6 5 2
+6 1 2
+7 4 1
+7 6 2
+7 3 2
+7 5 2
+8 9 4
+8 6 2
+8 1 4
+8 5 1
+8 11 3
+8 2 1
+8 3 2
+8 4 1
+8 10 1
+9 10 1
+9 6 3
+9 3 3
+9 4 3
+9 5 1
+9 8 3
+9 7 3
+10 6 3
+10 8 1
+10 9 1
+10 1 1
+11 8 2
+11 1 4
+11 4 2
+11 2 2

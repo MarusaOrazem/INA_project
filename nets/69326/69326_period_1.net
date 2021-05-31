@@ -1,0 +1,78 @@
+*vertices 11
+1 "Manuel del Moral Fernández" 0.0 0.0 ellipse
+2 "Frédéric Oumar Kanouté" 0.0 0.0 ellipse
+3 "Antonio Manuel Luna Rodríguez" 0.0 0.0 ellipse
+4 "Julien Escudé" 0.0 0.0 ellipse
+5 "Gary Alexis Medel Soto" 0.0 0.0 ellipse
+6 "Jesús Navas González" 0.0 0.0 ellipse
+7 "Fernando Navarro i Corbacho" 0.0 0.0 ellipse
+8 "Andrés Palop Cervera" 0.0 0.0 ellipse
+9 "Ivan Rakitić/Piotr Trochowski" 0.0 0.0 ellipse
+10 "José Antonio Reyes Calderón/Diego Perotti" 0.0 0.0 ellipse
+11 "Emir Spahić/Juan Torres Ruiz" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 1
+1 9 1
+1 10 1
+2 6 4
+2 1 1
+2 3 2
+2 9 1
+3 4 3
+3 5 3
+3 6 3
+3 8 1
+3 9 2
+3 11 4
+4 7 9
+4 2 1
+4 8 3
+4 6 1
+4 9 2
+4 10 2
+4 11 1
+5 2 3
+5 6 3
+5 4 3
+5 7 3
+5 3 2
+5 9 1
+5 10 2
+5 11 1
+6 1 4
+6 8 1
+6 3 2
+6 5 2
+6 10 1
+6 9 2
+7 1 3
+7 2 1
+7 4 2
+7 5 4
+7 10 7
+7 9 6
+8 4 6
+8 1 1
+8 10 2
+8 9 1
+8 11 4
+9 4 2
+9 2 1
+9 7 3
+9 11 2
+9 1 2
+9 3 1
+9 6 2
+10 7 1
+10 9 2
+10 5 3
+10 1 1
+10 4 1
+10 6 1
+11 8 5
+11 3 1
+11 6 1
+11 4 2
+11 2 1
+11 5 1

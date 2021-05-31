@@ -1,0 +1,7 @@
+ID: 7583   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Brazil (781), goals: 2   
+Away team: Mexico (794), goals: 0    

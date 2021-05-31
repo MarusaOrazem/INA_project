@@ -1,0 +1,7 @@
+ID: 69155   
+Competition: La Liga    
+Country: Spain    
+Season: 2006/2007    
+Gender: male     
+Home team: Villarreal (222), goals: 2   
+Away team: Barcelona (217), goals: 0    

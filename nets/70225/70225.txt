@@ -1,0 +1,7 @@
+ID: 70225   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Barcelona (217), goals: 5   
+Away team: Granada (1049), goals: 3    

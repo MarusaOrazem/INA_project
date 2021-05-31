@@ -1,0 +1,7 @@
+ID: 22930   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Spain Women's (863), goals: 3   
+Away team: South Africa Women's (1216), goals: 1    

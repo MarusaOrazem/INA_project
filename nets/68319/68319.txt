@@ -1,0 +1,7 @@
+ID: 68319   
+Competition: La Liga    
+Country: Spain    
+Season: 2005/2006    
+Gender: male     
+Home team: Real Madrid (220), goals: 0   
+Away team: Barcelona (217), goals: 3    

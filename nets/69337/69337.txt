@@ -1,0 +1,7 @@
+ID: 69337   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Atlético Madrid (212), goals: 1   
+Away team: Barcelona (217), goals: 2    

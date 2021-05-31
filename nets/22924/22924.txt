@@ -1,0 +1,7 @@
+ID: 22924   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Norway Women's (852), goals: 3   
+Away team: Nigeria Women's (1213), goals: 0    

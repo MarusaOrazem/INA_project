@@ -1,0 +1,7 @@
+ID: 266420   
+Competition: La Liga    
+Country: Spain    
+Season: 2013/2014    
+Gender: male     
+Home team: Almería (403), goals: 0   
+Away team: Barcelona (217), goals: 2    

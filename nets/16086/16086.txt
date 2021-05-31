@@ -1,0 +1,7 @@
+ID: 16086   
+Competition: La Liga    
+Country: Spain    
+Season: 2018/2019    
+Gender: male     
+Home team: Espanyol (214), goals: 0   
+Away team: Barcelona (217), goals: 4    

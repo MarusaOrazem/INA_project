@@ -1,0 +1,7 @@
+ID: 69271   
+Competition: La Liga    
+Country: Spain    
+Season: 2010/2011    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Osasuna (422), goals: 0    

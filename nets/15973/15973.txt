@@ -1,0 +1,7 @@
+ID: 15973   
+Competition: La Liga    
+Country: Spain    
+Season: 2018/2019    
+Gender: male     
+Home team: Barcelona (217), goals: 8   
+Away team: Huesca (902), goals: 2    

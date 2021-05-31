@@ -1,0 +1,7 @@
+ID: 15998   
+Competition: La Liga    
+Country: Spain    
+Season: 2018/2019    
+Gender: male     
+Home team: Leganés (205), goals: 2   
+Away team: Barcelona (217), goals: 1    

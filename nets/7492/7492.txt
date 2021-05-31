@@ -1,0 +1,7 @@
+ID: 7492   
+Competition: NWSL    
+Country: United States of America    
+Season: 2018    
+Gender: female     
+Home team: Orlando Pride (764), goals: 2   
+Away team: Sky Blue FC (763), goals: 2    

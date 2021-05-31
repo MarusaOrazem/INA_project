@@ -1,0 +1,7 @@
+ID: 70263   
+Competition: La Liga    
+Country: Spain    
+Season: 2012/2013    
+Gender: male     
+Home team: Barcelona (217), goals: 5   
+Away team: Athletic Bilbao (215), goals: 1    

@@ -1,0 +1,879 @@
+ID: 9592, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 5, Away team: Espanyol, goals: 0     
+ID: 9870, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 3, Away team: Leganés, goals: 1     
+ID: 9783, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Espanyol, goals: 1, Away team: Barcelona, goals: 1     
+ID: 9700, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 2, Away team: Celta Vigo, goals: 2     
+ID: 9860, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Sevilla, goals: 2, Away team: Barcelona, goals: 2     
+ID: 9695, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Valencia, goals: 1, Away team: Barcelona, goals: 1     
+ID: 9794, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 0, Away team: Getafe, goals: 0     
+ID: 9717, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Villarreal, goals: 0, Away team: Barcelona, goals: 2     
+ID: 9673, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 2, Away team: Sevilla, goals: 1     
+ID: 9650, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 2, Away team: Málaga, goals: 0     
+ID: 9620, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Girona, goals: 0, Away team: Barcelona, goals: 3     
+ID: 9827, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Las Palmas, goals: 1, Away team: Barcelona, goals: 1     
+ID: 9837, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 1, Away team: Atlético Madrid, goals: 0     
+ID: 9912, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Deportivo La Coruna, goals: 2, Away team: Barcelona, goals: 4     
+ID: 9811, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 6, Away team: Girona, goals: 1     
+ID: 9642, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Atlético Madrid, goals: 1, Away team: Barcelona, goals: 1     
+ID: 9774, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 2, Away team: Deportivo Alavés, goals: 1     
+ID: 9602, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Getafe, goals: 1, Away team: Barcelona, goals: 2     
+ID: 9948, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 1, Away team: Real Sociedad, goals: 0     
+ID: 9682, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Leganés, goals: 0, Away team: Barcelona, goals: 3     
+ID: 9581, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Deportivo Alavés, goals: 0, Away team: Barcelona, goals: 2     
+ID: 9726, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 4, Away team: Deportivo La Coruna, goals: 0     
+ID: 9754, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Real Sociedad, goals: 2, Away team: Barcelona, goals: 4     
+ID: 9575, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 2, Away team: Real Betis, goals: 0     
+ID: 9765, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Real Betis, goals: 0, Away team: Barcelona, goals: 5     
+ID: 9889, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Celta Vigo, goals: 2, Away team: Barcelona, goals: 2     
+ID: 9928, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 5, Away team: Villarreal, goals: 1     
+ID: 9609, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 6, Away team: Eibar, goals: 1     
+ID: 9636, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 3, Away team: Las Palmas, goals: 0     
+ID: 9661, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Athletic Bilbao, goals: 0, Away team: Barcelona, goals: 2     
+ID: 9736, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Real Madrid, goals: 0, Away team: Barcelona, goals: 3     
+ID: 9742, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 3, Away team: Levante, goals: 0     
+ID: 9799, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Eibar, goals: 0, Away team: Barcelona, goals: 2     
+ID: 9855, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 2, Away team: Athletic Bilbao, goals: 0     
+ID: 9880, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 2, Away team: Valencia, goals: 1     
+ID: 9924, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Home team: Barcelona, goals: 2, Away team: Real Madrid, goals: 2     
+ID: 267212, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Leganés, goals: 1, Away team: Barcelona, goals: 5     
+ID: 266669, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 1, Away team: Deportivo Alavés, goals: 2     
+ID: 266892, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Athletic Bilbao, goals: 0, Away team: Barcelona, goals: 1     
+ID: 267220, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 1, Away team: Atlético Madrid, goals: 1     
+ID: 266989, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Sevilla, goals: 1, Away team: Barcelona, goals: 2     
+ID: 267670, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 6, Away team: Real Betis, goals: 2     
+ID: 266516, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Real Betis, goals: 1, Away team: Barcelona, goals: 1     
+ID: 266357, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Osasuna, goals: 0, Away team: Barcelona, goals: 3     
+ID: 267039, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Las Palmas, goals: 1, Away team: Barcelona, goals: 4     
+ID: 267058, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 1, Away team: Granada, goals: 0     
+ID: 266477, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Villarreal, goals: 1, Away team: Barcelona, goals: 1     
+ID: 267101, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 7, Away team: Osasuna, goals: 1     
+ID: 266440, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 4, Away team: Valencia, goals: 2     
+ID: 266033, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Valencia, goals: 2, Away team: Barcelona, goals: 3     
+ID: 267660, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Deportivo La Coruna, goals: 2, Away team: Barcelona, goals: 1     
+ID: 266273, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Deportivo Alavés, goals: 0, Away team: Barcelona, goals: 6     
+ID: 267395, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 5, Away team: Las Palmas, goals: 0     
+ID: 266874, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 3, Away team: Athletic Bilbao, goals: 0     
+ID: 266731, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Eibar, goals: 0, Away team: Barcelona, goals: 4     
+ID: 266528, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 4, Away team: Espanyol, goals: 1     
+ID: 266280, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 3, Away team: Sevilla, goals: 0     
+ID: 267432, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 4, Away team: Eibar, goals: 2     
+ID: 267076, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 1, Away team: Real Madrid, goals: 1     
+ID: 267590, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Málaga, goals: 2, Away team: Barcelona, goals: 0     
+ID: 267373, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 3, Away team: Real Sociedad, goals: 2     
+ID: 267077, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Espanyol, goals: 0, Away team: Barcelona, goals: 3     
+ID: 266952, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 4, Away team: Villarreal, goals: 1     
+ID: 267464, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Atlético Madrid, goals: 1, Away team: Barcelona, goals: 2     
+ID: 266299, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 5, Away team: Celta Vigo, goals: 0     
+ID: 266191, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Real Sociedad, goals: 1, Away team: Barcelona, goals: 1     
+ID: 265952, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 6, Away team: Sporting Gijón, goals: 1     
+ID: 267492, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 4, Away team: Deportivo La Coruna, goals: 0     
+ID: 267596, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Barcelona, goals: 2, Away team: Leganés, goals: 1     
+ID: 267569, Country: Spain, Competition: La Liga, Season: 2016/2017, Gender: male, Home team: Real Madrid, goals: 2, Away team: Barcelona, goals: 3     
+ID: 69243, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 4, Away team: Sevilla, goals: 0     
+ID: 69241, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 4, Away team: Tenerife, goals: 1     
+ID: 69257, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 2, Away team: Osasuna, goals: 0     
+ID: 69253, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 6, Away team: Real Zaragoza, goals: 1     
+ID: 69244, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Villarreal, goals: 1, Away team: Barcelona, goals: 4     
+ID: 69239, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Sevilla, goals: 2, Away team: Barcelona, goals: 3     
+ID: 69277, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Osasuna, goals: 1, Away team: Barcelona, goals: 1     
+ID: 69229, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Getafe, goals: 0, Away team: Barcelona, goals: 2     
+ID: 69219, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Tenerife, goals: 0, Away team: Barcelona, goals: 5     
+ID: 69218, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Deportivo La Coruna, goals: 1, Away team: Barcelona, goals: 3     
+ID: 69250, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 4, Away team: Mallorca, goals: 2     
+ID: 69242, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 4, Away team: Real Valladolid, goals: 0     
+ID: 69256, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 1, Away team: Almería, goals: 0     
+ID: 69298, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Mallorca, goals: 0, Away team: Barcelona, goals: 1     
+ID: 69221, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 3, Away team: Deportivo La Coruna, goals: 0     
+ID: 69259, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Real Madrid, goals: 0, Away team: Barcelona, goals: 2     
+ID: 69224, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 3, Away team: Valencia, goals: 0     
+ID: 69210, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Real Valladolid, goals: 0, Away team: Barcelona, goals: 3     
+ID: 69220, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Sporting Gijón, goals: 0, Away team: Barcelona, goals: 1     
+ID: 69237, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Atlético Madrid, goals: 2, Away team: Barcelona, goals: 1     
+ID: 69226, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Almería, goals: 2, Away team: Barcelona, goals: 2     
+ID: 69252, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Valencia, goals: 0, Away team: Barcelona, goals: 0     
+ID: 69255, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Málaga, goals: 0, Away team: Barcelona, goals: 2     
+ID: 69214, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 3, Away team: Xerez, goals: 1     
+ID: 69262, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 1, Away team: Real Madrid, goals: 0     
+ID: 69240, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 2, Away team: Getafe, goals: 1     
+ID: 69233, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 4, Away team: Racing Santander, goals: 0     
+ID: 69213, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Espanyol, goals: 0, Away team: Barcelona, goals: 0     
+ID: 69238, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 2, Away team: Málaga, goals: 1     
+ID: 69267, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Xerez, goals: 0, Away team: Barcelona, goals: 2     
+ID: 69288, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Athletic Bilbao, goals: 1, Away team: Barcelona, goals: 1     
+ID: 69254, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Racing Santander, goals: 1, Away team: Barcelona, goals: 4     
+ID: 69292, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 5, Away team: Atlético Madrid, goals: 2     
+ID: 69227, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Real Zaragoza, goals: 2, Away team: Barcelona, goals: 4     
+ID: 69247, Country: Spain, Competition: La Liga, Season: 2009/2010, Gender: male, Home team: Barcelona, goals: 4, Away team: Athletic Bilbao, goals: 1     
+ID: 69304, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Villarreal, goals: 0, Away team: Barcelona, goals: 1     
+ID: 69307, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Osasuna, goals: 0, Away team: Barcelona, goals: 3     
+ID: 69276, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 3, Away team: Atlético Madrid, goals: 0     
+ID: 69271, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 2, Away team: Osasuna, goals: 0     
+ID: 69305, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 3, Away team: Almería, goals: 1     
+ID: 69278, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 4, Away team: Málaga, goals: 1     
+ID: 69275, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Espanyol, goals: 1, Away team: Barcelona, goals: 5     
+ID: 69306, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Almería, goals: 0, Away team: Barcelona, goals: 8     
+ID: 69248, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Sporting Gijón, goals: 1, Away team: Barcelona, goals: 1     
+ID: 69295, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 3, Away team: Racing Santander, goals: 0     
+ID: 69270, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Getafe, goals: 1, Away team: Barcelona, goals: 3     
+ID: 69303, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 2, Away team: Getafe, goals: 1     
+ID: 69245, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Real Madrid, goals: 1, Away team: Barcelona, goals: 1     
+ID: 69287, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 0, Away team: Hércules, goals: 2     
+ID: 69296, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Hércules, goals: 0, Away team: Barcelona, goals: 3     
+ID: 69260, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 2, Away team: Valencia, goals: 1     
+ID: 69269, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Atlético Madrid, goals: 1, Away team: Barcelona, goals: 2     
+ID: 69246, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Real Sociedad, goals: 2, Away team: Barcelona, goals: 1     
+ID: 69302, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 5, Away team: Real Sociedad, goals: 0     
+ID: 69282, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 2, Away team: Athletic Bilbao, goals: 1     
+ID: 69274, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Valencia, goals: 0, Away team: Barcelona, goals: 1     
+ID: 69283, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Mallorca, goals: 0, Away team: Barcelona, goals: 3     
+ID: 69280, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Deportivo La Coruna, goals: 0, Away team: Barcelona, goals: 4     
+ID: 69286, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Racing Santander, goals: 0, Away team: Barcelona, goals: 3     
+ID: 69291, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Sevilla, goals: 1, Away team: Barcelona, goals: 1     
+ID: 69236, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 1, Away team: Mallorca, goals: 1     
+ID: 69234, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 2, Away team: Espanyol, goals: 0     
+ID: 69272, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Levante, goals: 1, Away team: Barcelona, goals: 1     
+ID: 69308, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 3, Away team: Villarreal, goals: 1     
+ID: 69299, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 5, Away team: Real Madrid, goals: 0     
+ID: 69300, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 1, Away team: Real Zaragoza, goals: 0     
+ID: 69289, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 5, Away team: Sevilla, goals: 0     
+ID: 69263, Country: Spain, Competition: La Liga, Season: 2010/2011, Gender: male, Home team: Real Zaragoza, goals: 0, Away team: Barcelona, goals: 2     
+ID: 70219, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Real Zaragoza, goals: 1, Away team: Barcelona, goals: 4     
+ID: 69331, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 4, Away team: Real Zaragoza, goals: 0     
+ID: 69337, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Atlético Madrid, goals: 1, Away team: Barcelona, goals: 2     
+ID: 69322, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Racing Santander, goals: 0, Away team: Barcelona, goals: 2     
+ID: 69316, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 2, Away team: Real Sociedad, goals: 1     
+ID: 69332, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 4, Away team: Rayo Vallecano, goals: 0     
+ID: 69335, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Málaga, goals: 1, Away team: Barcelona, goals: 4     
+ID: 69330, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Athletic Bilbao, goals: 2, Away team: Barcelona, goals: 2     
+ID: 69297, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 5, Away team: Atlético Madrid, goals: 0     
+ID: 69325, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Mallorca, goals: 0, Away team: Barcelona, goals: 2     
+ID: 69324, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 1, Away team: Real Madrid, goals: 2     
+ID: 70225, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 5, Away team: Granada, goals: 3     
+ID: 69293, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 3, Away team: Racing Santander, goals: 0     
+ID: 70223, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Valencia, goals: 2, Away team: Barcelona, goals: 2     
+ID: 69333, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 5, Away team: Levante, goals: 0     
+ID: 69264, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Real Sociedad, goals: 2, Away team: Barcelona, goals: 2     
+ID: 69343, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 4, Away team: Getafe, goals: 0     
+ID: 69340, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 4, Away team: Málaga, goals: 1     
+ID: 69328, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 5, Away team: Valencia, goals: 1     
+ID: 69265, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Sporting Gijón, goals: 0, Away team: Barcelona, goals: 1     
+ID: 69319, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Real Betis, goals: 2, Away team: Barcelona, goals: 2     
+ID: 69334, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Real Madrid, goals: 1, Away team: Barcelona, goals: 3     
+ID: 69327, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 4, Away team: Real Betis, goals: 2     
+ID: 69315, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Getafe, goals: 1, Away team: Barcelona, goals: 0     
+ID: 69336, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Osasuna, goals: 3, Away team: Barcelona, goals: 2     
+ID: 69326, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Sevilla, goals: 0, Away team: Barcelona, goals: 2     
+ID: 69268, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 5, Away team: Villarreal, goals: 0     
+ID: 69320, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 4, Away team: Espanyol, goals: 0     
+ID: 69312, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Espanyol, goals: 1, Away team: Barcelona, goals: 1     
+ID: 69314, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 5, Away team: Mallorca, goals: 0     
+ID: 69318, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Granada, goals: 0, Away team: Barcelona, goals: 1     
+ID: 69329, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 0, Away team: Sevilla, goals: 0     
+ID: 69338, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Villarreal, goals: 0, Away team: Barcelona, goals: 0     
+ID: 70220, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 8, Away team: Osasuna, goals: 0     
+ID: 70224, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Rayo Vallecano, goals: 0, Away team: Barcelona, goals: 7     
+ID: 70221, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Levante, goals: 1, Away team: Barcelona, goals: 2     
+ID: 69323, Country: Spain, Competition: La Liga, Season: 2011/2012, Gender: male, Home team: Barcelona, goals: 2, Away team: Athletic Bilbao, goals: 0     
+ID: 266015, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Real Valladolid, goals: 1, Away team: Barcelona, goals: 3     
+ID: 70270, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 2, Away team: Granada, goals: 0     
+ID: 70281, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 4, Away team: Real Betis, goals: 2     
+ID: 70308, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 3, Away team: Celta Vigo, goals: 1     
+ID: 70282, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Valencia, goals: 1, Away team: Barcelona, goals: 1     
+ID: 266724, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Mallorca, goals: 2, Away team: Barcelona, goals: 4     
+ID: 70271, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 2, Away team: Sevilla, goals: 1     
+ID: 70294, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Granada, goals: 1, Away team: Barcelona, goals: 2     
+ID: 70272, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Real Madrid, goals: 2, Away team: Barcelona, goals: 1     
+ID: 70262, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Osasuna, goals: 1, Away team: Barcelona, goals: 2     
+ID: 70304, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Deportivo La Coruna, goals: 4, Away team: Barcelona, goals: 5     
+ID: 70280, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Levante, goals: 0, Away team: Barcelona, goals: 4     
+ID: 70296, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 4, Away team: Atlético Madrid, goals: 1     
+ID: 70297, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 6, Away team: Getafe, goals: 1     
+ID: 266433, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 4, Away team: Espanyol, goals: 0     
+ID: 70256, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Celta Vigo, goals: 2, Away team: Barcelona, goals: 2     
+ID: 70259, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 5, Away team: Real Sociedad, goals: 1     
+ID: 70260, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 5, Away team: Osasuna, goals: 1     
+ID: 70263, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 5, Away team: Athletic Bilbao, goals: 1     
+ID: 70276, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Rayo Vallecano, goals: 0, Away team: Barcelona, goals: 5     
+ID: 70287, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Real Sociedad, goals: 3, Away team: Barcelona, goals: 2     
+ID: 70284, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Atlético Madrid, goals: 1, Away team: Barcelona, goals: 2     
+ID: 70292, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Getafe, goals: 1, Away team: Barcelona, goals: 4     
+ID: 70275, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Sevilla, goals: 2, Away team: Barcelona, goals: 3     
+ID: 70286, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 1, Away team: Valencia, goals: 0     
+ID: 70309, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 3, Away team: Real Zaragoza, goals: 1     
+ID: 70300, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 2, Away team: Real Madrid, goals: 2     
+ID: 70295, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Real Betis, goals: 1, Away team: Barcelona, goals: 2     
+ID: 70307, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 3, Away team: Rayo Vallecano, goals: 1     
+ID: 70305, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Barcelona, goals: 2, Away team: Deportivo La Coruna, goals: 0     
+ID: 266827, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Málaga, goals: 1, Away team: Barcelona, goals: 3     
+ID: 267502, Country: Spain, Competition: La Liga, Season: 2012/2013, Gender: male, Home team: Athletic Bilbao, goals: 2, Away team: Barcelona, goals: 2     
+ID: 267368, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 3, Away team: Real Betis, goals: 1     
+ID: 70301, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 3, Away team: Sevilla, goals: 2     
+ID: 70298, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Valencia, goals: 2, Away team: Barcelona, goals: 3     
+ID: 70302, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Rayo Vallecano, goals: 0, Away team: Barcelona, goals: 4     
+ID: 70291, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 3, Away team: Málaga, goals: 0     
+ID: 267138, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Granada, goals: 1, Away team: Barcelona, goals: 0     
+ID: 267520, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 4, Away team: Real Sociedad, goals: 1     
+ID: 70289, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Villarreal, goals: 2, Away team: Barcelona, goals: 3     
+ID: 266066, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 4, Away team: Almería, goals: 1     
+ID: 267675, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Sevilla, goals: 1, Away team: Barcelona, goals: 4     
+ID: 70288, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Levante, goals: 1, Away team: Barcelona, goals: 1     
+ID: 266074, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 7, Away team: Osasuna, goals: 0     
+ID: 267567, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 2, Away team: Athletic Bilbao, goals: 1     
+ID: 266201, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Elche, goals: 0, Away team: Barcelona, goals: 0     
+ID: 266274, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 3, Away team: Celta Vigo, goals: 0     
+ID: 70293, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 2, Away team: Real Madrid, goals: 1     
+ID: 265918, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 6, Away team: Rayo Vallecano, goals: 0     
+ID: 70277, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 7, Away team: Levante, goals: 0     
+ID: 70283, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 1, Away team: Espanyol, goals: 0     
+ID: 70306, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Espanyol, goals: 0, Away team: Barcelona, goals: 1     
+ID: 266256, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 1, Away team: Atlético Madrid, goals: 1     
+ID: 266613, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 2, Away team: Valencia, goals: 3     
+ID: 266491, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Barcelona, goals: 2, Away team: Getafe, goals: 2     
+ID: 265830, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Atlético Madrid, goals: 0, Away team: Barcelona, goals: 0     
+ID: 265857, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Real Madrid, goals: 3, Away team: Barcelona, goals: 4     
+ID: 266883, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Real Betis, goals: 1, Away team: Barcelona, goals: 4     
+ID: 266420, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Almería, goals: 0, Away team: Barcelona, goals: 2     
+ID: 266603, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Real Valladolid, goals: 1, Away team: Barcelona, goals: 0     
+ID: 265837, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Real Sociedad, goals: 3, Away team: Barcelona, goals: 1     
+ID: 266462, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Osasuna, goals: 0, Away team: Barcelona, goals: 0     
+ID: 267192, Country: Spain, Competition: La Liga, Season: 2013/2014, Gender: male, Home team: Celta Vigo, goals: 0, Away team: Barcelona, goals: 3     
+ID: 266117, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 6, Away team: Granada, goals: 0     
+ID: 266916, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 6, Away team: Rayo Vallecano, goals: 1     
+ID: 267183, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 2, Away team: Real Madrid, goals: 1     
+ID: 267197, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 2, Away team: Deportivo La Coruna, goals: 2     
+ID: 266770, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Levante, goals: 0, Away team: Barcelona, goals: 5     
+ID: 265963, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 6, Away team: Getafe, goals: 0     
+ID: 70264, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Getafe, goals: 0, Away team: Barcelona, goals: 0     
+ID: 70273, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 2, Away team: Athletic Bilbao, goals: 0     
+ID: 267301, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 0, Away team: Celta Vigo, goals: 1     
+ID: 265896, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 3, Away team: Eibar, goals: 0     
+ID: 265866, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Córdoba, goals: 0, Away team: Barcelona, goals: 8     
+ID: 267400, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 4, Away team: Almería, goals: 0     
+ID: 266142, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Sevilla, goals: 2, Away team: Barcelona, goals: 2     
+ID: 266406, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Villarreal, goals: 0, Away team: Barcelona, goals: 1     
+ID: 267085, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Real Madrid, goals: 3, Away team: Barcelona, goals: 1     
+ID: 267561, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Rayo Vallecano, goals: 0, Away team: Barcelona, goals: 2     
+ID: 266148, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 0, Away team: Málaga, goals: 1     
+ID: 266045, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 2, Away team: Real Sociedad, goals: 0     
+ID: 70303, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 3, Away team: Atlético Madrid, goals: 1     
+ID: 266240, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Real Sociedad, goals: 1, Away team: Barcelona, goals: 0     
+ID: 267597, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 3, Away team: Villarreal, goals: 2     
+ID: 265835, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 5, Away team: Sevilla, goals: 1     
+ID: 266838, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Málaga, goals: 0, Away team: Barcelona, goals: 0     
+ID: 266794, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Elche, goals: 0, Away team: Barcelona, goals: 6     
+ID: 267343, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Granada, goals: 1, Away team: Barcelona, goals: 3     
+ID: 266631, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Atlético Madrid, goals: 0, Away team: Barcelona, goals: 1     
+ID: 266320, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 5, Away team: Espanyol, goals: 1     
+ID: 266230, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Deportivo La Coruna, goals: 0, Away team: Barcelona, goals: 4     
+ID: 266525, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 2, Away team: Valencia, goals: 0     
+ID: 266560, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Valencia, goals: 0, Away team: Barcelona, goals: 1     
+ID: 266846, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 5, Away team: Córdoba, goals: 0     
+ID: 266531, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Espanyol, goals: 0, Away team: Barcelona, goals: 2     
+ID: 266921, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 3, Away team: Elche, goals: 0     
+ID: 267499, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Almería, goals: 1, Away team: Barcelona, goals: 2     
+ID: 266741, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Barcelona, goals: 5, Away team: Levante, goals: 0     
+ID: 266871, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Athletic Bilbao, goals: 2, Away team: Barcelona, goals: 5     
+ID: 266967, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Eibar, goals: 0, Away team: Barcelona, goals: 2     
+ID: 266929, Country: Spain, Competition: La Liga, Season: 2014/2015, Gender: male, Home team: Celta Vigo, goals: 0, Away team: Barcelona, goals: 1     
+ID: 267533, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 1, Away team: Real Madrid, goals: 2     
+ID: 266310, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Deportivo La Coruna, goals: 0, Away team: Barcelona, goals: 8     
+ID: 266498, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 6, Away team: Getafe, goals: 0     
+ID: 267576, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 2, Away team: Atlético Madrid, goals: 1     
+ID: 266653, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Rayo Vallecano, goals: 1, Away team: Barcelona, goals: 5     
+ID: 265944, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 6, Away team: Sporting Gijón, goals: 0     
+ID: 265894, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Málaga, goals: 1, Away team: Barcelona, goals: 2     
+ID: 265958, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 5, Away team: Espanyol, goals: 0     
+ID: 267611, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 2, Away team: Las Palmas, goals: 1     
+ID: 267422, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 1, Away team: Málaga, goals: 0     
+ID: 266236, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Athletic Bilbao, goals: 0, Away team: Barcelona, goals: 1     
+ID: 267274, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Valencia, goals: 1, Away team: Barcelona, goals: 1     
+ID: 266961, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 2, Away team: Deportivo La Coruna, goals: 2     
+ID: 266885, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 4, Away team: Real Sociedad, goals: 0     
+ID: 266815, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Sporting Gijón, goals: 1, Away team: Barcelona, goals: 3     
+ID: 267506, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Granada, goals: 0, Away team: Barcelona, goals: 3     
+ID: 266664, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Real Sociedad, goals: 1, Away team: Barcelona, goals: 0     
+ID: 266106, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Villarreal, goals: 2, Away team: Barcelona, goals: 2     
+ID: 266670, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Espanyol, goals: 0, Away team: Barcelona, goals: 0     
+ID: 266149, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 6, Away team: Athletic Bilbao, goals: 0     
+ID: 266620, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 4, Away team: Granada, goals: 0     
+ID: 266056, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Eibar, goals: 0, Away team: Barcelona, goals: 4     
+ID: 267327, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 4, Away team: Real Betis, goals: 0     
+ID: 266166, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Atlético Madrid, goals: 1, Away team: Barcelona, goals: 2     
+ID: 266160, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Levante, goals: 0, Away team: Barcelona, goals: 2     
+ID: 266986, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Real Betis, goals: 0, Away team: Barcelona, goals: 2     
+ID: 266424, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Real Madrid, goals: 0, Away team: Barcelona, goals: 4     
+ID: 265839, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 2, Away team: Sevilla, goals: 1     
+ID: 266467, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Celta Vigo, goals: 4, Away team: Barcelona, goals: 1     
+ID: 267273, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Las Palmas, goals: 1, Away team: Barcelona, goals: 2     
+ID: 266490, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 4, Away team: Levante, goals: 1     
+ID: 266557, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 1, Away team: Valencia, goals: 2     
+ID: 266254, Country: Spain, Competition: La Liga, Season: 2015/2016, Gender: male, Home team: Barcelona, goals: 6, Away team: Celta Vigo, goals: 1     
+ID: 68314, Country: Spain, Competition: La Liga, Season: 2004/2005, Gender: male, Home team: Barcelona, goals: 4, Away team: Málaga, goals: 0     
+ID: 68313, Country: Spain, Competition: La Liga, Season: 2004/2005, Gender: male, Home team: Barcelona, goals: 3, Away team: Osasuna, goals: 0     
+ID: 68316, Country: Spain, Competition: La Liga, Season: 2004/2005, Gender: male, Home team: Barcelona, goals: 2, Away team: Albacete, goals: 0     
+ID: 68315, Country: Spain, Competition: La Liga, Season: 2004/2005, Gender: male, Home team: Barcelona, goals: 2, Away team: Levante, goals: 1     
+ID: 69153, Country: Spain, Competition: La Liga, Season: 2004/2005, Gender: male, Home team: Albacete, goals: 1, Away team: Barcelona, goals: 2     
+ID: 68352, Country: Spain, Competition: La Liga, Season: 2004/2005, Gender: male, Home team: Barcelona, goals: 2, Away team: Getafe, goals: 0     
+ID: 68353, Country: Spain, Competition: La Liga, Season: 2004/2005, Gender: male, Home team: Espanyol, goals: 0, Away team: Barcelona, goals: 1     
+ID: 68324, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Barcelona, goals: 2, Away team: Deportivo Alavés, goals: 0     
+ID: 68320, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Villarreal, goals: 0, Away team: Barcelona, goals: 2     
+ID: 68323, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Barcelona, goals: 2, Away team: Celta Vigo, goals: 0     
+ID: 69164, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Barcelona, goals: 2, Away team: Málaga, goals: 0     
+ID: 69172, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Barcelona, goals: 5, Away team: Real Betis, goals: 1     
+ID: 68339, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Getafe, goals: 1, Away team: Barcelona, goals: 3     
+ID: 68348, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Espanyol, goals: 1, Away team: Barcelona, goals: 2     
+ID: 68354, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Barcelona, goals: 4, Away team: Racing Santander, goals: 1     
+ID: 68351, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Real Zaragoza, goals: 0, Away team: Barcelona, goals: 2     
+ID: 68317, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Barcelona, goals: 2, Away team: Real Zaragoza, goals: 2     
+ID: 68350, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Barcelona, goals: 1, Away team: Atlético Madrid, goals: 3     
+ID: 68325, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Mallorca, goals: 0, Away team: Barcelona, goals: 3     
+ID: 68321, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Barcelona, goals: 2, Away team: Sevilla, goals: 1     
+ID: 68319, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Real Madrid, goals: 0, Away team: Barcelona, goals: 3     
+ID: 68342, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Barcelona, goals: 2, Away team: Athletic Bilbao, goals: 1     
+ID: 68322, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Cádiz, goals: 1, Away team: Barcelona, goals: 3     
+ID: 68318, Country: Spain, Competition: La Liga, Season: 2005/2006, Gender: male, Home team: Barcelona, goals: 3, Away team: Osasuna, goals: 0     
+ID: 69176, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Atlético Madrid, goals: 0, Away team: Barcelona, goals: 6     
+ID: 69179, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Real Zaragoza, goals: 1, Away team: Barcelona, goals: 0     
+ID: 68334, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Sevilla, goals: 2, Away team: Barcelona, goals: 1     
+ID: 68333, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 3, Away team: Athletic Bilbao, goals: 0     
+ID: 68336, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Gimnàstic Tarragona, goals: 1, Away team: Barcelona, goals: 5     
+ID: 68326, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Celta Vigo, goals: 2, Away team: Barcelona, goals: 3     
+ID: 68327, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 3, Away team: Osasuna, goals: 0     
+ID: 69162, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 1, Away team: Real Betis, goals: 1     
+ID: 69157, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 1, Away team: Getafe, goals: 0     
+ID: 68335, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 3, Away team: Real Madrid, goals: 3     
+ID: 68332, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Valencia, goals: 2, Away team: Barcelona, goals: 1     
+ID: 68330, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Real Madrid, goals: 2, Away team: Barcelona, goals: 0     
+ID: 68329, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 3, Away team: Sevilla, goals: 1     
+ID: 68341, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Recreativo Huelva, goals: 0, Away team: Barcelona, goals: 4     
+ID: 69165, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 2, Away team: Espanyol, goals: 2     
+ID: 69155, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Villarreal, goals: 2, Away team: Barcelona, goals: 0     
+ID: 69154, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 2, Away team: Racing Santander, goals: 0     
+ID: 69156, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 1, Away team: Levante, goals: 0     
+ID: 69159, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 1, Away team: Mallorca, goals: 0     
+ID: 69175, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 2, Away team: Deportivo La Coruna, goals: 1     
+ID: 69160, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Real Sociedad, goals: 0, Away team: Barcelona, goals: 2     
+ID: 68331, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 3, Away team: Real Zaragoza, goals: 1     
+ID: 68328, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Barcelona, goals: 1, Away team: Valencia, goals: 1     
+ID: 68340, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Racing Santander, goals: 0, Away team: Barcelona, goals: 3     
+ID: 69174, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Deportivo La Coruna, goals: 1, Away team: Barcelona, goals: 1     
+ID: 68347, Country: Spain, Competition: La Liga, Season: 2006/2007, Gender: male, Home team: Athletic Bilbao, goals: 1, Away team: Barcelona, goals: 3     
+ID: 16157, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 2, Away team: Valencia, goals: 2     
+ID: 16136, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 3, Away team: Leganés, goals: 1     
+ID: 16215, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Real Betis, goals: 1, Away team: Barcelona, goals: 4     
+ID: 16248, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 2, Away team: Atlético Madrid, goals: 0     
+ID: 16056, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 3, Away team: Real Betis, goals: 4     
+ID: 16289, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 1, Away team: Levante, goals: 0     
+ID: 16079, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 2, Away team: Villarreal, goals: 0     
+ID: 16149, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Girona, goals: 0, Away team: Barcelona, goals: 2     
+ID: 16275, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Deportivo Alavés, goals: 0, Away team: Barcelona, goals: 2     
+ID: 15973, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 8, Away team: Huesca, goals: 2     
+ID: 16317, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Eibar, goals: 2, Away team: Barcelona, goals: 2     
+ID: 16131, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 3, Away team: Eibar, goals: 0     
+ID: 16205, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 3, Away team: Rayo Vallecano, goals: 1     
+ID: 16095, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Levante, goals: 0, Away team: Barcelona, goals: 5     
+ID: 16306, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 2, Away team: Getafe, goals: 0     
+ID: 16010, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 1, Away team: Athletic Bilbao, goals: 1     
+ID: 15986, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 2, Away team: Girona, goals: 2     
+ID: 16240, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Villarreal, goals: 4, Away team: Barcelona, goals: 4     
+ID: 15978, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Real Sociedad, goals: 1, Away team: Barcelona, goals: 2     
+ID: 16173, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Athletic Bilbao, goals: 0, Away team: Barcelona, goals: 0     
+ID: 16023, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Valencia, goals: 1, Away team: Barcelona, goals: 1     
+ID: 16265, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 2, Away team: Real Sociedad, goals: 1     
+ID: 16196, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Real Madrid, goals: 0, Away team: Barcelona, goals: 1     
+ID: 15956, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Real Valladolid, goals: 0, Away team: Barcelona, goals: 1     
+ID: 15946, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 3, Away team: Deportivo Alavés, goals: 0     
+ID: 16231, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 2, Away team: Espanyol, goals: 0     
+ID: 15998, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Leganés, goals: 2, Away team: Barcelona, goals: 1     
+ID: 16029, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 4, Away team: Sevilla, goals: 2     
+ID: 16073, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Atlético Madrid, goals: 1, Away team: Barcelona, goals: 1     
+ID: 16086, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Espanyol, goals: 0, Away team: Barcelona, goals: 4     
+ID: 16120, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Getafe, goals: 1, Away team: Barcelona, goals: 2     
+ID: 16182, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 1, Away team: Real Valladolid, goals: 0     
+ID: 16190, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Sevilla, goals: 2, Away team: Barcelona, goals: 4     
+ID: 16109, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Home team: Barcelona, goals: 2, Away team: Celta Vigo, goals: 0     
+ID: 69144, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 3, Away team: Atlético Madrid, goals: 0     
+ID: 69151, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Levante, goals: 1, Away team: Barcelona, goals: 4     
+ID: 69169, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 3, Away team: Athletic Bilbao, goals: 1     
+ID: 68360, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 5, Away team: Levante, goals: 1     
+ID: 69186, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Real Murcia, goals: 3, Away team: Barcelona, goals: 5     
+ID: 69180, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Racing Santander, goals: 0, Away team: Barcelona, goals: 0     
+ID: 69143, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 4, Away team: Real Zaragoza, goals: 1     
+ID: 69181, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Athletic Bilbao, goals: 1, Away team: Barcelona, goals: 1     
+ID: 68365, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Atlético Madrid, goals: 4, Away team: Barcelona, goals: 2     
+ID: 69178, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Getafe, goals: 2, Away team: Barcelona, goals: 0     
+ID: 68364, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Villarreal, goals: 3, Away team: Barcelona, goals: 1     
+ID: 69170, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 2, Away team: Deportivo La Coruna, goals: 1     
+ID: 68359, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 0, Away team: Espanyol, goals: 0     
+ID: 68356, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Espanyol, goals: 1, Away team: Barcelona, goals: 1     
+ID: 69158, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 2, Away team: Almería, goals: 0     
+ID: 69187, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 1, Away team: Osasuna, goals: 0     
+ID: 68363, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Real Valladolid, goals: 1, Away team: Barcelona, goals: 1     
+ID: 69166, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 3, Away team: Real Betis, goals: 0     
+ID: 68366, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 2, Away team: Mallorca, goals: 3     
+ID: 69148, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 2, Away team: Sevilla, goals: 1     
+ID: 69184, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 3, Away team: Recreativo Huelva, goals: 0     
+ID: 69173, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 1, Away team: Racing Santander, goals: 0     
+ID: 69146, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Sevilla, goals: 1, Away team: Barcelona, goals: 1     
+ID: 69182, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Real Zaragoza, goals: 1, Away team: Barcelona, goals: 2     
+ID: 68358, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Recreativo Huelva, goals: 2, Away team: Barcelona, goals: 2     
+ID: 68361, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Real Madrid, goals: 4, Away team: Barcelona, goals: 1     
+ID: 69141, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Barcelona, goals: 6, Away team: Valencia, goals: 0     
+ID: 69145, Country: Spain, Competition: La Liga, Season: 2007/2008, Gender: male, Home team: Valencia, goals: 0, Away team: Barcelona, goals: 3     
+ID: 69225, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 2, Away team: Real Madrid, goals: 0     
+ID: 69212, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 6, Away team: Atlético Madrid, goals: 1     
+ID: 69235, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Málaga, goals: 1, Away team: Barcelona, goals: 4     
+ID: 69232, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 5, Away team: Almería, goals: 0     
+ID: 69216, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 2, Away team: Athletic Bilbao, goals: 0     
+ID: 69209, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Racing Santander, goals: 1, Away team: Barcelona, goals: 2     
+ID: 69231, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 3, Away team: Sporting Gijón, goals: 1     
+ID: 69217, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 3, Away team: Villarreal, goals: 3     
+ID: 69273, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Real Valladolid, goals: 0, Away team: Barcelona, goals: 1     
+ID: 69222, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 2, Away team: Recreativo Huelva, goals: 0     
+ID: 69223, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Getafe, goals: 0, Away team: Barcelona, goals: 1     
+ID: 69195, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Real Betis, goals: 2, Away team: Barcelona, goals: 2     
+ID: 69251, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Valencia, goals: 2, Away team: Barcelona, goals: 2     
+ID: 69185, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Atlético Madrid, goals: 4, Away team: Barcelona, goals: 3     
+ID: 69142, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 6, Away team: Málaga, goals: 0     
+ID: 69139, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 1, Away team: Espanyol, goals: 2     
+ID: 69189, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 4, Away team: Numancia, goals: 1     
+ID: 69171, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Sevilla, goals: 0, Away team: Barcelona, goals: 3     
+ID: 69249, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Real Madrid, goals: 2, Away team: Barcelona, goals: 6     
+ID: 69215, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 1, Away team: Racing Santander, goals: 1     
+ID: 69138, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Sporting Gijón, goals: 1, Away team: Barcelona, goals: 6     
+ID: 69147, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Numancia, goals: 1, Away team: Barcelona, goals: 0     
+ID: 69149, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 4, Away team: Valencia, goals: 0     
+ID: 69177, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Almería, goals: 0, Away team: Barcelona, goals: 2     
+ID: 69207, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 3, Away team: Real Betis, goals: 2     
+ID: 69228, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Villarreal, goals: 1, Away team: Barcelona, goals: 2     
+ID: 69183, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 5, Away team: Deportivo La Coruna, goals: 0     
+ID: 69279, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 6, Away team: Real Valladolid, goals: 0     
+ID: 69285, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Recreativo Huelva, goals: 0, Away team: Barcelona, goals: 2     
+ID: 69211, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Espanyol, goals: 1, Away team: Barcelona, goals: 2     
+ID: 69230, Country: Spain, Competition: La Liga, Season: 2008/2009, Gender: male, Home team: Osasuna, goals: 2, Away team: Barcelona, goals: 3     
+ID: 303421, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Deportivo Alavés, goals: 0, Away team: Barcelona, goals: 5     
+ID: 303493, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 1, Away team: Athletic Bilbao, goals: 0     
+ID: 303516, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Celta Vigo, goals: 2, Away team: Barcelona, goals: 2     
+ID: 303680, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Real Valladolid, goals: 0, Away team: Barcelona, goals: 1     
+ID: 303532, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 2, Away team: Leganés, goals: 0     
+ID: 303400, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Valencia, goals: 2, Away team: Barcelona, goals: 0     
+ID: 303634, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 1, Away team: Osasuna, goals: 2     
+ID: 303479, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 1, Away team: Real Sociedad, goals: 0     
+ID: 303615, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 1, Away team: Espanyol, goals: 0     
+ID: 303696, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 2, Away team: Atlético Madrid, goals: 2     
+ID: 303664, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Real Sociedad, goals: 2, Away team: Barcelona, goals: 2     
+ID: 303596, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 0, Away team: Real Madrid, goals: 0     
+ID: 303487, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 4, Away team: Celta Vigo, goals: 1     
+ID: 303600, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 5, Away team: Real Valladolid, goals: 1     
+ID: 303548, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Mallorca, goals: 0, Away team: Barcelona, goals: 4     
+ID: 303473, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 4, Away team: Sevilla, goals: 0     
+ID: 303610, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 1, Away team: Granada, goals: 0     
+ID: 303652, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Espanyol, goals: 2, Away team: Barcelona, goals: 2     
+ID: 303430, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 2, Away team: Villarreal, goals: 1     
+ID: 303674, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Sevilla, goals: 0, Away team: Barcelona, goals: 0     
+ID: 303470, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Real Madrid, goals: 2, Away team: Barcelona, goals: 0     
+ID: 303700, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Eibar, goals: 0, Away team: Barcelona, goals: 3     
+ID: 303707, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Real Betis, goals: 2, Away team: Barcelona, goals: 3     
+ID: 303666, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Granada, goals: 2, Away team: Barcelona, goals: 0     
+ID: 303725, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Villarreal, goals: 1, Away team: Barcelona, goals: 4     
+ID: 303504, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Levante, goals: 3, Away team: Barcelona, goals: 1     
+ID: 303715, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Leganés, goals: 1, Away team: Barcelona, goals: 2     
+ID: 303377, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 2, Away team: Getafe, goals: 1     
+ID: 303524, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Atlético Madrid, goals: 0, Away team: Barcelona, goals: 1     
+ID: 303451, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 5, Away team: Mallorca, goals: 2     
+ID: 303517, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 4, Away team: Deportivo Alavés, goals: 1     
+ID: 303682, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 2, Away team: Levante, goals: 1     
+ID: 303731, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Home team: Barcelona, goals: 5, Away team: Eibar, goals: 0     
+ID: 18245, Country: Europe, Competition: Champions League, Season: 2017/2018, Gender: male, Home team: Real Madrid, goals: 3, Away team: Liverpool, goals: 1     
+ID: 18244, Country: Europe, Competition: Champions League, Season: 2016/2017, Gender: male, Home team: Juventus, goals: 1, Away team: Real Madrid, goals: 4     
+ID: 18235, Country: Europe, Competition: Champions League, Season: 2009/2010, Gender: male, Home team: Bayern Munich, goals: 0, Away team: Inter Milan, goals: 2     
+ID: 18236, Country: Europe, Competition: Champions League, Season: 2010/2011, Gender: male, Home team: Barcelona, goals: 3, Away team: Manchester United, goals: 1     
+ID: 18237, Country: Europe, Competition: Champions League, Season: 2011/2012, Gender: male, Home team: Bayern Munich, goals: 1, Away team: Chelsea, goals: 1     
+ID: 18240, Country: Europe, Competition: Champions League, Season: 2012/2013, Gender: male, Home team: Borussia Dortmund, goals: 1, Away team: Bayern Munich, goals: 2     
+ID: 18241, Country: Europe, Competition: Champions League, Season: 2013/2014, Gender: male, Home team: Real Madrid, goals: 4, Away team: Atlético Madrid, goals: 1     
+ID: 18242, Country: Europe, Competition: Champions League, Season: 2014/2015, Gender: male, Home team: Juventus, goals: 1, Away team: Barcelona, goals: 3     
+ID: 18243, Country: Europe, Competition: Champions League, Season: 2015/2016, Gender: male, Home team: Real Madrid, goals: 1, Away team: Atlético Madrid, goals: 1     
+ID: 2302764, Country: Europe, Competition: Champions League, Season: 2004/2005, Gender: male, Home team: AC Milan, goals: 3, Away team: Liverpool, goals: 3     
+ID: 3750200, Country: Europe, Competition: Champions League, Season: 2006/2007, Gender: male, Home team: AC Milan, goals: 2, Away team: Liverpool, goals: 1     
+ID: 22912, Country: Europe, Competition: Champions League, Season: 2018/2019, Gender: male, Home team: Tottenham Hotspur, goals: 0, Away team: Liverpool, goals: 2     
+ID: 3750201, Country: Europe, Competition: Champions League, Season: 2008/2009, Gender: male, Home team: Barcelona, goals: 2, Away team: Manchester United, goals: 0     
+ID: 3752619, Country: Europe, Competition: Champions League, Season: 2003/2004, Gender: male, Home team: AS Monaco, goals: 0, Away team: FC Porto, goals: 3     
+ID: 3749257, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 2, Away team: Leicester City, goals: 1     
+ID: 3749246, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 1, Away team: Manchester United, goals: 1     
+ID: 3749153, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 4, Away team: Middlesbrough, goals: 1     
+ID: 3749642, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 2, Away team: Charlton Athletic, goals: 1     
+ID: 3749358, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Middlesbrough, goals: 0, Away team: Arsenal, goals: 4     
+ID: 3749346, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Leeds United, goals: 1, Away team: Arsenal, goals: 4     
+ID: 3749253, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Liverpool, goals: 1, Away team: Arsenal, goals: 2     
+ID: 3749079, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 2, Away team: Chelsea, goals: 1     
+ID: 3749465, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Blackburn Rovers, goals: 0, Away team: Arsenal, goals: 2     
+ID: 3749133, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Aston Villa, goals: 0, Away team: Arsenal, goals: 2     
+ID: 3749528, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 3, Away team: Newcastle United, goals: 2     
+ID: 3749233, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 2, Away team: Manchester City, goals: 1     
+ID: 3749462, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 0, Away team: Birmingham City, goals: 0     
+ID: 3749552, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Manchester United, goals: 0, Away team: Arsenal, goals: 0     
+ID: 3749296, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 1, Away team: Portsmouth, goals: 1     
+ID: 3749454, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Manchester City, goals: 1, Away team: Arsenal, goals: 2     
+ID: 3749276, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Chelsea, goals: 1, Away team: Arsenal, goals: 2     
+ID: 3749068, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Tottenham Hotspur, goals: 2, Away team: Arsenal, goals: 2     
+ID: 3749310, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Southampton, goals: 0, Away team: Arsenal, goals: 1     
+ID: 3749493, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 2, Away team: Everton, goals: 1     
+ID: 3749434, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Birmingham City, goals: 0, Away team: Arsenal, goals: 3     
+ID: 3749192, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 0, Away team: Fulham, goals: 0     
+ID: 3749196, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 2, Away team: Tottenham Hotspur, goals: 1     
+ID: 3749522, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 3, Away team: Wolverhampton Wanderers, goals: 0     
+ID: 3749448, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 4, Away team: Liverpool, goals: 2     
+ID: 3749403, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 2, Away team: Bolton Wanderers, goals: 1     
+ID: 3749360, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 1, Away team: Blackburn Rovers, goals: 0     
+ID: 3749453, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Arsenal, goals: 5, Away team: Leeds United, goals: 0     
+ID: 3749278, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Bolton Wanderers, goals: 1, Away team: Arsenal, goals: 1     
+ID: 3749526, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Charlton Athletic, goals: 1, Away team: Arsenal, goals: 1     
+ID: 3749052, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Wolverhampton Wanderers, goals: 1, Away team: Arsenal, goals: 3     
+ID: 3749603, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Fulham, goals: 0, Away team: Arsenal, goals: 1     
+ID: 3749431, Country: England, Competition: Premier League, Season: 2003/2004, Gender: male, Home team: Newcastle United, goals: 0, Away team: Arsenal, goals: 0     
+ID: 19743, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Birmingham City WFC, goals: 0, Away team: Chelsea FCW, goals: 0     
+ID: 19740, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: West Ham United LFC, goals: 0, Away team: Liverpool WFC, goals: 1     
+ID: 19716, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Reading WFC, goals: 4, Away team: Yeovil Town LFC, goals: 0     
+ID: 19800, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Arsenal WFC, goals: 4, Away team: Bristol City WFC, goals: 0     
+ID: 19739, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 0, Away team: Manchester City WFC, goals: 6     
+ID: 19734, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Everton LFC, goals: 3, Away team: Brighton & Hove Albion WFC, goals: 3     
+ID: 19748, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Chelsea FCW, goals: 1, Away team: Liverpool WFC, goals: 0     
+ID: 19822, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Yeovil Town LFC, goals: 0, Away team: Birmingham City WFC, goals: 2     
+ID: 19766, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Arsenal WFC, goals: 4, Away team: Brighton & Hove Albion WFC, goals: 1     
+ID: 19785, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Arsenal WFC, goals: 1, Away team: Chelsea FCW, goals: 2     
+ID: 19749, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Arsenal WFC, goals: 3, Away team: Birmingham City WFC, goals: 1     
+ID: 19751, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: West Ham United LFC, goals: 0, Away team: Chelsea FCW, goals: 2     
+ID: 19764, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Yeovil Town LFC, goals: 0, Away team: Manchester City WFC, goals: 4     
+ID: 19773, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Everton LFC, goals: 2, Away team: Liverpool WFC, goals: 1     
+ID: 19783, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Chelsea FCW, goals: 3, Away team: Everton LFC, goals: 0     
+ID: 19736, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Chelsea FCW, goals: 0, Away team: Arsenal WFC, goals: 5     
+ID: 19747, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Manchester City WFC, goals: 1, Away team: Reading WFC, goals: 1     
+ID: 19769, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 0, Away team: West Ham United LFC, goals: 1     
+ID: 19770, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Manchester City WFC, goals: 2, Away team: Arsenal WFC, goals: 0     
+ID: 19757, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Bristol City WFC, goals: 0, Away team: Brighton & Hove Albion WFC, goals: 0     
+ID: 19742, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Yeovil Town LFC, goals: 1, Away team: Bristol City WFC, goals: 2     
+ID: 19777, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Yeovil Town LFC, goals: 0, Away team: West Ham United LFC, goals: 5     
+ID: 19758, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Yeovil Town LFC, goals: 0, Away team: Reading WFC, goals: 5     
+ID: 19802, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Yeovil Town LFC, goals: 1, Away team: Brighton & Hove Albion WFC, goals: 1     
+ID: 19803, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: West Ham United LFC, goals: 0, Away team: Everton LFC, goals: 1     
+ID: 19746, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Everton LFC, goals: 1, Away team: West Ham United LFC, goals: 2     
+ID: 19811, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Arsenal WFC, goals: 2, Away team: Everton LFC, goals: 1     
+ID: 19805, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Chelsea FCW, goals: 1, Away team: West Ham United LFC, goals: 1     
+ID: 19745, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 2, Away team: Yeovil Town LFC, goals: 1     
+ID: 19752, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Liverpool WFC, goals: 0, Away team: Manchester City WFC, goals: 3     
+ID: 19772, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Chelsea FCW, goals: 1, Away team: Reading WFC, goals: 0     
+ID: 19775, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Reading WFC, goals: 2, Away team: Liverpool WFC, goals: 2     
+ID: 19760, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Chelsea FCW, goals: 5, Away team: Yeovil Town LFC, goals: 0     
+ID: 19787, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Birmingham City WFC, goals: 0, Away team: Bristol City WFC, goals: 1     
+ID: 19733, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Birmingham City WFC, goals: 2, Away team: Manchester City WFC, goals: 3     
+ID: 19765, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Liverpool WFC, goals: 0, Away team: Birmingham City WFC, goals: 2     
+ID: 19792, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Bristol City WFC, goals: 2, Away team: Yeovil Town LFC, goals: 1     
+ID: 19732, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Liverpool WFC, goals: 0, Away team: Reading WFC, goals: 1     
+ID: 19744, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Bristol City WFC, goals: 0, Away team: Arsenal WFC, goals: 4     
+ID: 19799, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Liverpool WFC, goals: 0, Away team: Chelsea FCW, goals: 4     
+ID: 19730, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Chelsea FCW, goals: 2, Away team: Brighton & Hove Albion WFC, goals: 0     
+ID: 19753, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Reading WFC, goals: 3, Away team: Bristol City WFC, goals: 0     
+ID: 19735, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Manchester City WFC, goals: 7, Away team: West Ham United LFC, goals: 1     
+ID: 19717, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Arsenal WFC, goals: 5, Away team: Liverpool WFC, goals: 0     
+ID: 19718, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Birmingham City WFC, goals: 1, Away team: Everton LFC, goals: 0     
+ID: 19720, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Bristol City WFC, goals: 0, Away team: Chelsea FCW, goals: 0     
+ID: 19719, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: West Ham United LFC, goals: 0, Away team: Reading WFC, goals: 0     
+ID: 19715, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 0, Away team: Bristol City WFC, goals: 1     
+ID: 19723, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Everton LFC, goals: 0, Away team: Manchester City WFC, goals: 4     
+ID: 19722, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Yeovil Town LFC, goals: 0, Away team: Arsenal WFC, goals: 7     
+ID: 19727, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Reading WFC, goals: 0, Away team: Birmingham City WFC, goals: 1     
+ID: 19731, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: West Ham United LFC, goals: 2, Away team: Yeovil Town LFC, goals: 1     
+ID: 19714, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Chelsea FCW, goals: 0, Away team: Manchester City WFC, goals: 0     
+ID: 19728, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Manchester City WFC, goals: 2, Away team: Bristol City WFC, goals: 2     
+ID: 19726, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Everton LFC, goals: 0, Away team: Chelsea FCW, goals: 0     
+ID: 19725, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 0, Away team: Liverpool WFC, goals: 1     
+ID: 19738, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Bristol City WFC, goals: 0, Away team: Birmingham City WFC, goals: 1     
+ID: 19759, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Everton LFC, goals: 0, Away team: Arsenal WFC, goals: 4     
+ID: 19750, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Yeovil Town LFC, goals: 1, Away team: Everton LFC, goals: 0     
+ID: 19761, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Bristol City WFC, goals: 2, Away team: Liverpool WFC, goals: 1     
+ID: 19762, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 1, Away team: Reading WFC, goals: 4     
+ID: 19763, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Birmingham City WFC, goals: 3, Away team: West Ham United LFC, goals: 0     
+ID: 19768, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: West Ham United LFC, goals: 2, Away team: Bristol City WFC, goals: 0     
+ID: 19767, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Reading WFC, goals: 2, Away team: Everton LFC, goals: 1     
+ID: 19776, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 0, Away team: Chelsea FCW, goals: 4     
+ID: 19794, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Chelsea FCW, goals: 6, Away team: Bristol City WFC, goals: 0     
+ID: 19820, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Reading WFC, goals: 2, Away team: Chelsea FCW, goals: 3     
+ID: 19737, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Liverpool WFC, goals: 2, Away team: Yeovil Town LFC, goals: 1     
+ID: 19790, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Manchester City WFC, goals: 3, Away team: Brighton & Hove Albion WFC, goals: 0     
+ID: 19793, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Liverpool WFC, goals: 1, Away team: West Ham United LFC, goals: 0     
+ID: 19789, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Chelsea FCW, goals: 2, Away team: Birmingham City WFC, goals: 3     
+ID: 19791, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Reading WFC, goals: 0, Away team: Arsenal WFC, goals: 3     
+ID: 19796, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 2, Away team: Birmingham City WFC, goals: 1     
+ID: 19795, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Reading WFC, goals: 1, Away team: West Ham United LFC, goals: 2     
+ID: 19797, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Arsenal WFC, goals: 3, Away team: Yeovil Town LFC, goals: 0     
+ID: 19780, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Liverpool WFC, goals: 0, Away team: Brighton & Hove Albion WFC, goals: 2     
+ID: 19781, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: West Ham United LFC, goals: 2, Away team: Arsenal WFC, goals: 4     
+ID: 19779, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Bristol City WFC, goals: 1, Away team: Manchester City WFC, goals: 1     
+ID: 19798, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Manchester City WFC, goals: 3, Away team: Everton LFC, goals: 1     
+ID: 19782, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Birmingham City WFC, goals: 2, Away team: Reading WFC, goals: 1     
+ID: 19784, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 0, Away team: Everton LFC, goals: 0     
+ID: 19786, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: West Ham United LFC, goals: 1, Away team: Manchester City WFC, goals: 3     
+ID: 19774, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Everton LFC, goals: 0, Away team: Bristol City WFC, goals: 2     
+ID: 19755, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Manchester City WFC, goals: 2, Away team: Chelsea FCW, goals: 2     
+ID: 19806, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Bristol City WFC, goals: 0, Away team: Reading WFC, goals: 1     
+ID: 19807, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Manchester City WFC, goals: 2, Away team: Liverpool WFC, goals: 1     
+ID: 19788, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Yeovil Town LFC, goals: 1, Away team: Liverpool WFC, goals: 2     
+ID: 19808, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Everton LFC, goals: 0, Away team: Yeovil Town LFC, goals: 1     
+ID: 19804, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Birmingham City WFC, goals: 0, Away team: Arsenal WFC, goals: 1     
+ID: 19813, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: West Ham United LFC, goals: 1, Away team: Birmingham City WFC, goals: 2     
+ID: 19816, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Birmingham City WFC, goals: 2, Away team: Liverpool WFC, goals: 0     
+ID: 19809, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Reading WFC, goals: 1, Away team: Brighton & Hove Albion WFC, goals: 0     
+ID: 19810, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Liverpool WFC, goals: 5, Away team: Bristol City WFC, goals: 2     
+ID: 19815, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 0, Away team: Arsenal WFC, goals: 4     
+ID: 19817, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Everton LFC, goals: 3, Away team: Reading WFC, goals: 2     
+ID: 19818, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Manchester City WFC, goals: 2, Away team: Yeovil Town LFC, goals: 1     
+ID: 19819, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: West Ham United LFC, goals: 0, Away team: Brighton & Hove Albion WFC, goals: 4     
+ID: 19821, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Arsenal WFC, goals: 1, Away team: Manchester City WFC, goals: 0     
+ID: 19801, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Reading WFC, goals: 3, Away team: Manchester City WFC, goals: 4     
+ID: 19741, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Arsenal WFC, goals: 6, Away team: Reading WFC, goals: 0     
+ID: 19756, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Everton LFC, goals: 1, Away team: Birmingham City WFC, goals: 3     
+ID: 19754, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Liverpool WFC, goals: 1, Away team: Arsenal WFC, goals: 5     
+ID: 19724, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Arsenal WFC, goals: 4, Away team: West Ham United LFC, goals: 3     
+ID: 19814, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Bristol City WFC, goals: 1, Away team: West Ham United LFC, goals: 2     
+ID: 19729, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Bristol City WFC, goals: 1, Away team: Everton LFC, goals: 0     
+ID: 19778, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Manchester City WFC, goals: 1, Away team: Birmingham City WFC, goals: 0     
+ID: 19771, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Home team: Birmingham City WFC, goals: 2, Away team: Yeovil Town LFC, goals: 1     
+ID: 2275054, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 1, Away team: Liverpool WFC, goals: 0     
+ID: 2275072, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Chelsea FCW, goals: 3, Away team: Reading WFC, goals: 1     
+ID: 2275085, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Tottenham Hotspur Women, goals: 1, Away team: Manchester City WFC, goals: 4     
+ID: 2275113, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: West Ham United LFC, goals: 2, Away team: Brighton & Hove Albion WFC, goals: 1     
+ID: 2275142, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester United, goals: 0, Away team: Bristol City WFC, goals: 1     
+ID: 2275099, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Liverpool WFC, goals: 0, Away team: Reading WFC, goals: 1     
+ID: 2275057, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Chelsea FCW, goals: 8, Away team: West Ham United LFC, goals: 0     
+ID: 2275075, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Reading WFC, goals: 3, Away team: Tottenham Hotspur Women, goals: 1     
+ID: 2275077, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Tottenham Hotspur Women, goals: 2, Away team: West Ham United LFC, goals: 1     
+ID: 2275036, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Everton LFC, goals: 3, Away team: Reading WFC, goals: 1     
+ID: 2275117, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Everton LFC, goals: 1, Away team: Arsenal WFC, goals: 3     
+ID: 2275092, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Birmingham City WFC, goals: 0, Away team: Manchester City WFC, goals: 2     
+ID: 2275040, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 1, Away team: West Ham United LFC, goals: 3     
+ID: 2275045, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Liverpool WFC, goals: 1, Away team: Chelsea FCW, goals: 1     
+ID: 2275093, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Birmingham City WFC, goals: 0, Away team: Chelsea FCW, goals: 6     
+ID: 2275153, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Reading WFC, goals: 1, Away team: Manchester United, goals: 1     
+ID: 2275097, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester City WFC, goals: 5, Away team: Brighton & Hove Albion WFC, goals: 0     
+ID: 2275122, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Reading WFC, goals: 3, Away team: Bristol City WFC, goals: 3     
+ID: 2275084, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: West Ham United LFC, goals: 1, Away team: Chelsea FCW, goals: 3     
+ID: 2275089, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Arsenal WFC, goals: 2, Away team: Birmingham City WFC, goals: 0     
+ID: 2275116, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester City WFC, goals: 1, Away team: Liverpool WFC, goals: 0     
+ID: 2275127, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Reading WFC, goals: 3, Away team: Everton LFC, goals: 2     
+ID: 2275104, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Arsenal WFC, goals: 11, Away team: Bristol City WFC, goals: 1     
+ID: 2275052, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 1, Away team: Chelsea FCW, goals: 1     
+ID: 2275037, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester City WFC, goals: 2, Away team: Arsenal WFC, goals: 1     
+ID: 2275027, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 1, Away team: Everton LFC, goals: 0     
+ID: 2275078, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester City WFC, goals: 3, Away team: Everton LFC, goals: 1     
+ID: 2275080, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Chelsea FCW, goals: 6, Away team: Bristol City WFC, goals: 1     
+ID: 2275098, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 0, Away team: Arsenal WFC, goals: 4     
+ID: 2275156, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester United, goals: 0, Away team: Arsenal WFC, goals: 1     
+ID: 2275120, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Birmingham City WFC, goals: 0, Away team: Everton LFC, goals: 1     
+ID: 2275028, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester City WFC, goals: 3, Away team: Birmingham City WFC, goals: 0     
+ID: 2275150, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: West Ham United LFC, goals: 3, Away team: Manchester United, goals: 2     
+ID: 2275139, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Tottenham Hotspur Women, goals: 0, Away team: Manchester United, goals: 3     
+ID: 2275070, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Liverpool WFC, goals: 1, Away team: Bristol City WFC, goals: 1     
+ID: 2275051, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Everton LFC, goals: 2, Away team: Brighton & Hove Albion WFC, goals: 0     
+ID: 2275063, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Chelsea FCW, goals: 2, Away team: Arsenal WFC, goals: 1     
+ID: 2275050, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Reading WFC, goals: 1, Away team: Birmingham City WFC, goals: 0     
+ID: 2275029, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Bristol City WFC, goals: 0, Away team: Liverpool WFC, goals: 1     
+ID: 2275090, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Arsenal WFC, goals: 1, Away team: Chelsea FCW, goals: 4     
+ID: 2275042, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester City WFC, goals: 5, Away team: West Ham United LFC, goals: 0     
+ID: 2275108, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Bristol City WFC, goals: 0, Away team: Chelsea FCW, goals: 4     
+ID: 2275082, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Tottenham Hotspur Women, goals: 0, Away team: Arsenal WFC, goals: 2     
+ID: 2275138, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester United, goals: 2, Away team: Liverpool WFC, goals: 0     
+ID: 2275049, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: West Ham United LFC, goals: 2, Away team: Reading WFC, goals: 3     
+ID: 2275132, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Chelsea FCW, goals: 1, Away team: Tottenham Hotspur Women, goals: 0     
+ID: 2275146, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester United, goals: 3, Away team: Everton LFC, goals: 1     
+ID: 2275061, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Bristol City WFC, goals: 0, Away team: Brighton & Hove Albion WFC, goals: 0     
+ID: 2275096, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Arsenal WFC, goals: 2, Away team: West Ham United LFC, goals: 1     
+ID: 2275033, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Bristol City WFC, goals: 1, Away team: Tottenham Hotspur Women, goals: 2     
+ID: 2275107, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Reading WFC, goals: 0, Away team: Manchester City WFC, goals: 2     
+ID: 2275130, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Chelsea FCW, goals: 2, Away team: Manchester City WFC, goals: 1     
+ID: 2275034, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Tottenham Hotspur Women, goals: 1, Away team: Liverpool WFC, goals: 0     
+ID: 2275026, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Bristol City WFC, goals: 0, Away team: Manchester City WFC, goals: 5     
+ID: 2275041, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Everton LFC, goals: 2, Away team: Bristol City WFC, goals: 0     
+ID: 2275094, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: West Ham United LFC, goals: 1, Away team: Birmingham City WFC, goals: 0     
+ID: 2275044, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Arsenal WFC, goals: 1, Away team: Manchester City WFC, goals: 0     
+ID: 2275157, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester United, goals: 2, Away team: Reading WFC, goals: 0     
+ID: 2275106, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester City WFC, goals: 1, Away team: Bristol City WFC, goals: 0     
+ID: 2275144, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Everton LFC, goals: 2, Away team: Manchester United, goals: 3     
+ID: 2275105, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester City WFC, goals: 3, Away team: Chelsea FCW, goals: 3     
+ID: 2275073, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Tottenham Hotspur Women, goals: 2, Away team: Everton LFC, goals: 2     
+ID: 2275038, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Reading WFC, goals: 2, Away team: West Ham United LFC, goals: 0     
+ID: 2275131, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Everton LFC, goals: 0, Away team: Manchester City WFC, goals: 1     
+ID: 2275062, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Liverpool WFC, goals: 2, Away team: Arsenal WFC, goals: 3     
+ID: 2275048, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: West Ham United LFC, goals: 0, Away team: Tottenham Hotspur Women, goals: 2     
+ID: 2275121, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Arsenal WFC, goals: 4, Away team: Brighton & Hove Albion WFC, goals: 0     
+ID: 2275065, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 3, Away team: Birmingham City WFC, goals: 0     
+ID: 2275079, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Arsenal WFC, goals: 1, Away team: Liverpool WFC, goals: 0     
+ID: 2275103, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Liverpool WFC, goals: 1, Away team: West Ham United LFC, goals: 1     
+ID: 2275140, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester United, goals: 4, Away team: Brighton & Hove Albion WFC, goals: 0     
+ID: 2275126, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Everton LFC, goals: 3, Away team: Tottenham Hotspur Women, goals: 1     
+ID: 2275102, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 2, Away team: Reading WFC, goals: 2     
+ID: 2275109, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Birmingham City WFC, goals: 1, Away team: Tottenham Hotspur Women, goals: 1     
+ID: 2275091, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Tottenham Hotspur Women, goals: 1, Away team: Brighton & Hove Albion WFC, goals: 0     
+ID: 2275030, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 0, Away team: Tottenham Hotspur Women, goals: 1     
+ID: 2275133, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: West Ham United LFC, goals: 4, Away team: Liverpool WFC, goals: 2     
+ID: 2275083, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Birmingham City WFC, goals: 0, Away team: Bristol City WFC, goals: 1     
+ID: 2275086, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Reading WFC, goals: 0, Away team: Arsenal WFC, goals: 3     
+ID: 2275137, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester United, goals: 3, Away team: Tottenham Hotspur Women, goals: 0     
+ID: 2275056, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Liverpool WFC, goals: 0, Away team: Everton LFC, goals: 1     
+ID: 2275074, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Chelsea FCW, goals: 2, Away team: Birmingham City WFC, goals: 0     
+ID: 2275136, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Manchester City WFC, goals: 1, Away team: Manchester United, goals: 0     
+ID: 2275151, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Brighton & Hove Albion WFC, goals: 1, Away team: Manchester United, goals: 1     
+ID: 2275154, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Chelsea FCW, goals: 1, Away team: Manchester United, goals: 0     
+ID: 2275088, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Bristol City WFC, goals: 0, Away team: Birmingham City WFC, goals: 2     
+ID: 2275110, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Home team: Birmingham City WFC, goals: 2, Away team: Liverpool WFC, goals: 0     
+ID: 3764234, Country: England, Competition: FA Women's Super League, Season: 2020/2021, Gender: female, Home team: Aston Villa, goals: 0, Away team: Manchester City WFC, goals: 2     
+ID: 7581, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Croatia, goals: 1, Away team: Denmark, goals: 1     
+ID: 7549, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Nigeria, goals: 2, Away team: Iceland, goals: 0     
+ID: 7555, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Poland, goals: 0, Away team: Colombia, goals: 3     
+ID: 7529, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Croatia, goals: 2, Away team: Nigeria, goals: 0     
+ID: 7548, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Brazil, goals: 2, Away team: Costa Rica, goals: 0     
+ID: 7534, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Germany, goals: 0, Away team: Mexico, goals: 1     
+ID: 7562, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Australia, goals: 0, Away team: Peru, goals: 2     
+ID: 7565, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Serbia, goals: 0, Away team: Brazil, goals: 2     
+ID: 7571, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Senegal, goals: 0, Away team: Colombia, goals: 1     
+ID: 7569, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Panama, goals: 1, Away team: Tunisia, goals: 2     
+ID: 7568, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Switzerland, goals: 2, Away team: Costa Rica, goals: 2     
+ID: 7530, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: France, goals: 2, Away team: Australia, goals: 1     
+ID: 7558, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Uruguay, goals: 3, Away team: Russia, goals: 0     
+ID: 7583, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Brazil, goals: 2, Away team: Mexico, goals: 0     
+ID: 8652, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Russia, goals: 2, Away team: Croatia, goals: 2     
+ID: 7547, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Denmark, goals: 1, Away team: Australia, goals: 1     
+ID: 7535, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Costa Rica, goals: 0, Away team: Serbia, goals: 1     
+ID: 7546, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: France, goals: 1, Away team: Peru, goals: 0     
+ID: 7584, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Belgium, goals: 3, Away team: Japan, goals: 2     
+ID: 7536, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Belgium, goals: 3, Away team: Panama, goals: 0     
+ID: 7545, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Argentina, goals: 0, Away team: Croatia, goals: 3     
+ID: 7580, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: France, goals: 4, Away team: Argentina, goals: 3     
+ID: 8650, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Brazil, goals: 1, Away team: Belgium, goals: 2     
+ID: 8649, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Uruguay, goals: 0, Away team: France, goals: 2     
+ID: 8658, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: France, goals: 4, Away team: Croatia, goals: 2     
+ID: 7561, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Iceland, goals: 1, Away team: Croatia, goals: 2     
+ID: 7539, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Poland, goals: 1, Away team: Senegal, goals: 2     
+ID: 7563, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Denmark, goals: 0, Away team: France, goals: 0     
+ID: 7578, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Egypt, goals: 0, Away team: Uruguay, goals: 1     
+ID: 7531, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Argentina, goals: 1, Away team: Iceland, goals: 1     
+ID: 7582, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Spain, goals: 1, Away team: Russia, goals: 1     
+ID: 7552, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Belgium, goals: 5, Away team: Tunisia, goals: 2     
+ID: 7532, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Peru, goals: 0, Away team: Denmark, goals: 1     
+ID: 7544, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Uruguay, goals: 1, Away team: Saudi Arabia, goals: 0     
+ID: 7553, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: South Korea, goals: 1, Away team: Mexico, goals: 2     
+ID: 7560, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Spain, goals: 2, Away team: Morocco, goals: 2     
+ID: 7533, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Brazil, goals: 1, Away team: Switzerland, goals: 1     
+ID: 7564, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Nigeria, goals: 1, Away team: Argentina, goals: 2     
+ID: 7556, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Japan, goals: 2, Away team: Senegal, goals: 2     
+ID: 7559, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Saudi Arabia, goals: 2, Away team: Egypt, goals: 1     
+ID: 7579, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Uruguay, goals: 2, Away team: Portugal, goals: 1     
+ID: 7572, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Japan, goals: 0, Away team: Poland, goals: 1     
+ID: 7577, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Morocco, goals: 0, Away team: Iran, goals: 1     
+ID: 7543, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Iran, goals: 0, Away team: Spain, goals: 1     
+ID: 7525, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Russia, goals: 5, Away team: Saudi Arabia, goals: 0     
+ID: 7538, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Sweden, goals: 1, Away team: South Korea, goals: 0     
+ID: 7576, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Portugal, goals: 3, Away team: Spain, goals: 3     
+ID: 7542, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Portugal, goals: 1, Away team: Morocco, goals: 0     
+ID: 7566, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Mexico, goals: 0, Away team: Sweden, goals: 3     
+ID: 7557, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Iran, goals: 1, Away team: Portugal, goals: 1     
+ID: 7554, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: England, goals: 6, Away team: Panama, goals: 1     
+ID: 7570, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: England, goals: 0, Away team: Belgium, goals: 1     
+ID: 7585, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Colombia, goals: 1, Away team: England, goals: 1     
+ID: 7586, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Sweden, goals: 1, Away team: Switzerland, goals: 0     
+ID: 8656, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Croatia, goals: 2, Away team: England, goals: 1     
+ID: 8651, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Sweden, goals: 0, Away team: England, goals: 2     
+ID: 7567, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: South Korea, goals: 2, Away team: Germany, goals: 0     
+ID: 7541, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Colombia, goals: 1, Away team: Japan, goals: 2     
+ID: 8655, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: France, goals: 1, Away team: Belgium, goals: 0     
+ID: 8657, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Belgium, goals: 2, Away team: England, goals: 0     
+ID: 7540, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Russia, goals: 3, Away team: Egypt, goals: 1     
+ID: 7551, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Germany, goals: 2, Away team: Sweden, goals: 1     
+ID: 7550, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Serbia, goals: 1, Away team: Switzerland, goals: 2     
+ID: 7537, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Home team: Tunisia, goals: 1, Away team: England, goals: 2     
+ID: 7494, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Houston Dash, goals: 1, Away team: Utah Royals, goals: 2     
+ID: 7486, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Portland Thorns, goals: 3, Away team: Houston Dash, goals: 1     
+ID: 7497, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Chicago Red Stars, goals: 1, Away team: North Carolina Courage, goals: 1     
+ID: 7430, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Washington Spirit, goals: 2, Away team: North Carolina Courage, goals: 4     
+ID: 7443, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Portland Thorns, goals: 2, Away team: Seattle Reign, goals: 3     
+ID: 7521, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Sky Blue FC, goals: 1, Away team: Utah Royals, goals: 2     
+ID: 7492, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Orlando Pride, goals: 2, Away team: Sky Blue FC, goals: 2     
+ID: 7524, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Houston Dash, goals: 3, Away team: Orlando Pride, goals: 1     
+ID: 7496, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Utah Royals, goals: 1, Away team: Washington Spirit, goals: 0     
+ID: 7523, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Seattle Reign, goals: 0, Away team: Orlando Pride, goals: 0     
+ID: 7444, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: North Carolina Courage, goals: 1, Away team: Chicago Red Stars, goals: 1     
+ID: 7520, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Washington Spirit, goals: 0, Away team: Chicago Red Stars, goals: 2     
+ID: 7493, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Seattle Reign, goals: 2, Away team: Washington Spirit, goals: 0     
+ID: 7500, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Orlando Pride, goals: 0, Away team: Portland Thorns, goals: 2     
+ID: 7519, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Portland Thorns, goals: 1, Away team: North Carolina Courage, goals: 4     
+ID: 7473, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Utah Royals, goals: 3, Away team: Sky Blue FC, goals: 1     
+ID: 7522, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Houston Dash, goals: 1, Away team: North Carolina Courage, goals: 1     
+ID: 7484, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Sky Blue FC, goals: 0, Away team: North Carolina Courage, goals: 4     
+ID: 7475, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: North Carolina Courage, goals: 4, Away team: Chicago Red Stars, goals: 1     
+ID: 7457, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Orlando Pride, goals: 3, Away team: North Carolina Courage, goals: 4     
+ID: 7445, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Utah Royals, goals: 2, Away team: Washington Spirit, goals: 0     
+ID: 7490, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Sky Blue FC, goals: 1, Away team: Portland Thorns, goals: 2     
+ID: 7482, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: North Carolina Courage, goals: 2, Away team: Washington Spirit, goals: 0     
+ID: 7479, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Orlando Pride, goals: 2, Away team: Washington Spirit, goals: 1     
+ID: 7478, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Seattle Reign, goals: 3, Away team: Houston Dash, goals: 1     
+ID: 7456, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Sky Blue FC, goals: 1, Away team: North Carolina Courage, goals: 2     
+ID: 7471, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Orlando Pride, goals: 0, Away team: North Carolina Courage, goals: 3     
+ID: 7477, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Portland Thorns, goals: 4, Away team: Utah Royals, goals: 0     
+ID: 7472, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Seattle Reign, goals: 1, Away team: Portland Thorns, goals: 0     
+ID: 7474, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Chicago Red Stars, goals: 2, Away team: Washington Spirit, goals: 0     
+ID: 7487, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Utah Royals, goals: 0, Away team: North Carolina Courage, goals: 0     
+ID: 7485, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Chicago Red Stars, goals: 1, Away team: Seattle Reign, goals: 0     
+ID: 7483, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Utah Royals, goals: 1, Away team: Orlando Pride, goals: 2     
+ID: 7476, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Sky Blue FC, goals: 1, Away team: Chicago Red Stars, goals: 3     
+ID: 7451, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: North Carolina Courage, goals: 1, Away team: Washington Spirit, goals: 0     
+ID: 7480, Country: United States of America, Competition: NWSL, Season: 2018, Gender: female, Home team: Seattle Reign, goals: 1, Away team: Utah Royals, goals: 0     
+ID: 69163, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Sweden Women's, goals: 1, Away team: Canada Women's, goals: 0     
+ID: 68346, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Cameroon Women's, goals: 2, Away team: New Zealand Women's, goals: 1     
+ID: 68355, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Germany Women's, goals: 3, Away team: Nigeria Women's, goals: 0     
+ID: 69301, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: England Women's, goals: 1, Away team: Sweden Women's, goals: 2     
+ID: 68311, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Jamaica Women's, goals: 1, Away team: Australia Women's, goals: 4     
+ID: 69205, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Italy Women's, goals: 0, Away team: Netherlands Women's, goals: 2     
+ID: 69137, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: France Women's, goals: 2, Away team: Brazil Women's, goals: 1     
+ID: 69208, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Germany Women's, goals: 1, Away team: Sweden Women's, goals: 2     
+ID: 22936, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: England Women's, goals: 2, Away team: Scotland Women's, goals: 1     
+ID: 22973, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Sweden Women's, goals: 5, Away team: Thailand Women's, goals: 1     
+ID: 68337, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Japan Women's, goals: 0, Away team: England Women's, goals: 2     
+ID: 22981, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Korea Republic Women's, goals: 1, Away team: Norway Women's, goals: 2     
+ID: 22974, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: United States Women's, goals: 3, Away team: Chile Women's, goals: 0     
+ID: 68357, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Norway Women's, goals: 1, Away team: Australia Women's, goals: 1     
+ID: 22924, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Norway Women's, goals: 3, Away team: Nigeria Women's, goals: 0     
+ID: 69321, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: United States Women's, goals: 2, Away team: Netherlands Women's, goals: 0     
+ID: 22983, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: China PR Women's, goals: 0, Away team: Spain Women's, goals: 0     
+ID: 68312, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Italy Women's, goals: 0, Away team: Brazil Women's, goals: 1     
+ID: 22921, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: France Women's, goals: 4, Away team: Korea Republic Women's, goals: 0     
+ID: 22926, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Germany Women's, goals: 1, Away team: China PR Women's, goals: 0     
+ID: 22930, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Spain Women's, goals: 3, Away team: South Africa Women's, goals: 1     
+ID: 22933, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Australia Women's, goals: 1, Away team: Italy Women's, goals: 2     
+ID: 22934, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Brazil Women's, goals: 3, Away team: Jamaica Women's, goals: 0     
+ID: 22939, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Canada Women's, goals: 1, Away team: Cameroon Women's, goals: 0     
+ID: 22940, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Argentina Women's, goals: 0, Away team: Japan Women's, goals: 0     
+ID: 69202, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: France Women's, goals: 1, Away team: United States Women's, goals: 2     
+ID: 22942, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: New Zealand Women's, goals: 0, Away team: Netherlands Women's, goals: 1     
+ID: 22943, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: United States Women's, goals: 13, Away team: Thailand Women's, goals: 0     
+ID: 22944, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Chile Women's, goals: 0, Away team: Sweden Women's, goals: 2     
+ID: 22945, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Nigeria Women's, goals: 2, Away team: Korea Republic Women's, goals: 0     
+ID: 22948, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: France Women's, goals: 2, Away team: Norway Women's, goals: 1     
+ID: 22949, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Germany Women's, goals: 1, Away team: Spain Women's, goals: 0     
+ID: 22956, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: South Africa Women's, goals: 0, Away team: China PR Women's, goals: 1     
+ID: 22955, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Australia Women's, goals: 3, Away team: Brazil Women's, goals: 2     
+ID: 22962, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: England Women's, goals: 1, Away team: Argentina Women's, goals: 0     
+ID: 22963, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Jamaica Women's, goals: 0, Away team: Italy Women's, goals: 5     
+ID: 22961, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Japan Women's, goals: 2, Away team: Scotland Women's, goals: 1     
+ID: 22964, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Netherlands Women's, goals: 3, Away team: Cameroon Women's, goals: 1     
+ID: 22966, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Canada Women's, goals: 2, Away team: New Zealand Women's, goals: 0     
+ID: 22980, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Nigeria Women's, goals: 0, Away team: France Women's, goals: 1     
+ID: 22984, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: South Africa Women's, goals: 0, Away team: Germany Women's, goals: 4     
+ID: 68338, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Scotland Women's, goals: 3, Away team: Argentina Women's, goals: 3     
+ID: 68343, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Thailand Women's, goals: 0, Away team: Chile Women's, goals: 2     
+ID: 68344, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Netherlands Women's, goals: 2, Away team: Canada Women's, goals: 1     
+ID: 68345, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Sweden Women's, goals: 0, Away team: United States Women's, goals: 2     
+ID: 68362, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: England Women's, goals: 3, Away team: Cameroon Women's, goals: 0     
+ID: 69161, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Spain Women's, goals: 1, Away team: United States Women's, goals: 2     
+ID: 69191, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Italy Women's, goals: 2, Away team: China PR Women's, goals: 0     
+ID: 69188, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Netherlands Women's, goals: 2, Away team: Japan Women's, goals: 1     
+ID: 69199, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Norway Women's, goals: 0, Away team: England Women's, goals: 3     
+ID: 69258, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: England Women's, goals: 1, Away team: United States Women's, goals: 2     
+ID: 69284, Country: International, Competition: Women's World Cup, Season: 2019, Gender: female, Home team: Netherlands Women's, goals: 1, Away team: Sweden Women's, goals: 0     

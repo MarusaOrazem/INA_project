@@ -1,0 +1,7 @@
+ID: 69147   
+Competition: La Liga    
+Country: Spain    
+Season: 2008/2009    
+Gender: male     
+Home team: Numancia (444), goals: 1   
+Away team: Barcelona (217), goals: 0    

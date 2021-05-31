@@ -1,0 +1,7 @@
+ID: 69264   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Real Sociedad (210), goals: 2   
+Away team: Barcelona (217), goals: 2    

@@ -1,0 +1,7 @@
+ID: 22939   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Canada Women's (1206), goals: 1   
+Away team: Cameroon Women's (1208), goals: 0    

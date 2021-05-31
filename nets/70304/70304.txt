@@ -1,0 +1,7 @@
+ID: 70304   
+Competition: La Liga    
+Country: Spain    
+Season: 2012/2013    
+Gender: male     
+Home team: Deportivo La Coruna (219), goals: 4   
+Away team: Barcelona (217), goals: 5    

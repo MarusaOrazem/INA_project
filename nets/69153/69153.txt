@@ -1,0 +1,7 @@
+ID: 69153   
+Competition: La Liga    
+Country: Spain    
+Season: 2004/2005    
+Gender: male     
+Home team: Albacete (608), goals: 1   
+Away team: Barcelona (217), goals: 2    

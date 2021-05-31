@@ -1,0 +1,7 @@
+ID: 69160   
+Competition: La Liga    
+Country: Spain    
+Season: 2006/2007    
+Gender: male     
+Home team: Real Sociedad (210), goals: 0   
+Away team: Barcelona (217), goals: 2    

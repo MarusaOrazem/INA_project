@@ -1,0 +1,7 @@
+ID: 70289   
+Competition: La Liga    
+Country: Spain    
+Season: 2013/2014    
+Gender: male     
+Home team: Villarreal (222), goals: 2   
+Away team: Barcelona (217), goals: 3    

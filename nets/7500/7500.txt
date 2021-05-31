@@ -1,0 +1,7 @@
+ID: 7500   
+Competition: NWSL    
+Country: United States of America    
+Season: 2018    
+Gender: female     
+Home team: Orlando Pride (764), goals: 0   
+Away team: Portland Thorns (765), goals: 2    

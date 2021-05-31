@@ -1,0 +1,7 @@
+ID: 7555   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Poland (789), goals: 0   
+Away team: Colombia (769), goals: 3    

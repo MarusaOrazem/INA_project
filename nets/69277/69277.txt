@@ -1,0 +1,7 @@
+ID: 69277   
+Competition: La Liga    
+Country: Spain    
+Season: 2009/2010    
+Gender: male     
+Home team: Osasuna (422), goals: 1   
+Away team: Barcelona (217), goals: 1    

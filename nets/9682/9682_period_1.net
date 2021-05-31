@@ -1,0 +1,64 @@
+*vertices 11
+1 "Rubén Salvador Pérez Del Mármol" 0.0 0.0 ellipse
+2 "Joseba Zaldúa Bengoetxea" 0.0 0.0 ellipse
+3 "Nabil El Zhar" 0.0 0.0 ellipse
+4 "Nordin Amrabat" 0.0 0.0 ellipse
+5 "Diego Rico Salguero" 0.0 0.0 ellipse
+6 "Gabriel Appelt Pires" 0.0 0.0 ellipse
+7 "Ezequiel Muñoz" 0.0 0.0 ellipse
+8 "Iván Cuéllar Sacristán" 0.0 0.0 ellipse
+9 "Alexander Szymanowski/Gerard Gumbau Garriga" 0.0 0.0 ellipse
+10 "Dimitrios Siovas/Raúl García Carnero" 0.0 0.0 ellipse
+11 "Javier Eraso Goñi/Claudio Beauvue" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 4
+1 5 3
+1 7 1
+1 9 1
+1 10 1
+2 6 1
+2 4 2
+2 3 2
+2 1 1
+2 11 1
+3 4 3
+3 1 2
+3 6 2
+3 2 1
+3 7 1
+4 5 3
+4 3 2
+4 7 1
+4 10 1
+4 11 1
+5 6 4
+5 4 2
+5 1 1
+5 2 1
+5 9 2
+5 11 1
+6 1 4
+6 3 1
+6 4 2
+6 5 1
+6 9 2
+6 11 2
+6 10 1
+7 1 3
+7 8 2
+7 2 1
+8 6 1
+8 7 1
+8 11 1
+9 5 2
+9 4 1
+9 1 4
+10 4 1
+10 9 1
+10 7 1
+10 6 3
+10 5 2
+11 4 3
+11 1 1
+11 2 1

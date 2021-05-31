@@ -1,0 +1,7 @@
+ID: 69323   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Athletic Bilbao (215), goals: 0    

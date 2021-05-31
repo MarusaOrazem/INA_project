@@ -1,0 +1,61 @@
+*vertices 11
+1 "Mehdi Lacen" 0.0 0.0 ellipse
+2 "Jorge Sammir Cruz Campos" 0.0 0.0 ellipse
+3 "Ángel Lafita Castillo" 0.0 0.0 ellipse
+4 "Pablo Sarabia García" 0.0 0.0 ellipse
+5 "Emiliano Daniel Velázquez Maldonado" 0.0 0.0 ellipse
+6 "Vicente Guaita Panadero" 0.0 0.0 ellipse
+7 "Abdoul Karim Yoda" 0.0 0.0 ellipse
+8 "Miguel Alfonso Herrero Javaloyas" 0.0 0.0 ellipse
+9 "Juan Valera Espín" 0.0 0.0 ellipse
+10 "Edinaldo Gomes Pereira" 0.0 0.0 ellipse
+11 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 5 2
+1 7 3
+1 11 1
+1 6 1
+1 8 1
+1 3 1
+1 4 2
+2 3 6
+2 7 1
+2 11 2
+2 8 1
+2 4 2
+2 1 1
+3 4 6
+3 1 1
+3 2 2
+3 8 1
+3 11 1
+4 3 4
+4 11 4
+4 2 1
+5 2 2
+5 11 1
+6 3 1
+6 10 1
+6 4 1
+7 4 2
+7 2 2
+7 8 2
+8 7 3
+8 1 1
+8 2 1
+8 6 1
+8 9 1
+8 3 1
+8 5 1
+8 4 1
+9 4 1
+9 8 1
+9 1 1
+10 3 1
+10 1 2
+11 3 7
+11 1 5
+11 5 1
+11 2 2
+11 4 2

@@ -1,0 +1,7 @@
+ID: 303725   
+Competition: La Liga    
+Country: Spain    
+Season: 2019/2020    
+Gender: male     
+Home team: Villarreal (222), goals: 1   
+Away team: Barcelona (217), goals: 4    

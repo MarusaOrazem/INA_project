@@ -1,0 +1,7 @@
+ID: 267499   
+Competition: La Liga    
+Country: Spain    
+Season: 2014/2015    
+Gender: male     
+Home team: Almería (403), goals: 1   
+Away team: Barcelona (217), goals: 2    

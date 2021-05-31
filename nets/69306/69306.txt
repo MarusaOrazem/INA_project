@@ -1,0 +1,7 @@
+ID: 69306   
+Competition: La Liga    
+Country: Spain    
+Season: 2010/2011    
+Gender: male     
+Home team: Almería (403), goals: 0   
+Away team: Barcelona (217), goals: 8    

@@ -1,0 +1,7 @@
+ID: 303451   
+Competition: La Liga    
+Country: Spain    
+Season: 2019/2020    
+Gender: male     
+Home team: Barcelona (217), goals: 5   
+Away team: Mallorca (1043), goals: 2    

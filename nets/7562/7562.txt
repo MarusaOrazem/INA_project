@@ -1,0 +1,7 @@
+ID: 7562   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Australia (792), goals: 0   
+Away team: Peru (784), goals: 2    

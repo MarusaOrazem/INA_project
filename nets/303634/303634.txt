@@ -1,0 +1,7 @@
+ID: 303634   
+Competition: La Liga    
+Country: Spain    
+Season: 2019/2020    
+Gender: male     
+Home team: Barcelona (217), goals: 1   
+Away team: Osasuna (422), goals: 2    

@@ -1,0 +1,7 @@
+ID: 7457   
+Competition: NWSL    
+Country: United States of America    
+Season: 2018    
+Gender: female     
+Home team: Orlando Pride (764), goals: 3   
+Away team: North Carolina Courage (766), goals: 4    

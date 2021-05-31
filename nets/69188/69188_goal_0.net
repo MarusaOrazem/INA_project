@@ -1,0 +1,60 @@
+*vertices 11
+1 "Danielle van de Donk" 0.0 0.0 ellipse
+2 "Shanice van de Sanden" 0.0 0.0 ellipse
+3 "Desiree van Lunteren" 0.0 0.0 ellipse
+4 "Vivianne Miedema" 0.0 0.0 ellipse
+5 "Merel van Dongen" 0.0 0.0 ellipse
+6 "Sherida Spitse" 0.0 0.0 ellipse
+7 "Dominique Johanna Anna Bloodworth" 0.0 0.0 ellipse
+8 "Stephanie van der Gragt" 0.0 0.0 ellipse
+9 "Jackie Groenen" 0.0 0.0 ellipse
+10 "Lieke Martens" 0.0 0.0 ellipse
+11 "Sari van Veenendaal" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 10 2
+1 5 2
+1 3 2
+1 8 1
+2 1 3
+2 8 1
+2 6 1
+2 9 1
+3 4 2
+3 6 3
+3 2 3
+3 5 1
+3 8 1
+3 7 2
+4 2 1
+4 6 1
+5 6 1
+5 7 5
+5 1 2
+5 10 3
+5 11 1
+5 8 1
+6 5 3
+6 9 1
+6 8 3
+6 1 2
+6 4 1
+6 10 2
+6 3 3
+7 8 5
+7 5 3
+7 10 1
+7 1 1
+8 9 3
+8 7 4
+8 6 2
+8 5 1
+8 3 2
+8 4 1
+9 3 2
+9 2 2
+10 4 2
+10 1 1
+10 6 2
+10 5 1
+11 8 1

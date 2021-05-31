@@ -1,0 +1,7 @@
+ID: 7546   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: France (771), goals: 1   
+Away team: Peru (784), goals: 0    

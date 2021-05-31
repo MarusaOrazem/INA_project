@@ -1,0 +1,90 @@
+*vertices 11
+1 "Sergio Sánchez Ortega" 0.0 0.0 ellipse
+2 "Roberto José Rosales Altuve" 0.0 0.0 ellipse
+3 "Weligton Róbson Pena de Oliveira" 0.0 0.0 ellipse
+4 "Miguel Torres Gómez" 0.0 0.0 ellipse
+5 "Nordin Amrabat" 0.0 0.0 ellipse
+6 "Ignacio Camacho Barnola" 0.0 0.0 ellipse
+7 "Sergi Darder Moll" 0.0 0.0 ellipse
+8 "Idriss Carlos Kameni" 0.0 0.0 ellipse
+9 "Sérgio Paulo Barbosa Valente/Luis Alberto Romero Alconchel" 0.0 0.0 ellipse
+10 "Samuel Castillejo Azuaga/Juan Miguel Jiménez López" 0.0 0.0 ellipse
+11 "Juan Pablo Añor Acosta/José Luis García del Pozo" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 5
+1 4 1
+1 8 2
+1 7 1
+1 10 1
+1 11 1
+2 5 7
+2 7 4
+2 6 2
+2 1 2
+2 9 1
+2 10 1
+3 4 3
+3 1 3
+3 8 4
+3 5 2
+3 2 1
+3 6 1
+3 9 1
+4 3 2
+4 2 2
+4 6 1
+4 5 7
+4 8 1
+4 1 1
+4 9 1
+4 11 2
+5 2 4
+5 4 1
+5 9 1
+5 10 1
+5 11 2
+6 7 4
+6 2 2
+6 4 1
+6 1 1
+6 5 2
+6 9 1
+6 11 1
+7 2 2
+7 5 1
+7 6 1
+7 1 1
+7 3 1
+7 4 1
+7 9 5
+7 10 2
+7 11 3
+8 5 3
+8 6 3
+8 4 2
+8 3 4
+8 1 1
+8 2 2
+8 10 1
+8 11 1
+9 1 1
+9 7 1
+9 6 1
+9 5 2
+9 3 1
+9 2 1
+9 4 1
+9 10 2
+9 11 1
+10 1 1
+10 5 2
+10 2 2
+10 9 2
+11 5 3
+11 4 1
+11 6 1
+11 2 2
+11 1 2
+11 9 3
+11 10 1

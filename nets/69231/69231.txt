@@ -1,0 +1,7 @@
+ID: 69231   
+Competition: La Liga    
+Country: Spain    
+Season: 2008/2009    
+Gender: male     
+Home team: Barcelona (217), goals: 3   
+Away team: Sporting Gijón (1041), goals: 1    

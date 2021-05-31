@@ -1,0 +1,7 @@
+ID: 3749528   
+Competition: Premier League    
+Country: England    
+Season: 2003/2004    
+Gender: male     
+Home team: Arsenal (1), goals: 3   
+Away team: Newcastle United (37), goals: 2    

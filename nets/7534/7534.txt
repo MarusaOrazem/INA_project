@@ -1,0 +1,7 @@
+ID: 7534   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Germany (770), goals: 0   
+Away team: Mexico (794), goals: 1    

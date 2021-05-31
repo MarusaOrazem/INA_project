@@ -1,0 +1,90 @@
+*vertices 11
+1 "Manuel Pablo García Díaz" 0.0 0.0 ellipse
+2 "Rubén Salvador Pérez Del Mármol" 0.0 0.0 ellipse
+3 "Alberto Lopo García" 0.0 0.0 ellipse
+4 "Daniel Aranzubia Aguado" 0.0 0.0 ellipse
+5 "Laureano Sanabria Ruiz" 0.0 0.0 ellipse
+6 "Diego Daniel Colotto" 0.0 0.0 ellipse
+7 "Adrián López Álvarez" 0.0 0.0 ellipse
+8 "Antonio Tomás González" 0.0 0.0 ellipse
+9 "Saúl Fernández García/Juan Carlos Valerón Santana" 0.0 0.0 ellipse
+10 "Yves Hadley Desmarets/Knut Olav Rindarøy" 0.0 0.0 ellipse
+11 "Juan Domínguez Lamas/Pablo Álvarez Nuñez" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 3 4
+1 7 3
+1 8 3
+1 6 2
+1 9 3
+1 10 6
+1 11 1
+2 1 5
+2 5 3
+2 7 1
+2 8 3
+2 3 2
+2 9 2
+2 11 2
+2 10 2
+3 4 3
+3 1 5
+3 6 1
+3 8 1
+3 2 1
+3 10 1
+3 11 1
+4 5 3
+4 7 3
+4 9 2
+5 6 9
+5 7 5
+5 2 5
+5 4 2
+5 8 1
+5 9 6
+5 11 4
+6 5 2
+6 7 4
+6 2 3
+6 1 1
+6 8 2
+6 4 1
+6 11 4
+6 9 1
+7 5 2
+7 9 3
+7 10 4
+7 11 2
+8 2 5
+8 5 7
+8 3 2
+8 7 2
+8 6 1
+8 1 1
+8 9 2
+8 10 2
+9 5 2
+9 6 2
+9 2 2
+9 8 2
+9 10 1
+9 11 1
+9 7 4
+9 1 1
+10 7 2
+10 1 1
+10 8 1
+10 2 1
+10 6 1
+10 11 1
+11 3 2
+11 2 4
+11 7 1
+11 1 1
+11 6 2
+11 5 2
+11 8 1
+11 4 1
+11 9 1
+11 10 1

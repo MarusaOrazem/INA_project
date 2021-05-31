@@ -1,0 +1,68 @@
+*vertices 11
+1 "Antonio Rodríguez Martínez" 0.0 0.0 ellipse
+2 "José Raúl Baena Urdiales" 0.0 0.0 ellipse
+3 "Jorge García Morcillo" 0.0 0.0 ellipse
+4 "Gaël Kakuta" 0.0 0.0 ellipse
+5 "Roberto Trashorras Gayoso" 0.0 0.0 ellipse
+6 "Leonardo Carrilho Baptistão" 0.0 0.0 ellipse
+7 "Roberto Román Triguero" 0.0 0.0 ellipse
+8 "Luis Carlos Pereira Carneiro" 0.0 0.0 ellipse
+9 "Emiliano Adrián Insúa Zapata" 0.0 0.0 ellipse
+10 "Abdoulaye Ba" 0.0 0.0 ellipse
+11 "Alberto Bueno Calvo" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 2
+1 7 1
+1 9 2
+1 3 1
+1 10 1
+1 11 1
+2 3 1
+2 4 2
+2 10 1
+2 5 1
+2 9 1
+2 11 1
+2 1 1
+3 2 1
+3 9 2
+3 1 1
+4 6 2
+4 9 1
+4 11 2
+4 7 1
+4 5 1
+4 1 1
+4 2 1
+5 4 3
+5 8 1
+5 1 1
+5 9 3
+5 2 4
+5 7 3
+5 11 2
+5 10 3
+6 11 1
+6 8 1
+6 5 1
+7 5 3
+7 8 2
+7 11 1
+7 6 1
+8 5 2
+8 6 2
+8 9 1
+8 11 2
+9 4 2
+9 5 3
+9 3 2
+9 11 4
+9 8 1
+9 2 1
+10 1 3
+10 4 1
+11 5 3
+11 9 1
+11 8 4
+11 4 2

@@ -1,0 +1,7 @@
+ID: 7529   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Croatia (785), goals: 2   
+Away team: Nigeria (775), goals: 0    

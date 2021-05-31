@@ -1,0 +1,7 @@
+ID: 70219   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Real Zaragoza (395), goals: 1   
+Away team: Barcelona (217), goals: 4    

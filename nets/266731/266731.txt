@@ -1,0 +1,7 @@
+ID: 266731   
+Competition: La Liga    
+Country: Spain    
+Season: 2016/2017    
+Gender: male     
+Home team: Eibar (322), goals: 0   
+Away team: Barcelona (217), goals: 4    

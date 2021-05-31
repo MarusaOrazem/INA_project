@@ -1,0 +1,7 @@
+ID: 19808   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: Everton LFC (967), goals: 0   
+Away team: Yeovil Town LFC (970), goals: 1    

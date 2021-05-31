@@ -1,0 +1,7 @@
+ID: 7564   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Nigeria (775), goals: 1   
+Away team: Argentina (779), goals: 2    

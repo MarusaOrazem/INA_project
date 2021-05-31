@@ -1,0 +1,7 @@
+ID: 7535   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Costa Rica (795), goals: 0   
+Away team: Serbia (786), goals: 1    

@@ -1,0 +1,33 @@
+*vertices 10
+1 "Amanda Frisbie" 0.0 0.0 ellipse
+2 "Thaysa de Moraes Rosa Moreno" 0.0 0.0 ellipse
+3 "Imani Dorsey" 0.0 0.0 ellipse
+4 "Dominique Richardson" 0.0 0.0 ellipse
+5 "Mandy Freeman" 0.0 0.0 ellipse
+6 "Madison Tiernan" 0.0 0.0 ellipse
+7 "Erica Skroski" 0.0 0.0 ellipse
+8 "Savannah McCaskill" 0.0 0.0 ellipse
+9 "Shea Groom" 0.0 0.0 ellipse
+10 "Sarah Killion" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+1 9 1
+2 3 1
+2 4 1
+2 5 1
+2 8 1
+4 5 1
+4 1 1
+5 6 1
+5 2 1
+5 7 1
+6 7 1
+6 10 1
+7 5 1
+7 10 1
+8 3 1
+8 1 1
+9 2 1
+9 6 1
+10 7 1

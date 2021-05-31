@@ -1,0 +1,7 @@
+ID: 69183   
+Competition: La Liga    
+Country: Spain    
+Season: 2008/2009    
+Gender: male     
+Home team: Barcelona (217), goals: 5   
+Away team: Deportivo La Coruna (219), goals: 0    

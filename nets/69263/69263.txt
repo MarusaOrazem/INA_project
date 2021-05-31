@@ -1,0 +1,7 @@
+ID: 69263   
+Competition: La Liga    
+Country: Spain    
+Season: 2010/2011    
+Gender: male     
+Home team: Real Zaragoza (395), goals: 0   
+Away team: Barcelona (217), goals: 2    

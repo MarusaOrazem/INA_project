@@ -1,0 +1,7 @@
+ID: 7568   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Switzerland (773), goals: 2   
+Away team: Costa Rica (795), goals: 2    

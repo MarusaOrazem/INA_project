@@ -1,0 +1,7 @@
+ID: 69230   
+Competition: La Liga    
+Country: Spain    
+Season: 2008/2009    
+Gender: male     
+Home team: Osasuna (422), goals: 2   
+Away team: Barcelona (217), goals: 3    

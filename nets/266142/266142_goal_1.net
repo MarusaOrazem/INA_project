@@ -1,0 +1,85 @@
+*vertices 11
+1 "Éver Maximiliano David Banega" 0.0 0.0 ellipse
+2 "Nicolás Martín Pareja" 0.0 0.0 ellipse
+3 "Jorge Andújar Moreno" 0.0 0.0 ellipse
+4 "Aleix Vidal Parreu" 0.0 0.0 ellipse
+5 "Benoît Trémoulinas" 0.0 0.0 ellipse
+6 "Sergio Rico González" 0.0 0.0 ellipse
+7 "Daniel Filipe Martins Carriço" 0.0 0.0 ellipse
+8 "Grzegorz Krychowiak" 0.0 0.0 ellipse
+9 "Vicente Iborra De La Fuente/Stéphane M"Bia Etoundi" 0.0 0.0 ellipse
+10 "Víctor Machín Pérez/José Antonio Reyes Calderón" 0.0 0.0 ellipse
+11 "Carlos Arturo Bacca Ahumada/Kevin Gameiro" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 5 12
+1 3 5
+1 4 3
+1 8 1
+1 10 3
+1 11 2
+2 3 2
+2 1 3
+2 4 2
+2 7 5
+2 8 2
+2 5 1
+2 9 3
+2 10 1
+3 4 9
+3 1 2
+3 2 1
+3 6 1
+3 9 1
+3 10 1
+4 2 1
+4 7 1
+4 1 3
+4 3 4
+4 9 3
+4 10 1
+4 11 2
+5 1 5
+5 7 4
+5 6 2
+5 4 1
+5 9 2
+5 10 2
+5 11 1
+6 5 2
+6 7 1
+6 2 3
+6 9 1
+6 10 1
+7 6 3
+7 5 2
+7 1 5
+7 3 1
+7 8 2
+7 2 2
+7 9 1
+7 10 1
+8 2 4
+8 1 2
+8 5 3
+8 10 1
+9 4 5
+9 1 1
+9 5 1
+9 8 1
+9 3 1
+9 10 1
+9 11 2
+9 7 1
+10 1 2
+10 3 1
+10 9 3
+10 11 1
+10 5 2
+10 7 1
+10 4 1
+10 2 1
+11 1 4
+11 5 1
+11 9 1
+11 10 1

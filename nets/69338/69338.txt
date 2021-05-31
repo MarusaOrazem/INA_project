@@ -1,0 +1,7 @@
+ID: 69338   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Villarreal (222), goals: 0   
+Away team: Barcelona (217), goals: 0    

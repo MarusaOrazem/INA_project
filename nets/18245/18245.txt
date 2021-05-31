@@ -1,0 +1,7 @@
+ID: 18245   
+Competition: Champions League    
+Country: Europe    
+Season: 2017/2018    
+Gender: male     
+Home team: Real Madrid (220), goals: 3   
+Away team: Liverpool (24), goals: 1    

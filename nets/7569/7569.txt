@@ -1,0 +1,7 @@
+ID: 7569   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Panama (798), goals: 1   
+Away team: Tunisia (777), goals: 2    

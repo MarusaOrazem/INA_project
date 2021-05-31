@@ -1,0 +1,7 @@
+ID: 9673   
+Competition: La Liga    
+Country: Spain    
+Season: 2017/2018    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Sevilla (213), goals: 1    

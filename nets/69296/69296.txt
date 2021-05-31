@@ -1,0 +1,7 @@
+ID: 69296   
+Competition: La Liga    
+Country: Spain    
+Season: 2010/2011    
+Gender: male     
+Home team: Hércules (1218), goals: 0   
+Away team: Barcelona (217), goals: 3    

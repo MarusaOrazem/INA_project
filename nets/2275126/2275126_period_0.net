@@ -1,0 +1,76 @@
+*vertices 11
+1 "Danielle Turner" 0.0 0.0 ellipse
+2 "Inessa Kaagman" 0.0 0.0 ellipse
+3 "Maéva Clemaron" 0.0 0.0 ellipse
+4 "Lucy Graham" 0.0 0.0 ellipse
+5 "Molly Pike" 0.0 0.0 ellipse
+6 "Chloe Kelly" 0.0 0.0 ellipse
+7 "Gabrielle George" 0.0 0.0 ellipse
+8 "Simone Magill" 0.0 0.0 ellipse
+9 "Kika van Es" 0.0 0.0 ellipse
+10 "Tinja-Riikka Korpela" 0.0 0.0 ellipse
+11 "Esme Beth Morgan" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 3 6
+1 5 4
+1 7 3
+1 8 4
+1 10 1
+1 6 2
+1 4 2
+1 9 1
+2 1 3
+2 4 2
+2 3 2
+2 8 1
+2 11 2
+3 2 5
+3 1 7
+3 4 3
+3 6 1
+3 7 2
+3 8 3
+3 11 1
+3 5 2
+4 5 2
+4 9 1
+4 7 1
+4 2 1
+4 11 1
+4 1 3
+4 3 1
+5 3 4
+5 8 2
+5 1 2
+5 6 1
+6 7 1
+6 3 2
+6 4 2
+6 5 1
+6 11 1
+7 10 6
+7 1 4
+7 9 3
+7 11 2
+7 8 1
+7 4 2
+8 2 3
+8 1 2
+8 4 3
+8 6 1
+9 7 1
+9 3 4
+9 10 2
+9 11 3
+9 4 2
+10 9 2
+10 1 1
+10 7 4
+10 2 1
+11 6 2
+11 10 2
+11 8 4
+11 3 1
+11 7 1
+11 2 2

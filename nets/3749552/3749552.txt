@@ -1,0 +1,7 @@
+ID: 3749552   
+Competition: Premier League    
+Country: England    
+Season: 2003/2004    
+Gender: male     
+Home team: Manchester United (39), goals: 0   
+Away team: Arsenal (1), goals: 0    

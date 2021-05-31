@@ -1,0 +1,104 @@
+*vertices 11
+1 "Miraildes Maciel Mota" 0.0 0.0 ellipse
+2 "Thaysa de Moraes Rosa Moreno" 0.0 0.0 ellipse
+3 "Tamires Cassia Dias Gomes" 0.0 0.0 ellipse
+4 "Andressa Alves da Silva" 0.0 0.0 ellipse
+5 "Leticia Santos de Oliveira" 0.0 0.0 ellipse
+6 "Débora Cristiane de Oliveira" 0.0 0.0 ellipse
+7 "Monica Hickmann Alves" 0.0 0.0 ellipse
+8 "Bárbara Micheline do Monte Barbosa" 0.0 0.0 ellipse
+9 "Beatriz Zaneratto João/Geyse da Silva Ferreira" 0.0 0.0 ellipse
+10 "Cristiane Rozeira de Souza Silva/Ludmila da Silva" 0.0 0.0 ellipse
+11 "Kathellen Sousa Feitoza/Daiane Limeira Santos Silva" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 3 4
+1 6 2
+1 5 6
+1 4 5
+1 8 1
+1 7 2
+1 9 1
+1 10 1
+1 11 1
+2 6 6
+2 3 8
+2 4 4
+2 1 6
+2 7 1
+2 5 1
+2 9 1
+2 10 2
+2 11 2
+3 4 7
+3 7 15
+3 2 5
+3 1 4
+3 6 5
+3 8 2
+3 9 1
+3 10 3
+3 11 3
+4 5 5
+4 1 7
+4 6 2
+4 7 3
+4 2 3
+4 9 1
+4 10 1
+4 11 1
+5 2 2
+5 7 5
+5 4 6
+5 1 5
+5 8 1
+5 6 1
+5 9 1
+5 10 2
+5 11 5
+6 5 1
+6 2 4
+6 1 3
+6 7 1
+6 3 4
+6 4 1
+6 9 2
+6 10 1
+7 5 3
+7 3 14
+7 6 5
+7 2 9
+7 8 4
+7 1 2
+7 9 3
+7 11 2
+8 7 16
+8 1 1
+8 4 1
+8 3 3
+8 5 5
+8 2 1
+8 11 5
+9 5 1
+9 3 1
+9 4 3
+9 1 2
+9 6 2
+9 10 1
+9 2 1
+10 4 1
+10 2 2
+10 1 1
+10 6 1
+10 9 1
+10 8 1
+11 6 1
+11 3 5
+11 7 1
+11 8 2
+11 5 6
+11 1 1
+11 4 1
+11 9 1
+11 10 2
+11 2 2

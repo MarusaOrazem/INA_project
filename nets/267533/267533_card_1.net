@@ -1,0 +1,46 @@
+*vertices 11
+1 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+2 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+3 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+4 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+5 "Jordi Alba Ramos" 0.0 0.0 ellipse
+6 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+7 "Neymar da Silva Santos Junior" 0.0 0.0 ellipse
+8 "Javier Alejandro Mascherano" 0.0 0.0 ellipse
+9 "Arda Turan" 0.0 0.0 ellipse
+10 "Daniel Alves da Silva" 0.0 0.0 ellipse
+11 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 8 1
+1 3 1
+2 4 2
+3 4 2
+3 6 1
+3 9 1
+3 5 1
+4 5 3
+4 1 1
+4 7 2
+4 6 1
+4 3 1
+4 11 1
+5 4 2
+5 7 2
+5 8 1
+5 10 1
+6 4 1
+6 5 1
+6 8 1
+7 4 2
+7 2 1
+8 3 2
+8 9 1
+8 1 2
+8 5 1
+9 1 1
+9 2 1
+9 10 1
+10 4 1
+10 8 1
+11 8 1

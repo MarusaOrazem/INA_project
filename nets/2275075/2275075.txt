@@ -1,0 +1,7 @@
+ID: 2275075   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2019/2020    
+Gender: female     
+Home team: Reading WFC (974), goals: 3   
+Away team: Tottenham Hotspur Women (749), goals: 1    

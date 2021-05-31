@@ -1,0 +1,7 @@
+ID: 7519   
+Competition: NWSL    
+Country: United States of America    
+Season: 2018    
+Gender: female     
+Home team: Portland Thorns (765), goals: 1   
+Away team: North Carolina Courage (766), goals: 4    

@@ -1,0 +1,85 @@
+*vertices 11
+1 "Gilly Louise Scarlett Flaherty" 0.0 0.0 ellipse
+2 "Kenza Dali" 0.0 0.0 ellipse
+3 "Courtney Brosnan" 0.0 0.0 ellipse
+4 "Laura Vetterlein" 0.0 0.0 ellipse
+5 "Kate Longhurst" 0.0 0.0 ellipse
+6 "So-Hyun Cho" 0.0 0.0 ellipse
+7 "Adriana Leon" 0.0 0.0 ellipse
+8 "Martha Thomas" 0.0 0.0 ellipse
+9 "Jacinta Galabadaarachchi/Alisha Lehmann" 0.0 0.0 ellipse
+10 "Erin Simon/Cecilie Redisch Kvamme" 0.0 0.0 ellipse
+11 "Katharina Baunach/Brooke Hendrix" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 3
+1 5 2
+1 4 2
+1 8 2
+1 7 3
+1 6 2
+1 9 1
+1 10 2
+2 1 4
+2 5 2
+2 6 3
+2 8 2
+2 4 1
+2 7 2
+2 11 4
+2 9 2
+2 10 1
+3 4 2
+3 1 2
+3 6 1
+3 7 4
+3 8 2
+3 10 2
+3 11 1
+3 9 1
+4 3 5
+4 8 2
+4 7 2
+4 1 1
+4 5 1
+4 2 1
+4 10 1
+4 11 4
+5 7 1
+5 4 3
+5 8 1
+5 1 1
+5 2 1
+5 9 1
+6 5 3
+6 4 2
+6 1 2
+6 2 7
+6 7 1
+6 9 1
+6 11 2
+7 6 3
+7 5 1
+7 11 4
+8 7 1
+8 2 5
+8 5 1
+8 9 1
+9 2 1
+9 8 3
+9 6 1
+9 1 1
+9 7 1
+9 10 1
+10 1 1
+10 2 3
+10 8 4
+10 9 4
+10 3 2
+11 6 1
+11 4 5
+11 8 1
+11 7 3
+11 2 6
+11 1 2
+11 9 1

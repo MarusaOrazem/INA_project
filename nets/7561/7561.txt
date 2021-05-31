@@ -1,0 +1,7 @@
+ID: 7561   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Iceland (793), goals: 1   
+Away team: Croatia (785), goals: 2    

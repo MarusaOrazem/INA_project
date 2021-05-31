@@ -1,0 +1,29 @@
+*vertices 11
+1 "Fara Williams" 0.0 0.0 ellipse
+2 "Rachel Furness" 0.0 0.0 ellipse
+3 "Remi Allen" 0.0 0.0 ellipse
+4 "Sophie Howard" 0.0 0.0 ellipse
+5 "Mayumi Pacheco" 0.0 0.0 ellipse
+6 "Natasha Harding" 0.0 0.0 ellipse
+7 "Kirstyn Pearce" 0.0 0.0 ellipse
+8 "Grace Moloney" 0.0 0.0 ellipse
+9 "Jade Moore" 0.0 0.0 ellipse
+10 "Millie Farrow" 0.0 0.0 ellipse
+11 "Lauren Bruton" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+3 4 1
+3 10 1
+3 11 1
+4 9 1
+5 1 1
+6 7 1
+6 1 1
+7 9 1
+7 8 1
+8 4 1
+8 7 2
+9 10 1
+9 3 1
+10 11 1

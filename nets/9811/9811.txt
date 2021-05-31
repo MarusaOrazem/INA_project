@@ -1,0 +1,7 @@
+ID: 9811   
+Competition: La Liga    
+Country: Spain    
+Season: 2017/2018    
+Gender: male     
+Home team: Barcelona (217), goals: 6   
+Away team: Girona (211), goals: 1    

@@ -1,0 +1,102 @@
+*vertices 11
+1 "Thiago Alcântara do Nascimento" 0.0 0.0 ellipse
+2 "Javier Alejandro Mascherano" 0.0 0.0 ellipse
+3 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+4 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+5 "Eric-Sylvain Bilal Abidal" 0.0 0.0 ellipse
+6 "Seydou Kéita" 0.0 0.0 ellipse
+7 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+8 "Alexis Alejandro Sánchez Sánchez" 0.0 0.0 ellipse
+9 "Andrés Iniesta Luján/Xavier Hernández Creus" 0.0 0.0 ellipse
+10 "Pedro Eliezer Rodríguez Ledesma/David Villa Sánchez" 0.0 0.0 ellipse
+11 "Francesc Fàbregas i Soler/Jonathan dos Santos Ramírez" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 6
+1 8 2
+1 5 9
+1 6 10
+1 9 7
+1 10 5
+1 11 3
+2 3 3
+2 1 4
+2 6 6
+2 4 8
+2 8 5
+2 7 2
+2 5 5
+2 9 10
+2 11 2
+3 4 1
+3 1 5
+3 5 1
+3 6 6
+3 2 1
+3 8 4
+3 9 5
+3 10 1
+3 11 10
+4 5 7
+4 2 6
+4 6 2
+4 1 3
+4 7 3
+4 8 1
+4 11 1
+4 9 3
+5 4 5
+5 7 1
+5 3 2
+5 6 6
+5 1 12
+5 2 2
+5 8 1
+5 9 5
+5 10 1
+5 11 1
+6 5 11
+6 2 8
+6 1 13
+6 8 1
+6 3 4
+6 4 5
+6 7 1
+6 9 13
+6 10 2
+6 11 3
+7 2 2
+7 5 2
+7 6 2
+7 1 1
+7 9 1
+8 6 1
+8 1 4
+8 3 3
+8 2 7
+8 9 4
+8 11 4
+9 5 1
+9 1 8
+9 8 8
+9 3 9
+9 11 9
+9 6 12
+9 2 10
+9 4 2
+9 10 3
+10 5 1
+10 6 1
+10 1 2
+10 9 3
+10 11 1
+10 4 1
+11 6 7
+11 3 2
+11 4 1
+11 8 3
+11 1 3
+11 5 1
+11 9 7
+11 10 2
+11 2 2

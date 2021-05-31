@@ -1,0 +1,7 @@
+ID: 19747   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: Manchester City WFC (746), goals: 1   
+Away team: Reading WFC (974), goals: 1    

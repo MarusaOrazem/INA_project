@@ -1,0 +1,7 @@
+ID: 7558   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Uruguay (783), goals: 3   
+Away team: Russia (796), goals: 0    

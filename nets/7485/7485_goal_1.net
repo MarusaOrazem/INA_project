@@ -1,0 +1,14 @@
+*vertices 7
+1 "Michele Vasconcelos" 0.0 0.0 ellipse
+2 "Rosie White" 0.0 0.0 ellipse
+3 "Yuki Nagasato" 0.0 0.0 ellipse
+4 "Casey Short" 0.0 0.0 ellipse
+5 "Morgan Brian" 0.0 0.0 ellipse
+6 "Alyssa Naeher" 0.0 0.0 ellipse
+7 "Samantha Kerr" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 2
+3 2 1
+4 5 1
+6 7 1

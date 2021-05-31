@@ -1,0 +1,99 @@
+*vertices 11
+1 "Daniel Van Buyten" 0.0 0.0 ellipse
+2 "Philipp Lahm" 0.0 0.0 ellipse
+3 "Arjen Robben" 0.0 0.0 ellipse
+4 "Thomas Müller" 0.0 0.0 ellipse
+5 "Mark van Bommel" 0.0 0.0 ellipse
+6 "Holger Badstuber" 0.0 0.0 ellipse
+7 "Bastian Schweinsteiger" 0.0 0.0 ellipse
+8 "Martín Gastón Demichelis" 0.0 0.0 ellipse
+9 "Hans-Jörg Butt" 0.0 0.0 ellipse
+10 "Hamit Altıntop/Miroslav Klose" 0.0 0.0 ellipse
+11 "Ivica Olić/Mario Gómez García" 0.0 0.0 ellipse
+*arcs
+1 2 18
+1 3 4
+1 8 5
+1 5 8
+1 9 6
+1 4 1
+1 7 5
+1 6 1
+1 11 1
+2 1 14
+2 9 2
+2 5 14
+2 3 20
+2 8 11
+2 7 9
+2 4 1
+2 10 1
+2 11 2
+3 4 4
+3 5 6
+3 7 10
+3 2 16
+3 1 1
+3 6 1
+3 10 1
+3 11 3
+4 8 1
+4 2 2
+4 7 11
+4 6 3
+4 5 3
+4 3 3
+4 10 1
+4 11 1
+5 6 5
+5 2 16
+5 1 4
+5 3 16
+5 8 5
+5 7 11
+5 4 3
+5 10 1
+5 11 1
+6 7 28
+6 4 8
+6 1 3
+6 9 2
+6 5 3
+6 8 5
+6 3 1
+6 10 10
+7 8 8
+7 6 24
+7 5 21
+7 2 10
+7 9 1
+7 1 3
+7 3 10
+7 4 12
+7 10 11
+7 11 2
+8 5 8
+8 7 16
+8 6 14
+8 1 4
+8 4 4
+8 9 1
+8 2 5
+8 10 4
+8 11 1
+9 1 5
+9 8 5
+9 2 2
+9 7 2
+9 10 1
+10 7 1
+10 6 1
+10 5 4
+10 1 1
+10 8 2
+10 4 1
+10 3 1
+10 11 1
+11 4 5
+11 10 2
+11 3 1

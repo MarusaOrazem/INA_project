@@ -1,0 +1,7 @@
+ID: 68355   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Germany Women's (857), goals: 3   
+Away team: Nigeria Women's (1213), goals: 0    

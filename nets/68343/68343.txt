@@ -1,0 +1,7 @@
+ID: 68343   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Thailand Women's (1107), goals: 0   
+Away team: Chile Women's (1209), goals: 2    

@@ -1,0 +1,7 @@
+ID: 3750200   
+Competition: Champions League    
+Country: Europe    
+Season: 2006/2007    
+Gender: male     
+Home team: AC Milan (243), goals: 2   
+Away team: Liverpool (24), goals: 1    

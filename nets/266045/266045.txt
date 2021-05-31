@@ -1,0 +1,7 @@
+ID: 266045   
+Competition: La Liga    
+Country: Spain    
+Season: 2014/2015    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Real Sociedad (210), goals: 0    

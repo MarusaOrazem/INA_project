@@ -1,0 +1,7 @@
+ID: 68362   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: England Women's (865), goals: 3   
+Away team: Cameroon Women's (1208), goals: 0    

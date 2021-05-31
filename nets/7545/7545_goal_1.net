@@ -1,0 +1,82 @@
+*vertices 11
+1 "Javier Alejandro Mascherano" 0.0 0.0 ellipse
+2 "Nicolás Alejandro Tagliafico" 0.0 0.0 ellipse
+3 "Wilfredo Daniel Caballero" 0.0 0.0 ellipse
+4 "Nicolás Hernán Otamendi" 0.0 0.0 ellipse
+5 "Maximiliano Eduardo Meza" 0.0 0.0 ellipse
+6 "Marcos Javier Acuña" 0.0 0.0 ellipse
+7 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+8 "Gabriel Iván Mercado" 0.0 0.0 ellipse
+9 "Eduardo Antonio Salvio/Cristian David Pavón" 0.0 0.0 ellipse
+10 "Enzo Nicolás Pérez/Paulo Bruno Exequiel Dybala" 0.0 0.0 ellipse
+11 "Sergio Leonel Agüero del Castillo/Gonzalo Gerardo Higuaín" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 3
+1 7 6
+1 4 3
+1 8 3
+1 5 3
+1 10 3
+1 11 1
+1 9 1
+2 3 5
+2 5 2
+2 6 3
+2 4 7
+2 1 3
+2 8 1
+2 10 1
+2 11 1
+2 9 3
+3 4 4
+3 2 1
+4 2 8
+4 1 3
+4 3 1
+4 7 1
+4 5 2
+4 8 2
+4 10 2
+5 2 5
+5 7 4
+5 1 7
+5 6 2
+5 8 1
+5 4 1
+6 1 1
+6 5 2
+6 4 1
+6 2 5
+6 10 2
+6 11 1
+6 9 2
+7 2 1
+7 1 1
+7 5 1
+7 11 2
+7 9 1
+7 10 1
+8 4 3
+8 3 2
+8 7 1
+8 5 1
+8 2 1
+8 11 1
+8 10 1
+9 4 1
+9 7 1
+9 6 4
+9 11 1
+10 1 3
+10 2 2
+10 11 1
+10 6 2
+10 5 3
+10 8 1
+11 6 1
+11 5 1
+11 8 1
+11 1 1
+11 7 1
+11 9 3

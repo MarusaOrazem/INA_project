@@ -1,0 +1,7 @@
+ID: 70287   
+Competition: La Liga    
+Country: Spain    
+Season: 2012/2013    
+Gender: male     
+Home team: Real Sociedad (210), goals: 3   
+Away team: Barcelona (217), goals: 2    

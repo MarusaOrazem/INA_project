@@ -1,0 +1,7 @@
+ID: 22964   
+Competition: Women's World Cup    
+Country: International    
+Season: 2019    
+Gender: female     
+Home team: Netherlands Women's (851), goals: 3   
+Away team: Cameroon Women's (1208), goals: 1    

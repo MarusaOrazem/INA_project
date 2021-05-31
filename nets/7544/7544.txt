@@ -1,0 +1,7 @@
+ID: 7544   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Uruguay (783), goals: 1   
+Away team: Saudi Arabia (799), goals: 0    

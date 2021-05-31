@@ -1,0 +1,7 @@
+ID: 267183   
+Competition: La Liga    
+Country: Spain    
+Season: 2014/2015    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Real Madrid (220), goals: 1    

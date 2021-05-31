@@ -1,0 +1,7 @@
+ID: 70224   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Rayo Vallecano (360), goals: 0   
+Away team: Barcelona (217), goals: 7    

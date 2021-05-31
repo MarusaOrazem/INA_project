@@ -1,0 +1,7 @@
+ID: 3749453   
+Competition: Premier League    
+Country: England    
+Season: 2003/2004    
+Gender: male     
+Home team: Arsenal (1), goals: 5   
+Away team: Leeds United (101), goals: 0    

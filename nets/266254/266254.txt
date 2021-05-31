@@ -1,0 +1,7 @@
+ID: 266254   
+Competition: La Liga    
+Country: Spain    
+Season: 2015/2016    
+Gender: male     
+Home team: Barcelona (217), goals: 6   
+Away team: Celta Vigo (209), goals: 1    

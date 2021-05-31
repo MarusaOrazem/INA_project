@@ -1,0 +1,7 @@
+ID: 7543   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Iran (797), goals: 0   
+Away team: Spain (772), goals: 1    

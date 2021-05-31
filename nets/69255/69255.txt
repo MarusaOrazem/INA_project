@@ -1,0 +1,7 @@
+ID: 69255   
+Competition: La Liga    
+Country: Spain    
+Season: 2009/2010    
+Gender: male     
+Home team: Málaga (223), goals: 0   
+Away team: Barcelona (217), goals: 2    

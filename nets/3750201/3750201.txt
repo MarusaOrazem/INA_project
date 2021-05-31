@@ -1,0 +1,7 @@
+ID: 3750201   
+Competition: Champions League    
+Country: Europe    
+Season: 2008/2009    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Manchester United (39), goals: 0    

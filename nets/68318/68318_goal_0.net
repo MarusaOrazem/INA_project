@@ -1,0 +1,100 @@
+*vertices 11
+1 "Oleguer Presas Renom" 0.0 0.0 ellipse
+2 "Carles Puyol i Saforcada" 0.0 0.0 ellipse
+3 "Sylvio Mendes Campos Junior" 0.0 0.0 ellipse
+4 "Ronaldo de Assis Moreira" 0.0 0.0 ellipse
+5 "Samuel Eto"o Fils" 0.0 0.0 ellipse
+6 "Rafael Márquez Álvarez" 0.0 0.0 ellipse
+7 "Xavier Hernández Creus" 0.0 0.0 ellipse
+8 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+9 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+10 "Juliano Haus Belletti/José Edmílson Gomes de Moraes" 0.0 0.0 ellipse
+11 "Anderson Luís de Souza/Mark van Bommel" 0.0 0.0 ellipse
+*arcs
+1 2 13
+1 3 2
+1 4 3
+1 9 1
+1 7 6
+1 8 4
+1 10 1
+1 11 4
+2 7 7
+2 1 9
+2 9 2
+2 4 1
+2 6 11
+2 5 1
+2 3 1
+2 8 1
+2 10 2
+2 11 1
+3 4 5
+3 1 4
+3 2 2
+3 5 2
+3 6 5
+3 8 2
+3 7 1
+3 10 1
+3 11 1
+4 3 3
+4 5 5
+4 8 4
+4 2 2
+4 6 3
+4 10 1
+4 11 1
+5 7 4
+5 4 2
+5 8 2
+5 6 1
+5 1 2
+5 2 1
+5 11 4
+5 10 2
+6 1 2
+6 5 5
+6 2 4
+6 4 5
+6 7 3
+6 8 2
+6 3 1
+6 11 1
+6 10 4
+7 1 4
+7 8 4
+7 2 7
+7 5 5
+7 6 5
+7 4 3
+7 10 1
+7 11 1
+8 5 3
+8 4 3
+8 7 3
+8 2 1
+8 3 1
+8 10 1
+8 11 1
+9 2 3
+9 1 2
+9 6 1
+10 1 2
+10 6 1
+10 8 1
+10 2 6
+10 7 5
+10 11 1
+10 4 2
+10 5 2
+10 3 1
+11 4 3
+11 1 3
+11 2 4
+11 5 4
+11 6 2
+11 3 3
+11 8 1
+11 10 1
+11 7 1

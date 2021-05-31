@@ -1,0 +1,7 @@
+ID: 266056   
+Competition: La Liga    
+Country: Spain    
+Season: 2015/2016    
+Gender: male     
+Home team: Eibar (322), goals: 0   
+Away team: Barcelona (217), goals: 4    

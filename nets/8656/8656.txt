@@ -1,0 +1,7 @@
+ID: 8656   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Croatia (785), goals: 2   
+Away team: England (768), goals: 1    

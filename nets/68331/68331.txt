@@ -1,0 +1,7 @@
+ID: 68331   
+Competition: La Liga    
+Country: Spain    
+Season: 2006/2007    
+Gender: male     
+Home team: Barcelona (217), goals: 3   
+Away team: Real Zaragoza (395), goals: 1    

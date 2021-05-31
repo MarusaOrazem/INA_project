@@ -1,0 +1,91 @@
+*vertices 11
+1 "Lee Naylor" 0.0 0.0 ellipse
+2 "Paul Jones" 0.0 0.0 ellipse
+3 "Alex Rae" 0.0 0.0 ellipse
+4 "Denis Irwin" 0.0 0.0 ellipse
+5 "Colin Cameron" 0.0 0.0 ellipse
+6 "Paul Butler" 0.0 0.0 ellipse
+7 "Kenny Miller" 0.0 0.0 ellipse
+8 "Jody Craddock" 0.0 0.0 ellipse
+9 "Ioan Viorel Ganea" 0.0 0.0 ellipse
+10 "Mark Kennedy" 0.0 0.0 ellipse
+11 "Carl Cort/Steffen Iversen" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 10 8
+1 7 3
+1 9 4
+1 3 2
+1 5 4
+1 11 7
+2 10 6
+2 9 3
+2 1 3
+2 4 1
+2 7 1
+2 11 7
+3 4 5
+3 5 4
+3 7 4
+3 1 3
+3 2 1
+3 10 3
+3 9 5
+3 6 1
+3 11 1
+4 5 1
+4 7 9
+4 3 5
+4 8 3
+4 6 1
+4 9 5
+4 2 1
+4 1 1
+4 11 1
+5 6 2
+5 4 4
+5 2 2
+5 3 5
+5 8 3
+5 1 3
+5 9 1
+5 10 2
+5 11 1
+6 1 6
+6 7 2
+6 10 4
+6 9 2
+6 5 1
+6 2 4
+7 4 3
+7 3 2
+7 2 2
+7 9 5
+7 5 1
+7 6 1
+7 11 1
+8 9 2
+8 5 2
+8 3 1
+8 10 2
+8 4 1
+9 1 2
+9 10 3
+9 7 3
+9 3 2
+9 4 2
+9 5 2
+9 11 1
+10 1 4
+10 6 2
+10 3 1
+10 9 1
+10 5 2
+10 11 3
+11 4 4
+11 3 2
+11 10 1
+11 1 3
+11 9 1
+11 5 2
+11 7 1

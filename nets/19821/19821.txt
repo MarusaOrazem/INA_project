@@ -1,0 +1,7 @@
+ID: 19821   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: Arsenal WFC (968), goals: 1   
+Away team: Manchester City WFC (746), goals: 0    

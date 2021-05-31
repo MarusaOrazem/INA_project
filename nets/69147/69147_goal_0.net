@@ -1,0 +1,36 @@
+*vertices 10
+1 "José Javier Barkero Saludes" 0.0 0.0 ellipse
+2 "Gorka Brit Gallego" 0.0 0.0 ellipse
+3 "Juan Carlos" 0.0 0.0 ellipse
+4 "Domingo Nagore Arbizu" 0.0 0.0 ellipse
+5 "Mario Martínez Rubio" 0.0 0.0 ellipse
+6 "Carlos Bellvís LLorens" 0.0 0.0 ellipse
+7 "Domingo Cisma González" 0.0 0.0 ellipse
+8 "Juan Ramón Cabrero Obrer" 0.0 0.0 ellipse
+9 "Juan Pablo Colinas Ferreras" 0.0 0.0 ellipse
+10 "Sergio Boris González Monteagudo" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 2
+1 4 1
+2 1 1
+2 4 1
+2 5 1
+2 6 1
+3 5 1
+3 7 1
+4 1 1
+4 3 2
+4 2 1
+4 5 1
+5 6 3
+5 8 1
+6 2 1
+6 4 1
+6 1 1
+6 5 1
+7 4 1
+8 5 1
+9 6 1
+9 1 1
+10 3 1

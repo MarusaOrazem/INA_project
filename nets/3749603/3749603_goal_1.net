@@ -1,0 +1,102 @@
+*vertices 11
+1 "Alain Goma" 0.0 0.0 ellipse
+2 "Carlos Manuel Bocanegra" 0.0 0.0 ellipse
+3 "Sylvain Legwinski" 0.0 0.0 ellipse
+4 "Ian Pearce" 0.0 0.0 ellipse
+5 "Moritz Volz" 0.0 0.0 ellipse
+6 "Luís Boa Morte Pereira" 0.0 0.0 ellipse
+7 "Edwin van der Sar" 0.0 0.0 ellipse
+8 "Sean Davis" 0.0 0.0 ellipse
+9 "Steed Malbranque" 0.0 0.0 ellipse
+10 "Martin Djetou/Collins John" 0.0 0.0 ellipse
+11 "Junichi Inamoto/Brian McBride" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 3
+1 3 4
+1 9 2
+1 7 4
+1 8 3
+1 5 2
+1 6 1
+1 11 2
+2 3 3
+2 9 4
+2 8 5
+2 1 4
+2 7 5
+2 6 1
+2 10 2
+2 11 2
+3 1 4
+3 5 9
+3 8 3
+3 2 2
+3 9 6
+3 6 4
+3 4 3
+3 7 1
+3 10 2
+3 11 3
+4 5 4
+4 7 1
+4 8 5
+4 1 3
+4 3 1
+4 9 1
+4 10 1
+4 11 1
+5 6 3
+5 7 6
+5 8 4
+5 3 12
+5 4 4
+5 9 10
+5 11 3
+6 5 2
+6 1 1
+6 2 3
+6 9 2
+6 8 4
+6 3 2
+6 11 1
+7 6 2
+7 9 1
+7 1 3
+7 2 2
+7 8 1
+7 5 1
+7 3 1
+7 11 2
+8 6 7
+8 9 9
+8 5 5
+8 3 6
+8 2 3
+8 7 1
+8 4 1
+8 10 2
+8 11 3
+9 2 3
+9 3 5
+9 6 4
+9 5 6
+9 8 3
+9 1 1
+9 10 1
+9 11 2
+10 8 1
+10 5 4
+10 2 1
+10 3 4
+10 1 2
+10 9 1
+10 6 1
+10 11 3
+11 8 1
+11 6 2
+11 5 2
+11 9 3
+11 2 1
+11 3 1
+11 10 1

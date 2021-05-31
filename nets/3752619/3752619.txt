@@ -1,0 +1,7 @@
+ID: 3752619   
+Competition: Champions League    
+Country: Europe    
+Season: 2003/2004    
+Gender: male     
+Home team: AS Monaco (129), goals: 0   
+Away team: FC Porto (256), goals: 3    

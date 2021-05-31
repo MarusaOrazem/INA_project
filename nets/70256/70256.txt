@@ -1,0 +1,7 @@
+ID: 70256   
+Competition: La Liga    
+Country: Spain    
+Season: 2012/2013    
+Gender: male     
+Home team: Celta Vigo (209), goals: 2   
+Away team: Barcelona (217), goals: 2    

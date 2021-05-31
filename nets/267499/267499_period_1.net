@@ -1,0 +1,60 @@
+*vertices 11
+1 "Ramon Olamilekan Azeez" 0.0 0.0 ellipse
+2 "José Antonio García Rabasco" 0.0 0.0 ellipse
+3 "Joaquín Navarro Jiménez" 0.0 0.0 ellipse
+4 "Jonathan Sundy Zongo" 0.0 0.0 ellipse
+5 "Sebastián Dubarbier" 0.0 0.0 ellipse
+6 "Rubén Iván Martínez Andrade" 0.0 0.0 ellipse
+7 "Francisco Manuel Vélez Jiménez" 0.0 0.0 ellipse
+8 "Ángel Trujillo Canorea" 0.0 0.0 ellipse
+9 "Fernando Soriano Marco/Tomer Hemed" 0.0 0.0 ellipse
+10 "Thievy Guivane Bifouma Koulossa/Edgar Antonio Méndez Ortega" 0.0 0.0 ellipse
+11 "Thomas Teye Partey/Wellington Alves da Silva" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 2
+1 5 1
+1 9 1
+2 3 2
+2 1 1
+2 8 1
+2 11 2
+3 1 1
+3 4 5
+3 2 1
+3 9 5
+3 10 3
+3 11 1
+4 1 2
+4 9 1
+4 10 2
+4 11 1
+5 4 2
+5 10 1
+6 3 1
+6 4 1
+6 9 2
+7 2 2
+7 3 1
+7 4 2
+7 11 1
+8 2 2
+8 11 1
+9 7 1
+9 3 1
+9 5 1
+9 10 1
+9 11 1
+9 4 1
+9 2 1
+10 1 2
+10 4 1
+10 3 1
+10 5 1
+10 9 1
+10 11 1
+11 4 2
+11 2 1
+11 1 1
+11 7 3
+11 10 1

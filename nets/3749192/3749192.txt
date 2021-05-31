@@ -1,0 +1,7 @@
+ID: 3749192   
+Competition: Premier League    
+Country: England    
+Season: 2003/2004    
+Gender: male     
+Home team: Arsenal (1), goals: 0   
+Away team: Fulham (55), goals: 0    

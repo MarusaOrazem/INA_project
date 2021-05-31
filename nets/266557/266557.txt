@@ -1,0 +1,7 @@
+ID: 266557   
+Competition: La Liga    
+Country: Spain    
+Season: 2015/2016    
+Gender: male     
+Home team: Barcelona (217), goals: 1   
+Away team: Valencia (207), goals: 2    

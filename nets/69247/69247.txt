@@ -1,0 +1,7 @@
+ID: 69247   
+Competition: La Liga    
+Country: Spain    
+Season: 2009/2010    
+Gender: male     
+Home team: Barcelona (217), goals: 4   
+Away team: Athletic Bilbao (215), goals: 1    

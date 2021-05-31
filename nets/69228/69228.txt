@@ -1,0 +1,7 @@
+ID: 69228   
+Competition: La Liga    
+Country: Spain    
+Season: 2008/2009    
+Gender: male     
+Home team: Villarreal (222), goals: 1   
+Away team: Barcelona (217), goals: 2    

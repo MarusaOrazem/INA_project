@@ -1,0 +1,7 @@
+ID: 7480   
+Competition: NWSL    
+Country: United States of America    
+Season: 2018    
+Gender: female     
+Home team: Seattle Reign (760), goals: 1   
+Away team: Utah Royals (767), goals: 0    

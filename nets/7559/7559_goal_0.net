@@ -1,0 +1,75 @@
+*vertices 11
+1 "Abdullah Ibrahim Otayf" 0.0 0.0 ellipse
+2 "Salman Mohammed Al Faraj" 0.0 0.0 ellipse
+3 "Yasir Gharsan Al Shahrani" 0.0 0.0 ellipse
+4 "Hussain Al Mogahwi" 0.0 0.0 ellipse
+5 "Hattan Babhir" 0.0 0.0 ellipse
+6 "Salem Mohammed Al Dawsari" 0.0 0.0 ellipse
+7 "Mohammed Al Burayk" 0.0 0.0 ellipse
+8 "Osama Abdulrezag Hawsawi" 0.0 0.0 ellipse
+9 "Motaz Ali Hassan Hawsawi" 0.0 0.0 ellipse
+10 "Yasser Abdullah Al Mosailem" 0.0 0.0 ellipse
+11 "Fahad Mosaed Al Muwallad Al Harbi" 0.0 0.0 ellipse
+*arcs
+1 2 7
+1 4 11
+1 8 1
+1 9 1
+1 5 3
+1 7 7
+1 11 1
+1 3 2
+1 6 2
+2 3 4
+2 7 4
+2 6 3
+2 1 6
+2 4 4
+2 11 1
+2 8 1
+3 4 2
+3 2 5
+3 6 6
+3 11 1
+3 1 3
+3 8 1
+3 9 1
+4 6 4
+4 7 6
+4 1 3
+4 5 5
+4 2 3
+4 9 1
+4 3 1
+4 11 1
+5 4 3
+5 8 1
+5 1 1
+5 7 2
+5 2 1
+5 6 1
+6 2 4
+6 1 3
+6 3 3
+6 11 1
+6 7 2
+6 4 2
+7 5 2
+7 1 12
+7 3 4
+7 4 4
+7 8 2
+7 2 3
+7 6 1
+8 7 3
+8 2 1
+8 10 2
+8 1 1
+8 4 1
+9 1 2
+9 6 1
+9 3 2
+10 2 1
+10 3 1
+11 3 2
+11 1 1

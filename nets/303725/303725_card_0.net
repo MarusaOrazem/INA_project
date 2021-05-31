@@ -1,0 +1,110 @@
+*vertices 12
+1 "André-Frank Zambo Anguissa" 0.0 0.0 ellipse
+2 "Mario Gaspar Pérez Martínez" 0.0 0.0 ellipse
+3 "Samuel Chimerenka Chukwueze" 0.0 0.0 ellipse
+4 "Alberto Moreno Pérez" 0.0 0.0 ellipse
+5 "Pau Francisco Torres" 0.0 0.0 ellipse
+6 "Raúl Albiol Tortajada" 0.0 0.0 ellipse
+7 "Sergio Asenjo Andrés" 0.0 0.0 ellipse
+8 "Francisco Alcácer García/Carlos Arturo Bacca Ahumada" 0.0 0.0 ellipse
+9 "Gerard Moreno Balaguero/Moisés Gómez Bordonado" 0.0 0.0 ellipse
+10 "Vicente Iborra De La Fuente/Bruno Soriano Llido" 0.0 0.0 ellipse
+11 "Santiago Cazorla González/Manuel Trigueros Muñoz" 0.0 0.0 ellipse
+12 "Carlos Arturo Bacca Ahumada/Fernando Niño Rodriguez" 0.0 0.0 ellipse
+*arcs
+1 2 7
+1 3 10
+1 5 2
+1 7 3
+1 4 1
+1 10 3
+1 11 3
+1 12 1
+1 9 2
+2 3 5
+2 6 4
+2 1 7
+2 9 4
+2 10 2
+2 11 1
+2 12 1
+3 2 7
+3 4 2
+3 1 2
+3 6 1
+3 8 1
+3 11 2
+3 12 1
+3 9 1
+3 10 1
+4 5 8
+4 6 2
+4 2 1
+4 1 1
+4 9 9
+4 10 7
+4 11 3
+4 12 1
+5 3 1
+5 6 4
+5 7 7
+5 4 6
+5 1 1
+5 2 1
+5 9 2
+5 10 5
+5 11 1
+6 7 2
+6 5 1
+6 2 4
+6 1 3
+6 3 1
+6 10 4
+6 11 1
+6 12 3
+7 1 3
+7 6 2
+7 2 3
+7 5 2
+7 4 3
+7 3 1
+7 10 1
+7 12 1
+7 11 1
+8 4 1
+8 1 1
+8 9 2
+8 10 1
+8 11 1
+9 2 1
+9 3 2
+9 8 1
+9 10 4
+9 5 2
+9 1 1
+9 4 7
+9 11 3
+9 12 1
+10 1 4
+10 5 3
+10 4 5
+10 3 1
+10 6 4
+10 2 1
+10 9 10
+10 11 2
+10 12 2
+11 5 2
+11 4 1
+11 1 2
+11 3 1
+11 8 1
+11 9 2
+11 10 5
+11 2 1
+11 12 1
+12 1 2
+12 10 1
+12 11 2
+12 9 2
+12 2 1

@@ -1,0 +1,7 @@
+ID: 7444   
+Competition: NWSL    
+Country: United States of America    
+Season: 2018    
+Gender: female     
+Home team: North Carolina Courage (766), goals: 1   
+Away team: Chicago Red Stars (761), goals: 1    

@@ -1,0 +1,7 @@
+ID: 19794   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: Chelsea FCW (971), goals: 6   
+Away team: Bristol City WFC (973), goals: 0    

@@ -1,0 +1,7 @@
+ID: 69274   
+Competition: La Liga    
+Country: Spain    
+Season: 2010/2011    
+Gender: male     
+Home team: Valencia (207), goals: 0   
+Away team: Barcelona (217), goals: 1    

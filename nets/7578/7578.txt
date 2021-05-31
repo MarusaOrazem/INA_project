@@ -1,0 +1,7 @@
+ID: 7578   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Egypt (774), goals: 0   
+Away team: Uruguay (783), goals: 1    

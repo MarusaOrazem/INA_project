@@ -1,0 +1,7 @@
+ID: 266921   
+Competition: La Liga    
+Country: Spain    
+Season: 2014/2015    
+Gender: male     
+Home team: Barcelona (217), goals: 3   
+Away team: Elche (1042), goals: 0    

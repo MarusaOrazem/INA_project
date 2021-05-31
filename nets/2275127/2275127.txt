@@ -1,0 +1,7 @@
+ID: 2275127   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2019/2020    
+Gender: female     
+Home team: Reading WFC (974), goals: 3   
+Away team: Everton LFC (967), goals: 2    

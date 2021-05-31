@@ -1,0 +1,52 @@
+*vertices 11
+1 "Francisco Jesús Pérez Malia" 0.0 0.0 ellipse
+2 "Víctor Sánchez Mata" 0.0 0.0 ellipse
+3 "Leandro Andrés Gioda" 0.0 0.0 ellipse
+4 "José Manuel Casado Bizcocho" 0.0 0.0 ellipse
+5 "Fabián Ariel Orellana Valenzuela" 0.0 0.0 ellipse
+6 "Renan Brito Soares" 0.0 0.0 ellipse
+7 "Sidi Yaya Keita" 0.0 0.0 ellipse
+8 "Alejandro Bergantiños García" 0.0 0.0 ellipse
+9 "Mario Bermejo Castanedo" 0.0 0.0 ellipse
+10 "Carlos Calvo Sobrado" 0.0 0.0 ellipse
+11 "Aythami Artiles Oliva" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 9 1
+1 8 1
+2 8 2
+2 1 4
+3 2 1
+3 5 1
+3 10 1
+3 4 1
+4 5 5
+4 7 3
+4 10 1
+4 8 1
+4 9 1
+5 10 2
+5 8 1
+5 9 1
+6 4 1
+6 11 1
+6 9 3
+6 1 1
+6 3 1
+6 10 1
+7 4 3
+7 5 1
+7 9 1
+8 2 2
+8 7 1
+8 10 3
+8 5 2
+8 4 1
+9 2 1
+9 8 1
+9 4 1
+9 10 1
+10 4 1
+10 8 1
+11 4 1
+11 5 2

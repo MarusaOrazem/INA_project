@@ -1,0 +1,7 @@
+ID: 18242   
+Competition: Champions League    
+Country: Europe    
+Season: 2014/2015    
+Gender: male     
+Home team: Juventus (224), goals: 1   
+Away team: Barcelona (217), goals: 3    

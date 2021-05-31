@@ -1,0 +1,7 @@
+ID: 3749448   
+Competition: Premier League    
+Country: England    
+Season: 2003/2004    
+Gender: male     
+Home team: Arsenal (1), goals: 4   
+Away team: Liverpool (24), goals: 2    

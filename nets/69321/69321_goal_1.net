@@ -1,0 +1,55 @@
+*vertices 11
+1 "Ali Krieger" 0.0 0.0 ellipse
+2 "Rose Lavelle" 0.0 0.0 ellipse
+3 "Crystal Alyssia Dunn" 0.0 0.0 ellipse
+4 "Samantha Mewis" 0.0 0.0 ellipse
+5 "Alex Morgan" 0.0 0.0 ellipse
+6 "Abby Dahlkemper" 0.0 0.0 ellipse
+7 "Julie Ertz" 0.0 0.0 ellipse
+8 "Alyssa Naeher" 0.0 0.0 ellipse
+9 "Becky Sauerbrunn" 0.0 0.0 ellipse
+10 "Megan Rapinoe/Christen Press" 0.0 0.0 ellipse
+11 "Tobin Heath/Carli Lloyd" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 1
+1 6 1
+1 7 1
+1 5 4
+1 11 1
+2 7 1
+2 4 1
+2 5 2
+2 11 1
+2 10 1
+3 5 1
+3 4 2
+3 10 2
+4 5 1
+4 2 1
+4 3 1
+4 10 2
+4 11 1
+5 1 1
+5 2 1
+5 10 1
+5 11 2
+6 2 1
+6 11 1
+7 5 1
+7 3 1
+7 1 1
+7 11 1
+8 5 1
+8 10 1
+9 8 1
+9 10 1
+10 5 2
+10 3 1
+10 4 2
+10 9 1
+10 1 1
+10 11 1
+11 1 2
+11 2 2
+11 5 2

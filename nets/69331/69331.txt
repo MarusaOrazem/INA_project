@@ -1,0 +1,7 @@
+ID: 69331   
+Competition: La Liga    
+Country: Spain    
+Season: 2011/2012    
+Gender: male     
+Home team: Barcelona (217), goals: 4   
+Away team: Real Zaragoza (395), goals: 0    

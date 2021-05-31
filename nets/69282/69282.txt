@@ -1,0 +1,7 @@
+ID: 69282   
+Competition: La Liga    
+Country: Spain    
+Season: 2010/2011    
+Gender: male     
+Home team: Barcelona (217), goals: 2   
+Away team: Athletic Bilbao (215), goals: 1    

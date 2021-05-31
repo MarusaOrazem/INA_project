@@ -1,0 +1,7 @@
+ID: 69209   
+Competition: La Liga    
+Country: Spain    
+Season: 2008/2009    
+Gender: male     
+Home team: Racing Santander (1217), goals: 1   
+Away team: Barcelona (217), goals: 2    

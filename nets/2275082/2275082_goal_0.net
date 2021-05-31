@@ -1,0 +1,85 @@
+*vertices 11
+1 "Rianna Dean" 0.0 0.0 ellipse
+2 "Anna Filbey" 0.0 0.0 ellipse
+3 "Hannah Godfrey" 0.0 0.0 ellipse
+4 "Ria Percival" 0.0 0.0 ellipse
+5 "Kit Graham" 0.0 0.0 ellipse
+6 "Josie Green" 0.0 0.0 ellipse
+7 "Rachel Furness" 0.0 0.0 ellipse
+8 "Siri Worm" 0.0 0.0 ellipse
+9 "Rebecca Leigh Spencer" 0.0 0.0 ellipse
+10 "Chloe Peplow" 0.0 0.0 ellipse
+11 "Ashleigh Neville" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 2
+1 6 4
+1 5 2
+2 8 11
+2 9 4
+2 1 3
+2 6 2
+2 4 1
+2 7 1
+2 11 1
+3 4 2
+3 10 2
+3 2 5
+3 8 2
+3 11 5
+3 9 6
+3 5 1
+3 7 2
+4 1 2
+4 7 1
+4 6 2
+4 5 2
+4 11 8
+4 10 2
+4 3 1
+5 6 3
+5 2 1
+5 1 3
+5 10 1
+5 8 1
+5 11 2
+6 7 4
+6 2 1
+6 3 2
+6 9 1
+6 8 1
+6 5 2
+6 10 1
+6 11 1
+7 5 3
+7 10 1
+7 6 4
+7 1 1
+7 8 1
+7 2 1
+8 6 3
+8 2 6
+8 5 2
+8 3 2
+8 7 5
+8 1 3
+8 10 1
+9 3 6
+9 2 6
+9 6 2
+9 7 2
+9 8 1
+10 3 5
+10 11 2
+10 4 4
+10 8 2
+10 5 1
+10 2 2
+11 6 1
+11 10 2
+11 5 2
+11 1 3
+11 3 6
+11 9 2
+11 4 5
+11 7 1

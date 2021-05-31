@@ -1,0 +1,7 @@
+ID: 266320   
+Competition: La Liga    
+Country: Spain    
+Season: 2014/2015    
+Gender: male     
+Home team: Barcelona (217), goals: 5   
+Away team: Espanyol (214), goals: 1    
