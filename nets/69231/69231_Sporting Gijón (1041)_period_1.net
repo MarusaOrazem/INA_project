@@ -1,0 +1,59 @@
+*vertices 11
+1 "Iñaki Lafuente Sancha" 0.0 0.0 ellipse
+2 "David Barral Torres" 0.0 0.0 ellipse
+3 "Sergio Matabuena Delgado" 0.0 0.0 ellipse
+4 "Miguel Marcos Madera" 0.0 0.0 ellipse
+5 "Iván Hernández Soto" 0.0 0.0 ellipse
+6 "Luis Morán Sánchez" 0.0 0.0 ellipse
+7 "Raúl Miguel Cámara" 0.0 0.0 ellipse
+8 "Gerard Autet Serrabasa" 0.0 0.0 ellipse
+9 "Rafael Sastre Reus/José Ángel Valdés Díaz" 0.0 0.0 ellipse
+10 "Diego Castro Giménez/Mate Bilić" 0.0 0.0 ellipse
+11 "Carmelo José González Jiménez/Enrique Mateo Montoya" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 3 1
+1 10 1
+1 11 1
+2 3 1
+2 6 1
+2 4 1
+2 11 1
+2 10 1
+3 2 2
+3 4 2
+3 6 2
+3 10 3
+4 5 1
+4 2 3
+4 3 2
+4 6 2
+4 9 1
+4 10 1
+4 11 1
+5 7 1
+5 11 1
+5 9 1
+6 2 3
+6 7 2
+6 9 1
+6 10 3
+7 10 1
+7 11 1
+8 4 2
+8 6 1
+8 11 1
+9 5 1
+9 6 1
+9 4 1
+9 2 1
+9 11 3
+10 4 2
+10 11 1
+10 3 2
+10 6 2
+11 4 2
+11 2 1
+11 9 2
+11 7 1
+11 10 1

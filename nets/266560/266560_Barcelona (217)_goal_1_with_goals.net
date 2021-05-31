@@ -1,0 +1,5 @@
+*vertices 2
+1 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 1

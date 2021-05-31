@@ -1,0 +1,117 @@
+*vertices 13
+1 "Francisco Javier Calvo Quesada" 0.0 0.0 ellipse
+2 "Óscar Esau Duarte Gaitán" 0.0 0.0 ellipse
+3 "Giancarlo González Castro" 0.0 0.0 ellipse
+4 "Bryan Ruiz González" 0.0 0.0 ellipse
+5 "Celso Borges Mora" 0.0 0.0 ellipse
+6 ON_goal 0.0 0.0 ellipse
+7 "Johnny Acosta Zamora" 0.0 0.0 ellipse
+8 "Keylor Navas Gamboa" 0.0 0.0 ellipse
+9 "Cristian Gamboa Luna" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Johan Alberto Venegas Ulloa/Christian Bolaños Navarro" 0.0 0.0 ellipse
+12 "Marcos Danilo Ureña Porras/Joel Nathaniel Campbell Samuels" 0.0 0.0 ellipse
+13 "David Alberto Guzmán Pérez/Daniel Colindres Solera" 0.0 0.0 ellipse
+*arcs
+1 2 9
+1 4 8
+1 5 4
+1 10 1
+1 8 1
+1 3 1
+1 11 3
+1 12 1
+1 13 1
+2 3 6
+2 8 4
+2 1 6
+2 7 2
+2 5 4
+2 4 6
+2 10 1
+2 11 4
+2 12 1
+2 13 1
+3 4 2
+3 6 1
+3 10 1
+3 5 4
+3 7 8
+3 2 8
+3 8 3
+3 1 2
+3 9 2
+3 11 2
+3 13 2
+4 7 2
+4 9 5
+4 5 12
+4 3 2
+4 1 4
+4 2 3
+4 10 1
+4 11 3
+4 12 3
+4 13 2
+5 2 2
+5 9 12
+5 4 9
+5 3 4
+5 1 2
+5 7 3
+5 10 1
+5 12 3
+5 13 3
+5 11 4
+7 8 3
+7 5 1
+7 4 2
+7 2 7
+7 3 3
+7 9 5
+7 13 4
+7 12 1
+8 1 3
+8 2 4
+8 5 1
+8 9 2
+8 7 2
+8 4 1
+8 11 4
+9 4 9
+9 7 3
+9 3 5
+9 5 3
+9 8 1
+9 6 1
+9 2 2
+9 11 4
+9 13 5
+9 12 2
+11 1 2
+11 4 2
+11 5 5
+11 12 1
+11 13 2
+11 9 6
+11 7 1
+11 2 1
+12 6 1
+12 4 1
+12 10 1
+12 8 1
+12 1 1
+12 11 2
+12 13 1
+12 5 3
+12 9 1
+12 2 1
+13 3 3
+13 2 1
+13 5 1
+13 1 1
+13 4 1
+13 7 1
+13 9 3
+13 11 1
+13 12 2

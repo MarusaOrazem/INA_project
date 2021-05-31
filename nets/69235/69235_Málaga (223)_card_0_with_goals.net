@@ -1,0 +1,82 @@
+*vertices 13
+1 "Javier Calleja Revilla" 0.0 0.0 ellipse
+2 "Hélder Miguel Do Rosario Data" 0.0 0.0 ellipse
+3 "Eliseu Pereira dos Santos" 0.0 0.0 ellipse
+4 "Nabil Baha" 0.0 0.0 ellipse
+5 "Miguel Ángel Lozano Ayala" 0.0 0.0 ellipse
+6 "Francesc Arnau" 0.0 0.0 ellipse
+7 "Weligton Róbson Pena de Oliveira" 0.0 0.0 ellipse
+8 "Jesús Gámez Duarte" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Adrián López Álvarez/Ignacio Pérez Santamaría" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Antonio Galdeano Benítez/Fernando Miguel Fernández Escribano" 0.0 0.0 ellipse
+13 "Sérgio Paulo Barbosa Valente/Albert Luque Martos" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 8
+1 4 2
+1 7 2
+1 10 3
+1 12 1
+1 13 1
+2 5 1
+2 9 1
+2 3 1
+2 8 1
+2 13 1
+2 10 1
+3 4 4
+3 1 1
+3 5 1
+3 8 1
+3 10 1
+3 12 1
+3 13 1
+4 5 1
+4 9 1
+4 3 1
+4 10 3
+4 12 1
+4 13 1
+5 1 3
+5 3 5
+5 4 1
+5 8 2
+5 13 3
+5 10 3
+6 1 2
+6 4 5
+6 8 2
+7 4 1
+7 1 4
+7 8 1
+7 10 1
+7 12 1
+8 3 5
+8 4 5
+8 2 1
+8 10 1
+8 12 2
+8 13 10
+10 4 2
+10 11 1
+10 5 1
+10 12 1
+10 13 2
+10 8 1
+10 1 1
+10 7 1
+12 8 5
+12 3 1
+12 5 1
+12 10 1
+12 13 1
+13 8 6
+13 11 1
+13 9 1
+13 4 2
+13 1 1
+13 10 3
+13 12 3
+13 3 1

@@ -1,0 +1,87 @@
+*vertices 13
+1 "Rianna Dean" 0.0 0.0 ellipse
+2 "Ria Percival" 0.0 0.0 ellipse
+3 "Chloe Morgan" 0.0 0.0 ellipse
+4 "Hannah Godfrey" 0.0 0.0 ellipse
+5 "Lucy Quinn" 0.0 0.0 ellipse
+6 "Gemma Suzanne Davison" 0.0 0.0 ellipse
+7 "Emma Mitchell" 0.0 0.0 ellipse
+8 "Anna Filbey" 0.0 0.0 ellipse
+9 "Josie Green" 0.0 0.0 ellipse
+10 "Ashleigh Neville" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "Angela Addison/Kit Graham" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 9 2
+1 5 2
+1 11 1
+1 7 1
+1 6 1
+1 12 1
+1 13 1
+2 1 1
+2 4 2
+2 10 4
+2 8 1
+2 5 1
+3 4 5
+3 8 5
+3 6 2
+4 2 3
+4 8 4
+4 10 3
+4 3 1
+4 6 1
+4 5 2
+4 7 1
+4 13 1
+5 6 1
+5 7 1
+5 9 1
+5 1 3
+5 2 1
+5 8 1
+6 4 2
+6 1 2
+6 7 1
+6 11 1
+6 13 2
+7 2 2
+7 5 1
+7 1 3
+7 8 1
+7 4 2
+7 9 4
+7 13 2
+8 7 5
+8 2 1
+8 1 1
+8 9 2
+8 10 1
+8 4 2
+8 3 1
+8 13 1
+9 2 1
+9 10 4
+9 5 2
+9 6 2
+9 12 1
+9 7 2
+9 8 1
+9 4 1
+9 13 2
+10 9 3
+10 6 2
+10 4 2
+10 3 1
+10 1 1
+10 5 3
+10 2 1
+10 13 3
+13 5 1
+13 1 1
+13 6 2
+13 10 1
+13 8 1

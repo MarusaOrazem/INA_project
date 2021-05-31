@@ -1,0 +1,98 @@
+*vertices 11
+1 "Héctor Miguel Herrera López" 0.0 0.0 ellipse
+2 "Jesús Daniel Gallardo Vasconcelos" 0.0 0.0 ellipse
+3 "Héctor Alfredo Moreno Herrera" 0.0 0.0 ellipse
+4 "Hugo Ayala Castro" 0.0 0.0 ellipse
+5 "Francisco Guillermo Ochoa Magaña" 0.0 0.0 ellipse
+6 "Javier Hernández Balcázar" 0.0 0.0 ellipse
+7 "Carlos Joel Salcedo Hernández" 0.0 0.0 ellipse
+8 "Miguel Arturo Layún Prado" 0.0 0.0 ellipse
+9 "Carlos Alberto Vela Garrido/Edson Omar Álvarez Velázquez" 0.0 0.0 ellipse
+10 "Hirving Rodrigo Lozano Bahena/Raúl Alonso Jiménez Rodríguez" 0.0 0.0 ellipse
+11 "José Andrés Guardado Hernández/Rafael Márquez Álvarez" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 6 4
+1 4 1
+1 8 2
+1 5 2
+1 3 1
+1 7 1
+1 9 4
+1 10 2
+1 11 1
+2 3 8
+2 1 8
+2 8 1
+2 9 8
+2 10 3
+2 11 2
+3 4 4
+3 6 2
+3 5 6
+3 2 3
+3 1 2
+3 9 1
+3 10 3
+3 11 3
+4 5 2
+4 3 4
+4 7 5
+4 6 1
+4 1 1
+4 10 1
+5 2 4
+5 7 2
+5 4 3
+5 1 2
+5 3 1
+5 8 1
+5 11 2
+5 9 3
+5 10 2
+6 7 1
+6 8 2
+6 1 1
+6 9 2
+6 10 1
+6 11 2
+7 4 3
+7 8 3
+7 3 1
+7 6 4
+7 1 2
+7 2 1
+7 9 1
+7 10 1
+7 11 3
+8 1 5
+8 3 1
+8 6 2
+8 7 1
+8 9 1
+8 10 2
+8 11 1
+9 1 5
+9 2 1
+9 8 2
+9 7 2
+9 10 4
+9 11 4
+9 5 1
+10 1 3
+10 2 1
+10 6 1
+10 8 1
+10 3 1
+10 9 4
+10 11 3
+11 2 6
+11 7 3
+11 1 1
+11 3 1
+11 6 2
+11 8 2
+11 5 1
+11 4 1
+11 9 1
+11 10 2

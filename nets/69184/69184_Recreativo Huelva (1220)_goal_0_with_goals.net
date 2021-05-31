@@ -1,0 +1,75 @@
+*vertices 12
+1 "Javier Camuñas Gallego" 0.0 0.0 ellipse
+2 "Aitor Tornavaca Fernández" 0.0 0.0 ellipse
+3 "José María Calvo" 0.0 0.0 ellipse
+4 "José Martín Cáceres Silva" 0.0 0.0 ellipse
+5 "Iago Bouzón Amodeo" 0.0 0.0 ellipse
+6 "Hipólito Fernández Serrano" 0.0 0.0 ellipse
+7 "Florent Sinama-Pongolle" 0.0 0.0 ellipse
+8 "Marcos García Barreno" 0.0 0.0 ellipse
+9 "Antonio Jesús Vázquez Muñoz" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Stefano Sorrentino" 0.0 0.0 ellipse
+12 "Carlos Jorge Neto Martins/José Zahinos" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 7 1
+1 9 2
+1 10 1
+1 12 3
+2 1 2
+2 7 3
+2 4 1
+2 6 2
+2 8 5
+2 12 4
+3 2 1
+3 7 2
+3 1 3
+3 5 1
+3 4 1
+3 12 3
+4 5 2
+4 7 2
+4 6 2
+4 9 2
+4 11 1
+5 6 1
+5 9 1
+5 2 2
+5 7 1
+5 12 2
+6 5 1
+6 4 2
+6 8 2
+6 9 3
+6 7 1
+6 1 1
+6 2 4
+7 6 2
+7 1 1
+7 8 1
+7 9 1
+7 2 3
+7 3 1
+7 12 2
+8 2 3
+8 7 1
+8 6 1
+8 12 1
+9 7 1
+9 1 1
+9 3 1
+9 2 2
+9 4 1
+9 8 1
+9 12 5
+11 8 2
+11 4 1
+11 7 1
+12 9 2
+12 7 3
+12 10 2
+12 2 2
+12 1 5
+12 5 1

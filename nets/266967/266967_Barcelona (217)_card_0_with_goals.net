@@ -1,0 +1,115 @@
+*vertices 13
+1 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+2 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+3 "Sergi Roberto Carnicer" 0.0 0.0 ellipse
+4 "Adriano Correia Claro" 0.0 0.0 ellipse
+5 "Marc Bartra Aregall" 0.0 0.0 ellipse
+6 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+7 "Martín Montoya Torralbo" 0.0 0.0 ellipse
+8 "Rafael Alcântara do Nascimento" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Ivan Rakitić/Xavier Hernández Creus" 0.0 0.0 ellipse
+13 "Neymar da Silva Santos Junior/Pedro Eliezer Rodríguez Ledesma" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 8 3
+1 7 6
+1 12 1
+1 13 1
+2 3 11
+2 4 5
+2 9 2
+2 6 2
+2 8 3
+2 7 10
+2 11 2
+2 5 2
+2 1 4
+2 12 6
+2 13 1
+3 4 6
+3 7 16
+3 5 17
+3 2 8
+3 8 11
+3 6 7
+3 1 1
+3 12 4
+3 13 4
+4 5 6
+4 1 3
+4 3 10
+4 6 4
+4 8 6
+4 10 2
+4 2 1
+4 12 4
+4 13 5
+5 6 11
+5 7 3
+5 4 15
+5 8 6
+5 3 9
+5 10 4
+5 2 4
+5 12 3
+5 13 2
+6 7 16
+6 3 9
+6 8 6
+6 5 9
+6 10 4
+6 1 1
+6 2 3
+6 4 1
+6 12 1
+6 13 1
+7 6 18
+7 2 29
+7 3 11
+7 8 9
+7 1 5
+7 10 1
+7 5 1
+7 12 5
+7 13 4
+8 4 10
+8 5 4
+8 2 9
+8 7 8
+8 1 2
+8 6 7
+8 3 8
+8 9 1
+8 12 2
+8 13 3
+10 3 4
+10 5 3
+10 4 3
+10 1 1
+10 6 3
+10 7 4
+10 12 1
+12 8 7
+12 9 1
+12 5 1
+12 1 2
+12 4 2
+12 3 4
+12 7 5
+12 2 4
+12 6 3
+12 13 4
+13 8 3
+13 4 2
+13 7 3
+13 2 9
+13 1 1
+13 9 2
+13 6 2
+13 3 4
+13 5 1
+13 11 1
+13 12 4

@@ -1,0 +1,96 @@
+*vertices 13
+1 "José Luis Gayá Peña" 0.0 0.0 ellipse
+2 "Gonçalo Manuel Ganchinho Guedes" 0.0 0.0 ellipse
+3 "Norberto Murara Neto" 0.0 0.0 ellipse
+4 "Gabriel Armando de Abreu" 0.0 0.0 ellipse
+5 "Daniel Parejo Muñoz" 0.0 0.0 ellipse
+6 "Simone Zaza" 0.0 0.0 ellipse
+7 "Geoffrey Kondogbia" 0.0 0.0 ellipse
+8 "Martín Montoya Torralbo" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Rodrigo Moreno Machado/Andreas Hoelgebaum Pereira" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Ezequiel Marcelo Garay/Rúben Miguel Nunes Vezo" 0.0 0.0 ellipse
+13 "Carlos Soler Barragán/Santiago Mina Lorenzo" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 4 4
+1 5 6
+1 7 3
+1 6 2
+1 3 2
+1 10 1
+1 12 1
+1 13 1
+2 1 4
+2 3 1
+2 5 3
+2 6 3
+2 7 3
+2 8 2
+2 9 1
+2 10 1
+2 13 1
+3 5 2
+3 4 2
+3 6 2
+3 13 1
+3 10 1
+4 1 4
+4 5 5
+4 2 1
+4 8 2
+4 10 1
+4 12 2
+5 6 1
+5 7 5
+5 2 9
+5 1 5
+5 8 5
+5 10 2
+5 12 7
+5 13 6
+6 5 2
+6 9 4
+6 8 1
+6 10 3
+7 5 5
+7 3 2
+7 8 2
+7 4 2
+7 2 6
+7 9 1
+7 1 2
+7 10 4
+7 12 2
+7 13 1
+8 5 4
+8 6 3
+8 2 3
+8 1 1
+8 7 2
+8 10 1
+8 12 6
+8 13 4
+10 9 1
+10 1 7
+10 7 1
+10 2 5
+10 5 1
+10 11 1
+10 13 1
+10 6 1
+12 5 3
+12 6 3
+12 8 4
+12 3 1
+12 7 2
+12 2 1
+12 10 4
+12 13 4
+12 1 1
+13 5 6
+13 7 1
+13 8 5
+13 2 1
+13 10 1

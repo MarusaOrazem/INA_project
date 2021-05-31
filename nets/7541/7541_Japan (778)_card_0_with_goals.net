@@ -1,0 +1,17 @@
+*vertices 8
+1 "Shinji Kagawa" 0.0 0.0 ellipse
+2 "Makoto Hasebe" 0.0 0.0 ellipse
+3 "Maya Yoshida" 0.0 0.0 ellipse
+4 "Hiroki Sakai" 0.0 0.0 ellipse
+5 "Gen Shōji" 0.0 0.0 ellipse
+6 "Yūya Ōsako" 0.0 0.0 ellipse
+7 ON_goal 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+2 3 2
+3 5 1
+4 3 1
+5 2 1
+6 7 1

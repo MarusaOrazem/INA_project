@@ -1,0 +1,47 @@
+*vertices 11
+1 "Fara Williams" 0.0 0.0 ellipse
+2 "Brooke Chaplen" 0.0 0.0 ellipse
+3 "Angharad James" 0.0 0.0 ellipse
+4 "Kristine Leine" 0.0 0.0 ellipse
+5 "Sophie Howard" 0.0 0.0 ellipse
+6 "Grace Moloney" 0.0 0.0 ellipse
+7 "Mayumi Pacheco" 0.0 0.0 ellipse
+8 "Jade Moore" 0.0 0.0 ellipse
+9 "Remi Allen" 0.0 0.0 ellipse
+10 "Millie Farrow" 0.0 0.0 ellipse
+11 "Amalie Vevle Eikeland" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 9 1
+1 5 1
+1 6 1
+1 8 1
+2 1 1
+3 4 2
+3 9 1
+3 1 4
+3 5 1
+4 5 6
+4 8 1
+4 2 1
+4 3 4
+4 6 1
+4 11 1
+5 4 5
+5 7 3
+5 6 3
+5 9 2
+5 1 1
+6 5 5
+6 4 5
+7 5 4
+7 4 2
+7 2 2
+8 3 1
+8 1 1
+9 4 2
+9 3 1
+10 11 1
+11 10 1
+11 7 1

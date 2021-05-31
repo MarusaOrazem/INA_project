@@ -1,0 +1,96 @@
+*vertices 13
+1 "Rubén Pardo Gutiérrez" 0.0 0.0 ellipse
+2 "Yuri Berchiche Izeta" 0.0 0.0 ellipse
+3 "Íñigo Martínez Berridi" 0.0 0.0 ellipse
+4 "Gerónimo Rulli" 0.0 0.0 ellipse
+5 "Aritz Elustondo Irribaria" 0.0 0.0 ellipse
+6 "Esteban Félix Granero Molina" 0.0 0.0 ellipse
+7 "Mikel González de Martín Martínez" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Xabier Prieto Argarate" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Sergio Canales Madrazo/Mikel Oyarzabal Ugarte" 0.0 0.0 ellipse
+12 "Imanol Agirretxe Arruti/Héctor Hernández Ortega" 0.0 0.0 ellipse
+13 "Carlos Alberto Vela Garrido/Armindo Tué Na Bangna" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 5 1
+1 6 5
+1 3 2
+1 7 1
+1 9 2
+1 13 1
+2 3 1
+2 8 1
+2 4 1
+2 9 5
+2 1 6
+2 6 4
+2 10 1
+2 13 2
+2 11 2
+2 12 2
+3 4 1
+3 2 6
+3 1 2
+3 7 1
+3 9 2
+3 6 1
+3 11 1
+3 12 1
+3 13 1
+4 3 3
+4 2 1
+4 5 1
+4 12 1
+5 6 6
+5 1 2
+5 3 1
+5 11 3
+5 12 1
+5 13 1
+6 5 3
+6 3 1
+6 7 5
+6 4 2
+6 2 2
+6 1 5
+6 9 3
+6 12 3
+6 11 6
+6 13 3
+7 1 1
+7 6 1
+7 9 1
+7 12 3
+7 13 1
+9 2 3
+9 6 6
+9 1 3
+9 5 1
+9 12 1
+9 13 1
+9 11 2
+11 4 1
+11 2 1
+11 6 6
+11 5 1
+11 10 2
+11 12 1
+11 13 5
+12 1 1
+12 3 2
+12 6 1
+12 2 3
+12 5 1
+12 11 1
+12 13 3
+13 2 1
+13 1 2
+13 9 1
+13 5 1
+13 6 1
+13 12 1
+13 11 1
+13 10 3
+13 8 1

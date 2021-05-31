@@ -1,0 +1,103 @@
+*vertices 13
+1 "Roberto Luis Gaspar de Deus Severo" 0.0 0.0 ellipse
+2 "Antonio Jesús Vázquez Muñoz" 0.0 0.0 ellipse
+3 "Juan Merino Ruíz " 0.0 0.0 ellipse
+4 "Pedro Mario Álvarez Abrante" 0.0 0.0 ellipse
+5 "Ikechukwu Uche" 0.0 0.0 ellipse
+6 "Javier López Vallejo" 0.0 0.0 ellipse
+7 "Daniel Bautista Pina" 0.0 0.0 ellipse
+8 "Aitor Tornavaca Fernández" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Florent Sinama-Pongolle/Laurențiu Dumitru Roșu" 0.0 0.0 ellipse
+12 "Rafael Barber Rodríguez/César Arzo Amposta" 0.0 0.0 ellipse
+13 "Juan Manuel Gómez Sánchez/José Manuel González Ortiz" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 4 4
+1 3 2
+1 6 2
+1 8 1
+1 5 1
+1 12 2
+1 13 2
+1 11 1
+2 3 4
+2 8 6
+2 9 2
+2 1 1
+2 5 8
+2 7 5
+2 11 2
+2 12 4
+2 13 1
+3 4 3
+3 5 3
+3 1 9
+3 2 8
+3 7 1
+3 11 1
+3 12 2
+3 13 1
+4 1 4
+4 5 4
+4 3 1
+4 8 5
+4 7 3
+4 2 3
+4 12 3
+4 11 1
+5 3 1
+5 8 4
+5 1 1
+5 10 2
+5 2 5
+5 9 1
+5 11 2
+5 12 2
+5 13 3
+6 7 2
+6 2 1
+6 5 2
+6 3 1
+6 13 1
+7 5 5
+7 1 1
+7 2 3
+7 8 7
+7 4 6
+7 12 4
+7 13 1
+8 9 1
+8 2 5
+8 7 5
+8 5 6
+8 10 1
+8 3 1
+8 11 1
+8 12 1
+8 13 2
+11 9 1
+11 8 1
+11 2 3
+11 12 1
+11 5 3
+11 3 1
+11 13 1
+12 2 2
+12 5 1
+12 8 3
+12 9 2
+12 4 2
+12 1 2
+12 3 4
+12 11 1
+12 13 1
+12 7 1
+13 2 1
+13 3 3
+13 7 1
+13 10 1
+13 5 1
+13 8 1
+13 12 1

@@ -1,0 +1,98 @@
+*vertices 13
+1 "Antoine Griezmann" 0.0 0.0 ellipse
+2 "Steven N"Kemboanza Mike Christopher Nzonzi" 0.0 0.0 ellipse
+3 "Raphaël Varane" 0.0 0.0 ellipse
+4 "Djibril Sidibé" 0.0 0.0 ellipse
+5 "Presnel Kimpembe" 0.0 0.0 ellipse
+6 "Lucas Hernández Pi" 0.0 0.0 ellipse
+7 "Thomas Lemar" 0.0 0.0 ellipse
+8 "N"Golo Kanté" 0.0 0.0 ellipse
+9 "Ousmane Dembélé" 0.0 0.0 ellipse
+10 "Steve Mandanda" 0.0 0.0 ellipse
+11 "Olivier Giroud" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 7
+1 9 3
+1 4 5
+1 3 2
+1 7 8
+1 6 1
+1 8 2
+1 12 1
+2 3 2
+2 5 5
+2 1 4
+2 7 4
+2 6 8
+2 11 1
+2 8 4
+2 9 3
+2 4 2
+3 4 17
+3 5 12
+3 8 9
+3 9 4
+3 1 3
+3 13 1
+3 10 1
+3 2 1
+3 7 1
+4 3 9
+4 9 18
+4 8 7
+4 1 5
+4 10 2
+4 11 1
+4 2 1
+5 3 9
+5 2 7
+5 6 8
+5 10 3
+5 8 6
+6 7 8
+6 5 10
+6 11 3
+6 1 6
+6 2 4
+6 8 4
+7 8 4
+7 6 5
+7 5 1
+7 3 4
+7 2 4
+7 1 5
+7 9 1
+7 11 1
+7 4 1
+8 4 8
+8 3 6
+8 9 3
+8 7 3
+8 6 5
+8 1 8
+8 2 5
+8 10 1
+8 11 1
+8 5 1
+9 4 7
+9 8 3
+9 1 5
+9 6 3
+9 3 1
+9 11 3
+9 7 2
+9 13 2
+9 2 3
+10 3 9
+10 11 2
+10 8 1
+10 4 1
+10 5 1
+11 1 1
+11 6 2
+11 12 1
+11 3 1
+11 4 2
+11 9 1

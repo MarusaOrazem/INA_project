@@ -1,0 +1,75 @@
+*vertices 13
+1 "Min-Ji Yeo" 0.0 0.0 ellipse
+2 "So-yun Ji" 0.0 0.0 ellipse
+3 "Geum-Min Lee" 0.0 0.0 ellipse
+4 "Hye-Ri Kim" 0.0 0.0 ellipse
+5 "Bo-Ram Hwang" 0.0 0.0 ellipse
+6 "So-Hyun Cho" 0.0 0.0 ellipse
+7 "Mi-Ra Moon" 0.0 0.0 ellipse
+8 "Sel-Gi Jang" 0.0 0.0 ellipse
+9 "Do-Yeon Kim" 0.0 0.0 ellipse
+10 "Min-Jeong Kim" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "Chae-Rim Kang/So-Dam Lee" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 4 1
+1 8 2
+1 12 2
+2 3 2
+2 6 3
+2 1 1
+2 4 2
+2 13 2
+3 4 2
+3 7 1
+3 1 1
+3 13 3
+4 5 2
+4 2 3
+4 1 1
+4 6 3
+4 7 4
+4 13 2
+5 6 3
+5 2 1
+5 4 3
+5 9 4
+6 5 1
+6 4 4
+6 2 4
+6 11 1
+6 8 1
+6 3 1
+6 13 3
+7 8 1
+7 12 1
+7 3 1
+7 5 1
+7 13 1
+8 9 3
+8 2 1
+8 1 2
+8 11 1
+8 6 1
+8 13 2
+9 2 1
+9 6 3
+9 10 1
+9 5 2
+9 8 2
+9 13 3
+10 9 2
+10 5 1
+10 13 1
+13 3 2
+13 6 2
+13 4 1
+13 1 3
+13 8 4
+13 2 2
+13 5 2
+13 7 1
+13 9 1

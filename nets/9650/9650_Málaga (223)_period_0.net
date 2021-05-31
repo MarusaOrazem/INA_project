@@ -1,0 +1,79 @@
+*vertices 11
+1 "Diego Alejandro Rolan Silva" 0.0 0.0 ellipse
+2 "Esteban Rolón" 0.0 0.0 ellipse
+3 "Roberto José Rosales Altuve" 0.0 0.0 ellipse
+4 "Luis Hernández Rodríguez" 0.0 0.0 ellipse
+5 "Paul Baysse" 0.0 0.0 ellipse
+6 "Andrés Tomás Prieto Albert" 0.0 0.0 ellipse
+7 "Adrián González Morales" 0.0 0.0 ellipse
+8 "Adalberto Peñaranda Maestre" 0.0 0.0 ellipse
+9 "Juan Carlos Pérez López" 0.0 0.0 ellipse
+10 "Sergio Gontán Gallardo" 0.0 0.0 ellipse
+11 "Gonzalo Castro Irizábal" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 8 1
+1 9 1
+1 10 2
+1 11 1
+2 3 4
+2 11 2
+2 7 4
+2 5 1
+2 8 2
+2 4 2
+2 9 1
+3 4 8
+3 8 5
+3 5 1
+3 7 1
+3 2 2
+3 11 2
+3 10 3
+4 5 2
+4 3 3
+4 7 3
+4 2 4
+4 8 2
+4 10 2
+4 1 1
+4 6 1
+5 6 3
+5 11 2
+5 9 2
+5 4 1
+5 10 1
+5 7 2
+5 2 1
+6 8 2
+6 7 1
+7 8 4
+7 3 4
+7 2 6
+7 5 3
+7 9 4
+7 11 4
+7 1 1
+8 3 4
+8 10 1
+8 9 2
+8 7 2
+8 2 2
+8 4 1
+9 8 2
+9 5 2
+9 7 4
+9 11 3
+9 1 2
+10 6 1
+10 8 1
+10 3 4
+10 4 1
+10 7 1
+10 1 1
+11 7 1
+11 8 3
+11 10 1
+11 1 4
+11 3 1
+11 9 1

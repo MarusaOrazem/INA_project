@@ -1,0 +1,80 @@
+*vertices 11
+1 "Carlos Castro García" 0.0 0.0 ellipse
+2 "Xavier Torres Buigues" 0.0 0.0 ellipse
+3 "Manuel Castellano Castro" 0.0 0.0 ellipse
+4 "Juan Rodríguez Martínez" 0.0 0.0 ellipse
+5 "Elderson Uwa Echiejile" 0.0 0.0 ellipse
+6 "Sergio Álvarez Díaz" 0.0 0.0 ellipse
+7 "Jorge Franco Alviz" 0.0 0.0 ellipse
+8 "Ignacio Cases Mora" 0.0 0.0 ellipse
+9 "Douglas Pereira dos Santos" 0.0 0.0 ellipse
+10 "Iván Cuéllar Sacristán" 0.0 0.0 ellipse
+11 "Jean-Sylvain Claude Babin" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 2
+1 4 1
+1 11 1
+1 8 1
+1 5 1
+1 6 1
+2 3 1
+2 9 3
+2 8 2
+2 5 2
+2 6 2
+2 4 1
+2 7 2
+3 4 1
+3 6 1
+3 8 4
+3 11 2
+3 9 2
+3 2 2
+3 10 1
+3 5 2
+4 5 1
+4 7 1
+4 9 1
+4 8 1
+4 6 2
+5 6 2
+5 9 1
+5 7 5
+5 2 1
+5 4 1
+5 1 1
+6 5 3
+6 7 4
+6 2 1
+6 9 2
+6 1 1
+6 8 1
+7 8 1
+7 1 1
+7 6 4
+7 11 1
+7 9 1
+8 4 1
+8 9 4
+8 3 6
+8 2 2
+8 7 2
+9 8 3
+9 3 2
+9 2 2
+9 6 1
+9 1 1
+10 9 1
+10 4 2
+10 7 2
+10 3 2
+10 11 1
+10 2 1
+11 3 2
+11 10 1
+11 5 1
+11 7 1
+11 8 2
+11 2 1
+11 1 1

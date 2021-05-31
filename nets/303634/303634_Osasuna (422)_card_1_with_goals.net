@@ -1,0 +1,36 @@
+*vertices 12
+1 "Aridane Hernández Umpiérrez" 0.0 0.0 ellipse
+2 "Ignacio Vidal Miralles" 0.0 0.0 ellipse
+3 "Raúl Rodríguez Navas" 0.0 0.0 ellipse
+4 "Enrique Barja Afonso" 0.0 0.0 ellipse
+5 "Sergio Herrera Pirón" 0.0 0.0 ellipse
+6 "Iñigo Pérez Soto" 0.0 0.0 ellipse
+7 "David García Zubiría" 0.0 0.0 ellipse
+8 "Jon Moncayola Tollar/Roberto Torres Morales" 0.0 0.0 ellipse
+9 "Pervis Josué Estupiñán Tenorio/Antonio Latorre Grueso" 0.0 0.0 ellipse
+10 "Oier Sanjurjo Mate" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+2 1 1
+2 8 1
+3 4 1
+3 8 1
+4 8 2
+4 9 2
+5 4 3
+5 9 1
+6 4 3
+6 7 1
+6 9 1
+8 4 1
+8 9 1
+8 11 1
+8 10 1
+9 6 3
+9 4 1
+9 12 1
+10 8 1
+10 9 1

@@ -1,0 +1,75 @@
+*vertices 11
+1 "Fernando Varela Ramos" 0.0 0.0 ellipse
+2 "Fernando Navarro i Corbacho" 0.0 0.0 ellipse
+3 "Angelos Basinas" 0.0 0.0 ellipse
+4 "José Carlos de Araújo Nunes" 0.0 0.0 ellipse
+5 "Borja Valero Iglesias" 0.0 0.0 ellipse
+6 "Héctor Berenguel del Piño" 0.0 0.0 ellipse
+7 "Pierre Achille Webó Kouamo" 0.0 0.0 ellipse
+8 "Juan Fernando Arango Sáenz" 0.0 0.0 ellipse
+9 "David Navarro Pedrós" 0.0 0.0 ellipse
+10 "Daniel González Güiza" 0.0 0.0 ellipse
+11 "Miguel Ángel Moyà Rumbo" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 8 4
+1 7 1
+1 3 2
+1 4 1
+1 5 2
+2 3 8
+2 1 11
+2 5 1
+2 7 5
+2 9 1
+3 4 2
+3 2 4
+3 9 2
+3 6 3
+3 8 5
+3 5 5
+3 1 2
+4 6 2
+4 5 1
+4 8 2
+4 9 2
+4 10 1
+4 2 5
+5 4 3
+5 7 2
+5 2 4
+5 3 3
+5 1 5
+5 6 4
+5 8 1
+5 9 1
+6 4 1
+6 8 7
+6 7 1
+6 5 5
+6 9 2
+6 10 3
+6 3 4
+6 1 1
+7 3 3
+7 1 3
+7 2 1
+8 2 2
+8 5 6
+8 6 6
+8 10 2
+8 1 2
+8 9 1
+9 8 2
+9 5 1
+9 1 1
+9 6 2
+9 7 2
+9 3 2
+9 4 1
+10 8 2
+10 6 2
+11 8 1
+11 10 1
+11 2 1
+11 9 1

@@ -1,0 +1,68 @@
+*vertices 11
+1 "Kirstie Levell" 0.0 0.0 ellipse
+2 "Gabrielle George" 0.0 0.0 ellipse
+3 "Elise Hughes" 0.0 0.0 ellipse
+4 "Angharad James" 0.0 0.0 ellipse
+5 "Chloe Kelly" 0.0 0.0 ellipse
+6 "Danielle Turner" 0.0 0.0 ellipse
+7 "Megan Finnigan" 0.0 0.0 ellipse
+8 "Georgia Brougham" 0.0 0.0 ellipse
+9 "Taylor Hinds" 0.0 0.0 ellipse
+10 "Simone Magill/Chantelle Boye-Hlorkah" 0.0 0.0 ellipse
+11 "Inessa Kaagman/Dominique Bruinenberg" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 8 3
+1 9 3
+1 7 1
+2 3 2
+2 8 5
+2 6 3
+2 7 1
+2 1 1
+2 4 1
+3 6 1
+3 10 1
+4 5 5
+4 2 2
+4 7 1
+4 8 3
+4 11 1
+5 7 1
+5 9 2
+5 4 1
+5 11 1
+6 3 10
+6 2 1
+6 7 1
+6 8 1
+6 1 1
+6 5 2
+6 10 7
+7 6 3
+7 4 2
+7 9 1
+7 2 3
+7 1 1
+7 11 1
+7 10 1
+8 2 4
+8 1 3
+8 7 2
+8 9 2
+8 5 1
+8 3 1
+8 11 1
+8 10 1
+9 3 5
+9 5 2
+9 8 1
+9 10 1
+9 11 1
+10 7 1
+10 4 2
+10 6 1
+10 3 1
+11 8 1
+11 6 1
+11 5 1

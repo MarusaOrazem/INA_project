@@ -1,0 +1,58 @@
+*vertices 13
+1 "Dimitri Foulquier" 0.0 0.0 ellipse
+2 "José Luis García del Pozo" 0.0 0.0 ellipse
+3 "Francisco Manuel Rico Castro" 0.0 0.0 ellipse
+4 "Tiago Abiola Delfim Almeida Ilori" 0.0 0.0 ellipse
+5 "Youssef El-Arabi" 0.0 0.0 ellipse
+6 "Orestis Karnezis" 0.0 0.0 ellipse
+7 "Allan Romeo Nyom" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Manuel Rolando Iturra Urrutia" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Yacine Brahimi/Christian Daniel Bravo Araneda" 0.0 0.0 ellipse
+12 "Francisco Medina Luna/Alexandre Coeff" 0.0 0.0 ellipse
+13 "Jeison Fabián Murillo Cerón/Diego Mainz García" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 5 1
+1 9 1
+1 11 4
+1 12 1
+2 1 3
+2 5 1
+2 8 1
+2 9 3
+2 4 1
+2 11 1
+2 12 1
+2 13 1
+3 1 2
+3 5 2
+3 2 1
+4 3 2
+5 3 1
+5 10 1
+5 8 2
+5 11 1
+5 12 1
+6 5 6
+6 7 1
+6 1 2
+6 2 1
+6 13 1
+6 12 1
+7 5 3
+7 3 1
+7 12 1
+9 3 1
+9 12 1
+11 8 1
+11 1 3
+11 2 2
+11 4 1
+11 5 1
+12 2 2
+12 5 2
+13 6 1
+13 5 1
+13 11 1

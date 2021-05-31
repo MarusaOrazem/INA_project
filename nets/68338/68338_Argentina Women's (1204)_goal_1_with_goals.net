@@ -1,0 +1,100 @@
+*vertices 13
+1 "Flavia Lorena Benítez" 0.0 0.0 ellipse
+2 "Linda Ruth Bravo" 0.0 0.0 ellipse
+3 "Mariana Valeria Larroquette" 0.0 0.0 ellipse
+4 "Vanina Noemí Correa" 0.0 0.0 ellipse
+5 "Agustina Barroso Basualdo" 0.0 0.0 ellipse
+6 "Aldana Cometti" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "María Florencia Bonsegundo" 0.0 0.0 ellipse
+9 "Eliana Noemi Stabile" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Estefanía Romina Banini Ruiz/Milagros Menéndez" 0.0 0.0 ellipse
+12 "Soledad Jaimes/Dalila Belén Ippolito" 0.0 0.0 ellipse
+13 "Vanesa Santana/Miriam Anahí Mayorga" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 7 1
+1 5 6
+1 3 1
+1 8 2
+1 9 1
+1 10 1
+1 11 1
+1 12 1
+1 13 3
+2 3 5
+2 1 7
+2 5 6
+2 6 1
+2 8 3
+2 11 3
+2 12 2
+3 2 2
+3 1 1
+3 8 2
+3 11 1
+4 5 1
+4 8 3
+4 1 2
+4 6 2
+4 13 1
+5 2 4
+5 1 4
+5 3 1
+5 8 1
+5 9 1
+5 4 1
+5 6 1
+5 11 1
+5 12 2
+5 13 2
+6 5 2
+6 8 3
+6 9 3
+6 1 2
+6 4 2
+6 2 1
+6 3 1
+6 11 4
+8 9 3
+8 6 2
+8 2 2
+8 1 2
+8 7 2
+8 10 1
+8 11 2
+8 13 2
+8 12 1
+9 8 8
+9 6 3
+9 5 2
+9 1 4
+9 4 1
+9 3 1
+9 11 1
+9 12 2
+11 8 1
+11 1 4
+11 6 1
+11 3 4
+11 2 3
+11 9 2
+11 12 1
+11 10 1
+11 13 1
+12 2 1
+12 11 1
+12 13 1
+12 9 1
+12 8 5
+12 1 2
+13 2 3
+13 6 2
+13 8 1
+13 3 1
+13 7 1
+13 9 1
+13 11 1
+13 12 2
+13 1 1

@@ -1,0 +1,40 @@
+*vertices 11
+1 "Joseba Llorente Etxarri" 0.0 0.0 ellipse
+2 "Gorka Elustondo Urkola" 0.0 0.0 ellipse
+3 "Alberto De La Bella Madureño" 0.0 0.0 ellipse
+4 "Xabier Prieto Argarate" 0.0 0.0 ellipse
+5 "Mikel González de Martín Martínez" 0.0 0.0 ellipse
+6 "Jon Ansotegi Gorostola" 0.0 0.0 ellipse
+7 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+8 "Antoine Griezmann" 0.0 0.0 ellipse
+9 "Diego Rivas Gutiérrez" 0.0 0.0 ellipse
+10 "Carlos Martínez Díez" 0.0 0.0 ellipse
+11 "Mikel Aranburu Eizagirre" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 2
+2 3 1
+2 4 1
+2 6 1
+2 8 1
+3 4 1
+3 9 1
+3 6 1
+3 8 2
+4 2 1
+4 5 1
+4 10 2
+4 1 1
+5 2 1
+5 10 1
+6 5 1
+7 8 1
+8 3 1
+8 4 1
+8 1 1
+9 3 1
+9 11 1
+9 8 1
+10 4 1
+11 10 1
+11 9 1

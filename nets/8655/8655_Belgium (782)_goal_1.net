@@ -1,0 +1,83 @@
+*vertices 11
+1 "Romelu Lukaku Menama" 0.0 0.0 ellipse
+2 "Eden Hazard" 0.0 0.0 ellipse
+3 "Toby Alderweireld" 0.0 0.0 ellipse
+4 "Vincent Kompany" 0.0 0.0 ellipse
+5 "Jan Vertonghen" 0.0 0.0 ellipse
+6 "Kevin De Bruyne" 0.0 0.0 ellipse
+7 "Axel Witsel" 0.0 0.0 ellipse
+8 "Thibaut Courtois" 0.0 0.0 ellipse
+9 "Moussa Sidi Yaya Dembélé/Dries Mertens" 0.0 0.0 ellipse
+10 "Marouane Fellaini-Bakkioui/Yannick Ferreira Carrasco" 0.0 0.0 ellipse
+11 "Nacer Chadli/Michy Batshuayi Tunga" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 6 1
+1 9 2
+2 1 4
+2 6 4
+2 7 2
+2 5 1
+2 3 1
+2 9 3
+2 10 1
+2 11 3
+3 4 17
+3 2 4
+3 8 2
+3 6 7
+3 7 2
+3 11 13
+3 9 6
+4 5 7
+4 2 5
+4 3 13
+4 7 4
+4 6 4
+4 11 1
+4 9 1
+5 4 5
+5 6 2
+5 2 2
+5 3 1
+5 8 1
+5 7 1
+5 9 1
+5 10 1
+5 11 1
+6 2 2
+6 4 4
+6 3 7
+6 7 1
+6 10 2
+6 11 3
+6 9 4
+7 4 5
+7 2 2
+7 3 4
+7 5 1
+7 6 1
+7 10 1
+7 11 1
+7 9 1
+8 5 2
+8 3 3
+9 5 1
+9 6 5
+9 3 3
+9 2 1
+9 4 1
+9 10 1
+9 11 2
+10 4 1
+10 2 1
+10 5 2
+10 1 2
+10 7 1
+11 3 11
+11 1 1
+11 7 2
+11 6 5
+11 8 1
+11 2 2
+11 9 1

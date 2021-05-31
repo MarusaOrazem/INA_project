@@ -1,0 +1,95 @@
+*vertices 11
+1 "Hamdi Nagguez" 0.0 0.0 ellipse
+2 "Ghilane Chalali" 0.0 0.0 ellipse
+3 "Yassine Meriah" 0.0 0.0 ellipse
+4 "Ferjani Sassi" 0.0 0.0 ellipse
+5 "Rami Bedoui" 0.0 0.0 ellipse
+6 "Aymen Mathlouthi" 0.0 0.0 ellipse
+7 "Naïm Sliti" 0.0 0.0 ellipse
+8 "Oussama Haddadi" 0.0 0.0 ellipse
+9 "Fakhreddine Ben Youssef" 0.0 0.0 ellipse
+10 "Ellyes Skhiri" 0.0 0.0 ellipse
+11 "Wahbi Khazri" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 5 4
+1 7 2
+1 11 1
+1 4 5
+1 9 3
+1 10 2
+2 1 5
+2 7 2
+2 9 2
+2 11 2
+2 3 7
+2 4 4
+2 10 6
+2 6 1
+2 5 8
+2 8 1
+3 4 19
+3 1 2
+3 6 4
+3 10 9
+3 5 5
+3 8 2
+3 2 11
+3 9 1
+3 11 2
+3 7 1
+4 3 6
+4 9 4
+4 10 7
+4 5 4
+4 7 8
+4 11 5
+4 8 2
+4 1 7
+4 2 4
+5 3 12
+5 11 3
+5 7 1
+5 10 7
+5 9 1
+5 4 3
+5 6 3
+5 2 4
+6 3 5
+6 5 3
+6 10 2
+6 1 1
+7 8 3
+7 3 1
+7 4 4
+7 2 3
+7 9 1
+7 5 2
+7 11 1
+8 4 2
+8 10 4
+8 7 6
+8 3 5
+8 9 1
+8 11 2
+9 2 1
+9 11 2
+9 4 2
+9 5 1
+9 10 4
+9 3 1
+10 3 9
+10 8 1
+10 2 5
+10 9 1
+10 5 5
+10 4 11
+10 7 3
+10 1 6
+10 11 1
+11 2 4
+11 1 2
+11 9 3
+11 4 1
+11 7 3
+11 8 2

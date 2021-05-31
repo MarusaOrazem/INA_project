@@ -1,0 +1,65 @@
+*vertices 12
+1 "Damiano Tommasi" 0.0 0.0 ellipse
+2 "Salvador Ballesta Vialcho" 0.0 0.0 ellipse
+3 "José Alejandro Suárez Martín" 0.0 0.0 ellipse
+4 "Diego Camacho Quesada" 0.0 0.0 ellipse
+5 "Iñaki Descarga Retegi" 0.0 0.0 ellipse
+6 "José Francisco Molina Jiménez " 0.0 0.0 ellipse
+7 "Luis Manuel Rubiales Béjar" 0.0 0.0 ellipse
+8 "Narcisse-Olivier Kapo Obou" 0.0 0.0 ellipse
+9 "Rahamat Riga Mustapha" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Mathieu Berson" 0.0 0.0 ellipse
+12 "Álvaro Luiz Maior de Aquino" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 8 2
+1 9 1
+1 7 1
+1 10 1
+1 11 1
+2 3 2
+2 8 6
+2 5 1
+2 11 2
+2 9 1
+3 1 1
+3 2 1
+3 6 2
+3 8 1
+4 5 2
+4 3 1
+4 11 1
+4 2 2
+4 9 2
+5 9 6
+5 2 3
+5 8 1
+6 2 4
+6 1 1
+6 9 1
+7 2 4
+7 3 1
+7 8 2
+7 1 2
+7 9 1
+7 11 3
+8 2 1
+8 1 2
+8 5 1
+8 9 1
+8 10 1
+9 10 2
+9 4 3
+9 2 1
+9 1 3
+9 12 1
+9 5 1
+11 7 2
+11 2 2
+11 3 1
+11 4 2
+11 1 1
+11 8 1
+12 4 1
+12 3 1

@@ -1,0 +1,105 @@
+*vertices 13
+1 "Esme Beth Morgan" 0.0 0.0 ellipse
+2 "Inessa Kaagman" 0.0 0.0 ellipse
+3 "Maéva Clemaron" 0.0 0.0 ellipse
+4 "Megan Finnigan" 0.0 0.0 ellipse
+5 "Tinja-Riikka Korpela" 0.0 0.0 ellipse
+6 "Danielle Turner" 0.0 0.0 ellipse
+7 "Gabrielle George" 0.0 0.0 ellipse
+8 "Chloe Kelly" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Hannah Cain/Chantelle Boye-Hlorkah" 0.0 0.0 ellipse
+12 "Kika van Es/Molly Pike" 0.0 0.0 ellipse
+13 "Lucy Graham/Abbey-Leigh Stringer" 0.0 0.0 ellipse
+*arcs
+1 2 9
+1 4 5
+1 3 5
+1 8 1
+1 11 1
+1 12 3
+1 13 2
+2 3 5
+2 8 3
+2 6 1
+2 4 2
+2 1 4
+2 10 2
+2 11 2
+2 12 1
+2 13 3
+3 4 4
+3 1 6
+3 2 2
+3 8 2
+3 7 5
+3 6 2
+3 5 1
+3 11 1
+3 13 2
+4 5 5
+4 1 9
+4 3 2
+4 2 8
+4 9 1
+4 7 3
+4 10 1
+4 11 3
+4 12 2
+4 13 4
+5 4 4
+5 3 1
+5 7 7
+5 8 1
+5 1 2
+5 12 6
+5 13 2
+6 7 3
+6 5 2
+6 3 5
+6 8 4
+6 11 1
+7 6 11
+7 8 1
+7 3 1
+7 4 3
+7 2 2
+7 5 1
+7 1 1
+7 9 1
+7 11 1
+7 12 1
+7 13 3
+8 7 2
+8 6 5
+8 4 1
+8 2 2
+8 3 2
+8 9 1
+8 12 1
+11 2 2
+11 1 1
+11 4 1
+11 3 1
+11 12 1
+11 13 2
+11 8 2
+12 4 9
+12 5 2
+12 6 1
+12 2 2
+12 1 1
+12 3 2
+12 7 3
+12 8 2
+13 7 5
+13 6 2
+13 8 1
+13 1 1
+13 3 1
+13 2 2
+13 5 1
+13 4 3
+13 11 1
+13 12 2

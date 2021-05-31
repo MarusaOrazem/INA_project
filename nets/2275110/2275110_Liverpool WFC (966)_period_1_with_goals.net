@@ -1,0 +1,82 @@
+*vertices 13
+1 "Jemma Elizabeth Purfield" 0.0 0.0 ellipse
+2 "Leigh-Anne Robe" 0.0 0.0 ellipse
+3 "Sophie Elizabeth Bradley-Auckland" 0.0 0.0 ellipse
+4 "Rhiannon Roberts" 0.0 0.0 ellipse
+5 "Rebecca Jane" 0.0 0.0 ellipse
+6 "Jade Bailey" 0.0 0.0 ellipse
+7 "Frances Kitching" 0.0 0.0 ellipse
+8 "Rinsola Babajide" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Melissa Lawley/Kirsty Linnett" 0.0 0.0 ellipse
+12 "Jessica Anne Clarke/Courtney Sweetman-Kirk" 0.0 0.0 ellipse
+13 "Niamh Charles/Ashley Hodson" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 3
+1 7 1
+1 6 2
+1 8 1
+1 13 1
+1 11 6
+2 1 2
+2 6 3
+2 3 2
+2 12 1
+2 13 1
+3 4 2
+3 6 4
+3 5 2
+3 7 3
+3 2 1
+3 13 1
+4 1 1
+4 8 1
+4 3 2
+4 10 1
+4 5 2
+4 2 2
+4 9 1
+4 11 3
+5 6 4
+5 8 2
+5 3 1
+5 4 1
+5 11 3
+5 12 3
+5 13 1
+6 5 3
+6 3 3
+6 2 2
+6 4 2
+6 1 1
+6 8 1
+6 10 1
+6 11 1
+7 3 2
+7 2 2
+7 8 1
+7 1 1
+7 11 1
+7 12 1
+8 9 1
+8 5 2
+8 7 1
+8 12 1
+11 6 2
+11 8 1
+11 1 1
+11 10 1
+11 4 2
+11 12 3
+12 1 1
+12 5 1
+12 4 2
+12 13 2
+12 11 1
+13 1 3
+13 6 1
+13 8 2
+13 5 1
+13 11 1

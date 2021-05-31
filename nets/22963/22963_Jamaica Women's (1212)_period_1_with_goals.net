@@ -1,0 +1,90 @@
+*vertices 13
+1 "Khadija Monifa Shaw" 0.0 0.0 ellipse
+2 "Havana Solaun" 0.0 0.0 ellipse
+3 "Allyson Swaby" 0.0 0.0 ellipse
+4 "Sydney Schneider" 0.0 0.0 ellipse
+5 OFF_goal 0.0 0.0 ellipse
+6 "Sashana Campbell" 0.0 0.0 ellipse
+7 "Chinyelu Asher" 0.0 0.0 ellipse
+8 "Konya Plummer" 0.0 0.0 ellipse
+9 "Deneisha Selena Blackwood" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Mireya Grey/Jody Brown" 0.0 0.0 ellipse
+12 "Olufolasade Adamolekun/Lauren Amanda Silver" 0.0 0.0 ellipse
+13 "Chantelle Swaby/Marlo Carmen Sweatman" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 2
+1 5 2
+1 6 1
+1 11 1
+1 12 2
+1 13 1
+2 3 1
+2 1 4
+2 7 2
+2 6 2
+2 9 1
+2 10 1
+2 11 1
+2 13 1
+2 12 3
+3 4 5
+3 5 1
+3 8 2
+3 1 3
+3 6 1
+3 2 1
+3 11 1
+3 12 1
+3 13 3
+4 3 5
+4 8 4
+4 13 1
+4 11 1
+4 12 1
+6 7 1
+6 3 7
+6 2 2
+6 12 1
+6 13 1
+6 11 1
+7 1 1
+7 2 2
+7 11 1
+7 12 2
+7 13 3
+8 2 1
+8 9 2
+8 7 1
+8 1 1
+8 12 1
+8 13 4
+9 2 4
+9 1 5
+9 5 1
+9 7 1
+9 12 3
+9 13 1
+11 8 1
+11 5 1
+11 2 3
+11 1 1
+11 6 1
+11 3 2
+11 12 2
+12 2 2
+12 1 1
+12 5 1
+12 7 1
+12 6 1
+12 13 1
+12 11 2
+12 8 1
+12 9 3
+13 3 2
+13 9 3
+13 8 6
+13 6 3
+13 2 1
+13 12 1

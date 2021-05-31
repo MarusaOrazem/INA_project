@@ -1,0 +1,46 @@
+*vertices 11
+1 "Daniel Parejo Muñoz" 0.0 0.0 ellipse
+2 "Enzo Nicolás Pérez" 0.0 0.0 ellipse
+3 "José Luis Gayá Peña" 0.0 0.0 ellipse
+4 "Rodrigo Moreno Machado" 0.0 0.0 ellipse
+5 "Luís Carlos Almeida da Cunha" 0.0 0.0 ellipse
+6 "Eliaquim Mangala" 0.0 0.0 ellipse
+7 "Mario Suárez Mata" 0.0 0.0 ellipse
+8 "Ezequiel Marcelo Garay" 0.0 0.0 ellipse
+9 "Martín Montoya Torralbo" 0.0 0.0 ellipse
+10 "João Pedro Cavaco Cancelo" 0.0 0.0 ellipse
+11 "Diego Alves Carreira" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 1
+1 9 1
+1 4 1
+1 7 1
+2 8 1
+2 1 1
+2 3 1
+3 4 1
+3 1 3
+3 5 3
+3 6 1
+3 7 1
+4 5 2
+4 10 2
+5 7 1
+5 2 1
+5 1 1
+6 7 1
+6 11 1
+7 4 2
+7 11 1
+7 1 1
+7 3 1
+8 9 2
+9 10 2
+9 4 1
+9 2 1
+9 3 1
+10 3 1
+10 1 1
+10 4 1
+11 10 1

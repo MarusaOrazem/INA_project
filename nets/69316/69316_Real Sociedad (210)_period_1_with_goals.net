@@ -1,0 +1,82 @@
+*vertices 13
+1 "Mikel Aranburu Eizagirre" 0.0 0.0 ellipse
+2 "Antoine Griezmann" 0.0 0.0 ellipse
+3 "Liassine Cadamuro-Bentaïba" 0.0 0.0 ellipse
+4 "Mikel González de Martín Martínez" 0.0 0.0 ellipse
+5 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+6 "Carlos Martínez Díez" 0.0 0.0 ellipse
+7 "Íñigo Martínez Berridi" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Markel Bergara Larrañaga" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Diego Ifrán Sala/Carlos Alberto Vela Garrido" 0.0 0.0 ellipse
+12 "Rubén Pardo Gutiérrez/Joseba Llorente Etxarri" 0.0 0.0 ellipse
+13 "Xabier Prieto Argarate/Imanol Agirretxe Arruti" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 1
+1 7 2
+1 4 2
+1 9 1
+1 12 1
+1 11 1
+1 13 1
+2 3 1
+2 8 2
+2 10 1
+2 9 1
+2 11 1
+2 12 1
+2 13 3
+3 1 2
+3 7 1
+3 9 3
+3 2 2
+3 11 1
+4 5 1
+4 1 2
+4 12 1
+4 13 1
+4 11 2
+5 9 1
+5 2 1
+5 7 2
+5 11 1
+5 13 2
+6 7 2
+6 4 1
+6 9 1
+6 5 4
+6 2 1
+6 1 3
+6 12 2
+6 13 4
+7 2 1
+7 5 1
+7 3 1
+7 12 1
+7 13 3
+7 11 1
+9 3 4
+9 5 2
+9 6 1
+9 2 1
+9 12 1
+9 13 1
+11 3 2
+11 1 3
+11 8 1
+11 12 1
+11 13 2
+12 6 2
+12 1 2
+12 2 1
+12 4 1
+12 10 1
+12 9 1
+12 11 1
+13 1 1
+13 6 2
+13 9 1
+13 11 1
+13 8 1

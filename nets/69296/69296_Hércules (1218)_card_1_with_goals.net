@@ -1,0 +1,29 @@
+*vertices 8
+1 "Abel Enrique Aguilar Tapia" 0.0 0.0 ellipse
+2 "David Cortés Caballero" 0.0 0.0 ellipse
+3 "Jorge López Marco" 0.0 0.0 ellipse
+4 "Sergio Rodríguez García" 0.0 0.0 ellipse
+5 "Javier García Portillo" 0.0 0.0 ellipse
+6 "Juan Jesús Calatayud Sánchez" 0.0 0.0 ellipse
+7 "David Sergio Trézéguet" 0.0 0.0 ellipse
+8 "Mohamed Adama Sarr" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 1
+1 5 1
+1 3 1
+2 3 2
+2 1 2
+2 6 1
+3 2 1
+3 1 1
+4 1 1
+5 2 1
+5 7 1
+5 3 1
+6 5 1
+6 7 1
+7 1 1
+7 3 1
+7 5 1
+8 2 1

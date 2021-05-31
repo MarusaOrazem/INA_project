@@ -1,0 +1,59 @@
+*vertices 12
+1 "Ezequiel Luna" 0.0 0.0 ellipse
+2 "Mikel Alonso Olano" 0.0 0.0 ellipse
+3 "Héctor Sánchez Cabrera" 0.0 0.0 ellipse
+4 "Manuel Martínez Lara" 0.0 0.0 ellipse
+5 "Juan Luis Hens Lorite" 0.0 0.0 ellipse
+6 "Jose Antonio Culebras Arenas" 0.0 0.0 ellipse
+7 "Sergio Aragoneses Almeida" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Pablo Sicilia Roig" 0.0 0.0 ellipse
+10 "Daniel Armand N"Gom Komé/Juan Francisco Martínez Modesto" 0.0 0.0 ellipse
+11 "Román Fernando Martínez/Julián Omar Ramos Suárez" 0.0 0.0 ellipse
+12 "Alejandro Alfaro Ligero/Ángel Luis Rodríguez Díaz" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 1
+1 9 1
+1 5 1
+1 6 1
+1 11 1
+1 12 3
+1 10 1
+2 5 3
+2 4 1
+2 10 1
+2 11 1
+3 4 1
+3 9 1
+3 10 1
+3 11 1
+3 12 1
+4 2 2
+4 5 1
+4 1 1
+4 12 2
+5 2 2
+5 8 1
+5 10 2
+6 7 2
+6 4 1
+6 11 1
+7 5 1
+7 10 2
+9 2 2
+9 5 1
+9 6 1
+10 3 1
+10 5 1
+10 2 2
+10 11 2
+10 12 1
+11 5 1
+11 4 2
+11 10 1
+11 12 1
+11 2 1
+12 3 2
+12 2 2
+12 11 1

@@ -1,0 +1,90 @@
+*vertices 12
+1 "Álvaro Rubio Robles" 0.0 0.0 ellipse
+2 "Ángel Manuel Vivar Dorado" 0.0 0.0 ellipse
+3 "Alberto Marcos Rey" 0.0 0.0 ellipse
+4 "Henok Goitom" 0.0 0.0 ellipse
+5 "Pedro López Muñoz" 0.0 0.0 ellipse
+6 "José Antonio García Calvo" 0.0 0.0 ellipse
+7 "Victoriano Rivas Álvaro" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Sergio Asenjo Andrés" 0.0 0.0 ellipse
+10 "Jonathan Sesma González/Damián Ariel Escudero" 0.0 0.0 ellipse
+11 "Haris Medunjanin/Néstor Fabián Canobbio Bentaberry" 0.0 0.0 ellipse
+12 "Pedro León Sánchez Gil/Marcos Sebastián Aguirre" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 5 4
+1 6 2
+1 9 1
+1 7 1
+1 10 3
+1 11 2
+1 12 3
+2 3 2
+2 9 1
+2 7 2
+2 6 1
+2 1 3
+2 4 1
+2 5 1
+2 10 3
+2 11 7
+2 12 4
+3 4 3
+3 2 4
+3 5 1
+3 9 1
+3 10 1
+3 11 3
+4 8 1
+4 2 2
+4 3 1
+4 10 2
+4 11 4
+4 12 2
+5 1 3
+5 6 4
+5 9 1
+5 2 3
+5 11 1
+5 12 10
+6 7 3
+6 5 2
+6 9 2
+6 2 1
+6 11 2
+6 12 2
+7 1 2
+7 4 1
+7 3 1
+7 9 3
+7 2 2
+7 6 1
+7 5 1
+7 12 1
+9 7 4
+9 3 2
+9 4 1
+9 5 1
+9 10 1
+9 12 2
+10 4 3
+10 1 1
+10 2 1
+10 11 3
+10 3 1
+11 6 2
+11 4 4
+11 1 5
+11 2 3
+11 3 1
+11 5 1
+11 10 3
+11 12 2
+12 1 5
+12 5 3
+12 6 1
+12 4 1
+12 2 1
+12 10 1
+12 11 5

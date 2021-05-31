@@ -1,0 +1,63 @@
+*vertices 13
+1 "Thievy Guivane Bifouma Koulossa" 0.0 0.0 ellipse
+2 "José Antonio García Rabasco" 0.0 0.0 ellipse
+3 "Francisco Manuel Vélez Jiménez" 0.0 0.0 ellipse
+4 "Ramon Olamilekan Azeez" 0.0 0.0 ellipse
+5 "Thomas Teye Partey" 0.0 0.0 ellipse
+6 "Rubén Iván Martínez Andrade" 0.0 0.0 ellipse
+7 "Sebastián Dubarbier" 0.0 0.0 ellipse
+8 "Jonathan Sundy Zongo" 0.0 0.0 ellipse
+9 "Fernando Soriano Marco" 0.0 0.0 ellipse
+10 "Joaquín Navarro Jiménez" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "Ángel Trujillo Canorea" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 1
+1 12 1
+1 11 1
+2 3 2
+2 6 1
+2 7 1
+2 1 1
+2 8 1
+2 5 1
+2 11 1
+2 9 1
+2 10 1
+2 13 1
+3 2 1
+3 11 1
+3 6 1
+4 5 1
+4 2 3
+4 9 1
+4 1 1
+4 10 1
+5 2 2
+5 7 2
+5 4 1
+5 9 1
+6 5 2
+6 8 1
+6 3 1
+6 9 1
+6 2 1
+6 1 1
+7 6 1
+7 9 3
+7 4 2
+8 9 2
+9 8 3
+9 5 1
+9 10 3
+9 1 3
+10 4 2
+10 9 4
+10 2 2
+10 5 1
+10 8 1
+10 3 1
+10 6 1
+13 9 1

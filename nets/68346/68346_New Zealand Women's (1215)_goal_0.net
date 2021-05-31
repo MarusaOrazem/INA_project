@@ -1,0 +1,81 @@
+*vertices 11
+1 "Katie Bowen" 0.0 0.0 ellipse
+2 "Rebekah Stott" 0.0 0.0 ellipse
+3 "Rosie White" 0.0 0.0 ellipse
+4 "Erin Nayler" 0.0 0.0 ellipse
+5 "Abby Erceg" 0.0 0.0 ellipse
+6 "Anna Green" 0.0 0.0 ellipse
+7 "Alexandra Riley" 0.0 0.0 ellipse
+8 "Olivia Chance" 0.0 0.0 ellipse
+9 "Katie Duncan" 0.0 0.0 ellipse
+10 "Sarah Gregorius" 0.0 0.0 ellipse
+11 "Ria Percival" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 3 2
+1 11 4
+1 10 2
+1 9 1
+1 6 1
+2 3 2
+2 4 2
+2 1 5
+2 11 3
+2 10 2
+2 9 6
+2 7 1
+3 1 2
+3 2 2
+3 11 2
+3 9 3
+3 10 3
+3 8 2
+3 6 1
+4 5 3
+4 3 2
+4 6 3
+4 8 1
+4 7 6
+4 2 1
+5 6 5
+5 2 3
+5 9 2
+5 4 2
+5 11 1
+5 7 1
+6 9 2
+6 7 6
+6 5 2
+6 8 4
+6 4 2
+6 10 2
+6 3 1
+7 8 10
+7 6 4
+7 10 4
+7 3 4
+7 9 2
+7 5 1
+7 4 2
+8 10 3
+8 7 6
+8 11 1
+8 6 4
+9 7 7
+9 3 4
+9 2 5
+9 8 3
+9 5 1
+9 11 2
+10 3 3
+10 8 2
+10 1 2
+10 11 2
+10 9 2
+11 9 1
+11 1 5
+11 3 3
+11 8 1
+11 2 3
+11 10 1
+11 7 1

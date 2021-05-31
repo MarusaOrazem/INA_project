@@ -1,0 +1,16 @@
+*vertices 7
+1 "Kanjana Sungngoen" 0.0 0.0 ellipse
+2 "Natthakarn Chinwong" 0.0 0.0 ellipse
+3 "Ainon Phancha" 0.0 0.0 ellipse
+4 "Taneekarn Dangda" 0.0 0.0 ellipse
+5 "Waraporn Boonsing" 0.0 0.0 ellipse
+6 "Sunisa Srangthaisong" 0.0 0.0 ellipse
+7 "Silawan Intamee" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 1
+2 3 1
+3 4 1
+5 6 2
+5 4 1
+6 1 1

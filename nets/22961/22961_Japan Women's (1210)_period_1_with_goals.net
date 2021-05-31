@@ -1,0 +1,92 @@
+*vertices 13
+1 "Yuika Sugasawa" 0.0 0.0 ellipse
+2 "Hina Sugita" 0.0 0.0 ellipse
+3 "Saki Kumagai" 0.0 0.0 ellipse
+4 "Narumi Miura" 0.0 0.0 ellipse
+5 "Risa Shimizu" 0.0 0.0 ellipse
+6 "Ayaka Yamashita" 0.0 0.0 ellipse
+7 "Nana Ichise" 0.0 0.0 ellipse
+8 "Aya Sameshima" 0.0 0.0 ellipse
+9 "Emi Nakajima" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Jun Endo/Rikako Kobayashi" 0.0 0.0 ellipse
+13 "Mana Iwabuchi/Yui Hasegawa" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 5 2
+1 9 1
+1 8 4
+1 12 1
+1 13 2
+2 3 1
+2 8 6
+2 1 2
+2 9 6
+2 5 1
+2 10 1
+2 7 3
+2 4 2
+2 11 1
+2 12 2
+2 13 1
+3 1 1
+3 6 3
+3 2 2
+3 9 3
+3 5 3
+3 10 1
+3 7 2
+4 5 4
+4 7 1
+4 3 1
+4 9 3
+4 1 2
+4 2 3
+4 12 1
+5 6 2
+5 4 4
+5 9 7
+5 1 1
+5 3 4
+5 2 1
+5 10 1
+6 7 7
+6 9 1
+6 3 1
+6 8 1
+7 2 2
+7 8 5
+7 4 3
+7 3 3
+7 6 1
+7 5 1
+7 13 1
+8 2 10
+8 4 3
+8 1 5
+8 11 1
+8 12 1
+8 13 2
+9 5 6
+9 2 1
+9 1 2
+9 3 2
+9 11 1
+9 4 1
+9 7 1
+9 12 1
+9 13 1
+12 1 2
+12 9 1
+12 8 1
+12 2 2
+12 4 1
+12 3 1
+12 13 1
+13 1 3
+13 8 1
+13 7 1
+13 2 1
+13 12 3
+13 4 1

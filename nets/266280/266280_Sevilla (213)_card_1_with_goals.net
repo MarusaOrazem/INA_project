@@ -1,0 +1,9 @@
+*vertices 4
+1 "Sergio Escudero Palomo" 0.0 0.0 ellipse
+2 "Pablo Sarabia García" 0.0 0.0 ellipse
+3 "Sergio Rico González" 0.0 0.0 ellipse
+4 "Carlos Joaquín Correa" 0.0 0.0 ellipse
+*arcs
+1 2 1
+3 4 1
+4 2 1

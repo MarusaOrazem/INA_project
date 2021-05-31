@@ -1,0 +1,69 @@
+*vertices 12
+1 "Eduardo César Daude Gaspar" 0.0 0.0 ellipse
+2 "Vicente Rodríguez Guillén" 0.0 0.0 ellipse
+3 "Emiliano Moretti" 0.0 0.0 ellipse
+4 "David Josué Jiménez Silva" 0.0 0.0 ellipse
+5 "Roberto Fabián Ayala" 0.0 0.0 ellipse
+6 "Joaquín Sánchez Rodríguez" 0.0 0.0 ellipse
+7 "Luís Miguel Brito Garcia Monteiro" 0.0 0.0 ellipse
+8 "José Santiago Cañizares Ruíz" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Raúl Albiol Tortajada/David Navarro Pedrós" 0.0 0.0 ellipse
+11 "David Villa Sánchez/Miguel Ángel Angulo Valderrey" 0.0 0.0 ellipse
+12 "David Albelda Aliqués/Hugo Miguel Ferreira Gomes Viana" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 4
+1 5 1
+1 4 1
+1 10 1
+1 11 2
+1 12 1
+2 3 3
+2 9 1
+2 1 2
+2 4 1
+2 12 2
+3 6 1
+3 1 3
+3 2 4
+3 4 2
+3 11 2
+3 12 1
+4 1 1
+4 6 1
+4 2 2
+4 3 1
+4 11 2
+4 12 1
+5 3 6
+5 2 1
+5 4 2
+6 4 1
+6 7 3
+6 11 1
+6 12 2
+7 1 1
+7 6 2
+7 10 1
+7 12 2
+7 11 1
+8 1 4
+8 6 1
+10 5 1
+10 7 1
+10 1 1
+10 8 2
+10 12 1
+11 1 1
+11 4 3
+11 6 1
+11 10 1
+11 2 1
+11 12 1
+12 6 3
+12 7 3
+12 5 1
+12 2 1
+12 4 1
+12 11 1

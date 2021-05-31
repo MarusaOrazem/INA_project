@@ -1,0 +1,74 @@
+*vertices 13
+1 "Emil Forsberg" 0.0 0.0 ellipse
+2 "Andreas Granqvist" 0.0 0.0 ellipse
+3 "Ola Toivonen" 0.0 0.0 ellipse
+4 "Sebastian Larsson" 0.0 0.0 ellipse
+5 "Marcus Berg" 0.0 0.0 ellipse
+6 "Ludwig Augustinsson" 0.0 0.0 ellipse
+7 "Robin Olsen" 0.0 0.0 ellipse
+8 "Victor Nilsson Lindelöf" 0.0 0.0 ellipse
+9 "Viktor Claesson" 0.0 0.0 ellipse
+10 "Mikael Lustig" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Albin Ekdal" 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 11 1
+1 3 1
+1 13 4
+1 9 1
+1 5 3
+1 10 1
+1 6 1
+2 3 2
+2 7 1
+2 10 1
+2 6 3
+2 12 4
+2 13 1
+2 8 2
+2 5 1
+3 5 4
+3 4 1
+3 1 1
+4 5 1
+4 8 1
+4 3 3
+4 1 2
+4 12 1
+5 3 3
+5 13 2
+5 9 3
+5 1 2
+5 6 1
+5 11 1
+5 12 1
+6 7 3
+6 3 2
+6 2 1
+6 1 1
+6 4 2
+7 9 1
+7 2 1
+8 2 1
+8 3 2
+8 10 1
+8 12 1
+9 4 1
+9 5 1
+9 2 1
+9 10 1
+9 1 1
+9 3 1
+10 8 1
+10 5 3
+10 4 2
+10 9 2
+10 1 1
+12 10 1
+12 2 3
+12 1 1
+12 5 1
+12 9 2
+12 3 1

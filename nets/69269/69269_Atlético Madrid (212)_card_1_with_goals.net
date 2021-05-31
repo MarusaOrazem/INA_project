@@ -1,0 +1,12 @@
+*vertices 6
+1 "Luis Amaranto Perea Mosquera" 0.0 0.0 ellipse
+2 "Diego da Silva Costa" 0.0 0.0 ellipse
+3 "Tiago Cardoso Mendes" 0.0 0.0 ellipse
+4 "David de Gea Quintana" 0.0 0.0 ellipse
+5 "José Antonio Reyes Calderón" 0.0 0.0 ellipse
+6 "Paulo Assunção da Silva" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+4 3 1
+5 6 1

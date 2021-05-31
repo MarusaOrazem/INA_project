@@ -1,0 +1,77 @@
+*vertices 13
+1 "Joaquín Navarro Jiménez" 0.0 0.0 ellipse
+2 "Fernando Pacheco Flores" 0.0 0.0 ellipse
+3 "Mubarak Wakaso" 0.0 0.0 ellipse
+4 "Borja González Tomás" 0.0 0.0 ellipse
+5 "Rubén Duarte Sánchez" 0.0 0.0 ellipse
+6 ON_goal 0.0 0.0 ellipse
+7 "Tomás Pina Isla" 0.0 0.0 ellipse
+8 "Carlos Martín Vigaray" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Víctor Laguardia Cisneros" 0.0 0.0 ellipse
+11 "Rodrigo Ely/Patrick Twumasi" 0.0 0.0 ellipse
+12 "Jonathan Rodríguez Menéndez/John Guidetti" 0.0 0.0 ellipse
+13 "Diego Alejandro Rolan Silva/Darko Brašanac" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 2
+1 5 1
+1 12 1
+2 7 1
+2 8 1
+3 4 3
+3 8 1
+3 9 1
+3 7 3
+3 5 3
+3 12 1
+3 13 1
+3 11 2
+4 5 2
+4 9 1
+4 3 1
+4 11 1
+4 12 1
+4 13 1
+5 4 2
+5 6 1
+5 7 3
+5 3 8
+5 10 2
+5 12 4
+5 13 1
+7 3 2
+7 5 2
+7 8 2
+7 12 2
+7 13 2
+8 3 2
+8 10 3
+8 4 1
+8 2 1
+8 12 1
+8 13 1
+8 11 1
+10 8 2
+10 2 2
+10 5 1
+10 13 2
+11 5 2
+11 1 1
+11 3 1
+11 8 1
+11 4 1
+11 13 1
+12 4 1
+12 5 2
+12 7 1
+12 3 1
+12 9 1
+12 11 1
+12 13 1
+13 3 2
+13 9 1
+13 5 1
+13 7 1
+13 12 2
+13 11 2

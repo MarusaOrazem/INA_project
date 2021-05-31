@@ -1,0 +1,23 @@
+*vertices 9
+1 "Alex Morgan" 0.0 0.0 ellipse
+2 "Rose Lavelle" 0.0 0.0 ellipse
+3 "Samantha Mewis" 0.0 0.0 ellipse
+4 "Kelley O"Hara" 0.0 0.0 ellipse
+5 "Tobin Heath" 0.0 0.0 ellipse
+6 "Becky Sauerbrunn" 0.0 0.0 ellipse
+7 "Crystal Alyssia Dunn" 0.0 0.0 ellipse
+8 "Lindsey Horan" 0.0 0.0 ellipse
+9 "Megan Rapinoe" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+2 6 1
+2 5 1
+3 8 2
+4 5 1
+4 2 2
+5 9 1
+6 7 1
+7 8 1
+8 4 1
+9 3 1

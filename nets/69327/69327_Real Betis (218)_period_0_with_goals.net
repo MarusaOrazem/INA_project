@@ -1,0 +1,95 @@
+*vertices 13
+1 "Ignacio Pérez Santamaría" 0.0 0.0 ellipse
+2 "José Alberto Cañas Ruiz Herrera" 0.0 0.0 ellipse
+3 "Iriney Santos Da Silva" 0.0 0.0 ellipse
+4 "José Antonio Dorado Ramírez" 0.0 0.0 ellipse
+5 "Casto Espinosa Barriga" 0.0 0.0 ellipse
+6 "José Isidoro Gómez Torres" 0.0 0.0 ellipse
+7 "Rubén Castro Martín" 0.0 0.0 ellipse
+8 "Jorge Molina Vidal" 0.0 0.0 ellipse
+9 "Jefferson Antonio Montero Vite" 0.0 0.0 ellipse
+10 "Salvador Sevilla López" 0.0 0.0 ellipse
+11 "Pedro Mario Álvarez Abrante" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 3 1
+1 10 5
+1 4 5
+1 9 1
+1 8 2
+2 7 4
+2 1 5
+2 3 5
+2 10 6
+2 4 2
+2 11 3
+3 4 2
+3 5 1
+3 9 5
+3 2 6
+3 6 2
+3 11 3
+3 10 2
+3 7 2
+4 3 4
+4 9 3
+4 12 1
+4 6 1
+4 1 3
+4 11 3
+4 5 2
+4 2 3
+4 10 1
+5 6 1
+5 8 2
+5 1 3
+5 10 2
+5 9 1
+5 4 1
+5 2 1
+6 7 6
+6 10 5
+6 11 6
+6 3 1
+6 5 2
+6 9 1
+7 8 4
+7 10 3
+7 9 4
+7 2 1
+7 6 4
+7 11 1
+7 13 1
+7 12 1
+7 3 1
+8 9 2
+8 7 2
+8 12 1
+8 6 1
+8 10 2
+8 13 1
+9 10 1
+9 2 1
+9 7 4
+9 8 1
+9 11 1
+9 13 1
+10 1 3
+10 2 4
+10 8 5
+10 7 4
+10 4 5
+10 6 3
+10 3 3
+10 11 1
+10 9 1
+11 5 3
+11 4 7
+11 10 1
+11 3 4
+11 9 2
+11 2 3
+11 6 1
+11 7 1

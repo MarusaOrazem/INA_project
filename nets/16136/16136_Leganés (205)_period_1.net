@@ -1,0 +1,69 @@
+*vertices 11
+1 "José Luis García del Pozo" 0.0 0.0 ellipse
+2 "Youssef En-Nesyri" 0.0 0.0 ellipse
+3 "Jonathan Cristian Silva" 0.0 0.0 ellipse
+4 "Iván Cuéllar Sacristán" 0.0 0.0 ellipse
+5 "Rodrigo Tarín Higón" 0.0 0.0 ellipse
+6 "Kenneth Josiah Omeruo" 0.0 0.0 ellipse
+7 "Allan Romeo Nyom" 0.0 0.0 ellipse
+8 "Dimitrios Siovas" 0.0 0.0 ellipse
+9 "Martin Braithwaite Christensen/Michael Nicolás Santos Rosadilla" 0.0 0.0 ellipse
+10 "Mikel Vesga Arruti/Javier Eraso Goñi" 0.0 0.0 ellipse
+11 "Óscar Rodríguez Arnaiz/Nabil El Zhar" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 5 3
+1 7 3
+1 3 3
+1 8 1
+1 9 2
+1 10 1
+1 11 3
+2 3 2
+2 6 1
+2 7 1
+2 5 1
+2 9 1
+2 11 3
+3 2 1
+3 10 2
+3 9 1
+4 2 2
+4 8 2
+5 1 2
+5 7 2
+5 4 1
+5 6 2
+5 2 2
+5 11 1
+6 1 1
+6 7 1
+6 3 2
+6 5 1
+6 10 2
+7 1 2
+7 2 1
+7 8 1
+7 10 1
+7 11 5
+8 4 1
+8 3 2
+8 1 1
+8 2 1
+8 9 1
+9 5 1
+9 1 1
+9 11 1
+10 7 2
+10 6 1
+10 1 2
+10 5 1
+10 3 2
+10 4 1
+10 9 1
+11 1 4
+11 2 1
+11 5 1
+11 8 1
+11 10 2
+11 7 1

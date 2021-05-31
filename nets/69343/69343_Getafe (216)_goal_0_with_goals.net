@@ -1,0 +1,34 @@
+*vertices 11
+1 "Miguel Ángel Moyà Rumbo" 0.0 0.0 ellipse
+2 "Rubén Salvador Pérez Del Mármol" 0.0 0.0 ellipse
+3 "Pedro Ríos Maestre" 0.0 0.0 ellipse
+4 "Miguel Torres Gómez" 0.0 0.0 ellipse
+5 "Nicolás Ladislao Fedor Flores" 0.0 0.0 ellipse
+6 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+7 "Daniel Alberto Díaz" 0.0 0.0 ellipse
+8 "Tsepo Peter Masilela" 0.0 0.0 ellipse
+9 "Diego Castro Giménez" 0.0 0.0 ellipse
+10 "Francisco Javier Casquero Paredes" 0.0 0.0 ellipse
+11 "Juan Antonio Rodríguez Villamuela" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+2 1 1
+2 4 1
+3 7 1
+4 5 3
+4 2 2
+4 3 2
+5 4 1
+6 4 1
+6 1 1
+7 1 1
+8 9 1
+8 10 1
+8 11 1
+8 5 1
+9 8 1
+10 11 1
+11 6 1
+11 2 1
+11 8 1

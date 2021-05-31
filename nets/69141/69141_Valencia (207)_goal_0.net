@@ -1,0 +1,32 @@
+*vertices 10
+1 "David Josué Jiménez Silva" 0.0 0.0 ellipse
+2 "David Villa Sánchez" 0.0 0.0 ellipse
+3 "Luís Miguel Brito Garcia Monteiro" 0.0 0.0 ellipse
+4 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+5 "Marco Antonio Simoes Caneira" 0.0 0.0 ellipse
+6 "Raúl Albiol Tortajada" 0.0 0.0 ellipse
+7 "Rubén Baraja Vegas" 0.0 0.0 ellipse
+8 "Joaquín Sánchez Rodríguez" 0.0 0.0 ellipse
+9 "Juan Manuel Mata García" 0.0 0.0 ellipse
+10 "Carlos Marchena López" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 2
+1 3 1
+2 3 1
+2 1 1
+3 4 1
+3 1 1
+3 8 1
+3 9 1
+4 5 1
+4 1 1
+4 3 1
+4 10 1
+5 10 1
+6 2 1
+7 8 1
+8 3 1
+8 2 1
+9 5 1
+10 4 1

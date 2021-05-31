@@ -1,0 +1,75 @@
+*vertices 13
+1 "Ray Parlour" 0.0 0.0 ellipse
+2 "Fredrik Ljungberg" 0.0 0.0 ellipse
+3 "Jens Lehmann" 0.0 0.0 ellipse
+4 "Pascal Cygan" 0.0 0.0 ellipse
+5 "Thierry Henry" 0.0 0.0 ellipse
+6 "Patrick Vieira" 0.0 0.0 ellipse
+7 "Robert Pirès " 0.0 0.0 ellipse
+8 "Sulzeer Jeremiah "Sol" Campbell" 0.0 0.0 ellipse
+9 "Kolo Habib Touré" 0.0 0.0 ellipse
+10 "Gaël Clichy" 0.0 0.0 ellipse
+11 "Dennis Bergkamp" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 3
+1 11 2
+1 6 2
+1 10 1
+1 9 4
+1 8 2
+2 9 1
+2 11 2
+2 13 1
+2 8 1
+3 4 2
+3 9 2
+4 5 1
+4 6 4
+4 10 3
+4 8 4
+4 7 2
+4 1 1
+5 12 2
+5 7 3
+5 6 1
+5 9 1
+5 10 1
+6 2 1
+6 7 7
+6 11 2
+6 5 3
+6 1 5
+6 4 1
+7 8 1
+7 5 5
+7 10 3
+7 2 1
+8 9 2
+8 10 2
+8 4 3
+8 5 1
+8 11 1
+8 2 1
+8 6 1
+9 2 3
+9 1 4
+9 4 1
+9 11 2
+9 8 2
+9 6 3
+10 6 5
+10 4 4
+10 5 1
+10 11 2
+10 1 1
+10 2 1
+10 7 1
+11 6 3
+11 5 1
+11 10 1
+11 9 1
+11 2 1
+11 1 2

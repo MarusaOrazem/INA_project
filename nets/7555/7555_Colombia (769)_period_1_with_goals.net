@@ -1,0 +1,98 @@
+*vertices 13
+1 "Andrés Mateus Uribe Villa" 0.0 0.0 ellipse
+2 "Johan Andrés Mojica Palacio" 0.0 0.0 ellipse
+3 "Santiago Arias Naranjo" 0.0 0.0 ellipse
+4 "Juan Guillermo Cuadrado Bello" 0.0 0.0 ellipse
+5 "Davinson Sánchez Mina" 0.0 0.0 ellipse
+6 "David Ospina Ramírez" 0.0 0.0 ellipse
+7 "Yerry Fernando Mina González" 0.0 0.0 ellipse
+8 "James David Rodríguez Rubio" 0.0 0.0 ellipse
+9 "Wílmar Enrique Barrios Terán" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Juan Fernando Quintero Paniagua/Jefferson Andrés Lerma Solís" 0.0 0.0 ellipse
+13 "Radamel Falcao García Zárate/Carlos Arturo Bacca Ahumada" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 8 3
+1 9 3
+1 10 1
+1 4 2
+1 5 1
+1 12 3
+1 13 1
+2 1 4
+2 9 3
+2 5 2
+2 6 1
+2 8 4
+2 13 1
+3 4 11
+3 9 1
+3 8 1
+3 7 6
+3 1 1
+3 12 1
+3 13 1
+4 5 2
+4 3 4
+4 8 6
+4 9 2
+4 10 1
+4 11 1
+4 1 1
+4 7 1
+4 2 1
+4 12 2
+4 13 1
+5 1 1
+5 2 2
+5 7 2
+5 9 1
+5 13 1
+6 7 1
+6 5 1
+6 4 1
+6 13 2
+7 5 3
+7 6 1
+7 2 1
+7 4 2
+7 1 1
+7 9 1
+7 3 1
+7 12 2
+7 13 2
+8 2 6
+8 10 2
+8 3 2
+8 4 4
+8 9 2
+8 1 3
+8 7 1
+8 12 3
+8 13 1
+9 3 3
+9 8 2
+9 7 2
+9 2 1
+9 5 2
+9 1 1
+9 12 5
+9 13 1
+12 8 4
+12 4 3
+12 3 1
+12 10 1
+12 9 1
+12 2 1
+12 7 1
+12 1 2
+12 13 2
+13 1 2
+13 3 1
+13 10 1
+13 2 2
+13 8 2
+13 11 1
+13 12 1

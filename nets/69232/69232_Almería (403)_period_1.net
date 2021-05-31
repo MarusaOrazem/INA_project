@@ -1,0 +1,75 @@
+*vertices 10
+1 "Julio Álvarez Mosquera" 0.0 0.0 ellipse
+2 "Bruno Saltor Grau" 0.0 0.0 ellipse
+3 "Miguel Ángel García Pérez Roldán" 0.0 0.0 ellipse
+4 "Carlos García Badías" 0.0 0.0 ellipse
+5 "Diego Alves Carreira" 0.0 0.0 ellipse
+6 "Fernando Soriano Marco" 0.0 0.0 ellipse
+7 "Hernán Darío Pellerano" 0.0 0.0 ellipse
+8 "Juan Manuel Ortiz Palazón/Natalio Lorenzo Poquet" 0.0 0.0 ellipse
+9 "Guilherme Oliveira Santos/José Ortiz Bernal" 0.0 0.0 ellipse
+10 "Albert Crusat Domene/José Manuel Jiménez Ortiz" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 4 1
+1 7 1
+1 3 5
+1 5 2
+1 6 1
+1 8 1
+1 9 1
+1 10 3
+2 3 10
+2 6 5
+2 1 1
+2 4 1
+2 5 1
+2 8 1
+2 9 2
+2 10 1
+3 1 5
+3 2 5
+3 6 5
+3 4 3
+3 8 2
+3 10 1
+4 5 3
+4 2 4
+4 1 2
+4 6 1
+4 3 4
+4 9 1
+5 4 3
+5 2 1
+5 3 1
+5 1 2
+5 8 1
+5 10 2
+6 1 4
+6 4 4
+6 3 2
+6 5 1
+6 7 2
+6 2 3
+6 8 2
+6 9 2
+6 10 2
+7 5 1
+7 4 1
+7 9 1
+8 6 1
+8 4 2
+8 1 1
+8 10 3
+8 3 1
+8 9 1
+9 3 1
+9 1 3
+9 6 3
+9 5 1
+9 10 1
+9 2 1
+10 6 2
+10 1 5
+10 8 2
+10 9 4

@@ -1,0 +1,73 @@
+*vertices 13
+1 "Aron Einar Gunnarsson" 0.0 0.0 ellipse
+2 "Hörður Björgvin Magnússon" 0.0 0.0 ellipse
+3 OFF_goal 0.0 0.0 ellipse
+4 "Sverrir Ingi Ingason" 0.0 0.0 ellipse
+5 ON_goal 0.0 0.0 ellipse
+6 "Gylfi Þór Sigurðsson" 0.0 0.0 ellipse
+7 "Emil Hallfreðsson" 0.0 0.0 ellipse
+8 "Johann Berg Guðmunds­son" 0.0 0.0 ellipse
+9 "Birkir Már Sævarsson" 0.0 0.0 ellipse
+10 "Hannes Þór Halldórsson" 0.0 0.0 ellipse
+11 "Ragnar Sigurðsson/Björn Bergmann Sigurðarson" 0.0 0.0 ellipse
+12 "Alfreð Finnbogason/Albert Gudmundsson" 0.0 0.0 ellipse
+13 "Birkir Bjarnason/Arnór Ingvi Traustason" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 3
+1 7 1
+1 8 3
+1 9 1
+1 3 1
+1 11 1
+2 3 1
+2 4 1
+2 8 2
+2 1 2
+2 13 2
+4 5 1
+4 3 1
+4 7 2
+4 9 3
+4 8 1
+4 10 2
+6 4 1
+6 1 4
+6 8 1
+6 3 1
+6 5 1
+6 7 1
+6 12 1
+6 13 1
+7 1 2
+7 8 2
+7 6 3
+7 9 1
+7 12 1
+7 13 4
+8 3 1
+8 7 1
+8 2 3
+8 6 2
+8 5 1
+8 12 1
+8 13 2
+8 11 1
+9 4 1
+9 8 2
+9 7 2
+9 13 1
+9 11 2
+10 2 1
+11 8 1
+11 7 1
+11 6 1
+11 1 1
+12 7 1
+12 13 1
+13 4 1
+13 2 2
+13 3 1
+13 8 1
+13 11 1
+13 12 1

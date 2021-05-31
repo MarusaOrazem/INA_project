@@ -1,0 +1,87 @@
+*vertices 13
+1 "Rio Ferdinand" 0.0 0.0 ellipse
+2 "Tim Howard" 0.0 0.0 ellipse
+3 "Gary Neville" 0.0 0.0 ellipse
+4 "Ryan Giggs" 0.0 0.0 ellipse
+5 "Mikaël Silvestre" 0.0 0.0 ellipse
+6 "Quinton Fortune Kolobea" 0.0 0.0 ellipse
+7 "Roy Keane" 0.0 0.0 ellipse
+8 "Phil Neville" 0.0 0.0 ellipse
+9 "Ruud van Nistelrooy" 0.0 0.0 ellipse
+10 "Cristiano Ronaldo dos Santos Aveiro" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+13 "John O"Shea/Diego Forlán Corazo" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 5
+1 5 3
+1 7 1
+1 6 2
+1 8 2
+1 4 1
+1 13 2
+2 1 1
+2 5 4
+2 10 2
+2 7 1
+2 13 1
+3 4 1
+3 1 2
+3 9 5
+3 8 2
+3 10 4
+3 5 1
+3 7 4
+4 6 2
+4 10 1
+4 13 2
+5 6 4
+5 7 4
+5 1 4
+5 9 1
+5 3 1
+5 2 1
+5 8 1
+5 13 1
+6 7 7
+6 4 5
+6 1 1
+6 9 3
+6 5 2
+6 8 1
+6 10 1
+6 13 4
+7 5 4
+7 6 8
+7 3 2
+7 8 2
+7 9 2
+7 1 1
+7 4 3
+7 2 1
+7 10 2
+7 13 3
+8 3 3
+8 5 1
+8 1 2
+8 7 3
+8 6 2
+9 10 2
+9 4 2
+9 11 1
+9 6 1
+9 7 1
+9 3 1
+9 12 1
+10 11 1
+10 1 2
+10 9 2
+10 8 1
+10 3 3
+10 13 1
+13 6 9
+13 7 4
+13 5 1
+13 9 1
+13 4 1

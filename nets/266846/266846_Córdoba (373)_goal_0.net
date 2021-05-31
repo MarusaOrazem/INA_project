@@ -1,0 +1,7 @@
+*vertices 3
+1 "David Omar Rodríguez Barrera" 0.0 0.0 ellipse
+2 "Patrick Claude Ekeng Ekeng" 0.0 0.0 ellipse
+3 "Nabil Ghilas" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1

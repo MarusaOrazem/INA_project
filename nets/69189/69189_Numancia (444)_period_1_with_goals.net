@@ -1,0 +1,60 @@
+*vertices 13
+1 "Sergio Boris González Monteagudo" 0.0 0.0 ellipse
+2 "Javier Del Pino González" 0.0 0.0 ellipse
+3 "Dimas Delgado Morgado" 0.0 0.0 ellipse
+4 "Sergio Ortega González" 0.0 0.0 ellipse
+5 "Juan Pablo Colinas Ferreras" 0.0 0.0 ellipse
+6 OFF_goal 0.0 0.0 ellipse
+7 "Carlos Bellvís LLorens" 0.0 0.0 ellipse
+8 "Juan Ramón Cabrero Obrer" 0.0 0.0 ellipse
+9 "César Palacios Chocarro" 0.0 0.0 ellipse
+10 "Asier Goiria Etxebarria/Carlos Reina Aranda" 0.0 0.0 ellipse
+11 "Domingo Nagore Arbizu/Gorka Brit Gallego" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "José Javier Barkero Saludes/Juan Quero Barraso" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+1 3 1
+1 10 1
+2 6 1
+2 9 1
+2 11 1
+2 13 1
+3 4 1
+3 7 2
+3 2 1
+3 8 1
+3 11 1
+3 13 1
+3 10 2
+4 2 3
+4 11 2
+4 13 1
+5 2 1
+5 10 2
+7 3 2
+7 10 1
+7 11 1
+7 13 1
+8 2 3
+8 4 1
+8 11 1
+9 11 1
+10 13 1
+10 3 3
+10 8 1
+11 6 1
+11 3 1
+11 9 1
+11 1 1
+11 12 1
+11 2 1
+11 10 1
+11 7 1
+13 1 1
+13 7 2
+13 12 1
+13 3 2
+13 10 1
+13 11 1

@@ -1,0 +1,81 @@
+*vertices 11
+1 "Danielle Turner" 0.0 0.0 ellipse
+2 "Simone Magill" 0.0 0.0 ellipse
+3 "Inessa Kaagman" 0.0 0.0 ellipse
+4 "Abbey-Leigh Stringer" 0.0 0.0 ellipse
+5 "Hannah Cain" 0.0 0.0 ellipse
+6 "Kirstie Levell" 0.0 0.0 ellipse
+7 "Taylor Hinds" 0.0 0.0 ellipse
+8 "Angharad James" 0.0 0.0 ellipse
+9 "Megan Finnigan" 0.0 0.0 ellipse
+10 "Siri Worm" 0.0 0.0 ellipse
+11 "Chantelle Boye-Hlorkah" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 4
+1 6 2
+1 7 1
+1 5 1
+1 8 1
+1 4 2
+1 11 5
+1 10 1
+2 3 1
+2 8 3
+2 11 3
+2 5 2
+2 1 1
+2 10 1
+3 4 1
+3 5 3
+3 2 2
+3 11 2
+3 7 2
+3 8 1
+3 1 3
+3 9 1
+4 2 1
+4 9 5
+4 10 3
+4 7 1
+4 5 2
+4 3 2
+4 8 1
+5 3 1
+5 4 1
+5 1 1
+6 1 2
+6 9 2
+6 10 6
+6 7 1
+7 1 1
+7 9 3
+7 2 2
+7 11 1
+7 4 2
+7 3 1
+8 3 3
+8 10 1
+8 7 3
+8 2 2
+8 9 4
+8 5 3
+8 4 1
+9 8 1
+9 10 4
+9 6 3
+9 4 5
+9 3 3
+9 7 2
+9 11 1
+10 3 1
+10 11 2
+10 8 4
+10 2 3
+10 9 3
+10 1 1
+10 5 1
+10 4 1
+10 6 1
+11 2 1
+11 8 1

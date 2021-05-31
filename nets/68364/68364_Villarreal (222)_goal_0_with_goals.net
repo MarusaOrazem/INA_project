@@ -1,0 +1,27 @@
+*vertices 9
+1 "Javier Rodríguez Venta" 0.0 0.0 ellipse
+2 "Robert Pirès " 0.0 0.0 ellipse
+3 "Marcos Antonio Senna da Silva" 0.0 0.0 ellipse
+4 "Guillermo Luis Franco Farquarson" 0.0 0.0 ellipse
+5 "Santiago Cazorla González" 0.0 0.0 ellipse
+6 "Rubén Gracia Calmache" 0.0 0.0 ellipse
+7 "Joan Capdevila Méndez" 0.0 0.0 ellipse
+8 "Fabricio Fabio Fuentes" 0.0 0.0 ellipse
+9 "Bruno Soriano Llido" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+2 4 1
+3 2 1
+3 9 2
+4 5 2
+4 6 1
+5 4 2
+5 7 1
+6 7 1
+6 5 1
+6 9 1
+8 6 1
+9 3 1
+9 6 1
+9 5 1

@@ -1,0 +1,78 @@
+*vertices 13
+1 "Roberto Román Triguero" 0.0 0.0 ellipse
+2 "Martín Maximiliano Mantovani" 0.0 0.0 ellipse
+3 "Iago Herrerín Buisán" 0.0 0.0 ellipse
+4 "Gabriel Appelt Pires" 0.0 0.0 ellipse
+5 "Miguel Ángel Guerrero Martín" 0.0 0.0 ellipse
+6 OFF_goal 0.0 0.0 ellipse
+7 "Nabil El Zhar" 0.0 0.0 ellipse
+8 "Diego Rico Salguero" 0.0 0.0 ellipse
+9 "Alberto Martín Romo García Adámez" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Erik Morán Arribas/Unai López Cabrera" 0.0 0.0 ellipse
+12 "Alexander Szymanowski/Darwin Daniel Machís Marcano" 0.0 0.0 ellipse
+13 "Dimitrios Siovas/Pablo Ínsua Blanco" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 7 7
+1 5 2
+1 4 2
+1 3 1
+2 3 3
+2 1 1
+2 7 1
+2 13 1
+2 11 1
+3 4 2
+3 5 2
+3 2 1
+3 12 1
+4 8 2
+4 9 4
+4 5 2
+4 2 1
+4 10 1
+4 11 1
+4 12 1
+5 6 2
+5 8 2
+5 9 2
+5 1 2
+5 10 1
+5 11 1
+5 12 1
+7 5 2
+7 4 3
+7 9 2
+7 1 2
+7 6 1
+7 11 1
+7 12 1
+8 7 2
+8 4 2
+8 11 2
+8 12 2
+9 8 2
+9 7 2
+9 5 1
+9 4 3
+9 2 1
+9 11 3
+9 13 1
+11 1 1
+11 9 2
+11 7 2
+11 5 1
+11 8 1
+11 10 1
+11 4 1
+11 3 1
+12 5 2
+12 6 2
+12 8 1
+12 11 1
+13 3 1
+13 8 1
+13 5 1
+13 4 1
+13 11 1

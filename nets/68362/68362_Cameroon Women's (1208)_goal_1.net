@@ -1,0 +1,85 @@
+*vertices 11
+1 "Marie Aurelle Awona" 0.0 0.0 ellipse
+2 "Estelle Johnson" 0.0 0.0 ellipse
+3 "Yvonne Patrice Leuko" 0.0 0.0 ellipse
+4 "Raissa Feudjio Tchuanyo" 0.0 0.0 ellipse
+5 "Gabrielle Onguene" 0.0 0.0 ellipse
+6 "Jeannette Yango" 0.0 0.0 ellipse
+7 "Annette Ngo" 0.0 0.0 ellipse
+8 "Ajara Nchout" 0.0 0.0 ellipse
+9 "Gaelle Enganamouit/Alexandra Takounda Engolo" 0.0 0.0 ellipse
+10 "Augustine Sylvia Ejangue Siliki/Ysis Sonkeng" 0.0 0.0 ellipse
+11 "Michaela Abam/Therese Ninon Abena" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 4 2
+1 6 3
+1 8 1
+1 7 1
+1 10 2
+1 9 1
+1 11 1
+2 5 2
+2 3 3
+2 4 1
+2 7 1
+2 1 1
+2 9 2
+3 4 4
+3 8 4
+3 6 1
+3 2 1
+3 9 3
+3 11 3
+3 10 1
+4 3 6
+4 5 6
+4 2 2
+4 6 1
+4 1 1
+4 9 1
+4 10 1
+4 11 2
+5 8 3
+5 6 2
+5 1 1
+5 4 1
+5 9 1
+5 10 1
+5 11 1
+6 4 2
+6 3 1
+6 5 3
+6 8 2
+6 1 4
+6 2 1
+6 9 2
+6 10 1
+6 11 1
+7 6 1
+7 1 4
+7 2 2
+8 6 2
+8 5 2
+8 1 1
+8 4 1
+8 9 2
+8 10 3
+8 11 1
+9 4 1
+9 5 1
+9 6 2
+9 10 1
+9 8 2
+10 1 2
+10 6 1
+10 8 1
+10 4 2
+10 5 1
+10 9 1
+11 3 1
+11 8 3
+11 6 2
+11 2 1
+11 4 1
+11 9 1

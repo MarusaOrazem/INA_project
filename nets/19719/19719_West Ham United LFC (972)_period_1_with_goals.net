@@ -1,0 +1,60 @@
+*vertices 13
+1 "Rebecca Leigh Spencer" 0.0 0.0 ellipse
+2 "Alisha Lehmann" 0.0 0.0 ellipse
+3 "Jane Ross" 0.0 0.0 ellipse
+4 "Brianna Visalli" 0.0 0.0 ellipse
+5 "Gilly Louise Scarlett Flaherty" 0.0 0.0 ellipse
+6 "Claire Lauren Rafferty" 0.0 0.0 ellipse
+7 "Lucienne Reichardt" 0.0 0.0 ellipse
+8 "Brooke Hendrix" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Julia Simic/Kate Longhurst" 0.0 0.0 ellipse
+11 "Esmee de Graaf/Leanne Kiernan" 0.0 0.0 ellipse
+12 "Erin Simon/Ria Percival" 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+1 11 1
+1 12 1
+2 4 1
+2 10 1
+2 12 1
+3 4 2
+3 6 1
+3 11 1
+4 3 1
+4 7 1
+4 10 2
+4 11 1
+5 6 1
+5 7 1
+5 4 1
+5 1 1
+5 8 1
+6 2 2
+6 3 2
+6 4 1
+6 11 4
+7 1 1
+7 3 1
+7 4 3
+7 10 1
+7 11 1
+7 12 1
+8 4 1
+8 9 1
+8 12 1
+10 9 1
+10 6 1
+10 12 1
+11 4 1
+11 3 1
+11 6 2
+11 7 1
+11 13 1
+12 2 3
+12 1 1
+12 3 1
+12 10 2
+12 11 2

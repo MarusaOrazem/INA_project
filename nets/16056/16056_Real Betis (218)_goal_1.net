@@ -1,0 +1,98 @@
+*vertices 11
+1 "Marc Bartra Aregall" 0.0 0.0 ellipse
+2 "Sidnei Rechel da Silva Júnior" 0.0 0.0 ellipse
+3 "William Silva de Carvalho" 0.0 0.0 ellipse
+4 "José Andrés Guardado Hernández" 0.0 0.0 ellipse
+5 "Aïssa Mandi" 0.0 0.0 ellipse
+6 "Héctor Junior Firpo Adames" 0.0 0.0 ellipse
+7 "Cristian Tello Herrera" 0.0 0.0 ellipse
+8 "Pau López Sabata" 0.0 0.0 ellipse
+9 "Joaquín Sánchez Rodríguez/Sergio Canales Madrazo" 0.0 0.0 ellipse
+10 "Lorenzo Jesús Morón García/Sergio León Limones" 0.0 0.0 ellipse
+11 "Giovani Lo Celso/Takashi Inui" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 2
+1 3 2
+1 5 3
+1 10 1
+2 3 2
+2 4 2
+2 5 2
+2 1 3
+2 7 1
+2 6 2
+2 8 1
+2 10 1
+2 11 1
+3 4 6
+3 5 3
+3 6 8
+3 2 2
+3 8 1
+3 7 2
+3 9 4
+3 10 1
+3 11 5
+4 5 7
+4 3 5
+4 2 3
+4 1 1
+4 7 7
+4 6 2
+4 9 1
+4 11 1
+4 10 2
+5 3 9
+5 6 2
+5 7 4
+5 4 7
+5 8 6
+5 1 1
+5 9 1
+5 10 1
+5 11 1
+6 3 4
+6 4 4
+6 5 1
+6 2 4
+6 9 1
+6 10 4
+6 11 1
+7 5 6
+7 1 3
+7 3 2
+7 4 4
+7 9 3
+7 10 1
+7 11 4
+8 2 1
+8 5 5
+8 4 2
+8 1 2
+8 6 1
+8 9 2
+8 10 2
+8 11 2
+9 3 1
+9 6 4
+9 4 3
+9 7 5
+9 10 2
+9 11 2
+9 5 3
+10 7 1
+10 6 1
+10 3 1
+10 11 5
+10 9 1
+10 2 2
+10 1 1
+11 3 6
+11 6 5
+11 7 1
+11 5 3
+11 4 4
+11 9 1
+11 10 3
+11 1 1

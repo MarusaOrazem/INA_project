@@ -1,0 +1,17 @@
+*vertices 7
+1 "Jackie Groenen" 0.0 0.0 ellipse
+2 "Katie Zelem" 0.0 0.0 ellipse
+3 "Martha Harris" 0.0 0.0 ellipse
+4 "Millie Turner" 0.0 0.0 ellipse
+5 "Abbie McManus" 0.0 0.0 ellipse
+6 "Jane Ross" 0.0 0.0 ellipse
+7 "Kirsty Hanson" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+3 4 1
+3 1 1
+4 5 1
+4 3 1
+5 4 1
+6 7 1

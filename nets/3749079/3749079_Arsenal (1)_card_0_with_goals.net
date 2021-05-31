@@ -1,0 +1,116 @@
+*vertices 13
+1 "Laureano Bisan-Etame Mayer" 0.0 0.0 ellipse
+2 "Jens Lehmann" 0.0 0.0 ellipse
+3 "Eduardo César Daude Gaspar" 0.0 0.0 ellipse
+4 "Ashley Cole" 0.0 0.0 ellipse
+5 "Sulzeer Jeremiah "Sol" Campbell" 0.0 0.0 ellipse
+6 "Thierry Henry" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Kolo Habib Touré" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Gilberto Aparecido da Silva" 0.0 0.0 ellipse
+11 "Ray Parlour/Nwankwo Christian Kanu" 0.0 0.0 ellipse
+12 "Sylvain Wiltord/Dennis Bergkamp" 0.0 0.0 ellipse
+13 "Robert Pirès /Pascal Cygan" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 8 3
+1 5 3
+1 6 6
+1 10 14
+1 3 4
+1 7 1
+1 11 1
+1 12 7
+1 13 1
+2 4 2
+2 6 6
+2 1 3
+2 10 1
+2 13 4
+2 11 2
+2 12 3
+3 4 11
+3 9 2
+3 8 2
+3 5 5
+3 1 2
+3 6 6
+3 10 5
+3 11 1
+3 12 2
+3 13 1
+4 5 3
+4 6 2
+4 3 13
+4 2 1
+4 10 3
+4 11 1
+4 12 3
+4 13 18
+5 4 5
+5 1 5
+5 3 3
+5 2 1
+5 8 2
+5 10 2
+5 6 1
+5 11 2
+5 12 1
+5 13 6
+6 7 3
+6 3 2
+6 4 1
+6 10 2
+6 1 2
+6 8 1
+6 9 2
+6 11 1
+6 13 1
+6 12 1
+8 5 2
+8 4 3
+8 1 5
+8 3 4
+8 6 1
+8 11 1
+8 12 1
+8 13 1
+10 5 3
+10 3 14
+10 4 4
+10 6 2
+10 1 5
+10 9 1
+10 2 1
+10 11 1
+10 12 3
+10 13 4
+11 5 2
+11 1 16
+11 6 2
+11 10 1
+11 8 3
+11 3 1
+11 12 5
+11 13 2
+11 7 1
+12 6 3
+12 4 1
+12 3 3
+12 10 3
+12 1 8
+12 11 1
+12 13 1
+12 7 1
+13 4 1
+13 5 3
+13 3 5
+13 10 5
+13 7 3
+13 9 1
+13 6 1
+13 1 2
+13 2 1
+13 11 3
+13 12 2

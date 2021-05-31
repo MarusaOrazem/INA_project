@@ -1,0 +1,71 @@
+*vertices 13
+1 "Mikel Rico Moreno" 0.0 0.0 ellipse
+2 "Diego Mainz García" 0.0 0.0 ellipse
+3 "Júlio César Jacobi" 0.0 0.0 ellipse
+4 "David Cortés Caballero" 0.0 0.0 ellipse
+5 "Guilherme Magdalena Siqueira" 0.0 0.0 ellipse
+6 "Borja Gómez Pérez" 0.0 0.0 ellipse
+7 "Carlos Jorge Neto Martins" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Daniel González Benítez" 0.0 0.0 ellipse
+10 "Moisés Hurtado Pérez/Abel Gómez Moreno" 0.0 0.0 ellipse
+11 "Odion Jude Ighalo/Alexandre Geijo Pazos" 0.0 0.0 ellipse
+12 "Franco Daniel Jara/Ikechukwu Uche" 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 9 2
+1 5 2
+1 6 1
+1 3 1
+1 11 1
+1 10 1
+2 3 2
+2 8 1
+2 6 2
+2 7 1
+2 10 2
+2 11 1
+3 4 2
+3 5 1
+3 2 1
+3 10 1
+4 2 3
+4 7 1
+4 10 3
+5 6 3
+5 9 3
+5 8 2
+5 7 2
+5 1 3
+5 11 2
+5 10 1
+6 5 3
+6 2 1
+6 1 2
+6 3 1
+6 11 1
+7 2 1
+7 6 2
+7 1 1
+7 12 2
+7 10 2
+7 11 2
+9 7 1
+9 6 1
+9 11 1
+10 1 1
+10 4 1
+10 5 1
+10 6 2
+10 2 3
+10 9 1
+10 7 1
+10 12 2
+10 11 1
+11 7 3
+11 5 1
+11 13 1
+12 13 1
+12 9 1
+12 10 1

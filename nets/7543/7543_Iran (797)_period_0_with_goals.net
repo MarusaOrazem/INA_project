@@ -1,0 +1,56 @@
+*vertices 12
+1 "Vahid Amiri" 0.0 0.0 ellipse
+2 "Sardar Azmoun" 0.0 0.0 ellipse
+3 "Omid Ebrahimi" 0.0 0.0 ellipse
+4 "Saeid Ezatolahi Afagh" 0.0 0.0 ellipse
+5 "Morteza Pouraliganji" 0.0 0.0 ellipse
+6 "Ramin Rezaeian" 0.0 0.0 ellipse
+7 "Mehdi Taremi" 0.0 0.0 ellipse
+8 "Seyed Majid Hosseini" 0.0 0.0 ellipse
+9 "Alireza Safar Beiranvand" 0.0 0.0 ellipse
+10 "Karim Ansarifard" 0.0 0.0 ellipse
+11 "Ehsan Hajsafi" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 12 1
+1 11 2
+1 4 1
+1 7 1
+1 8 1
+1 6 1
+2 7 1
+2 10 1
+2 8 1
+3 4 1
+3 2 1
+3 7 2
+4 8 1
+4 11 1
+4 1 2
+5 6 1
+5 8 1
+5 9 1
+5 4 1
+5 2 1
+6 7 1
+6 5 1
+6 3 2
+6 2 2
+6 11 1
+6 9 1
+7 10 1
+7 6 1
+7 4 1
+8 5 1
+8 3 1
+8 11 1
+9 2 2
+9 6 1
+10 11 2
+10 12 1
+10 6 1
+10 5 1
+11 1 4
+11 10 5
+11 4 2

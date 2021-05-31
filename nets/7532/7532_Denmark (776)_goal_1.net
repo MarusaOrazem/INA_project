@@ -1,0 +1,38 @@
+*vertices 11
+1 "Kasper Schmeichel" 0.0 0.0 ellipse
+2 "Henrik Dalsgaard" 0.0 0.0 ellipse
+3 "Simon Thorup Kjær" 0.0 0.0 ellipse
+4 "Yussuf Yurary Poulsen" 0.0 0.0 ellipse
+5 "Christian Dannemann Eriksen" 0.0 0.0 ellipse
+6 "Jens Stryger Larsen" 0.0 0.0 ellipse
+7 "Nicolai Jørgensen" 0.0 0.0 ellipse
+8 "Lasse Schöne" 0.0 0.0 ellipse
+9 "Thomas Delaney" 0.0 0.0 ellipse
+10 "Pione Sisto Ifolo Emirmija/Martin Braithwaite Christensen" 0.0 0.0 ellipse
+11 "Andreas Christensen/Mathias Jattah-Njie Jørgensen" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 3
+1 7 1
+2 4 2
+2 5 1
+2 7 2
+3 4 2
+4 5 5
+5 4 3
+5 9 1
+5 7 1
+5 10 1
+6 7 2
+6 5 1
+6 10 1
+7 5 3
+8 6 1
+8 10 1
+9 10 1
+10 5 1
+10 6 1
+10 7 1
+10 9 1
+11 9 1
+11 10 1

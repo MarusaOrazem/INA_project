@@ -1,0 +1,75 @@
+*vertices 12
+1 "Mauro Wilney Arambarri Rosa" 0.0 0.0 ellipse
+2 "Jorge Molina Vidal" 0.0 0.0 ellipse
+3 "Mathías Olivera Miramontes" 0.0 0.0 ellipse
+4 "Leandro Daniel Cabrera Sasía" 0.0 0.0 ellipse
+5 "Nemanja Maksimović" 0.0 0.0 ellipse
+6 "Djené Dakonam Ortega" 0.0 0.0 ellipse
+7 "Damián Nicolás Suárez Suárez" 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+9 "David Soria Solís" 0.0 0.0 ellipse
+10 "Dimitri Foulquier/Samuel Sáiz Alonso" 0.0 0.0 ellipse
+11 "Ángel Luis Rodríguez Díaz/Hugo Duro Perales" 0.0 0.0 ellipse
+12 "Gaku Shibasaki/Francisco Portillo Soler" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 3
+1 8 1
+1 11 2
+1 12 3
+2 4 1
+2 3 1
+2 8 1
+2 11 2
+2 12 2
+2 10 3
+3 4 2
+3 2 1
+3 6 1
+3 1 1
+3 10 2
+4 5 1
+4 9 3
+4 2 3
+4 7 1
+4 10 1
+4 12 3
+5 8 1
+5 6 1
+5 2 1
+5 11 1
+6 7 4
+6 2 3
+6 9 5
+6 1 3
+6 4 2
+6 11 1
+6 12 2
+6 10 1
+7 5 2
+7 3 1
+7 2 2
+7 6 2
+7 11 1
+7 12 4
+9 2 1
+9 5 1
+10 6 1
+10 11 2
+10 12 1
+10 3 2
+10 5 2
+10 2 1
+10 7 1
+10 1 1
+10 8 1
+11 8 3
+11 5 1
+11 12 3
+11 2 1
+11 10 1
+12 4 1
+12 1 2
+12 7 2
+12 11 3
+12 10 2

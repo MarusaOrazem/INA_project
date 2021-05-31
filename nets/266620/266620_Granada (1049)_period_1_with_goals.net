@@ -1,0 +1,93 @@
+*vertices 13
+1 "Isaac Ajayi Success" 0.0 0.0 ellipse
+2 "Matheus Dória Macedo" 0.0 0.0 ellipse
+3 "Uche Henry Agbo" 0.0 0.0 ellipse
+4 "Rubén Salvador Pérez Del Mármol" 0.0 0.0 ellipse
+5 "Cristiano Biraghi" 0.0 0.0 ellipse
+6 "Andrés Eduardo Fernández Moreno" 0.0 0.0 ellipse
+7 ON_goal 0.0 0.0 ellipse
+8 "Edgar Antonio Méndez Ortega" 0.0 0.0 ellipse
+9 "David Rodríguez Lombán" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Adalberto Peñaranda Maestre/Robert Ibáñez Castro" 0.0 0.0 ellipse
+12 "Rubén Rochina Naixes/Javier Márquez Moreno" 0.0 0.0 ellipse
+13 "Rene Krhin/Diego Mainz García" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 1
+1 8 6
+1 11 1
+1 12 1
+2 3 1
+2 6 2
+2 8 1
+2 4 1
+2 1 1
+2 5 1
+2 11 2
+2 12 2
+3 2 1
+3 4 5
+3 1 2
+3 9 3
+3 8 2
+3 12 1
+3 11 1
+4 2 3
+4 9 3
+4 8 1
+4 5 1
+4 1 1
+4 3 3
+4 11 4
+4 12 2
+5 6 1
+5 4 3
+5 11 5
+5 12 1
+6 2 3
+6 4 1
+6 5 3
+6 9 1
+6 11 1
+6 12 2
+6 13 1
+8 3 6
+8 9 3
+8 5 2
+8 1 2
+8 4 1
+8 11 1
+8 12 2
+8 13 1
+9 4 4
+9 10 1
+9 7 1
+9 2 1
+9 3 1
+9 6 2
+9 8 1
+9 12 1
+9 13 3
+11 1 1
+11 5 2
+11 3 1
+11 8 2
+11 9 1
+11 6 1
+11 13 1
+11 2 1
+11 4 2
+11 12 1
+12 4 2
+12 6 1
+12 8 1
+12 5 1
+12 7 1
+12 3 1
+12 11 2
+12 1 1
+13 8 2
+13 1 2
+13 6 2
+13 4 1

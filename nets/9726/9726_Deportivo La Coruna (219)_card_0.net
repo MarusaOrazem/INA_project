@@ -1,0 +1,103 @@
+*vertices 11
+1 "Celso Borges Mora" 0.0 0.0 ellipse
+2 "Lucas Pérez Martínez" 0.0 0.0 ellipse
+3 "Sidnei Rechel da Silva Júnior" 0.0 0.0 ellipse
+4 "Rubén Iván Martínez Andrade" 0.0 0.0 ellipse
+5 "Fernando Navarro i Corbacho" 0.0 0.0 ellipse
+6 "Adrián López Álvarez" 0.0 0.0 ellipse
+7 "Fabian Lukas Schär" 0.0 0.0 ellipse
+8 "Juan Francisco Moreno Fuertes" 0.0 0.0 ellipse
+9 "Guilherme dos Santos Torres/Federico Santiago Valverde Dipetta" 0.0 0.0 ellipse
+10 "Emre Çolak/Zakaria Bakkali" 0.0 0.0 ellipse
+11 "Carles Gil de Pareja Vicent/Borja Valle Balonga" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 6 3
+1 5 3
+1 8 6
+1 7 2
+1 3 2
+1 10 6
+1 11 2
+1 9 1
+2 5 2
+2 1 5
+2 3 1
+2 9 4
+2 10 3
+2 11 2
+3 2 1
+3 5 3
+3 6 2
+3 8 2
+3 1 2
+3 7 1
+3 9 2
+3 10 2
+3 11 1
+4 5 1
+4 7 3
+4 3 1
+4 2 1
+4 8 1
+4 10 1
+4 11 1
+4 9 1
+5 6 10
+5 1 3
+5 2 5
+5 4 1
+5 8 1
+5 9 6
+5 10 3
+5 11 3
+6 1 3
+6 2 5
+6 5 3
+6 8 5
+6 9 1
+6 10 2
+6 11 1
+7 5 3
+7 4 2
+7 1 2
+7 6 1
+7 8 1
+7 9 1
+7 10 2
+7 11 4
+8 5 1
+8 1 4
+8 7 3
+8 6 3
+8 4 1
+8 2 1
+8 9 2
+8 10 3
+8 11 1
+9 3 5
+9 5 2
+9 2 1
+9 7 4
+9 8 5
+9 10 1
+9 11 1
+9 1 1
+9 6 1
+10 6 4
+10 2 1
+10 5 2
+10 1 1
+10 7 2
+10 8 1
+10 9 2
+10 11 1
+11 8 5
+11 2 1
+11 6 1
+11 3 1
+11 5 1
+11 7 1
+11 1 1
+11 9 1
+11 10 1

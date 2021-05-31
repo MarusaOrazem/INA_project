@@ -1,0 +1,121 @@
+*vertices 13
+1 "Vivianne Miedema" 0.0 0.0 ellipse
+2 "Bethany Mead" 0.0 0.0 ellipse
+3 "Leah Williamson" 0.0 0.0 ellipse
+4 "Louise Quinn" 0.0 0.0 ellipse
+5 "Lisa Evans" 0.0 0.0 ellipse
+6 "Kim Little" 0.0 0.0 ellipse
+7 "Danielle van de Donk" 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+9 "Sari van Veenendaal" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Viktoria Schnaderbeck/Danielle Carter" 0.0 0.0 ellipse
+12 "Katie McCabe/Emma Mitchell" 0.0 0.0 ellipse
+13 "Dominique Johanna Anna Bloodworth/Janni Arnth-Jensen" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 7 2
+1 8 1
+1 6 3
+1 4 1
+1 5 1
+1 10 1
+1 3 2
+1 11 1
+1 12 1
+1 13 3
+2 8 1
+2 3 1
+2 6 7
+2 5 10
+2 1 1
+2 7 4
+2 11 1
+2 12 2
+2 13 3
+3 4 13
+3 9 5
+3 10 1
+3 1 1
+3 5 5
+3 2 2
+3 6 2
+3 7 1
+3 11 2
+3 12 2
+3 13 5
+4 3 10
+4 9 3
+4 6 6
+4 5 2
+4 7 3
+4 1 1
+4 2 1
+4 11 1
+4 12 2
+4 13 5
+5 3 7
+5 6 6
+5 1 2
+5 7 11
+5 2 11
+5 4 3
+5 11 3
+5 13 1
+6 7 7
+6 5 2
+6 1 6
+6 2 5
+6 4 4
+6 10 1
+6 3 2
+6 11 1
+6 12 3
+6 13 1
+7 4 3
+7 6 8
+7 5 9
+7 2 3
+7 8 1
+7 1 1
+7 12 1
+7 13 6
+9 4 10
+9 2 1
+9 7 1
+9 5 2
+9 3 4
+9 1 1
+9 12 4
+9 13 3
+11 5 2
+11 1 1
+11 4 2
+11 2 1
+11 8 1
+11 7 1
+11 6 1
+11 10 1
+11 3 1
+11 12 1
+11 13 1
+12 1 2
+12 4 1
+12 2 7
+12 9 2
+12 10 1
+12 7 2
+12 6 4
+12 3 1
+12 11 3
+12 13 1
+13 4 6
+13 1 5
+13 6 5
+13 5 2
+13 8 1
+13 2 1
+13 3 4
+13 7 1
+13 12 5
+13 11 2

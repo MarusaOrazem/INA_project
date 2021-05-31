@@ -1,0 +1,84 @@
+*vertices 12
+1 "Oihan Sancet Tirapu" 0.0 0.0 ellipse
+2 "Yeray Álvarez López" 0.0 0.0 ellipse
+3 "Íñigo Lekue Martínez" 0.0 0.0 ellipse
+4 "Mikel Vesga Arruti" 0.0 0.0 ellipse
+5 "Unai Núñez Gestoso" 0.0 0.0 ellipse
+6 "Óscar de Marcos Arana" 0.0 0.0 ellipse
+7 "Mikel Balenziaga Oruesagasti" 0.0 0.0 ellipse
+8 "Iñigo Córdoba Kerejeta" 0.0 0.0 ellipse
+9 "Unai López Cabrera" 0.0 0.0 ellipse
+10 "Unai Simón Mendibil" 0.0 0.0 ellipse
+11 "Iñaki Williams Arthuer" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 1
+1 11 3
+1 3 2
+1 5 1
+1 8 1
+2 3 1
+2 7 3
+2 10 4
+2 11 1
+2 1 1
+2 12 1
+2 8 1
+2 5 1
+2 9 1
+3 4 1
+3 9 1
+3 12 1
+3 11 3
+3 1 2
+3 6 1
+4 5 1
+4 2 3
+4 9 3
+4 10 1
+4 7 3
+4 8 1
+4 11 1
+4 6 1
+5 1 1
+5 10 5
+5 4 1
+6 3 6
+6 4 1
+6 1 1
+6 9 4
+6 5 1
+7 8 5
+7 1 2
+7 4 2
+7 2 2
+7 12 1
+7 9 1
+8 7 3
+8 9 3
+8 4 2
+8 1 1
+8 11 2
+9 8 2
+9 10 1
+9 4 4
+9 2 2
+9 5 1
+9 7 1
+9 6 3
+9 1 2
+9 12 1
+9 3 2
+10 6 2
+10 5 2
+10 11 5
+10 8 2
+10 3 2
+10 2 2
+10 7 1
+11 4 1
+11 3 2
+11 12 2
+11 8 1
+11 9 1

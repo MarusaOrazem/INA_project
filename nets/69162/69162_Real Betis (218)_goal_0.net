@@ -1,0 +1,10 @@
+*vertices 5
+1 "Juan Gutiérrez Moreno" 0.0 0.0 ellipse
+2 "José Isidoro Gómez Torres" 0.0 0.0 ellipse
+3 "Luís Eduardo Schmidt" 0.0 0.0 ellipse
+4 "David Odonkor" 0.0 0.0 ellipse
+5 "Johann Vogel" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+4 5 1

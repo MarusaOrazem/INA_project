@@ -1,0 +1,115 @@
+*vertices 13
+1 "Roque Mesa Quevedo" 0.0 0.0 ellipse
+2 "Jonathan Viera Ramos" 0.0 0.0 ellipse
+3 "Javier Varas Herrera" 0.0 0.0 ellipse
+4 "Hélder Filipe Oliveira Lopes" 0.0 0.0 ellipse
+5 "Míchel Macedo Rocha Machado" 0.0 0.0 ellipse
+6 "Pedro Taunausú Domínguez Placeres" 0.0 0.0 ellipse
+7 "Mauricio Lemos Merladet" 0.0 0.0 ellipse
+8 "Kevin-Prince Boateng" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "David García Santana/Aythami Artiles Oliva" 0.0 0.0 ellipse
+12 "José Vicente Gómez Umpiérrez/Mateo Ezequiel García" 0.0 0.0 ellipse
+13 "Nabil El Zhar/Marko Livaja" 0.0 0.0 ellipse
+*arcs
+1 2 13
+1 6 7
+1 7 6
+1 4 5
+1 3 2
+1 5 5
+1 8 3
+1 11 4
+1 12 4
+1 13 1
+2 1 8
+2 6 7
+2 7 4
+2 5 3
+2 9 1
+2 4 4
+2 8 2
+2 11 2
+2 12 3
+2 13 1
+3 4 3
+3 7 8
+3 1 1
+3 8 2
+3 5 1
+3 6 1
+3 11 3
+3 12 1
+4 5 1
+4 2 6
+4 8 6
+4 3 2
+4 7 5
+4 1 6
+4 6 4
+4 9 1
+4 12 1
+4 13 1
+5 1 8
+5 8 2
+5 2 2
+5 3 1
+5 7 1
+5 11 5
+5 12 1
+5 13 7
+6 1 6
+6 4 5
+6 7 2
+6 2 7
+6 5 2
+6 8 1
+6 12 1
+6 13 1
+6 11 1
+7 5 4
+7 4 7
+7 1 3
+7 2 5
+7 8 1
+7 6 1
+7 3 2
+7 11 2
+7 12 2
+7 13 1
+8 6 2
+8 2 5
+8 9 3
+8 5 2
+8 4 1
+8 1 1
+8 10 1
+8 12 1
+8 13 1
+11 2 5
+11 3 3
+11 8 2
+11 7 1
+11 4 1
+11 5 4
+11 1 2
+11 12 1
+11 13 1
+11 6 1
+12 5 2
+12 3 2
+12 1 4
+12 4 3
+12 2 2
+12 7 1
+12 11 2
+12 13 1
+12 9 1
+12 8 1
+13 2 1
+13 8 1
+13 5 3
+13 1 1
+13 11 1
+13 6 2

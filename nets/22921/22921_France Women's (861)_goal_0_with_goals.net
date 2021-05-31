@@ -1,0 +1,47 @@
+*vertices 12
+1 "Delphine Cascarino" 0.0 0.0 ellipse
+2 "Griedge Mbock Bathy Nka" 0.0 0.0 ellipse
+3 "Wendie Renard" 0.0 0.0 ellipse
+4 "Eugénie Le Sommer" 0.0 0.0 ellipse
+5 "Elise Bussaglia" 0.0 0.0 ellipse
+6 "Sarah Bouhaddi" 0.0 0.0 ellipse
+7 "Marion Torrent" 0.0 0.0 ellipse
+8 "Amandine Henry" 0.0 0.0 ellipse
+9 "Kadidiatou Diani" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Amel Majri" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 2
+2 3 6
+2 7 2
+2 5 1
+3 4 3
+3 2 2
+3 11 1
+3 5 1
+4 2 1
+4 8 1
+4 10 1
+4 9 1
+4 12 1
+4 11 1
+5 6 1
+5 1 2
+5 2 2
+5 7 1
+6 3 1
+6 2 2
+7 1 2
+7 2 2
+7 5 2
+7 4 1
+8 9 1
+8 10 1
+8 4 2
+9 4 2
+9 8 1
+11 9 1
+11 4 2
+11 8 1

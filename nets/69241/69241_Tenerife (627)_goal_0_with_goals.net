@@ -1,0 +1,36 @@
+*vertices 12
+1 "Juan Luis Hens Lorite" 0.0 0.0 ellipse
+2 "Daniel Armand N"Gom Komé" 0.0 0.0 ellipse
+3 "Pablo Sicilia Roig" 0.0 0.0 ellipse
+4 "Jose Antonio Culebras Arenas" 0.0 0.0 ellipse
+5 "Manuel Martínez Lara" 0.0 0.0 ellipse
+6 "Héctor Sánchez Cabrera" 0.0 0.0 ellipse
+7 "Alejandro Alfaro Ligero" 0.0 0.0 ellipse
+8 "Román Fernando Martínez" 0.0 0.0 ellipse
+9 "Mikel Alonso Olano" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Ezequiel Luna" 0.0 0.0 ellipse
+12 "Sergio Aragoneses Almeida" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+2 3 1
+2 6 2
+2 5 1
+2 8 1
+3 4 1
+4 1 1
+4 5 1
+5 11 1
+6 7 2
+6 8 1
+7 9 1
+7 4 1
+7 10 2
+7 8 1
+8 9 1
+9 7 2
+9 2 1
+11 9 1
+12 2 1
+12 1 1

@@ -1,0 +1,85 @@
+*vertices 11
+1 "Arda Turan" 0.0 0.0 ellipse
+2 "Jordi Alba Ramos" 0.0 0.0 ellipse
+3 "Jérémy Mathieu" 0.0 0.0 ellipse
+4 "Marc-André ter Stegen" 0.0 0.0 ellipse
+5 "Samuel Yves Umtiti" 0.0 0.0 ellipse
+6 "Sergi Roberto Carnicer" 0.0 0.0 ellipse
+7 "Ivan Rakitić" 0.0 0.0 ellipse
+8 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+9 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+10 "Neymar da Silva Santos Junior" 0.0 0.0 ellipse
+11 "Sergio Busquets i Burgos/Denis Suárez Fernández" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 3 1
+1 10 6
+1 7 1
+1 9 1
+1 11 1
+2 1 4
+2 6 1
+2 10 8
+2 8 2
+2 9 3
+2 4 1
+2 3 2
+2 7 1
+3 4 4
+3 10 4
+3 1 2
+3 7 2
+3 5 1
+4 5 5
+4 9 1
+4 3 3
+4 6 3
+4 2 4
+4 1 1
+4 11 2
+5 6 4
+5 4 8
+5 7 2
+5 3 2
+5 11 2
+6 7 7
+6 8 3
+6 2 1
+6 5 4
+6 9 2
+6 11 3
+7 6 5
+7 8 1
+7 2 4
+7 3 2
+7 9 2
+7 4 1
+7 5 1
+7 11 1
+8 10 2
+8 1 3
+8 7 2
+8 6 1
+8 9 2
+8 2 1
+8 11 1
+9 2 1
+9 8 3
+9 7 1
+9 6 1
+9 10 1
+9 11 1
+10 8 6
+10 1 4
+10 2 4
+10 9 1
+10 3 1
+10 7 1
+10 11 1
+11 1 1
+11 6 2
+11 7 1
+11 8 1
+11 10 1
+11 9 1
+11 2 1

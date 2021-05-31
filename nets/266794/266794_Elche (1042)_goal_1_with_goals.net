@@ -1,0 +1,75 @@
+*vertices 13
+1 "Jonathas Cristian de Jesus" 0.0 0.0 ellipse
+2 "Fayçal Fajr" 0.0 0.0 ellipse
+3 "Enzo Pablo Roco Roco" 0.0 0.0 ellipse
+4 "Damián Nicolás Suárez Suárez" 0.0 0.0 ellipse
+5 "Mario Pašalić" 0.0 0.0 ellipse
+6 ON_goal 0.0 0.0 ellipse
+7 "Przemysław Tytoń" 0.0 0.0 ellipse
+8 "Sergio Pelegrín López" 0.0 0.0 ellipse
+9 "Víctor Rodríguez Romero" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Domingo Cisma González/José Eduardo Albácar Gallego" 0.0 0.0 ellipse
+12 "Adrián González Morales/David Rodríguez Lombán" 0.0 0.0 ellipse
+13 "Aarón Níguez Esclapez/Ferrán Corominas Telechea" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 5 4
+1 9 2
+1 12 2
+1 13 1
+1 11 1
+2 3 1
+2 4 1
+2 9 3
+2 1 3
+2 12 1
+2 13 2
+3 4 1
+3 8 1
+3 7 1
+3 12 2
+4 1 5
+4 2 2
+4 3 3
+4 13 1
+5 6 1
+5 9 4
+5 1 2
+5 8 1
+5 3 1
+5 10 1
+5 4 1
+5 11 2
+5 12 1
+7 2 1
+7 1 5
+7 8 3
+7 3 2
+8 7 3
+8 11 2
+8 12 1
+9 2 3
+9 1 2
+9 3 1
+9 5 1
+9 11 5
+9 12 2
+11 5 1
+11 1 1
+11 7 2
+11 13 1
+11 9 8
+11 8 1
+12 1 1
+12 3 1
+12 5 1
+12 10 1
+12 4 2
+12 8 1
+12 13 1
+12 11 1
+12 7 1
+13 2 2
+13 5 2
+13 4 1

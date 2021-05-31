@@ -1,0 +1,108 @@
+*vertices 13
+1 "Borja Fernández Fernández" 0.0 0.0 ellipse
+2 "Juan Ángel Albín Leites" 0.0 0.0 ellipse
+3 "Manuel del Moral Fernández" 0.0 0.0 ellipse
+4 "Miguel Torres Gómez" 0.0 0.0 ellipse
+5 "Jordi Codina Rodríguez" 0.0 0.0 ellipse
+6 "Ivan Marcano Sierra" 0.0 0.0 ellipse
+7 "Víctor Sánchez Mata" 0.0 0.0 ellipse
+8 "Daniel Alberto Díaz" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Francisco Javier Casquero Paredes/Nicolás Ladislao Fedor Flores" 0.0 0.0 ellipse
+12 "Ángel Javier Arizmendi de Lucas/Adrián Sardinero Corpa" 0.0 0.0 ellipse
+13 "Daniel Parejo Muñoz/Pedro Mosquera Parada" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 8 3
+1 6 5
+1 4 5
+1 9 1
+1 5 1
+1 3 5
+1 7 1
+1 11 1
+1 12 3
+1 13 2
+2 1 5
+2 7 4
+2 9 1
+2 3 1
+2 4 1
+2 6 1
+2 11 1
+2 13 2
+3 4 2
+3 1 2
+3 6 3
+3 2 1
+3 9 2
+3 7 1
+3 10 1
+3 11 1
+3 12 2
+3 13 2
+4 5 1
+4 3 12
+4 6 2
+4 8 1
+4 2 1
+4 1 1
+4 11 3
+4 12 3
+4 13 2
+5 2 6
+5 1 3
+5 3 3
+5 4 4
+5 6 3
+5 7 3
+5 8 1
+5 11 1
+5 12 2
+5 13 1
+6 4 5
+6 5 4
+6 1 3
+6 11 1
+6 12 1
+6 13 3
+7 1 6
+7 8 4
+7 2 8
+7 3 1
+7 12 3
+7 13 1
+7 11 2
+8 5 2
+8 3 1
+8 7 6
+8 1 2
+8 2 2
+8 6 1
+8 11 1
+8 13 2
+11 1 3
+11 7 1
+11 4 3
+11 8 1
+11 3 2
+11 12 2
+11 13 1
+11 10 1
+12 2 1
+12 9 1
+12 10 1
+12 3 1
+12 11 2
+12 13 4
+12 7 1
+13 7 3
+13 8 2
+13 1 2
+13 4 1
+13 2 3
+13 3 1
+13 6 1
+13 11 1
+13 12 1

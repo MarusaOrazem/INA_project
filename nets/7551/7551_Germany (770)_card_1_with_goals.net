@@ -1,0 +1,56 @@
+*vertices 12
+1 "Joshua Kimmich" 0.0 0.0 ellipse
+2 "Antonio Rüdiger" 0.0 0.0 ellipse
+3 "Manuel Neuer" 0.0 0.0 ellipse
+4 "İlkay Gündoğan" 0.0 0.0 ellipse
+5 "Toni Kroos" 0.0 0.0 ellipse
+6 "Thomas Müller" 0.0 0.0 ellipse
+7 "Marco Reus" 0.0 0.0 ellipse
+8 "Mario Gómez García" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Timo Werner" 0.0 0.0 ellipse
+11 "Jonas Hector/Julian Brandt" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 3
+1 7 2
+1 4 3
+1 5 2
+1 11 2
+2 3 1
+2 1 4
+2 5 2
+2 4 2
+2 11 1
+3 4 1
+3 6 2
+4 1 3
+4 2 2
+4 5 3
+4 7 2
+4 11 2
+5 1 1
+5 4 2
+5 8 1
+5 6 2
+5 10 2
+5 7 2
+5 9 1
+5 11 2
+6 1 2
+6 4 3
+6 2 1
+6 11 1
+7 6 2
+7 10 1
+7 5 2
+7 4 1
+8 9 1
+10 7 1
+10 4 1
+11 5 1
+11 2 1
+11 4 1
+11 1 1
+11 12 1

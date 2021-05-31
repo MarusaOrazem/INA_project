@@ -1,0 +1,76 @@
+*vertices 11
+1 "Laura Coombs" 0.0 0.0 ellipse
+2 "Rhiannon Roberts" 0.0 0.0 ellipse
+3 "Sophie Elizabeth Bradley-Auckland" 0.0 0.0 ellipse
+4 "Rinsola Babajide" 0.0 0.0 ellipse
+5 "Frances Kitching" 0.0 0.0 ellipse
+6 "Jessica Anne Clarke" 0.0 0.0 ellipse
+7 "Leigh-Anne Robe" 0.0 0.0 ellipse
+8 "Satara Murray" 0.0 0.0 ellipse
+9 "Kirsty Linnett/Yana Daniels" 0.0 0.0 ellipse
+10 "Niamh Fahey/Christie Murray" 0.0 0.0 ellipse
+11 "Jasmine Matthews/Leandra Little" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 3
+1 4 2
+1 7 1
+1 3 2
+1 9 1
+1 10 3
+1 11 1
+2 8 4
+2 3 1
+2 1 1
+2 6 1
+2 5 1
+2 9 2
+2 10 1
+3 4 2
+3 5 1
+3 2 2
+3 8 1
+3 10 2
+4 5 1
+4 1 2
+4 6 3
+4 7 1
+4 9 1
+4 11 1
+5 1 2
+5 3 1
+5 4 1
+5 8 2
+5 7 1
+5 2 1
+5 9 1
+6 7 5
+6 9 1
+6 10 1
+6 11 1
+7 6 2
+7 1 1
+7 5 2
+7 3 1
+7 4 3
+7 11 1
+7 10 1
+8 2 5
+8 4 3
+8 1 3
+8 3 3
+9 4 1
+9 1 1
+9 10 1
+10 6 3
+10 7 2
+10 8 1
+10 3 2
+10 1 1
+10 11 1
+11 7 1
+11 1 1
+11 3 1
+11 6 1
+11 10 1
+11 2 1

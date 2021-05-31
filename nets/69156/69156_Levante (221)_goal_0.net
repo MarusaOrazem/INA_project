@@ -1,0 +1,48 @@
+*vertices 11
+1 "Damiano Tommasi" 0.0 0.0 ellipse
+2 "Salvador Ballesta Vialcho" 0.0 0.0 ellipse
+3 "José Alejandro Suárez Martín" 0.0 0.0 ellipse
+4 "Diego Camacho Quesada" 0.0 0.0 ellipse
+5 "Iñaki Descarga Retegi" 0.0 0.0 ellipse
+6 "José Francisco Molina Jiménez " 0.0 0.0 ellipse
+7 "Luis Manuel Rubiales Béjar" 0.0 0.0 ellipse
+8 "Narcisse-Olivier Kapo Obou" 0.0 0.0 ellipse
+9 "Rahamat Riga Mustapha" 0.0 0.0 ellipse
+10 "Mathieu Berson" 0.0 0.0 ellipse
+11 "Álvaro Luiz Maior de Aquino" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 8 1
+1 9 1
+1 7 1
+2 3 1
+2 8 3
+2 5 1
+2 10 2
+2 9 1
+3 1 1
+3 2 1
+3 6 1
+4 5 1
+4 3 1
+4 10 1
+4 2 1
+5 9 4
+5 2 2
+5 8 1
+6 2 4
+6 1 1
+7 2 2
+7 3 1
+7 8 1
+8 2 1
+8 1 1
+8 5 1
+8 9 1
+9 4 3
+9 2 1
+9 1 2
+9 11 1
+10 7 1
+10 2 2
+10 3 1

@@ -1,0 +1,18 @@
+*vertices 7
+1 "Anne-Marie Heatherson" 0.0 0.0 ellipse
+2 "Amber Gaylor" 0.0 0.0 ellipse
+3 "Megan Alexander" 0.0 0.0 ellipse
+4 "Amy Goddard" 0.0 0.0 ellipse
+5 "Georgia Evans" 0.0 0.0 ellipse
+6 "Emily Donovan" 0.0 0.0 ellipse
+7 "Ellie Mason" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+2 3 2
+3 1 1
+3 2 1
+4 5 2
+4 6 1
+5 4 2
+7 2 1

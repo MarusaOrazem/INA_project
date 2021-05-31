@@ -1,0 +1,79 @@
+*vertices 13
+1 "Carlos Alberto Vela Garrido" 0.0 0.0 ellipse
+2 "Xabier Prieto Argarate" 0.0 0.0 ellipse
+3 "Íñigo Martínez Berridi" 0.0 0.0 ellipse
+4 "Antoine Griezmann" 0.0 0.0 ellipse
+5 "Carlos Martínez Díez" 0.0 0.0 ellipse
+6 "Asier Illarramendi Andonegi" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Markel Bergara Larrañaga" 0.0 0.0 ellipse
+9 "Alberto De La Bella Madureño" 0.0 0.0 ellipse
+10 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+11 "Gonzalo Castro Irizábal" 0.0 0.0 ellipse
+12 "Mikel González de Martín Martínez" 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 4 3
+1 11 3
+2 3 1
+2 1 5
+2 8 1
+2 7 1
+2 5 1
+2 4 4
+2 11 1
+3 2 1
+3 10 4
+3 4 2
+3 5 2
+3 11 1
+3 6 1
+3 1 1
+4 5 3
+4 8 4
+4 7 1
+4 6 1
+4 2 2
+4 13 1
+4 1 1
+5 4 6
+5 8 1
+5 10 1
+5 6 2
+5 1 2
+5 2 3
+5 12 3
+6 7 1
+6 9 1
+6 3 1
+6 12 1
+6 8 1
+6 11 2
+6 4 1
+6 1 1
+6 5 1
+8 5 3
+8 3 2
+8 6 1
+8 9 1
+8 1 1
+8 4 2
+9 3 1
+9 1 1
+9 10 1
+10 11 2
+10 3 1
+10 2 4
+10 1 1
+10 5 1
+10 9 1
+11 8 1
+11 2 1
+11 1 3
+11 5 1
+11 13 2
+12 10 1
+12 5 2
+12 2 1
+12 6 1

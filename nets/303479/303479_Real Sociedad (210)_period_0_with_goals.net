@@ -1,0 +1,81 @@
+*vertices 13
+1 "Ignacio Monreal Eraso" 0.0 0.0 ellipse
+2 "Robin Aime Robert Le Normand" 0.0 0.0 ellipse
+3 "Alejandro Remiro Gargallo" 0.0 0.0 ellipse
+4 "Cristian Portugués Manzanera" 0.0 0.0 ellipse
+5 "Martin Ødegaard" 0.0 0.0 ellipse
+6 "Diego Javier Llorente Ríos" 0.0 0.0 ellipse
+7 "Mikel Merino Zazón" 0.0 0.0 ellipse
+8 "Ander Barrenetxea Muguruza" 0.0 0.0 ellipse
+9 "Alexander Isak" 0.0 0.0 ellipse
+10 "Andoni Gorosabel Espinosa" 0.0 0.0 ellipse
+11 "Ander Guevara Lajo" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 8 7
+1 7 4
+1 9 3
+1 4 1
+1 11 1
+2 3 8
+2 7 6
+2 8 4
+2 1 9
+2 6 3
+2 5 1
+2 11 1
+3 1 3
+3 2 13
+3 6 4
+3 11 1
+3 7 3
+3 9 1
+4 5 2
+4 9 1
+4 8 1
+5 4 3
+5 10 2
+5 6 4
+5 7 2
+5 9 1
+5 11 2
+5 2 2
+5 8 1
+5 3 1
+6 3 8
+6 10 5
+6 5 4
+6 11 4
+6 2 3
+7 2 1
+7 11 3
+7 1 4
+7 5 2
+7 8 4
+7 9 1
+7 4 1
+8 2 1
+8 7 4
+8 5 1
+8 1 2
+8 9 1
+8 13 1
+9 5 2
+9 12 3
+9 8 3
+9 7 1
+10 11 5
+10 3 4
+10 5 1
+10 4 1
+10 6 4
+10 7 1
+11 1 3
+11 6 5
+11 5 4
+11 2 3
+11 7 1
+11 10 3
+11 8 1

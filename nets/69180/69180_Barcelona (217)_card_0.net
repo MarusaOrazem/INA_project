@@ -1,0 +1,105 @@
+*vertices 11
+1 "Ronaldo de Assis Moreira" 0.0 0.0 ellipse
+2 "Eric-Sylvain Bilal Abidal" 0.0 0.0 ellipse
+3 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+4 "Gnégnéri Yaya Touré" 0.0 0.0 ellipse
+5 "Gianluca Zambrotta" 0.0 0.0 ellipse
+6 "Oleguer Presas Renom" 0.0 0.0 ellipse
+7 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+8 "Xavier Hernández Creus" 0.0 0.0 ellipse
+9 "Lilian Thuram" 0.0 0.0 ellipse
+10 "Samuel Eto"o Fils" 0.0 0.0 ellipse
+11 "Lionel Andrés Messi Cuccittini/Thierry Henry" 0.0 0.0 ellipse
+*arcs
+1 2 7
+1 5 4
+1 6 1
+1 9 2
+1 10 5
+1 8 7
+1 3 6
+1 4 1
+1 11 3
+2 3 13
+2 1 9
+2 8 5
+2 6 9
+2 4 10
+2 9 1
+2 10 2
+2 7 1
+2 11 4
+3 4 8
+3 2 12
+3 1 9
+3 8 5
+3 10 2
+3 6 3
+3 5 6
+3 9 3
+3 11 9
+4 5 6
+4 6 8
+4 9 4
+4 3 9
+4 8 11
+4 1 5
+4 2 7
+4 10 3
+4 11 2
+5 6 3
+5 8 18
+5 9 15
+5 4 6
+5 7 3
+5 3 2
+5 10 1
+5 11 7
+6 5 3
+6 2 13
+6 9 10
+6 8 6
+6 10 1
+6 1 1
+6 7 3
+6 4 2
+6 3 9
+7 6 4
+7 9 7
+7 5 2
+7 2 2
+7 3 2
+7 8 1
+8 3 9
+8 1 11
+8 9 8
+8 2 4
+8 6 6
+8 4 8
+8 10 9
+8 5 9
+8 11 1
+9 5 11
+9 6 8
+9 1 1
+9 3 8
+9 4 10
+9 7 3
+9 2 4
+9 8 6
+9 10 3
+9 11 2
+10 2 2
+10 3 1
+10 4 4
+10 8 11
+10 1 1
+10 11 5
+11 1 9
+11 5 4
+11 3 2
+11 6 2
+11 10 4
+11 8 11
+11 4 1
+11 2 4

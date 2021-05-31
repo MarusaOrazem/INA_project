@@ -1,0 +1,96 @@
+*vertices 13
+1 "Sadio Mané" 0.0 0.0 ellipse
+2 "Kalidou Koulibaly" 0.0 0.0 ellipse
+3 "Lamine Gassama" 0.0 0.0 ellipse
+4 "Salif Sané" 0.0 0.0 ellipse
+5 "Khadim N"Diaye" 0.0 0.0 ellipse
+6 "Ismaïla Sarr" 0.0 0.0 ellipse
+7 "Idrissa Gana Gueye" 0.0 0.0 ellipse
+8 "Cheikhou Kouyaté" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Youssouf Sabaly/Moussa Wagué" 0.0 0.0 ellipse
+12 "Keita Baldé Diao/Pape Moussa Konaté" 0.0 0.0 ellipse
+13 "M"Baye Babacar Niang/Diafra Sakho" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 8 1
+1 6 4
+1 7 1
+1 4 3
+1 3 1
+1 10 1
+1 12 1
+1 13 3
+2 4 5
+2 7 10
+2 8 1
+2 5 1
+2 1 1
+2 3 1
+2 11 3
+2 12 1
+2 13 1
+3 1 7
+3 4 7
+3 6 8
+3 8 2
+3 2 1
+3 7 1
+3 13 2
+4 2 10
+4 5 5
+4 8 4
+4 6 1
+4 3 4
+4 7 2
+4 10 1
+4 1 3
+4 13 1
+5 4 3
+5 1 1
+5 13 2
+6 3 2
+6 9 1
+6 8 2
+6 1 7
+6 10 1
+6 13 1
+7 2 9
+7 8 3
+7 1 7
+7 4 5
+7 3 3
+7 6 1
+7 11 2
+7 12 4
+7 13 5
+8 4 4
+8 2 2
+8 7 3
+8 3 4
+8 6 6
+8 1 1
+8 13 1
+11 2 6
+11 7 6
+11 1 1
+11 5 2
+11 4 1
+11 12 2
+11 13 2
+11 8 1
+12 2 3
+12 7 1
+12 1 2
+12 9 1
+12 11 2
+12 13 1
+13 10 1
+13 7 3
+13 6 3
+13 1 1
+13 4 1
+13 9 1
+13 11 2
+13 12 2

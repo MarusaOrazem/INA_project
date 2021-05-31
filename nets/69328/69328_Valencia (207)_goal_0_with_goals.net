@@ -1,0 +1,32 @@
+*vertices 11
+1 "Jonas Gonçalves Oliveira" 0.0 0.0 ellipse
+2 "Roberto Soldado Rillo" 0.0 0.0 ellipse
+3 "Alberto Facundo Costa " 0.0 0.0 ellipse
+4 "Víctor Ruíz Torre" 0.0 0.0 ellipse
+5 "Adil Rami" 0.0 0.0 ellipse
+6 "Sofiane Feghouli" 0.0 0.0 ellipse
+7 "David Albelda Aliqués" 0.0 0.0 ellipse
+8 "Diego Alves Carreira" 0.0 0.0 ellipse
+9 "Luís Miguel Brito Garcia Monteiro" 0.0 0.0 ellipse
+10 "Jérémy Mathieu" 0.0 0.0 ellipse
+11 "Pablo Daniel Piatti" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 1
+1 3 1
+2 3 1
+3 4 2
+3 1 1
+3 10 2
+4 5 2
+4 9 1
+5 6 1
+5 9 2
+6 7 1
+6 11 1
+7 1 1
+7 6 2
+7 5 1
+8 2 1
+9 7 1
+10 3 3

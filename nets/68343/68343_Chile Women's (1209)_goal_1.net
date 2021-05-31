@@ -1,0 +1,46 @@
+*vertices 11
+1 "Yesenia López" 0.0 0.0 ellipse
+2 "Daniela Paz Zamora Mancilla" 0.0 0.0 ellipse
+3 "María José Urrutia" 0.0 0.0 ellipse
+4 "Carla Valentina Guerrero Puelle" 0.0 0.0 ellipse
+5 "Camila Alejandra Saez Oyaneder" 0.0 0.0 ellipse
+6 "Rosario Balmaceda" 0.0 0.0 ellipse
+7 "Francisca Alejandra Lara Lara" 0.0 0.0 ellipse
+8 "Yanara Aedo" 0.0 0.0 ellipse
+9 "Rocio Andrea Soto Collao" 0.0 0.0 ellipse
+10 "Javiera Grez/Maria José Alondra Rojas Pino" 0.0 0.0 ellipse
+11 "Claudia Christiane Endler Mutinelli" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 5 1
+1 8 2
+1 4 1
+1 7 1
+2 8 2
+2 1 2
+3 7 2
+3 8 1
+3 4 1
+3 10 1
+4 1 3
+4 6 1
+4 3 2
+5 6 2
+5 1 2
+5 10 1
+6 3 1
+6 7 2
+6 8 2
+6 4 1
+6 2 1
+7 8 2
+7 5 1
+8 1 1
+8 2 4
+8 6 1
+8 4 2
+8 5 1
+9 1 2
+10 7 1
+11 10 1

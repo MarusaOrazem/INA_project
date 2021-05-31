@@ -1,0 +1,19 @@
+*vertices 8
+1 "Jorge Molina Vidal" 0.0 0.0 ellipse
+2 "Dorlan Mauricio Pabón Ríos" 0.0 0.0 ellipse
+3 "Rubén Salvador Pérez Del Mármol" 0.0 0.0 ellipse
+4 "Emmanuel Nosakhare Igiebor" 0.0 0.0 ellipse
+5 "Francisco Javier Chica Torres" 0.0 0.0 ellipse
+6 "Salvador Sevilla López" 0.0 0.0 ellipse
+7 "Pedro Mario Álvarez Abrante" 0.0 0.0 ellipse
+8 "Alejandro Martínez Sánchez" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 1
+1 6 1
+2 3 1
+4 1 1
+4 2 1
+5 1 1
+7 2 1
+8 1 1

@@ -1,0 +1,55 @@
+*vertices 13
+1 "Bamidele Alli" 0.0 0.0 ellipse
+2 "John Stones" 0.0 0.0 ellipse
+3 "Kyle Walker" 0.0 0.0 ellipse
+4 "Jordan Brian Henderson" 0.0 0.0 ellipse
+5 "Harry Maguire" 0.0 0.0 ellipse
+6 "Ashley Young" 0.0 0.0 ellipse
+7 "Kieran Trippier" 0.0 0.0 ellipse
+8 "Jesse Lingard" 0.0 0.0 ellipse
+9 "Harry Kane" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Raheem Shaquille Sterling" 0.0 0.0 ellipse
+13 "Jordan Pickford" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+1 8 1
+2 3 5
+2 5 4
+2 7 1
+2 10 1
+3 4 2
+3 7 3
+3 2 3
+3 13 1
+3 1 1
+4 2 1
+4 9 1
+4 1 1
+4 3 3
+4 5 1
+5 6 4
+5 3 1
+5 2 2
+5 11 1
+5 4 1
+5 9 1
+6 5 3
+6 2 3
+6 1 1
+6 4 2
+7 5 1
+7 4 1
+7 3 1
+7 2 1
+8 4 1
+8 10 1
+8 12 1
+9 8 1
+9 12 1
+9 11 1
+12 1 1
+12 9 1
+13 5 1

@@ -1,0 +1,98 @@
+*vertices 13
+1 "José Ángel Gómez Campaña" 0.0 0.0 ellipse
+2 "Enis Bardhi" 0.0 0.0 ellipse
+3 "José Luis Morales Nogales" 0.0 0.0 ellipse
+4 "Antonio García Aranda" 0.0 0.0 ellipse
+5 OFF_goal 0.0 0.0 ellipse
+6 "Erick Cathriel Cabaco Almada" 0.0 0.0 ellipse
+7 ON_goal 0.0 0.0 ellipse
+8 "David Remeseiro Salgueiro" 0.0 0.0 ellipse
+9 "Roberto Suárez Pier" 0.0 0.0 ellipse
+10 "Oier Olazábal Paredes" 0.0 0.0 ellipse
+11 "Emmanuel Okyere Boateng/Borja Mayoral Moya" 0.0 0.0 ellipse
+12 "Rubén Rochina Naixes/Jorge Andújar Moreno" 0.0 0.0 ellipse
+13 "Sergio Postigo Redondo/Sanjin Prcić" 0.0 0.0 ellipse
+*arcs
+1 2 11
+1 6 3
+1 8 3
+1 9 6
+1 5 2
+1 4 3
+1 3 2
+1 12 2
+1 13 1
+1 11 1
+2 3 3
+2 4 8
+2 5 2
+2 1 7
+2 7 1
+2 8 1
+2 9 2
+2 6 1
+2 11 1
+2 12 1
+2 13 2
+3 5 1
+3 4 3
+3 8 4
+3 1 2
+3 2 2
+4 2 6
+4 6 1
+4 3 2
+4 9 3
+4 7 1
+4 1 7
+4 11 1
+4 12 1
+6 7 1
+6 1 4
+6 3 1
+6 5 1
+6 2 1
+6 12 2
+6 13 1
+8 3 2
+8 1 4
+8 6 1
+8 2 4
+8 4 2
+8 5 1
+8 12 1
+9 1 2
+9 4 2
+9 8 2
+9 6 1
+9 10 3
+9 2 1
+9 12 2
+9 13 2
+10 9 2
+10 1 1
+11 4 1
+11 8 1
+11 3 1
+11 2 2
+11 7 1
+11 1 2
+11 13 1
+12 1 1
+12 4 2
+12 2 2
+12 8 3
+12 3 1
+12 11 2
+12 13 2
+13 9 3
+13 2 1
+13 1 1
+13 6 1
+13 8 2
+13 12 1
+13 11 1
+13 5 3
+13 3 2
+13 4 1
+13 7 1

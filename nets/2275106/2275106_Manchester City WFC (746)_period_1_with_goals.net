@@ -1,0 +1,101 @@
+*vertices 13
+1 "Keira Walsh" 0.0 0.0 ellipse
+2 "Caroline Weir" 0.0 0.0 ellipse
+3 "Demi Stokes" 0.0 0.0 ellipse
+4 "Gemma Bonner" 0.0 0.0 ellipse
+5 "Ellie Roebuck" 0.0 0.0 ellipse
+6 "Georgia Stanway" 0.0 0.0 ellipse
+7 "Tessa Wullaert" 0.0 0.0 ellipse
+8 "Jill Scott" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Stephanie Houghton" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Lauren Hemp" 0.0 0.0 ellipse
+13 "Ellen White/Pauline Bremer" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 8 1
+1 7 2
+1 10 3
+1 3 3
+1 4 4
+1 12 3
+1 6 1
+1 13 1
+2 3 7
+2 10 7
+2 8 3
+2 7 2
+2 1 6
+2 11 1
+2 6 3
+2 12 5
+2 4 4
+2 13 1
+3 4 10
+3 2 5
+3 8 1
+3 1 5
+3 12 2
+3 10 2
+3 7 4
+3 13 3
+4 5 6
+4 9 1
+4 2 5
+4 3 7
+4 1 3
+4 10 6
+4 7 1
+4 12 2
+4 8 1
+4 6 1
+4 13 2
+5 6 2
+5 10 6
+5 4 1
+5 1 1
+6 7 5
+6 9 1
+6 4 2
+6 2 3
+6 8 3
+6 10 7
+6 1 2
+6 13 4
+7 8 2
+7 4 2
+7 6 4
+7 2 2
+7 3 2
+7 1 1
+7 13 1
+8 9 1
+8 7 2
+8 2 4
+8 11 1
+8 12 2
+8 1 3
+8 10 1
+8 6 1
+8 13 2
+10 11 1
+10 4 6
+10 6 13
+10 1 3
+10 8 3
+10 2 4
+10 5 1
+10 12 1
+10 13 1
+12 3 5
+12 1 1
+12 2 1
+12 13 1
+13 1 3
+13 11 3
+13 2 1
+13 8 1
+13 9 1
+13 7 1
+13 3 1

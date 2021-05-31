@@ -1,0 +1,106 @@
+*vertices 13
+1 "Antoine Griezmann" 0.0 0.0 ellipse
+2 "Íñigo Martínez Berridi" 0.0 0.0 ellipse
+3 "Liassine Cadamuro-Bentaïba" 0.0 0.0 ellipse
+4 "Marco Sangalli Fuentes" 0.0 0.0 ellipse
+5 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+6 "Haris Seferović" 0.0 0.0 ellipse
+7 "Alberto De La Bella Madureño" 0.0 0.0 ellipse
+8 "Markel Bergara Larrañaga" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Xabier Prieto Argarate/Imanol Agirretxe Arruti" 0.0 0.0 ellipse
+12 "Daniel Estrada Agirrezablaga/Jon Ansotegi Gorostola" 0.0 0.0 ellipse
+13 "Javier Ros Añón/Rubén Pardo Gutiérrez" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 4
+1 9 3
+1 3 2
+1 6 1
+1 4 2
+1 10 1
+1 13 1
+1 11 4
+2 3 1
+2 6 3
+2 8 1
+2 1 1
+2 5 1
+2 7 7
+2 4 1
+2 11 1
+2 12 2
+3 4 1
+3 5 1
+3 1 2
+3 8 2
+3 6 2
+3 11 4
+3 13 1
+3 12 4
+4 1 3
+4 6 3
+4 7 3
+4 2 1
+4 12 2
+4 13 1
+4 11 2
+5 2 1
+5 4 4
+5 8 1
+5 3 2
+5 7 1
+5 11 4
+5 13 1
+6 7 3
+6 1 2
+6 3 3
+6 9 1
+6 8 1
+6 11 1
+6 13 1
+7 8 6
+7 2 10
+7 6 5
+7 1 3
+7 4 3
+7 9 1
+7 5 1
+7 13 1
+7 11 8
+7 12 1
+8 7 2
+8 6 2
+8 4 3
+8 3 2
+8 2 1
+8 1 2
+8 11 2
+8 12 1
+8 13 1
+11 1 2
+11 6 1
+11 4 1
+11 12 1
+11 13 3
+11 5 1
+11 7 7
+11 8 1
+11 10 1
+12 3 1
+12 6 1
+12 1 1
+12 4 1
+12 13 2
+12 5 4
+12 8 1
+12 7 1
+13 7 2
+13 2 4
+13 1 1
+13 8 2
+13 11 1
+13 12 3
+13 6 1
+13 3 1

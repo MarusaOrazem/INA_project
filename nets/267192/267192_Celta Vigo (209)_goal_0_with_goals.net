@@ -1,0 +1,33 @@
+*vertices 11
+1 "Andreu Fontàs Prat" 0.0 0.0 ellipse
+2 "Manuel Agudo Durán" 0.0 0.0 ellipse
+3 "Hugo Mallo Novegil" 0.0 0.0 ellipse
+4 "Borja Oubiña Meléndez" 0.0 0.0 ellipse
+5 "Charles Días Barbosa de Oliveira" 0.0 0.0 ellipse
+6 "Rafael Alcântara do Nascimento" 0.0 0.0 ellipse
+7 "Gustavo Daniel Cabral Cáceres" 0.0 0.0 ellipse
+8 "Yoel Rodríguez Oterino" 0.0 0.0 ellipse
+9 "Alejandro López Sánchez" 0.0 0.0 ellipse
+10 "Jon Aurtenetxe Borde" 0.0 0.0 ellipse
+11 "Augusto Matías Fernández" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 1
+1 6 1
+2 5 2
+3 4 2
+3 11 1
+3 7 1
+4 1 2
+4 6 1
+4 5 1
+5 3 1
+6 4 2
+6 9 1
+6 2 1
+7 8 1
+7 5 1
+8 1 1
+9 3 1
+10 6 1
+10 3 1

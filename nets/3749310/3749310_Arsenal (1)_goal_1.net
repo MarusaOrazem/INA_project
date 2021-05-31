@@ -1,0 +1,97 @@
+*vertices 11
+1 "Thierry Henry" 0.0 0.0 ellipse
+2 "Gaël Clichy" 0.0 0.0 ellipse
+3 "Patrick Vieira" 0.0 0.0 ellipse
+4 "Ray Parlour" 0.0 0.0 ellipse
+5 "Kolo Habib Touré" 0.0 0.0 ellipse
+6 "Sulzeer Jeremiah "Sol" Campbell" 0.0 0.0 ellipse
+7 "Pascal Cygan" 0.0 0.0 ellipse
+8 "Jens Lehmann" 0.0 0.0 ellipse
+9 "Dennis Bergkamp/Nwankwo Christian Kanu" 0.0 0.0 ellipse
+10 "Fredrik Ljungberg/Eduardo César Daude Gaspar" 0.0 0.0 ellipse
+11 "Robert Pirès /Laureano Bisan-Etame Mayer" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+1 4 2
+1 3 1
+1 9 1
+1 10 3
+1 11 2
+2 1 2
+2 8 1
+2 7 4
+2 3 5
+2 11 10
+2 9 1
+3 2 2
+3 4 4
+3 6 1
+3 5 3
+3 7 2
+3 1 3
+3 9 5
+3 10 2
+3 11 5
+4 5 11
+4 3 4
+4 6 3
+4 2 2
+4 1 1
+4 8 1
+4 9 1
+4 10 2
+4 11 2
+5 4 10
+5 1 1
+5 7 1
+5 3 2
+5 6 3
+5 8 1
+5 9 1
+5 10 4
+6 3 2
+6 5 3
+6 7 3
+6 4 1
+6 1 1
+6 2 2
+6 8 1
+6 9 2
+6 10 1
+6 11 1
+7 2 1
+7 3 5
+7 5 1
+7 6 4
+7 4 3
+7 1 1
+7 8 2
+7 11 1
+7 9 1
+8 6 1
+8 1 2
+8 9 1
+8 11 3
+9 4 3
+9 5 2
+9 1 2
+9 3 2
+9 10 2
+9 11 1
+10 6 1
+10 2 1
+10 3 1
+10 4 5
+10 5 3
+10 1 1
+10 9 1
+10 11 1
+11 1 10
+11 6 1
+11 3 5
+11 7 3
+11 2 5
+11 5 1
+11 9 1
+11 10 1

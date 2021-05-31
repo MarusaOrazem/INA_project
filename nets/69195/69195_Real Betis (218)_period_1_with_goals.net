@@ -1,0 +1,56 @@
+*vertices 12
+1 "Achille Emaná Edzimbi" 0.0 0.0 ellipse
+2 "Ricardo de Oliveira" 0.0 0.0 ellipse
+3 "Marco Aurélio Brito Dos Prazeres" 0.0 0.0 ellipse
+4 "Fernando Vega Torres" 0.0 0.0 ellipse
+5 "Branko Ilič" 0.0 0.0 ellipse
+6 "Sergio García De La Fuente" 0.0 0.0 ellipse
+7 "Juan de Dios Prados López" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Luciano Fabián Monzón" 0.0 0.0 ellipse
+10 "Ricardo Alexandre Martins Soares Pereira" 0.0 0.0 ellipse
+11 "Juan Alberto Andreu Alvarado" 0.0 0.0 ellipse
+12 "Mark Dennis González Hoffmann/Juan Manuel Gómez Sánchez" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+1 7 3
+1 6 1
+1 4 1
+1 12 3
+2 1 4
+2 3 1
+2 6 1
+2 8 2
+3 4 2
+3 7 2
+3 2 1
+3 6 1
+3 1 2
+3 12 2
+4 2 4
+4 3 1
+4 11 1
+4 1 2
+4 12 1
+5 6 2
+5 7 1
+5 2 1
+6 2 1
+7 3 1
+7 5 2
+7 6 3
+7 1 3
+7 4 2
+7 12 1
+9 2 1
+10 7 1
+10 2 5
+10 6 2
+10 12 1
+11 3 1
+12 4 1
+12 1 1
+12 2 2
+12 3 2
+12 9 1

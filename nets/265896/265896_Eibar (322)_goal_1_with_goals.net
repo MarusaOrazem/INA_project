@@ -1,0 +1,72 @@
+*vertices 13
+1 "Daniel García Carrillo" 0.0 0.0 ellipse
+2 "Manuel Castellano Castro" 0.0 0.0 ellipse
+3 "Xabier Iruretagoiena Aranzamendi" 0.0 0.0 ellipse
+4 "Eneko Bóveda Altube" 0.0 0.0 ellipse
+5 "Jon Errasti Zabalete" 0.0 0.0 ellipse
+6 "Federico Piovaccari" 0.0 0.0 ellipse
+7 "Raúl Albentosa Redal" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Borja Ekiza Imaz" 0.0 0.0 ellipse
+10 "Abraham Minero Fernández" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Ander Capa Rodríguez/Derek Owusu Boateng" 0.0 0.0 ellipse
+13 "Saúl Berjón Pérez/Daniel Nieto Vela" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 6 1
+1 7 6
+1 5 1
+1 4 1
+1 9 2
+1 10 1
+1 12 4
+1 13 1
+2 5 2
+2 4 1
+2 7 3
+2 1 4
+2 12 3
+3 1 1
+3 4 2
+3 10 1
+3 6 1
+4 1 1
+4 6 1
+4 2 1
+4 12 1
+5 1 2
+5 4 1
+5 7 1
+5 13 1
+6 8 1
+6 9 1
+6 7 1
+6 4 1
+6 13 1
+7 6 2
+7 2 1
+7 1 2
+7 4 3
+7 10 1
+7 9 1
+7 11 1
+7 12 3
+9 1 3
+9 7 1
+9 10 4
+10 6 1
+10 7 1
+10 5 2
+10 9 1
+10 1 2
+12 1 6
+12 6 2
+12 2 2
+12 4 2
+12 13 1
+13 1 2
+13 4 1
+13 12 1
+13 6 1
+13 7 1

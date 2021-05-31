@@ -1,0 +1,110 @@
+*vertices 13
+1 "Celso Borges Mora" 0.0 0.0 ellipse
+2 "Lucas Pérez Martínez" 0.0 0.0 ellipse
+3 "Sidnei Rechel da Silva Júnior" 0.0 0.0 ellipse
+4 "Rubén Iván Martínez Andrade" 0.0 0.0 ellipse
+5 "Fernando Navarro i Corbacho" 0.0 0.0 ellipse
+6 "Adrián López Álvarez" 0.0 0.0 ellipse
+7 "Fabian Lukas Schär" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Juan Francisco Moreno Fuertes" 0.0 0.0 ellipse
+10 "Guilherme dos Santos Torres/Federico Santiago Valverde Dipetta" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Emre Çolak/Zakaria Bakkali" 0.0 0.0 ellipse
+13 "Carles Gil de Pareja Vicent/Borja Valle Balonga" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 6 3
+1 8 1
+1 5 3
+1 9 6
+1 7 2
+1 3 2
+1 12 6
+1 13 2
+1 10 1
+2 5 2
+2 1 5
+2 3 1
+2 10 4
+2 12 3
+2 13 2
+3 2 1
+3 5 3
+3 6 2
+3 9 2
+3 1 2
+3 7 1
+3 10 2
+3 12 2
+3 13 1
+4 5 1
+4 7 3
+4 3 1
+4 2 1
+4 9 1
+4 12 1
+4 13 1
+4 10 1
+5 6 10
+5 1 3
+5 2 5
+5 4 1
+5 9 1
+5 10 6
+5 12 3
+5 13 3
+6 1 3
+6 2 5
+6 5 3
+6 9 5
+6 10 1
+6 12 2
+6 13 1
+7 5 3
+7 4 2
+7 1 2
+7 6 1
+7 9 1
+7 10 1
+7 12 2
+7 13 4
+9 5 1
+9 1 4
+9 7 3
+9 6 3
+9 4 1
+9 2 1
+9 10 2
+9 12 3
+9 13 1
+10 3 5
+10 11 1
+10 5 2
+10 2 1
+10 7 4
+10 9 5
+10 12 1
+10 13 1
+10 1 1
+10 6 1
+12 6 4
+12 2 1
+12 5 2
+12 1 1
+12 7 2
+12 9 1
+12 11 1
+12 10 2
+12 13 1
+13 9 5
+13 2 1
+13 8 1
+13 6 1
+13 3 1
+13 11 1
+13 5 1
+13 7 1
+13 1 1
+13 10 1
+13 12 1

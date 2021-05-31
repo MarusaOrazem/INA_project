@@ -1,0 +1,94 @@
+*vertices 11
+1 "Rahamat Riga Mustapha" 0.0 0.0 ellipse
+2 "David Castedo Escudero" 0.0 0.0 ellipse
+3 "Álvaro Luiz Maior de Aquino" 0.0 0.0 ellipse
+4 "Vladan Kujović" 0.0 0.0 ellipse
+5 "Juan Manuel Gómez Sánchez" 0.0 0.0 ellipse
+6 "Laurent Courtois" 0.0 0.0 ellipse
+7 "José Manuel Serrano Arenas" 0.0 0.0 ellipse
+8 "Iñaki Descarga Retegi" 0.0 0.0 ellipse
+9 "Mathieu Berson/Javier Fuego Martínez" 0.0 0.0 ellipse
+10 "Miguel Ángel Lozano Ayala/Pedro León Sánchez Gil" 0.0 0.0 ellipse
+11 "Alexandre Geijo Pazos/Saúl Fernández García" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 3
+1 5 3
+1 8 2
+1 9 1
+1 11 1
+1 10 1
+2 3 2
+2 1 2
+2 6 3
+2 10 2
+2 11 4
+2 9 1
+3 4 1
+3 6 2
+3 1 1
+3 2 1
+3 5 1
+3 9 1
+3 10 1
+3 11 1
+4 1 1
+4 5 1
+4 6 1
+4 7 2
+4 11 2
+4 10 2
+5 1 5
+5 8 5
+5 4 1
+5 6 2
+5 9 1
+5 10 1
+5 11 5
+6 1 2
+6 5 4
+6 2 1
+6 3 1
+6 7 1
+6 9 4
+6 10 3
+6 11 5
+7 6 2
+7 5 1
+7 1 1
+7 4 2
+7 2 1
+7 3 1
+7 11 2
+7 9 2
+7 10 1
+8 1 1
+8 5 5
+8 7 1
+8 4 2
+8 11 1
+8 9 3
+9 6 5
+9 5 3
+9 3 1
+9 1 1
+9 10 1
+9 11 1
+9 2 1
+9 7 1
+10 2 2
+10 6 3
+10 1 1
+10 5 2
+10 8 1
+10 4 1
+10 3 1
+10 9 1
+10 11 1
+11 1 6
+11 5 3
+11 6 1
+11 8 1
+11 2 1
+11 9 1
+11 10 3

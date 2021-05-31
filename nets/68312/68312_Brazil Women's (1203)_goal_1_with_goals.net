@@ -1,0 +1,47 @@
+*vertices 11
+1 "Bárbara Micheline do Monte Barbosa" 0.0 0.0 ellipse
+2 "Monica Hickmann Alves" 0.0 0.0 ellipse
+3 "Tamires Cassia Dias Gomes" 0.0 0.0 ellipse
+4 "Beatriz Zaneratto João" 0.0 0.0 ellipse
+5 "Andressa Cavalari Machry" 0.0 0.0 ellipse
+6 "Thaysa de Moraes Rosa Moreno" 0.0 0.0 ellipse
+7 "Kathellen Sousa Feitoza" 0.0 0.0 ellipse
+8 "Débora Cristiane de Oliveira" 0.0 0.0 ellipse
+9 "Marta Vieira da Silva/Luana Bertolucci Paixão" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Leticia Santos de Oliveira/Poliana Barbosa Medeiros" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 4 4
+1 6 1
+2 3 2
+2 1 2
+2 7 1
+2 5 1
+2 9 1
+3 2 3
+3 5 3
+3 4 4
+3 9 1
+4 8 2
+4 3 2
+4 7 1
+4 9 2
+5 4 3
+5 7 1
+5 9 2
+6 2 1
+6 5 1
+6 8 1
+6 9 1
+7 4 1
+7 1 1
+8 6 1
+8 9 2
+9 10 1
+9 11 1
+9 4 1
+9 8 2
+9 3 1
+9 5 1
+11 6 1

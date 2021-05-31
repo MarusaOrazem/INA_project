@@ -1,0 +1,112 @@
+*vertices 13
+1 "Stephan Lichtsteiner" 0.0 0.0 ellipse
+2 "Fabian Lukas Schär" 0.0 0.0 ellipse
+3 "Manuel Obafemi Akanji" 0.0 0.0 ellipse
+4 "Granit Xhaka" 0.0 0.0 ellipse
+5 "Breel-Donald Embolo" 0.0 0.0 ellipse
+6 "Yann Sommer" 0.0 0.0 ellipse
+7 "Ricardo Iván Rodríguez Araya" 0.0 0.0 ellipse
+8 "Blerim Džemaili" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Valon Behrami/Denis Lemi Zakaria Lako Lado" 0.0 0.0 ellipse
+12 "Mario Gavranović/Josip Drmic" 0.0 0.0 ellipse
+13 "Xherdan Shaqiri/Michael Lang" 0.0 0.0 ellipse
+*arcs
+1 2 9
+1 4 8
+1 5 3
+1 10 1
+1 8 2
+1 11 5
+1 12 1
+1 13 1
+2 3 13
+2 7 3
+2 4 19
+2 1 12
+2 5 2
+2 6 9
+2 11 4
+2 13 1
+2 12 2
+3 2 14
+3 4 19
+3 6 6
+3 8 5
+3 7 14
+3 1 2
+3 11 3
+3 13 2
+4 5 6
+4 7 18
+4 8 12
+4 2 18
+4 3 14
+4 1 2
+4 6 2
+4 11 6
+4 13 1
+4 12 2
+5 2 1
+5 8 3
+5 4 5
+5 7 5
+5 3 3
+5 10 1
+5 9 1
+5 11 1
+5 13 2
+5 12 1
+6 3 14
+6 7 2
+6 4 3
+6 5 2
+6 2 5
+6 11 1
+6 13 1
+7 5 12
+7 4 9
+7 3 4
+7 8 4
+7 1 2
+7 10 1
+7 2 1
+7 11 3
+7 12 1
+8 1 1
+8 4 4
+8 9 1
+8 10 2
+8 3 3
+8 7 2
+8 5 1
+8 11 1
+8 12 2
+8 13 4
+11 4 1
+11 1 1
+11 2 6
+11 5 1
+11 7 1
+11 3 6
+11 6 1
+11 8 3
+11 10 1
+11 13 1
+11 12 1
+12 4 1
+12 10 2
+12 5 1
+12 1 1
+12 7 1
+12 9 1
+12 13 2
+13 1 11
+13 4 3
+13 3 1
+13 8 4
+13 5 2
+13 11 1
+13 12 1
+13 2 2

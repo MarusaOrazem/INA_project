@@ -1,0 +1,23 @@
+*vertices 9
+1 "Kelley O"Hara" 0.0 0.0 ellipse
+2 "Julie Ertz" 0.0 0.0 ellipse
+3 "Becky Sauerbrunn" 0.0 0.0 ellipse
+4 "Megan Rapinoe" 0.0 0.0 ellipse
+5 "Samantha Mewis" 0.0 0.0 ellipse
+6 ON_goal 0.0 0.0 ellipse
+7 "Crystal Alyssia Dunn" 0.0 0.0 ellipse
+8 "Alyssa Naeher" 0.0 0.0 ellipse
+9 "Abby Dahlkemper" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 1
+2 6 1
+3 4 1
+3 9 1
+3 7 1
+4 2 1
+5 4 2
+7 5 2
+7 3 1
+8 3 1
+9 1 1

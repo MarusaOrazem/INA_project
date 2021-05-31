@@ -1,0 +1,88 @@
+*vertices 11
+1 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+2 "Adriano Correia Claro" 0.0 0.0 ellipse
+3 "Jordi Alba Ramos" 0.0 0.0 ellipse
+4 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+5 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+6 "Xavier Hernández Creus" 0.0 0.0 ellipse
+7 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+8 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+9 "Alexis Alejandro Sánchez Sánchez" 0.0 0.0 ellipse
+10 "Pedro Eliezer Rodríguez Ledesma/Thiago Alcântara do Nascimento" 0.0 0.0 ellipse
+11 "Carles Puyol i Saforcada/Javier Alejandro Mascherano" 0.0 0.0 ellipse
+*arcs
+1 2 7
+1 8 3
+1 6 6
+1 4 2
+1 5 3
+1 10 2
+1 11 2
+2 1 5
+2 9 2
+2 4 1
+2 6 7
+2 7 1
+2 10 4
+3 4 3
+3 9 2
+3 5 6
+3 8 1
+3 1 1
+3 11 4
+4 5 3
+4 7 2
+4 1 6
+4 6 7
+4 2 2
+4 8 1
+4 10 1
+4 11 3
+5 9 7
+5 6 6
+5 4 4
+5 3 3
+5 7 5
+5 2 1
+5 10 1
+6 4 4
+6 2 3
+6 1 2
+6 5 9
+6 9 8
+6 7 5
+6 3 1
+6 10 3
+6 11 2
+7 6 4
+7 5 3
+7 9 1
+7 4 2
+7 2 1
+7 10 2
+8 9 4
+8 5 1
+8 2 1
+8 3 1
+8 6 1
+8 11 5
+9 5 3
+9 6 3
+9 2 1
+9 7 3
+9 4 1
+9 3 1
+9 10 1
+10 1 1
+10 2 4
+10 3 1
+10 6 1
+10 7 2
+10 9 1
+11 6 2
+11 8 3
+11 1 3
+11 3 2
+11 5 1
+11 4 2
+11 2 1

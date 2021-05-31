@@ -1,0 +1,84 @@
+*vertices 13
+1 "Siri Worm" 0.0 0.0 ellipse
+2 "Inessa Kaagman" 0.0 0.0 ellipse
+3 "Abbey-Leigh Stringer" 0.0 0.0 ellipse
+4 "Megan Finnigan" 0.0 0.0 ellipse
+5 "Kirstie Levell" 0.0 0.0 ellipse
+6 "Angharad James" 0.0 0.0 ellipse
+7 "Danielle Turner" 0.0 0.0 ellipse
+8 "Taylor Hinds" 0.0 0.0 ellipse
+9 "Simone Magill" 0.0 0.0 ellipse
+10 "Emma Brownlie" 0.0 0.0 ellipse
+11 "Chantelle Boye-Hlorkah" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 11 5
+1 9 3
+1 6 1
+1 3 1
+1 7 5
+1 5 2
+1 10 1
+2 3 2
+2 4 1
+2 12 1
+2 13 3
+2 10 4
+2 9 1
+2 11 2
+2 8 2
+2 7 2
+3 2 2
+3 6 2
+3 8 1
+3 1 1
+3 10 2
+3 12 1
+3 11 1
+4 2 3
+4 1 3
+4 6 2
+4 7 3
+5 1 3
+5 10 2
+5 11 2
+5 4 1
+5 3 1
+6 10 2
+6 1 1
+6 2 3
+6 4 1
+6 12 1
+6 8 1
+7 2 3
+7 1 3
+7 11 1
+7 8 2
+7 9 1
+7 5 1
+8 9 3
+8 12 3
+8 2 1
+8 3 1
+9 3 2
+9 8 1
+9 10 1
+9 6 2
+9 13 1
+9 1 1
+9 2 1
+10 9 2
+10 11 3
+10 8 4
+10 4 1
+10 2 4
+10 5 1
+10 3 1
+10 7 1
+10 12 1
+11 8 1
+11 9 2
+11 2 1
+11 12 1

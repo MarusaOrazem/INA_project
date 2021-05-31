@@ -1,0 +1,105 @@
+*vertices 13
+1 "Ricardo Miguel Moreira da Costa" 0.0 0.0 ellipse
+2 "Adil Rami" 0.0 0.0 ellipse
+3 "José Andrés Guardado Hernández" 0.0 0.0 ellipse
+4 "Dorlan Mauricio Pabón Ríos" 0.0 0.0 ellipse
+5 "Javier Fuego Martínez" 0.0 0.0 ellipse
+6 "Diego Alves Carreira" 0.0 0.0 ellipse
+7 "Hélder Manuel Marques Postiga" 0.0 0.0 ellipse
+8 "João Pedro da Silva Pereira" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Éver Maximiliano David Banega/Sofiane Feghouli" 0.0 0.0 ellipse
+12 "Sergio Canales Madrazo/Jonas Gonçalves Oliveira" 0.0 0.0 ellipse
+13 "Miguel Alfonso Herrero Javaloyas/Daniel Parejo Muñoz" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 7 3
+1 3 4
+1 5 3
+1 6 2
+1 10 1
+1 13 1
+2 8 5
+2 6 3
+2 10 1
+2 7 1
+2 5 1
+2 4 1
+2 1 1
+2 12 3
+2 13 1
+3 4 9
+3 5 4
+3 1 4
+3 6 1
+3 10 1
+3 11 1
+3 12 1
+3 13 6
+4 3 7
+4 9 2
+4 8 1
+4 1 1
+4 11 2
+4 12 2
+4 13 2
+5 4 3
+5 2 3
+5 1 1
+5 3 1
+5 8 4
+5 10 1
+5 11 1
+5 12 4
+5 13 2
+6 7 2
+6 5 1
+6 1 1
+6 8 1
+6 2 1
+6 12 1
+7 8 4
+7 1 1
+7 3 1
+7 9 3
+7 4 1
+7 5 1
+7 11 1
+7 13 2
+8 7 6
+8 2 3
+8 5 3
+8 1 1
+8 11 3
+8 12 2
+8 13 5
+11 4 3
+11 9 1
+11 8 3
+11 10 1
+11 7 2
+11 3 1
+11 12 2
+11 13 1
+11 5 1
+12 8 8
+12 7 1
+12 4 2
+12 1 1
+12 5 3
+12 2 1
+12 11 1
+12 13 2
+12 10 1
+12 9 3
+13 1 3
+13 3 2
+13 10 1
+13 8 1
+13 4 6
+13 5 1
+13 2 6
+13 6 1
+13 11 1
+13 12 3

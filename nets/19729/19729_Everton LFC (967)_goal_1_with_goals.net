@@ -1,0 +1,104 @@
+*vertices 13
+1 "Simone Magill" 0.0 0.0 ellipse
+2 "Gabrielle George" 0.0 0.0 ellipse
+3 ON_goal 0.0 0.0 ellipse
+4 "Megan Finnigan" 0.0 0.0 ellipse
+5 "Abbey-Leigh Stringer" 0.0 0.0 ellipse
+6 "Angharad James" 0.0 0.0 ellipse
+7 "Danielle Turner" 0.0 0.0 ellipse
+8 "Kirstie Levell" 0.0 0.0 ellipse
+9 "Georgia Brougham" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Siri Worm/Elise Hughes" 0.0 0.0 ellipse
+12 "Emma Brownlie/Hannah Cain" 0.0 0.0 ellipse
+13 "Inessa Kaagman/Chantelle Boye-Hlorkah" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 6
+1 5 2
+1 4 1
+1 12 1
+1 11 3
+1 13 2
+2 1 4
+2 3 1
+2 4 2
+2 6 2
+2 9 2
+2 8 2
+2 7 5
+2 10 1
+2 12 1
+2 11 3
+4 2 2
+4 9 6
+4 1 8
+4 6 3
+4 10 2
+4 5 4
+4 11 4
+4 12 1
+4 13 3
+5 4 6
+5 9 4
+5 7 2
+5 8 1
+5 2 1
+5 1 1
+5 6 2
+5 11 1
+5 12 1
+6 5 3
+6 2 4
+6 7 3
+6 1 1
+6 9 1
+6 4 1
+6 8 1
+6 10 2
+6 13 1
+6 11 1
+6 12 1
+7 4 2
+7 1 2
+7 9 2
+7 6 2
+7 5 1
+7 2 1
+7 8 1
+7 11 3
+7 12 2
+8 2 8
+8 7 1
+8 9 11
+8 4 1
+8 11 2
+9 8 8
+9 4 4
+9 6 1
+9 1 1
+9 10 1
+9 2 1
+9 11 1
+9 12 1
+11 2 1
+11 7 1
+11 9 1
+11 1 3
+11 5 1
+11 4 1
+11 13 3
+11 3 2
+11 10 1
+11 12 3
+12 6 1
+12 5 1
+12 2 1
+12 8 1
+12 4 1
+12 7 1
+12 3 1
+13 5 1
+13 7 1
+13 10 1
+13 4 1

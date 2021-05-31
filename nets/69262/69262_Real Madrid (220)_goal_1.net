@@ -1,0 +1,76 @@
+*vertices 11
+1 "Ricardo Izecson dos Santos Leite" 0.0 0.0 ellipse
+2 "Gonzalo Gerardo Higuaín" 0.0 0.0 ellipse
+3 "Xabier Alonso Olano" 0.0 0.0 ellipse
+4 "Marcelo Vieira da Silva Júnior" 0.0 0.0 ellipse
+5 "Raúl Albiol Tortajada" 0.0 0.0 ellipse
+6 "Sergio Ramos García" 0.0 0.0 ellipse
+7 "Kléper Laveran Lima Ferreira" 0.0 0.0 ellipse
+8 "Lassana Diarra" 0.0 0.0 ellipse
+9 "Iker Casillas Fernández" 0.0 0.0 ellipse
+10 "Cristiano Ronaldo dos Santos Aveiro/Karim Benzema" 0.0 0.0 ellipse
+11 "Álvaro Arbeloa Coca/Raúl González Blanco" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 3 3
+1 6 3
+1 11 3
+1 10 3
+2 3 1
+2 5 1
+2 8 2
+2 1 2
+2 6 1
+2 10 1
+3 4 6
+3 7 1
+3 1 5
+3 6 4
+3 11 1
+3 10 2
+4 3 4
+4 1 4
+4 5 1
+4 2 1
+4 10 3
+4 11 1
+5 6 2
+5 7 1
+5 3 2
+5 2 2
+5 4 2
+6 1 1
+6 3 2
+6 7 1
+6 4 1
+6 2 3
+6 5 2
+6 8 1
+6 9 1
+6 10 2
+6 11 2
+7 1 2
+7 8 1
+7 3 1
+7 2 1
+7 4 1
+8 6 2
+8 3 3
+8 4 2
+8 10 1
+9 4 2
+9 1 1
+9 3 1
+9 5 1
+9 11 1
+9 10 1
+10 1 4
+10 2 3
+10 8 1
+10 6 2
+11 5 2
+11 1 2
+11 4 3
+11 10 1
+11 3 1
+11 6 1

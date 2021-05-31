@@ -1,0 +1,87 @@
+*vertices 12
+1 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+2 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+3 OFF_goal 0.0 0.0 ellipse
+4 "Martín Montoya Torralbo" 0.0 0.0 ellipse
+5 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+6 "Jordi Alba Ramos" 0.0 0.0 ellipse
+7 "Alexandre Dimitri Song-Billong" 0.0 0.0 ellipse
+8 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Francesc Fàbregas i Soler/Xavier Hernández Creus" 0.0 0.0 ellipse
+11 "David Villa Sánchez/Adriano Correia Claro" 0.0 0.0 ellipse
+12 "Cristian Tello Herrera/Pedro Eliezer Rodríguez Ledesma" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+1 6 2
+1 11 3
+1 10 1
+2 3 1
+2 7 1
+2 6 4
+2 8 1
+2 5 2
+2 9 1
+2 10 5
+2 12 1
+4 5 2
+4 7 6
+4 8 3
+4 1 1
+4 12 3
+4 10 3
+5 7 1
+5 2 6
+5 8 3
+5 6 7
+5 4 1
+5 10 7
+5 12 1
+6 7 3
+6 5 16
+6 2 3
+6 8 7
+6 1 2
+6 10 6
+6 11 8
+7 1 4
+7 8 4
+7 5 1
+7 4 6
+7 10 7
+7 11 6
+7 12 6
+8 6 7
+8 7 8
+8 5 4
+8 2 3
+8 4 1
+8 10 7
+8 11 4
+8 12 4
+10 6 10
+10 5 6
+10 2 4
+10 8 9
+10 7 4
+10 12 6
+10 4 6
+10 3 1
+10 11 3
+11 2 1
+11 8 5
+11 6 9
+11 4 1
+11 7 7
+11 1 1
+11 5 1
+11 10 1
+12 3 2
+12 4 4
+12 2 2
+12 6 2
+12 7 5
+12 5 2
+12 8 1
+12 10 6

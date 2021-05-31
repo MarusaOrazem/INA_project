@@ -1,0 +1,98 @@
+*vertices 13
+1 "Boudewijn Zenden" 0.0 0.0 ellipse
+2 "Franck Queudrue" 0.0 0.0 ellipse
+3 "Stewart Downing" 0.0 0.0 ellipse
+4 "George Boateng" 0.0 0.0 ellipse
+5 "Gareth Southgate" 0.0 0.0 ellipse
+6 "Mark Schwarzer" 0.0 0.0 ellipse
+7 "Danny Mills" 0.0 0.0 ellipse
+8 "Szilárd Németh" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Ugo Ehiogu/Chris Riggott" 0.0 0.0 ellipse
+12 "Dorival Guidoni Júnior/Oswaldo Giroldo Júnior" 0.0 0.0 ellipse
+13 "Joseph-Desiré Job/Massimo Maccarone" 0.0 0.0 ellipse
+*arcs
+1 2 7
+1 8 2
+1 3 4
+1 5 4
+1 6 1
+1 7 1
+1 9 3
+1 4 4
+1 12 3
+1 13 2
+2 5 4
+2 1 10
+2 3 10
+2 8 1
+2 7 2
+2 6 1
+2 10 1
+2 12 2
+2 13 1
+2 11 1
+3 4 1
+3 1 5
+3 2 10
+3 5 1
+3 12 1
+3 13 5
+4 5 1
+4 1 6
+4 7 7
+4 3 3
+4 8 3
+4 12 5
+4 13 2
+4 11 2
+5 6 1
+5 1 2
+5 3 2
+5 4 5
+5 8 2
+5 2 2
+5 12 1
+6 2 4
+6 8 1
+6 1 3
+6 7 1
+6 5 1
+6 3 1
+6 12 1
+6 13 2
+7 8 7
+7 1 2
+7 4 6
+7 5 1
+7 13 1
+7 11 2
+8 3 1
+8 4 4
+8 7 2
+8 1 1
+8 12 4
+8 13 2
+11 2 1
+11 6 1
+11 1 1
+11 7 2
+11 4 1
+11 5 1
+12 4 1
+12 3 3
+12 5 1
+12 2 1
+12 10 1
+12 8 4
+12 7 2
+12 1 2
+12 13 7
+13 3 2
+13 1 4
+13 4 1
+13 7 1
+13 11 1
+13 12 2
+13 10 1

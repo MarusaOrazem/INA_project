@@ -1,0 +1,97 @@
+*vertices 13
+1 "Monica Hickmann Alves" 0.0 0.0 ellipse
+2 "Thaysa de Moraes Rosa Moreno" 0.0 0.0 ellipse
+3 "Miraildes Maciel Mota" 0.0 0.0 ellipse
+4 "Tamires Cassia Dias Gomes" 0.0 0.0 ellipse
+5 "Débora Cristiane de Oliveira" 0.0 0.0 ellipse
+6 "Andressa Alves da Silva" 0.0 0.0 ellipse
+7 "Leticia Santos de Oliveira" 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+9 "Bárbara Micheline do Monte Barbosa" 0.0 0.0 ellipse
+10 "Beatriz Zaneratto João/Geyse da Silva Ferreira" 0.0 0.0 ellipse
+11 "Cristiane Rozeira de Souza Silva/Ludmila da Silva" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "Kathellen Sousa Feitoza/Daiane Limeira Santos Silva" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 4 8
+1 3 1
+1 9 3
+1 5 3
+1 7 1
+1 13 2
+2 3 4
+2 5 5
+2 4 2
+2 1 1
+2 6 3
+2 7 1
+2 8 1
+2 10 1
+2 11 2
+2 13 2
+3 1 2
+3 4 2
+3 5 1
+3 6 1
+3 7 3
+3 2 2
+3 10 1
+3 11 1
+3 13 1
+4 3 3
+4 2 4
+4 5 5
+4 9 2
+4 1 6
+4 6 1
+4 10 1
+4 11 1
+4 13 3
+5 3 1
+5 4 4
+5 6 1
+5 8 2
+5 2 1
+5 10 2
+5 11 1
+6 3 3
+6 2 2
+6 7 1
+6 1 2
+6 11 1
+6 10 1
+6 13 1
+7 3 3
+7 6 4
+7 9 1
+7 2 1
+7 5 1
+7 1 1
+7 10 1
+7 11 1
+7 13 2
+9 1 7
+9 4 1
+9 7 4
+9 13 5
+10 5 2
+10 7 1
+10 11 1
+10 2 1
+10 12 1
+10 4 1
+11 2 1
+11 12 2
+11 3 1
+11 8 2
+11 9 1
+11 10 1
+13 6 1
+13 1 1
+13 7 1
+13 9 2
+13 10 1
+13 11 1
+13 4 5
+13 2 2

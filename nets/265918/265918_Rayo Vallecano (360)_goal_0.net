@@ -1,0 +1,8 @@
+*vertices 3
+1 "Johan Andrés Mojica Palacio" 0.0 0.0 ellipse
+2 "José Raúl Baena Urdiales" 0.0 0.0 ellipse
+3 "Iago Falqué Silva" 0.0 0.0 ellipse
+*arcs
+1 2 2
+2 1 1
+2 3 1

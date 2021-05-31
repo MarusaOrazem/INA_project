@@ -1,0 +1,81 @@
+*vertices 11
+1 "Joan Capdevila Méndez" 0.0 0.0 ellipse
+2 "Sergio García De La Fuente" 0.0 0.0 ellipse
+3 "Juan Daniel Forlín" 0.0 0.0 ellipse
+4 "Víctor Sánchez Mata" 0.0 0.0 ellipse
+5 "Javier López Rodríguez" 0.0 0.0 ellipse
+6 "Diego Daniel Colotto" 0.0 0.0 ellipse
+7 "Héctor Alfredo Moreno Herrera" 0.0 0.0 ellipse
+8 "Francisco Casilla Cortés" 0.0 0.0 ellipse
+9 "José Raúl Baena Urdiales/Christian Alfonso López" 0.0 0.0 ellipse
+10 "Joan Verdú Fernández/Cristhian Ricardo Stuani Curbelo" 0.0 0.0 ellipse
+11 "Simão Pedro Fonseca Sabrosa/Juan Ángel Albín Leites" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 3 1
+1 8 4
+1 7 3
+1 4 2
+1 11 1
+2 3 3
+2 4 3
+2 5 1
+2 9 2
+2 10 7
+2 11 2
+3 2 4
+3 6 3
+3 7 1
+3 5 2
+3 1 1
+3 4 1
+3 9 2
+3 10 1
+3 11 1
+4 1 4
+4 3 1
+4 6 1
+4 2 1
+4 10 2
+4 11 3
+4 9 2
+5 6 3
+5 4 2
+5 2 5
+5 3 1
+5 9 1
+5 10 2
+5 11 1
+6 8 2
+6 5 1
+6 2 2
+6 4 1
+6 9 1
+6 10 1
+7 6 4
+7 8 3
+7 1 1
+7 4 1
+8 2 3
+8 9 1
+8 11 2
+8 10 1
+9 2 1
+9 3 2
+9 5 1
+9 6 1
+9 10 1
+9 11 2
+10 2 2
+10 5 2
+10 3 2
+10 4 2
+10 7 1
+10 9 6
+10 11 3
+11 4 1
+11 1 4
+11 2 1
+11 8 2
+11 10 5
+11 9 1

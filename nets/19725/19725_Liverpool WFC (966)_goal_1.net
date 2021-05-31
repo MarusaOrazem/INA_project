@@ -1,0 +1,18 @@
+*vertices 9
+1 "Leigh-Anne Robe" 0.0 0.0 ellipse
+2 "Niamh Charles" 0.0 0.0 ellipse
+3 "Amy Rodgers" 0.0 0.0 ellipse
+4 "Anke Preuß" 0.0 0.0 ellipse
+5 "Sophie Elizabeth Bradley-Auckland" 0.0 0.0 ellipse
+6 "Jessica Anne Clarke" 0.0 0.0 ellipse
+7 "Rinsola Babajide" 0.0 0.0 ellipse
+8 "Courtney Sweetman-Kirk" 0.0 0.0 ellipse
+9 "Laura Coombs" 0.0 0.0 ellipse
+*arcs
+1 2 2
+2 3 1
+4 2 2
+5 6 1
+7 3 1
+8 2 1
+9 8 1

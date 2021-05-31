@@ -1,0 +1,16 @@
+*vertices 7
+1 "Kasey Keller" 0.0 0.0 ellipse
+2 "Frédéric Oumar Kanouté" 0.0 0.0 ellipse
+3 "Mauricio Taricco" 0.0 0.0 ellipse
+4 "Jamie Redknapp" 0.0 0.0 ellipse
+5 "Ledley King" 0.0 0.0 ellipse
+6 "Robbie Keane" 0.0 0.0 ellipse
+7 "Johnnie Jackson" 0.0 0.0 ellipse
+*arcs
+1 2 1
+3 4 1
+3 5 1
+4 3 1
+4 6 1
+6 7 1
+7 5 1

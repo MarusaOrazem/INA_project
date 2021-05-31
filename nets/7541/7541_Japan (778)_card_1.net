@@ -1,0 +1,101 @@
+*vertices 11
+1 "Hiroki Sakai" 0.0 0.0 ellipse
+2 "Maya Yoshida" 0.0 0.0 ellipse
+3 "Gen Shōji" 0.0 0.0 ellipse
+4 "Yuto Nagatomo" 0.0 0.0 ellipse
+5 "Makoto Hasebe" 0.0 0.0 ellipse
+6 "Takashi Inui" 0.0 0.0 ellipse
+7 "Eiji Kawashima" 0.0 0.0 ellipse
+8 "Genki Haraguchi" 0.0 0.0 ellipse
+9 "Shinji Kagawa/Keisuke Honda" 0.0 0.0 ellipse
+10 "Gaku Shibasaki/Hotaru Yamaguchi" 0.0 0.0 ellipse
+11 "Yūya Ōsako/Shinji Okazaki" 0.0 0.0 ellipse
+*arcs
+1 2 8
+1 7 1
+1 8 7
+1 3 1
+1 5 1
+1 9 11
+1 10 1
+1 11 1
+2 3 23
+2 5 13
+2 8 3
+2 1 11
+2 6 1
+2 4 1
+2 7 3
+2 9 1
+2 10 2
+3 2 22
+3 6 3
+3 4 13
+3 5 14
+3 1 2
+3 7 2
+3 9 2
+3 10 10
+3 11 2
+4 5 6
+4 3 9
+4 6 12
+4 7 3
+4 9 3
+4 10 5
+4 11 6
+5 4 8
+5 6 8
+5 3 12
+5 2 17
+5 8 4
+5 1 3
+5 7 1
+5 9 2
+5 10 1
+5 11 1
+6 5 7
+6 3 6
+6 4 3
+6 9 5
+6 10 4
+6 11 2
+7 2 5
+7 3 2
+7 5 1
+7 11 3
+7 9 1
+7 10 2
+8 1 8
+8 2 5
+8 5 3
+8 6 2
+8 9 4
+8 10 3
+9 2 3
+9 6 6
+9 8 7
+9 1 9
+9 3 4
+9 4 4
+9 5 1
+9 10 2
+9 11 1
+10 2 2
+10 5 2
+10 4 7
+10 8 2
+10 1 1
+10 3 2
+10 7 1
+10 6 3
+10 9 2
+10 11 3
+11 6 4
+11 5 2
+11 2 1
+11 8 3
+11 4 1
+11 1 1
+11 9 1
+11 10 1

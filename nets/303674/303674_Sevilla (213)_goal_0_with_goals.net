@@ -1,0 +1,112 @@
+*vertices 13
+1 "Jesús Navas González" 0.0 0.0 ellipse
+2 OFF_goal 0.0 0.0 ellipse
+3 "Fernando Francisco Reges" 0.0 0.0 ellipse
+4 "Jules Koundé" 0.0 0.0 ellipse
+5 "Tomáš Vaclík" 0.0 0.0 ellipse
+6 "Sergio Reguilón Rodríguez" 0.0 0.0 ellipse
+7 "Diego Carlos Santos Silva" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Óliver Torres Muñoz/Éver Maximiliano David Banega" 0.0 0.0 ellipse
+10 "Munir El Haddadi Mohamed/Jesús Joaquín Fernández Sáez de la Torre" 0.0 0.0 ellipse
+11 "Luuk de Jong/Youssef En-Nesyri" 0.0 0.0 ellipse
+12 "Joan Jordán Moreno/Nemanja Gudelj" 0.0 0.0 ellipse
+13 "Lucas Ariel Ocampos/Franco Damián Vázquez" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 12
+1 7 1
+1 5 1
+1 9 6
+1 11 1
+1 12 1
+1 13 8
+1 10 2
+3 4 3
+3 6 3
+3 5 2
+3 7 8
+3 1 4
+3 9 3
+3 10 2
+3 11 2
+3 12 3
+3 13 2
+4 1 4
+4 5 4
+4 2 1
+4 3 5
+4 7 2
+4 6 1
+4 9 5
+4 11 1
+4 12 6
+4 13 1
+4 10 2
+5 4 3
+5 6 4
+5 7 4
+5 3 2
+5 1 1
+5 10 2
+5 11 1
+5 12 1
+6 3 1
+6 7 7
+6 4 1
+6 8 1
+6 9 4
+6 10 5
+6 11 3
+6 12 2
+6 13 1
+7 3 4
+7 6 15
+7 1 2
+7 4 1
+7 5 1
+7 9 1
+7 10 1
+9 4 4
+9 3 3
+9 6 3
+9 7 1
+9 1 3
+9 10 2
+9 12 1
+9 13 3
+9 2 1
+9 11 1
+10 6 2
+10 7 1
+10 8 1
+10 9 1
+10 11 2
+10 12 1
+10 4 2
+10 1 4
+11 1 1
+11 6 1
+11 10 1
+11 12 1
+11 13 1
+11 9 4
+12 5 1
+12 1 1
+12 3 4
+12 7 4
+12 6 1
+12 4 3
+12 9 1
+12 10 2
+12 11 2
+12 13 1
+13 1 3
+13 4 2
+13 6 2
+13 8 2
+13 2 1
+13 9 1
+13 10 2
+13 12 1
+13 11 1

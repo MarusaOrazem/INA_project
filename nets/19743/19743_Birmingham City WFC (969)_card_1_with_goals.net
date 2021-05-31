@@ -1,0 +1,22 @@
+*vertices 10
+1 "Sarah Emma Mayling" 0.0 0.0 ellipse
+2 "Kerys Harrop" 0.0 0.0 ellipse
+3 "Meaghan Sargeant" 0.0 0.0 ellipse
+4 "Chloe Arthur" 0.0 0.0 ellipse
+5 "Harriet Scott" 0.0 0.0 ellipse
+6 "Aoife Mannion" 0.0 0.0 ellipse
+7 "Charlie Wellings" 0.0 0.0 ellipse
+8 "Ann-Katrin Berger" 0.0 0.0 ellipse
+9 "Emma Follis/Lucy Quinn" 0.0 0.0 ellipse
+10 "Lucy Staniforth" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 7 1
+2 6 1
+3 4 1
+4 3 2
+5 1 1
+6 2 1
+6 8 1
+8 9 1
+9 10 1

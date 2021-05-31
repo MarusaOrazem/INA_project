@@ -1,0 +1,75 @@
+*vertices 13
+1 "Iñaki Williams Arthuer" 0.0 0.0 ellipse
+2 "Daniel García Carrillo" 0.0 0.0 ellipse
+3 "Mikel Balenziaga Oruesagasti" 0.0 0.0 ellipse
+4 "Raúl García Escudero" 0.0 0.0 ellipse
+5 "Yuri Berchiche Izeta" 0.0 0.0 ellipse
+6 "Yeray Álvarez López" 0.0 0.0 ellipse
+7 "Óscar de Marcos Arana" 0.0 0.0 ellipse
+8 "Unai Simón Mendibil" 0.0 0.0 ellipse
+9 "Beñat Etxebarria Urkiaga" 0.0 0.0 ellipse
+10 "Markel Susaeta Laskurain" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "Íñigo Martínez Berridi/Peru Nolaskoain Esnal" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 9 2
+1 4 1
+1 11 1
+1 5 1
+2 6 2
+2 7 5
+2 9 3
+2 4 1
+2 3 1
+2 13 2
+3 4 2
+3 5 2
+3 9 1
+3 8 1
+3 1 2
+3 11 1
+3 13 2
+4 5 1
+4 1 3
+4 2 1
+4 12 1
+5 3 1
+5 11 1
+5 2 1
+5 13 1
+6 7 1
+6 4 1
+6 9 1
+6 1 2
+7 8 2
+7 9 1
+7 10 6
+7 6 3
+7 2 4
+7 1 1
+8 5 1
+8 7 4
+8 4 1
+8 13 1
+9 2 3
+9 3 1
+9 7 1
+9 5 2
+9 10 2
+9 13 1
+10 4 2
+10 2 2
+10 9 2
+10 5 1
+10 6 1
+10 7 2
+10 13 1
+13 3 1
+13 8 1
+13 9 2
+13 5 1
+13 1 1
+13 7 1
+13 10 1

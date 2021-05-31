@@ -1,0 +1,24 @@
+*vertices 10
+1 "Alexandros Tziolis" 0.0 0.0 ellipse
+2 "Mamadou Koné" 0.0 0.0 ellipse
+3 "Francisco Jesús Pérez Malia" 0.0 0.0 ellipse
+4 "Papa Kouly Diop" 0.0 0.0 ellipse
+5 "Jairo Samperio Bustara" 0.0 0.0 ellipse
+6 "Antonio Rodríguez Martínez" 0.0 0.0 ellipse
+7 "Pedro Manuel Munitis Álvarez" 0.0 0.0 ellipse
+8 "Álvaro González Soberón" 0.0 0.0 ellipse
+9 "Adrián González Morales" 0.0 0.0 ellipse
+10 "Christian Fernández Salas" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 1
+1 8 1
+3 4 1
+3 5 2
+4 3 1
+4 9 1
+4 5 1
+5 2 1
+5 10 1
+6 2 1
+7 4 1

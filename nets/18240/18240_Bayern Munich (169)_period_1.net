@@ -1,0 +1,83 @@
+*vertices 11
+1 "David Olatukunbo Alaba" 0.0 0.0 ellipse
+2 "Dante Bonfim da Costa Santos" 0.0 0.0 ellipse
+3 "Philipp Lahm" 0.0 0.0 ellipse
+4 "Javier Martínez Aginaga" 0.0 0.0 ellipse
+5 "Thomas Müller" 0.0 0.0 ellipse
+6 "Manuel Neuer" 0.0 0.0 ellipse
+7 "Bastian Schweinsteiger" 0.0 0.0 ellipse
+8 "Jérôme Boateng" 0.0 0.0 ellipse
+9 "Arjen Robben" 0.0 0.0 ellipse
+10 "Franck Bilal Ribéry/Luiz Gustavo Dias" 0.0 0.0 ellipse
+11 "Mario Mandžukić/Mario Gómez García" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 3
+1 5 2
+1 4 2
+1 10 4
+1 11 1
+2 1 2
+2 8 4
+2 5 1
+2 11 1
+3 4 1
+3 5 7
+3 7 4
+3 8 1
+3 6 3
+3 9 7
+3 2 1
+3 10 1
+4 3 4
+4 1 3
+4 5 2
+4 7 2
+4 10 6
+5 1 3
+5 8 1
+5 4 1
+5 9 4
+5 7 2
+5 3 1
+5 10 1
+5 11 2
+6 7 3
+6 4 1
+6 2 1
+6 8 1
+6 10 1
+6 11 1
+7 3 2
+7 5 4
+7 1 2
+7 4 3
+7 6 1
+7 9 4
+7 2 2
+7 10 6
+7 11 2
+8 2 2
+8 7 1
+8 3 4
+8 4 2
+8 1 1
+8 9 1
+8 10 2
+8 11 2
+9 3 6
+9 5 3
+9 7 2
+9 10 2
+9 11 1
+10 4 4
+10 8 1
+10 1 3
+10 9 1
+10 7 5
+10 5 2
+10 3 2
+10 11 1
+11 5 4
+11 9 1
+11 10 1

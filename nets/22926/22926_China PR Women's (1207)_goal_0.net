@@ -1,0 +1,75 @@
+*vertices 11
+1 "Li Yang" 0.0 0.0 ellipse
+2 "Rui Zhang" 0.0 0.0 ellipse
+3 "Yasha Gu" 0.0 0.0 ellipse
+4 "Shimeng Peng" 0.0 0.0 ellipse
+5 "Yuping Lin" 0.0 0.0 ellipse
+6 "Peng Han" 0.0 0.0 ellipse
+7 "Haiyan Wu" 0.0 0.0 ellipse
+8 "Shanshan Wang" 0.0 0.0 ellipse
+9 "Shanshan Liu" 0.0 0.0 ellipse
+10 "Jiahui Lou/Ruyin Tan" 0.0 0.0 ellipse
+11 "Yao Wei/Shuang Wang" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 8 1
+1 10 1
+2 3 5
+2 7 3
+2 8 4
+2 6 3
+2 1 1
+2 9 2
+2 10 1
+2 11 2
+3 8 5
+3 1 2
+3 9 2
+3 11 1
+4 5 2
+4 6 1
+4 7 1
+4 8 3
+4 11 1
+5 7 3
+5 9 2
+5 3 1
+5 4 2
+5 11 1
+6 2 10
+6 1 1
+6 8 4
+6 5 1
+6 7 1
+6 10 5
+6 11 2
+7 2 2
+7 5 4
+7 6 3
+7 8 1
+7 10 1
+7 11 1
+8 3 3
+8 6 1
+8 1 3
+8 2 5
+8 10 1
+8 11 1
+9 5 1
+9 3 4
+9 8 5
+9 2 1
+10 6 3
+10 2 2
+10 8 1
+10 3 1
+10 7 1
+10 5 1
+10 1 1
+11 8 3
+11 9 3
+11 3 1
+11 5 1
+11 1 1
+11 10 1
+11 2 1

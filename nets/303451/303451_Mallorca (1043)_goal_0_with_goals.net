@@ -1,0 +1,41 @@
+*vertices 12
+1 "Salvador Sevilla López" 0.0 0.0 ellipse
+2 "Martin Valjent" 0.0 0.0 ellipse
+3 "Manuel Reina Rodríguez" 0.0 0.0 ellipse
+4 "Daniel José Rodríguez Vázquez" 0.0 0.0 ellipse
+5 "Aleix Febas Pérez" 0.0 0.0 ellipse
+6 "Ante Budimir" 0.0 0.0 ellipse
+7 "Joan Sastre Vanrell" 0.0 0.0 ellipse
+8 "Antonio José Raillo Arenas" 0.0 0.0 ellipse
+9 "Takefusa Kubo" 0.0 0.0 ellipse
+10 "Francisco Gámez López" 0.0 0.0 ellipse
+11 "Iddrisu Baba Mohammed" 0.0 0.0 ellipse
+12 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 2
+1 7 3
+1 10 1
+2 3 1
+4 5 2
+4 12 1
+5 6 2
+5 9 2
+5 10 1
+5 8 1
+6 7 1
+7 1 2
+7 8 1
+7 5 1
+7 3 1
+7 9 1
+8 4 1
+8 7 1
+9 5 1
+9 11 1
+10 1 1
+10 6 1
+10 5 1
+10 11 1
+11 10 1
+11 1 1

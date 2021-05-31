@@ -1,0 +1,82 @@
+*vertices 11
+1 "Tori Huster" 0.0 0.0 ellipse
+2 "Estelle Johnson" 0.0 0.0 ellipse
+3 "Caprice Dydasco" 0.0 0.0 ellipse
+4 "Taylor Smith" 0.0 0.0 ellipse
+5 "Whitney Church" 0.0 0.0 ellipse
+6 "Meggie Dougherty Howard" 0.0 0.0 ellipse
+7 "Rebecca Quinn" 0.0 0.0 ellipse
+8 "Havana Solaun/Andi Sullivan" 0.0 0.0 ellipse
+9 "DiDi Haracic" 0.0 0.0 ellipse
+10 "Francisca Ordega/Rose Lavelle" 0.0 0.0 ellipse
+11 "Ashley Hatch/Mallory Pugh" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 3 7
+1 6 1
+1 5 1
+1 4 1
+1 11 1
+1 8 1
+2 3 1
+2 6 4
+2 1 4
+2 5 2
+2 8 2
+3 6 3
+3 1 3
+3 5 1
+3 8 1
+3 10 1
+3 11 3
+4 5 1
+4 3 2
+4 2 1
+4 7 2
+4 10 1
+4 11 4
+4 8 2
+5 6 3
+5 3 2
+5 2 1
+5 1 4
+5 8 1
+5 11 1
+6 1 2
+6 3 5
+6 5 2
+6 4 1
+6 7 1
+6 8 1
+6 10 1
+6 11 2
+7 2 3
+7 4 1
+7 6 1
+7 8 2
+7 10 2
+8 4 1
+8 6 4
+8 3 1
+8 10 1
+8 11 2
+8 5 1
+8 7 2
+8 1 1
+8 9 1
+9 8 1
+9 11 1
+10 5 1
+10 6 1
+10 8 1
+10 3 1
+10 4 4
+10 11 1
+11 1 2
+11 6 1
+11 4 1
+11 3 1
+11 8 1
+11 2 1
+11 5 2
+11 10 1

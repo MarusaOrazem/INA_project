@@ -1,0 +1,62 @@
+*vertices 12
+1 "Lydia Williams" 0.0 0.0 ellipse
+2 "Alanna Kennedy" 0.0 0.0 ellipse
+3 "Ellie Carpenter" 0.0 0.0 ellipse
+4 "Emily van Egmond" 0.0 0.0 ellipse
+5 "Steph Catley" 0.0 0.0 ellipse
+6 "Chloe Logarzo" 0.0 0.0 ellipse
+7 "Lisa De Vanna" 0.0 0.0 ellipse
+8 "Katrina Gorry" 0.0 0.0 ellipse
+9 "Emily Gielnik" 0.0 0.0 ellipse
+10 "Karly Roestbakken" 0.0 0.0 ellipse
+11 "Samantha Kerr" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 4 1
+1 10 1
+1 6 1
+2 3 3
+2 5 4
+2 10 1
+2 8 1
+2 9 1
+2 6 1
+3 4 2
+3 9 3
+3 2 2
+3 8 2
+3 7 1
+4 2 2
+4 8 2
+4 9 1
+5 6 4
+5 10 1
+5 7 1
+5 4 1
+5 11 1
+6 7 1
+6 5 2
+6 2 1
+6 8 1
+6 4 1
+6 3 1
+6 9 2
+7 1 1
+7 6 2
+7 3 1
+7 11 2
+7 9 1
+8 3 3
+8 5 1
+8 6 1
+8 2 1
+9 3 2
+9 11 3
+9 6 2
+10 7 1
+10 1 1
+10 5 1
+10 6 1
+11 12 1
+11 7 1

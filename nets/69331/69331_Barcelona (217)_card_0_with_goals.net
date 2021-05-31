@@ -1,0 +1,127 @@
+*vertices 13
+1 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+2 "Seydou Kéita" 0.0 0.0 ellipse
+3 "Carles Puyol i Saforcada" 0.0 0.0 ellipse
+4 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+5 "Daniel Alves da Silva" 0.0 0.0 ellipse
+6 "Maxwell Scherrer Cabelino Andrade" 0.0 0.0 ellipse
+7 "Juan Isaac Cuenca López" 0.0 0.0 ellipse
+8 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Xavier Hernández Creus/Thiago Alcântara do Nascimento" 0.0 0.0 ellipse
+12 "Alexis Alejandro Sánchez Sánchez/Andrés Iniesta Luján" 0.0 0.0 ellipse
+13 "Francesc Fàbregas i Soler/David Villa Sánchez" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 2
+1 5 10
+1 10 3
+1 9 3
+1 6 1
+1 7 3
+1 11 2
+1 12 11
+1 13 1
+2 3 3
+2 1 4
+2 5 4
+2 6 8
+2 4 5
+2 7 1
+2 9 1
+2 8 1
+2 11 4
+2 13 7
+2 12 1
+3 4 6
+3 1 3
+3 5 16
+3 2 1
+3 8 3
+3 9 1
+3 7 1
+3 10 2
+3 11 2
+3 12 1
+3 13 3
+4 3 10
+4 5 3
+4 6 6
+4 10 1
+4 8 6
+4 2 3
+4 7 1
+4 11 2
+4 13 1
+5 1 24
+5 6 2
+5 7 9
+5 2 6
+5 8 3
+5 3 4
+5 4 4
+5 9 2
+5 11 6
+5 12 3
+5 13 6
+6 5 2
+6 3 4
+6 4 3
+6 8 3
+6 2 3
+6 1 3
+6 10 1
+6 9 1
+6 7 1
+6 11 6
+6 12 3
+6 13 3
+7 1 5
+7 3 1
+7 5 14
+7 6 1
+7 9 1
+7 11 4
+7 13 5
+8 3 9
+8 5 2
+8 4 7
+8 2 2
+8 6 1
+8 11 1
+8 13 3
+8 12 1
+11 1 7
+11 2 2
+11 5 7
+11 7 7
+11 6 4
+11 4 1
+11 9 1
+11 12 4
+11 13 3
+11 3 1
+11 8 1
+12 5 1
+12 6 3
+12 8 1
+12 4 1
+12 9 3
+12 3 1
+12 1 5
+12 10 2
+12 2 3
+12 11 3
+12 13 4
+12 7 2
+13 1 15
+13 5 1
+13 7 1
+13 6 5
+13 2 5
+13 9 1
+13 4 2
+13 10 1
+13 11 2
+13 12 3

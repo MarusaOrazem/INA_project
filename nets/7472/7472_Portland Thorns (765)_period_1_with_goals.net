@@ -1,0 +1,75 @@
+*vertices 12
+1 "Lindsey Horan" 0.0 0.0 ellipse
+2 "Ana-Maria Crnogorcevic" 0.0 0.0 ellipse
+3 "Ellie Carpenter" 0.0 0.0 ellipse
+4 "Christine Sinclair" 0.0 0.0 ellipse
+5 "Celeste Boureille" 0.0 0.0 ellipse
+6 "Adrianna Franch" 0.0 0.0 ellipse
+7 "Meghan Klingenberg" 0.0 0.0 ellipse
+8 "Katherine Reynolds" 0.0 0.0 ellipse
+9 "Emily Sonnett" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Hayley Raso/Mallory Weber" 0.0 0.0 ellipse
+12 "Andressa Cavalari Machry/Margaret Purce" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 4 1
+1 5 2
+1 11 2
+1 12 1
+2 5 2
+2 3 1
+2 4 2
+2 10 1
+2 11 1
+3 1 7
+3 2 5
+3 4 2
+3 6 1
+3 5 1
+3 12 1
+4 2 2
+4 7 2
+4 5 1
+4 1 1
+4 12 1
+4 11 1
+5 3 3
+5 2 3
+5 8 1
+5 1 2
+5 9 3
+6 7 1
+6 1 2
+6 4 1
+6 5 1
+6 12 1
+7 8 5
+7 2 1
+7 4 1
+7 11 2
+7 12 1
+8 1 2
+8 4 2
+8 2 1
+8 7 2
+8 6 1
+8 5 1
+8 9 1
+9 3 2
+9 5 1
+9 4 2
+9 2 2
+9 11 1
+11 10 2
+11 1 1
+11 4 1
+11 9 1
+11 7 1
+12 5 2
+12 7 1
+12 8 1
+12 4 1
+12 11 1
+12 10 1
+12 3 1

@@ -1,0 +1,85 @@
+*vertices 11
+1 "Iñaki Williams Arthuer" 0.0 0.0 ellipse
+2 "Aymeric Laporte" 0.0 0.0 ellipse
+3 "Mikel Balenziaga Oruesagasti" 0.0 0.0 ellipse
+4 "Mikel San José Domínguez" 0.0 0.0 ellipse
+5 "Gorka Iraizoz Moreno" 0.0 0.0 ellipse
+6 "Yeray Álvarez López" 0.0 0.0 ellipse
+7 "Íñigo Lekue Martínez" 0.0 0.0 ellipse
+8 "Raúl García Escudero" 0.0 0.0 ellipse
+9 "Óscar de Marcos Arana" 0.0 0.0 ellipse
+10 "Ander Iturraspe Derteano" 0.0 0.0 ellipse
+11 "Iker Muniain Goñi" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 4
+1 8 2
+1 4 2
+1 9 1
+1 6 2
+2 3 7
+2 6 8
+2 10 3
+2 1 1
+2 11 2
+2 5 2
+2 8 1
+3 4 2
+3 11 7
+3 2 5
+3 8 1
+3 1 1
+3 10 1
+4 5 1
+4 1 4
+4 8 3
+4 3 2
+4 10 1
+4 2 2
+4 7 2
+5 6 4
+5 10 2
+5 3 1
+5 2 3
+6 7 4
+6 10 3
+6 4 1
+6 9 4
+6 1 1
+6 2 2
+6 5 3
+6 3 1
+7 1 3
+7 9 1
+7 4 2
+7 6 2
+7 11 3
+8 4 1
+8 9 1
+8 1 1
+8 3 2
+8 11 3
+8 10 1
+8 5 1
+9 4 1
+9 1 3
+9 7 4
+9 10 1
+9 6 2
+9 2 1
+10 11 6
+10 3 4
+10 9 1
+10 8 1
+10 1 1
+10 4 4
+10 5 1
+10 2 4
+11 3 1
+11 4 3
+11 2 2
+11 10 5
+11 8 3
+11 1 1
+11 6 1
+11 9 1

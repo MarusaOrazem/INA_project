@@ -1,0 +1,95 @@
+*vertices 13
+1 "Stephanie Labbe" 0.0 0.0 ellipse
+2 "Christine Sinclair" 0.0 0.0 ellipse
+3 OFF_goal 0.0 0.0 ellipse
+4 "Allysha Chapman" 0.0 0.0 ellipse
+5 "Desiree Scott" 0.0 0.0 ellipse
+6 "Jessie Fleming" 0.0 0.0 ellipse
+7 "Shelina Zadorsky" 0.0 0.0 ellipse
+8 "Janine Beckie" 0.0 0.0 ellipse
+9 "Jordyn Pamela Huitema" 0.0 0.0 ellipse
+10 "Kadiesha Buchanan" 0.0 0.0 ellipse
+11 "Sophie Schmidt" 0.0 0.0 ellipse
+12 "Ashley Lawrence" 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 7 1
+1 10 2
+1 12 2
+1 4 1
+2 3 1
+2 8 7
+2 6 2
+2 12 4
+2 11 2
+4 5 1
+4 7 2
+4 8 4
+4 2 4
+4 1 2
+4 11 2
+4 6 1
+4 9 1
+5 6 3
+5 9 3
+5 8 3
+5 7 3
+5 4 1
+5 11 1
+5 12 2
+5 10 1
+6 12 2
+6 3 1
+6 5 3
+6 2 1
+6 11 2
+6 7 1
+6 9 2
+7 2 2
+7 5 3
+7 10 3
+7 8 1
+7 4 2
+7 11 2
+7 9 1
+8 7 1
+8 11 4
+8 2 2
+8 12 2
+8 5 1
+8 6 1
+8 13 1
+8 4 2
+8 3 1
+9 10 1
+9 6 2
+9 12 4
+9 8 1
+9 3 1
+9 11 1
+10 9 2
+10 7 4
+10 5 2
+10 12 4
+10 4 1
+10 11 2
+10 1 1
+10 6 2
+11 4 2
+11 10 3
+11 8 3
+11 3 1
+11 7 2
+11 6 2
+11 2 3
+11 5 1
+12 9 8
+12 2 3
+12 1 2
+12 5 3
+12 10 4
+12 3 1
+12 8 3
+12 4 1
+12 6 3

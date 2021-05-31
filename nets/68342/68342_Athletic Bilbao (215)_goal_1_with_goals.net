@@ -1,0 +1,78 @@
+*vertices 13
+1 "Carlos Gurpegi Nausia" 0.0 0.0 ellipse
+2 "Luis Prieto Zalbidegoitia" 0.0 0.0 ellipse
+3 "Joseba Andoni Etxeberria Lizardi" 0.0 0.0 ellipse
+4 "Iñaki Lafuente Sancha" 0.0 0.0 ellipse
+5 ON_goal 0.0 0.0 ellipse
+6 "Ander Murillo García" 0.0 0.0 ellipse
+7 "Pablo Orbaiz Lesaka" 0.0 0.0 ellipse
+8 "Unai Expósito Medina" 0.0 0.0 ellipse
+9 "Fernando Amorebieta Mardaras" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Jesús María Lacruz Gómez/Andoni Iraola Sagarna" 0.0 0.0 ellipse
+12 "Francisco Javier Yeste Navarro/Julen Guerrero López" 0.0 0.0 ellipse
+13 "Fernando Llorente Torres/Aritz Aduriz Zubeldia" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 2
+1 3 3
+1 7 3
+1 10 1
+1 12 2
+1 13 1
+1 11 2
+2 3 1
+2 4 1
+2 13 1
+2 11 2
+2 12 1
+3 4 1
+3 5 1
+3 1 5
+3 7 1
+3 10 1
+3 12 1
+3 11 1
+3 13 1
+4 9 1
+4 2 1
+4 12 2
+4 13 1
+4 11 2
+6 3 3
+6 1 2
+6 11 2
+6 13 1
+7 3 2
+7 8 2
+7 1 3
+7 12 1
+7 11 1
+7 13 2
+8 7 2
+8 9 3
+8 12 1
+8 13 1
+8 11 1
+9 13 1
+9 11 1
+11 3 3
+11 1 4
+11 6 1
+11 7 2
+11 12 1
+11 13 2
+12 3 1
+12 4 1
+12 7 1
+12 1 1
+12 13 1
+12 2 1
+13 5 1
+13 3 1
+13 2 1
+13 10 2
+13 7 1
+13 11 1
+13 8 1
+13 12 2

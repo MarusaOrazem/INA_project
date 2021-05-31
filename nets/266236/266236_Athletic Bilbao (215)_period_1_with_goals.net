@@ -1,0 +1,85 @@
+*vertices 13
+1 "Beñat Etxebarria Urkiaga" 0.0 0.0 ellipse
+2 "Aymeric Laporte" 0.0 0.0 ellipse
+3 "Óscar de Marcos Arana" 0.0 0.0 ellipse
+4 "Markel Susaeta Laskurain" 0.0 0.0 ellipse
+5 "Javier Eraso Goñi" 0.0 0.0 ellipse
+6 "Gorka Iraizoz Moreno" 0.0 0.0 ellipse
+7 "Aritz Aduriz Zubeldia" 0.0 0.0 ellipse
+8 "Gorka Elustondo Urkola" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Mikel Balenziaga Oruesagasti/Eneko Bóveda Altube" 0.0 0.0 ellipse
+12 "Mikel Rico Moreno/Carlos Gurpegi Nausia" 0.0 0.0 ellipse
+13 "Sabin Merino Zuloaga/Ibai Gómez Pérez" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 8 3
+1 7 2
+1 4 1
+1 12 1
+1 13 1
+1 11 1
+2 1 4
+2 6 2
+2 3 5
+2 8 1
+2 10 1
+2 11 1
+2 12 1
+2 13 1
+3 4 1
+3 5 5
+3 8 2
+3 6 1
+3 1 3
+3 2 3
+3 7 1
+3 13 3
+3 11 1
+3 12 3
+4 5 3
+4 7 1
+4 9 1
+4 1 3
+4 12 1
+4 11 1
+5 1 1
+5 7 1
+5 4 2
+5 3 2
+5 12 1
+5 11 2
+5 13 1
+6 2 2
+6 7 2
+6 11 1
+7 5 3
+7 11 1
+8 6 1
+8 3 3
+8 2 3
+8 5 1
+8 11 2
+11 1 4
+11 13 2
+11 4 3
+11 7 1
+11 5 1
+11 6 1
+11 8 2
+12 5 1
+12 3 2
+12 1 1
+12 13 1
+12 2 1
+12 8 1
+12 6 2
+13 3 2
+13 7 1
+13 5 1
+13 9 1
+13 1 1
+13 4 2
+13 12 1

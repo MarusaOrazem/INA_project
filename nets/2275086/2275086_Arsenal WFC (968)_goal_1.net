@@ -1,0 +1,98 @@
+*vertices 11
+1 "Jennifer Beattie" 0.0 0.0 ellipse
+2 "Kim Little" 0.0 0.0 ellipse
+3 "Leah Williamson" 0.0 0.0 ellipse
+4 "Manuela Zinsberger" 0.0 0.0 ellipse
+5 "Bethany Mead" 0.0 0.0 ellipse
+6 "Viktoria Schnaderbeck" 0.0 0.0 ellipse
+7 "Lia Wälti" 0.0 0.0 ellipse
+8 "Danielle van de Donk" 0.0 0.0 ellipse
+9 "Vivianne Miedema" 0.0 0.0 ellipse
+10 "Jordan Nobbs/Jill Roord" 0.0 0.0 ellipse
+11 "Lisa Evans/Leonie Maier" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 4 6
+1 6 3
+1 3 2
+1 5 1
+1 7 1
+1 8 1
+1 9 1
+1 10 2
+2 3 7
+2 6 2
+2 5 4
+2 1 3
+2 7 4
+2 9 3
+2 8 4
+2 4 2
+2 10 1
+2 11 8
+3 7 4
+3 2 3
+3 1 2
+3 8 4
+3 4 3
+3 9 1
+3 10 1
+3 11 3
+4 2 1
+4 5 3
+4 3 3
+4 1 7
+4 8 1
+4 7 1
+5 6 2
+5 2 2
+5 3 1
+5 8 1
+5 9 1
+5 11 4
+5 10 2
+6 1 3
+6 2 3
+6 8 5
+6 9 3
+6 5 4
+6 7 3
+6 10 3
+6 11 1
+7 2 7
+7 1 3
+7 8 3
+7 6 6
+7 5 2
+7 9 1
+7 11 3
+7 10 2
+8 5 2
+8 6 4
+8 2 2
+8 7 2
+8 1 1
+8 9 2
+8 10 2
+8 11 2
+9 7 3
+9 3 1
+9 8 1
+9 5 3
+9 10 2
+9 11 1
+10 3 1
+10 2 2
+10 6 2
+10 7 3
+10 5 4
+10 9 2
+10 8 1
+10 11 2
+11 2 10
+11 9 2
+11 8 2
+11 3 1
+11 7 1
+11 5 3
+11 10 2

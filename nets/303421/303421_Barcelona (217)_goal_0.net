@@ -1,0 +1,75 @@
+*vertices 11
+1 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+2 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+3 "Clément Lenglet" 0.0 0.0 ellipse
+4 "Ricard Puig Martí" 0.0 0.0 ellipse
+5 "Ronald Federico Araújo da Silva" 0.0 0.0 ellipse
+6 "Jordi Alba Ramos" 0.0 0.0 ellipse
+7 "Arturo Erasmo Vidal Pardo" 0.0 0.0 ellipse
+8 "Sergi Roberto Carnicer" 0.0 0.0 ellipse
+9 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+10 "Norberto Murara Neto" 0.0 0.0 ellipse
+11 "Anssumane Fati" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 2
+1 11 5
+1 8 1
+1 7 1
+2 3 9
+2 5 7
+2 4 3
+2 8 3
+2 6 4
+2 7 3
+2 9 3
+3 2 8
+3 4 3
+3 10 1
+3 1 4
+3 5 2
+3 6 8
+3 11 2
+3 7 2
+4 2 3
+4 6 4
+4 7 4
+4 3 2
+4 5 1
+4 9 1
+4 11 1
+5 2 7
+5 8 5
+5 3 6
+5 9 1
+6 7 1
+6 4 5
+6 11 9
+6 3 5
+6 5 1
+6 2 3
+6 1 2
+7 2 4
+7 3 3
+7 9 2
+7 1 3
+7 5 1
+7 8 1
+8 9 5
+8 7 2
+8 5 7
+8 2 3
+8 4 1
+8 11 1
+9 8 2
+9 7 2
+9 1 1
+9 2 1
+9 6 1
+9 11 1
+10 6 2
+10 5 2
+11 6 6
+11 4 1
+11 9 3
+11 1 2

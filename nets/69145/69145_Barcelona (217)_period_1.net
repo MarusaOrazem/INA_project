@@ -1,0 +1,96 @@
+*vertices 11
+1 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+2 "Rafael Márquez Álvarez" 0.0 0.0 ellipse
+3 "Xavier Hernández Creus" 0.0 0.0 ellipse
+4 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+5 "Gabriel Alejandro Milito" 0.0 0.0 ellipse
+6 "Giovani dos Santos Ramírez" 0.0 0.0 ellipse
+7 "Carles Puyol i Saforcada" 0.0 0.0 ellipse
+8 "Eiður Smári Guðjohnsen" 0.0 0.0 ellipse
+9 "Eric-Sylvain Bilal Abidal" 0.0 0.0 ellipse
+10 "Gnégnéri Yaya Touré/Anderson Luís de Souza" 0.0 0.0 ellipse
+11 "Samuel Eto"o Fils/Bojan Krkíc Pérez" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 9 1
+1 8 2
+1 5 1
+2 3 9
+2 6 1
+2 4 3
+2 7 1
+2 5 6
+2 9 1
+2 1 2
+2 11 1
+2 10 4
+3 4 6
+3 5 8
+3 8 5
+3 7 4
+3 6 7
+3 2 5
+3 9 3
+3 10 4
+3 11 3
+4 3 8
+4 9 3
+4 8 3
+4 6 4
+4 5 5
+4 2 3
+4 7 3
+4 10 3
+4 11 1
+5 4 4
+5 9 3
+5 2 6
+5 8 4
+5 3 3
+5 1 1
+5 7 1
+5 10 5
+5 11 2
+6 2 2
+6 3 3
+6 4 2
+6 5 1
+6 8 2
+6 7 3
+6 10 2
+7 6 6
+7 3 5
+7 2 3
+7 4 2
+7 9 1
+7 1 1
+7 10 1
+7 11 1
+8 9 5
+8 3 8
+8 4 2
+8 5 1
+8 6 1
+8 10 1
+8 11 3
+9 4 8
+9 2 3
+9 8 6
+9 5 5
+9 3 2
+9 1 1
+9 10 4
+10 3 6
+10 9 4
+10 4 5
+10 1 1
+10 8 1
+10 5 1
+10 6 2
+10 7 2
+10 11 1
+11 8 1
+11 3 1
+11 6 1
+11 9 1
+11 5 1

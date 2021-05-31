@@ -1,0 +1,13 @@
+*vertices 6
+1 "Juan Domínguez Lamas" 0.0 0.0 ellipse
+2 "Lucas Pérez Martínez" 0.0 0.0 ellipse
+3 "Sidnei Rechel da Silva Júnior" 0.0 0.0 ellipse
+4 "Fabricio Martín Agosto Ramírez" 0.0 0.0 ellipse
+5 "Ivan Ricardo Neves Abreu Cavaleiro" 0.0 0.0 ellipse
+6 "Roberto Canella Suárez" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+4 5 1
+5 2 1
+6 2 1

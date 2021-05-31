@@ -1,0 +1,43 @@
+*vertices 12
+1 "Giovani dos Santos Ramírez" 0.0 0.0 ellipse
+2 "Luciano Vietto" 0.0 0.0 ellipse
+3 "Bruno Soriano Llido" 0.0 0.0 ellipse
+4 "Mario Gaspar Pérez Martínez" 0.0 0.0 ellipse
+5 "Tomás Pina Isla" 0.0 0.0 ellipse
+6 OFF_goal 0.0 0.0 ellipse
+7 "Mateo Pablo Musacchio" 0.0 0.0 ellipse
+8 "Manuel Trigueros Muñoz" 0.0 0.0 ellipse
+9 "Javier Espinosa González" 0.0 0.0 ellipse
+10 "Víctor Ruíz Torre" 0.0 0.0 ellipse
+11 "Sergio Asenjo Andrés" 0.0 0.0 ellipse
+12 "Gabriel Armando de Abreu" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 1
+2 3 1
+2 6 2
+2 4 1
+2 8 1
+2 1 1
+3 4 1
+3 5 1
+3 8 2
+3 12 1
+4 5 2
+4 9 2
+4 2 1
+4 3 1
+5 7 1
+5 8 1
+7 6 1
+7 8 1
+7 4 1
+8 6 1
+8 2 2
+8 3 1
+9 5 1
+9 4 1
+10 3 1
+10 8 1
+11 7 1
+12 3 1

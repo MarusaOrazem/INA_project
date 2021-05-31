@@ -1,0 +1,21 @@
+*vertices 9
+1 "Iniabasi Anefiok Umotong" 0.0 0.0 ellipse
+2 "Danielle Buet" 0.0 0.0 ellipse
+3 "Laura Rafferty" 0.0 0.0 ellipse
+4 "Kirsty Barton" 0.0 0.0 ellipse
+5 "Kate Natkiel" 0.0 0.0 ellipse
+6 "Jodie Brett" 0.0 0.0 ellipse
+7 "Chloe Peplow" 0.0 0.0 ellipse
+8 "Felicity Gibbons" 0.0 0.0 ellipse
+9 "Aileen Whelan" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+3 4 1
+4 5 1
+4 6 1
+6 1 1
+6 9 2
+7 6 1
+8 6 1
+9 6 1

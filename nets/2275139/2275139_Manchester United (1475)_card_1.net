@@ -1,0 +1,9 @@
+*vertices 4
+1 "Katie Zelem" 0.0 0.0 ellipse
+2 "Leah Galton" 0.0 0.0 ellipse
+3 "Jane Ross" 0.0 0.0 ellipse
+4 "Mary Alexandra Earps" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+4 3 1

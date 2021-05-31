@@ -1,0 +1,7 @@
+*vertices 3
+1 "Gérémi Sorele N"Djitap Fotso" 0.0 0.0 ellipse
+2 "Adrian Mutu" 0.0 0.0 ellipse
+3 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1

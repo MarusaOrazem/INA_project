@@ -1,0 +1,75 @@
+*vertices 12
+1 "Matthew Upson" 0.0 0.0 ellipse
+2 "Robbie Savage" 0.0 0.0 ellipse
+3 "Damien Johnson" 0.0 0.0 ellipse
+4 "Olivier Tébily" 0.0 0.0 ellipse
+5 "Stan Lazaridis" 0.0 0.0 ellipse
+6 "Jamie Clapham" 0.0 0.0 ellipse
+7 "Kenny Cunningham" 0.0 0.0 ellipse
+8 "Ian Bennett" 0.0 0.0 ellipse
+9 "Stephen Clemence" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Clinton Morrison/Stern John" 0.0 0.0 ellipse
+12 "David Dunn/Bryan Hughes" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 3
+1 9 3
+1 8 1
+1 11 1
+1 12 1
+2 3 3
+2 4 4
+2 5 3
+2 7 1
+2 8 1
+2 6 1
+2 1 1
+2 12 1
+3 4 3
+3 2 4
+3 9 3
+3 12 1
+4 2 3
+4 5 1
+4 7 2
+4 9 2
+4 11 1
+4 12 1
+5 2 2
+5 6 2
+5 11 3
+5 12 2
+6 5 4
+6 1 2
+6 11 2
+6 12 1
+7 1 2
+7 2 1
+7 11 1
+8 5 1
+8 6 1
+8 3 2
+8 1 1
+8 11 1
+8 12 1
+9 4 1
+9 3 4
+9 7 2
+9 10 1
+9 5 2
+9 1 1
+9 11 1
+9 12 2
+11 5 1
+11 3 1
+11 4 1
+11 12 1
+11 2 1
+11 9 1
+12 4 2
+12 5 2
+12 1 1
+12 9 2
+12 2 1
+12 3 1

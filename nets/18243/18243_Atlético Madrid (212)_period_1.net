@@ -1,0 +1,75 @@
+*vertices 11
+1 "Gabriel Fernández Arenas" 0.0 0.0 ellipse
+2 "Saúl Ñíguez Esclapez" 0.0 0.0 ellipse
+3 "Filipe Luis Kasmirski" 0.0 0.0 ellipse
+4 "Jorge Resurrección Merodio" 0.0 0.0 ellipse
+5 "Antoine Griezmann" 0.0 0.0 ellipse
+6 "Diego Roberto Godín Leal" 0.0 0.0 ellipse
+7 "Jan Oblak" 0.0 0.0 ellipse
+8 "Stefan Savić" 0.0 0.0 ellipse
+9 "Juan Francisco Torres Belén" 0.0 0.0 ellipse
+10 "Fernando José Torres Sanz" 0.0 0.0 ellipse
+11 "Augusto Matías Fernández/Yannick Ferreira Carrasco" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 11
+1 4 13
+1 5 5
+1 6 2
+1 10 1
+1 9 2
+1 8 1
+1 11 3
+2 5 2
+2 3 2
+2 11 1
+3 4 12
+3 1 7
+3 5 2
+3 10 2
+3 6 1
+3 11 9
+4 5 6
+4 9 3
+4 6 3
+4 1 10
+4 3 5
+4 8 1
+4 11 4
+5 1 5
+5 3 3
+5 2 1
+5 4 1
+5 9 1
+5 11 4
+6 7 2
+6 3 3
+6 1 5
+6 9 1
+6 8 3
+6 4 1
+7 8 1
+7 6 2
+7 2 1
+7 3 1
+7 5 1
+7 9 1
+8 5 1
+8 7 1
+8 6 2
+8 1 4
+8 4 3
+8 2 2
+8 9 1
+9 5 3
+9 4 6
+9 8 2
+9 1 3
+9 11 1
+10 5 1
+11 1 3
+11 3 7
+11 6 2
+11 2 1
+11 5 2
+11 4 2

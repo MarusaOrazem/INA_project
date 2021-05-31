@@ -1,0 +1,120 @@
+*vertices 13
+1 "Erin Cuthbert" 0.0 0.0 ellipse
+2 "Magdalena Ericsson" 0.0 0.0 ellipse
+3 "Bethany England" 0.0 0.0 ellipse
+4 "Sophie Ingle" 0.0 0.0 ellipse
+5 "Maren Nævdal Mjelde" 0.0 0.0 ellipse
+6 "Jonna Andersson" 0.0 0.0 ellipse
+7 "Millie Bright" 0.0 0.0 ellipse
+8 "Ann-Katrin Berger" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Ramona Bachmann/So-yun Ji" 0.0 0.0 ellipse
+12 "Guro Reiten/Hannah Jayne Blundell" 0.0 0.0 ellipse
+13 "Drew Spence/Jessica Carter" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 6 5
+1 5 6
+1 4 2
+1 3 3
+1 7 2
+1 8 1
+1 10 1
+1 12 3
+2 3 3
+2 6 11
+2 7 12
+2 8 15
+2 1 4
+2 5 2
+2 10 2
+2 4 4
+2 11 2
+2 12 3
+2 13 2
+3 6 2
+3 4 2
+3 10 3
+3 9 1
+3 5 3
+3 1 1
+3 7 1
+3 11 3
+3 12 2
+3 13 1
+4 5 7
+4 3 2
+4 6 5
+4 8 3
+4 1 2
+4 7 6
+4 2 3
+4 10 2
+4 11 2
+4 12 2
+4 13 2
+5 4 4
+5 1 3
+5 2 5
+5 9 2
+5 7 5
+5 10 2
+5 3 8
+5 8 1
+5 11 1
+5 13 1
+5 12 2
+6 3 6
+6 1 12
+6 2 9
+6 4 5
+6 5 2
+6 8 3
+6 11 2
+6 12 5
+6 13 5
+7 5 8
+7 2 9
+7 8 6
+7 3 1
+7 1 2
+7 4 2
+7 6 1
+7 11 1
+7 12 2
+8 6 8
+8 7 11
+8 2 11
+8 1 1
+8 5 2
+8 4 2
+8 12 1
+11 5 1
+11 4 2
+11 1 2
+11 3 1
+11 2 1
+11 6 1
+11 13 1
+11 7 1
+12 10 3
+12 6 4
+12 3 1
+12 2 2
+12 4 1
+12 5 1
+12 7 1
+12 11 3
+12 13 1
+13 4 1
+13 10 2
+13 7 1
+13 5 2
+13 2 1
+13 6 2
+13 1 1
+13 11 7
+13 12 3
+13 8 2
+13 3 1

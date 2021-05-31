@@ -1,0 +1,72 @@
+*vertices 11
+1 "Ashley Cole" 0.0 0.0 ellipse
+2 "Patrick Vieira" 0.0 0.0 ellipse
+3 "Ray Parlour" 0.0 0.0 ellipse
+4 "Laureano Bisan-Etame Mayer" 0.0 0.0 ellipse
+5 "Jens Lehmann" 0.0 0.0 ellipse
+6 "Kolo Habib Touré" 0.0 0.0 ellipse
+7 "Thierry Henry" 0.0 0.0 ellipse
+8 "Sulzeer Jeremiah "Sol" Campbell" 0.0 0.0 ellipse
+9 "José Antonio Reyes Calderón/Jérémie Aliadière" 0.0 0.0 ellipse
+10 "Robert Pirès /Gaël Clichy" 0.0 0.0 ellipse
+11 "Fredrik Ljungberg/Martin Keown" 0.0 0.0 ellipse
+*arcs
+1 2 12
+1 7 7
+1 3 3
+1 8 1
+1 10 2
+1 9 1
+2 1 4
+2 4 2
+2 3 3
+2 7 6
+2 11 1
+3 4 4
+3 2 4
+3 8 1
+3 7 3
+3 1 1
+3 6 1
+3 9 1
+3 11 1
+4 5 2
+4 7 2
+4 2 2
+4 6 1
+4 3 3
+4 9 1
+4 10 1
+4 11 1
+5 4 1
+5 1 3
+5 2 2
+5 7 5
+5 10 2
+5 9 2
+6 4 1
+6 5 1
+6 3 3
+6 2 1
+6 11 2
+7 1 6
+7 2 1
+7 9 1
+7 10 1
+7 11 2
+8 1 2
+8 6 1
+8 10 1
+9 3 1
+9 2 1
+9 10 1
+9 7 1
+9 1 1
+10 1 1
+10 7 4
+10 4 1
+10 2 2
+10 11 1
+10 9 1
+11 4 2
+11 3 3

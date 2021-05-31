@@ -1,0 +1,110 @@
+*vertices 13
+1 "Thierry Henry" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+3 "Xavier Hernández Creus" 0.0 0.0 ellipse
+4 "Anderson Luís de Souza" 0.0 0.0 ellipse
+5 OFF_goal 0.0 0.0 ellipse
+6 "Oleguer Presas Renom" 0.0 0.0 ellipse
+7 "Lilian Thuram" 0.0 0.0 ellipse
+8 "Gnégnéri Yaya Touré" 0.0 0.0 ellipse
+9 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+10 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+11 "Gabriel Alejandro Milito/Carles Puyol i Saforcada" 0.0 0.0 ellipse
+12 "Lionel Andrés Messi Cuccittini/Giovani dos Santos Ramírez" 0.0 0.0 ellipse
+13 "Eric-Sylvain Bilal Abidal/Sylvio Mendes Campos Junior" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 4
+1 6 2
+1 8 2
+1 4 4
+1 10 4
+1 12 3
+1 13 4
+3 1 7
+3 5 1
+3 8 10
+3 10 13
+3 4 8
+3 6 7
+3 7 1
+3 2 1
+3 11 4
+3 12 2
+3 13 1
+4 3 6
+4 8 5
+4 1 7
+4 10 9
+4 7 3
+4 6 1
+4 11 1
+4 12 1
+4 13 3
+6 7 8
+6 1 1
+6 10 4
+6 3 10
+6 8 1
+6 4 3
+6 12 4
+7 3 5
+7 8 6
+7 9 5
+7 6 5
+7 4 2
+7 11 7
+7 13 1
+7 12 1
+8 3 16
+8 7 7
+8 4 9
+8 10 5
+8 6 5
+8 1 2
+8 11 3
+8 12 1
+8 13 3
+9 8 1
+9 4 2
+9 7 2
+9 10 1
+9 6 1
+9 3 2
+9 11 3
+9 13 2
+10 7 1
+10 3 10
+10 6 3
+10 1 3
+10 4 11
+10 8 4
+10 12 5
+10 13 4
+11 1 1
+11 8 4
+11 7 7
+11 4 1
+11 12 2
+11 13 6
+11 9 1
+11 6 1
+11 10 1
+12 6 2
+12 3 1
+12 10 1
+12 1 3
+12 4 2
+12 5 2
+12 2 1
+12 13 1
+13 8 3
+13 3 2
+13 6 1
+13 4 2
+13 1 4
+13 10 5
+13 9 1
+13 7 1
+13 11 6
+13 2 1

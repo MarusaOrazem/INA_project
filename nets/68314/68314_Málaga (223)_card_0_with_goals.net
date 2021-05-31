@@ -1,0 +1,84 @@
+*vertices 12
+1 "Márcio Amoroso dos Santos" 0.0 0.0 ellipse
+2 "Miguel Ángel Lozano Ayala" 0.0 0.0 ellipse
+3 OFF_goal 0.0 0.0 ellipse
+4 "Juan Jesús Calatayud Sánchez" 0.0 0.0 ellipse
+5 "Fernando Sanz Durán" 0.0 0.0 ellipse
+6 "Raúl Iznata Zabala" 0.0 0.0 ellipse
+7 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+8 "Carlos Manuel de Oliveira Magalhães" 0.0 0.0 ellipse
+9 "Juan Antonio Rodríguez Villamuela" 0.0 0.0 ellipse
+10 "Antonio Manuel Sánchez Gómez/Sérgio Paulo Barbosa Valente" 0.0 0.0 ellipse
+11 "Edgar Patricio De Carvalho Pacheco/Francisco Esteban Granados" 0.0 0.0 ellipse
+12 "Juan Jesús Gutiérrez Robles/Paulo César Wanchope Watson" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 9 4
+1 8 1
+1 11 4
+1 12 1
+1 10 1
+2 3 1
+2 9 3
+2 1 6
+2 6 3
+2 8 4
+2 7 2
+2 11 1
+2 12 2
+2 10 3
+4 5 1
+4 1 2
+4 9 4
+4 6 3
+4 2 2
+4 10 1
+4 12 2
+5 6 4
+5 1 2
+5 2 1
+5 9 1
+5 11 1
+5 12 1
+6 2 4
+6 1 3
+6 9 1
+6 5 1
+6 11 1
+6 12 1
+7 8 3
+7 9 2
+7 1 2
+7 2 2
+8 7 1
+8 2 3
+8 5 1
+8 12 3
+8 10 1
+8 11 1
+9 2 5
+9 1 3
+9 7 2
+9 6 2
+9 10 4
+9 12 1
+9 11 1
+10 1 2
+10 2 1
+10 12 1
+10 9 3
+10 3 1
+10 5 1
+10 6 2
+11 9 1
+11 1 1
+11 2 1
+11 12 1
+12 9 1
+12 2 2
+12 7 1
+12 8 2
+12 5 1
+12 1 1
+12 6 2
+12 11 2

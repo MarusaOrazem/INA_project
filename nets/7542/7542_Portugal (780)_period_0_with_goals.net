@@ -1,0 +1,90 @@
+*vertices 13
+1 "Kléper Laveran Lima Ferreira" 0.0 0.0 ellipse
+2 "Cristiano Ronaldo dos Santos Aveiro" 0.0 0.0 ellipse
+3 "João Mário Naval da Costa Eduardo" 0.0 0.0 ellipse
+4 "Gonçalo Manuel Ganchinho Guedes" 0.0 0.0 ellipse
+5 "Bernardo Mota Veiga de Carvalho e Silva" 0.0 0.0 ellipse
+6 "Raphaël Adelino José Guerreiro" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "João Filipe Iria Santos Moutinho" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Cédric Ricardo Alves Soares" 0.0 0.0 ellipse
+11 "William Silva de Carvalho" 0.0 0.0 ellipse
+12 "José Miguel da Rocha Fonte" 0.0 0.0 ellipse
+13 "Rui Pedro dos Santos Patrício" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 2
+1 5 3
+1 3 2
+1 10 2
+1 11 2
+1 12 1
+1 6 1
+1 13 1
+2 3 1
+2 9 1
+2 7 2
+2 10 1
+2 8 2
+2 12 1
+2 4 1
+3 6 2
+3 12 3
+3 11 5
+3 5 3
+3 2 1
+4 5 3
+4 12 1
+4 11 1
+4 2 1
+4 9 1
+5 4 1
+5 8 2
+5 10 3
+5 2 3
+5 1 2
+5 11 1
+5 3 1
+6 7 1
+6 4 3
+6 2 2
+6 3 4
+6 12 1
+6 13 1
+6 8 2
+6 11 3
+8 2 2
+8 10 5
+8 1 2
+8 11 1
+8 5 3
+8 6 2
+8 12 1
+10 2 3
+10 5 3
+10 1 3
+10 13 2
+10 4 1
+10 8 2
+10 11 3
+10 3 1
+11 1 3
+11 3 9
+11 6 2
+11 8 2
+11 12 4
+11 10 2
+11 5 2
+11 2 1
+12 1 3
+12 2 2
+12 6 3
+12 3 2
+12 8 3
+12 11 1
+12 13 1
+13 12 4
+13 3 2
+13 10 2
+13 6 1

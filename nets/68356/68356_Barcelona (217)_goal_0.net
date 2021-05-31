@@ -1,0 +1,32 @@
+*vertices 10
+1 "Gnégnéri Yaya Touré" 0.0 0.0 ellipse
+2 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+3 "Eiður Smári Guðjohnsen" 0.0 0.0 ellipse
+4 "Rafael Márquez Álvarez" 0.0 0.0 ellipse
+5 "Gabriel Alejandro Milito" 0.0 0.0 ellipse
+6 "Xavier Hernández Creus" 0.0 0.0 ellipse
+7 "Bojan Krkíc Pérez" 0.0 0.0 ellipse
+8 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+9 "Eric-Sylvain Bilal Abidal" 0.0 0.0 ellipse
+10 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 1
+1 7 1
+1 5 1
+2 1 1
+3 2 1
+4 5 2
+4 6 2
+5 4 2
+5 7 1
+5 9 1
+6 1 1
+6 4 1
+6 10 1
+7 1 1
+8 5 1
+9 7 1
+9 3 1
+9 4 2
+10 2 1

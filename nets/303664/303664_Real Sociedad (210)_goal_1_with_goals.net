@@ -1,0 +1,107 @@
+*vertices 13
+1 "Joseba Zaldúa Bengoetxea" 0.0 0.0 ellipse
+2 "Martin Ødegaard" 0.0 0.0 ellipse
+3 "Igor Zubeldía Elorza" 0.0 0.0 ellipse
+4 "Alejandro Remiro Gargallo" 0.0 0.0 ellipse
+5 "Diego Javier Llorente Ríos" 0.0 0.0 ellipse
+6 "Ignacio Monreal Eraso" 0.0 0.0 ellipse
+7 "Ander Guevara Lajo" 0.0 0.0 ellipse
+8 "Mikel Merino Zazón" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Cristian Portugués Manzanera/Adnan Januzaj" 0.0 0.0 ellipse
+12 "Alexander Isak/Willian José da Silva" 0.0 0.0 ellipse
+13 "Mikel Oyarzabal Ugarte/Ander Barrenetxea Muguruza" 0.0 0.0 ellipse
+*arcs
+1 2 12
+1 3 18
+1 4 1
+1 7 8
+1 12 1
+1 11 2
+2 1 6
+2 7 13
+2 8 9
+2 9 5
+2 5 2
+2 6 3
+2 3 2
+2 11 3
+2 12 3
+2 13 1
+3 4 10
+3 1 17
+3 7 11
+3 8 4
+3 2 6
+3 5 11
+3 11 1
+3 12 1
+3 13 1
+4 5 7
+4 3 7
+4 2 2
+4 7 3
+4 6 1
+4 8 1
+4 1 1
+5 6 13
+5 7 9
+5 3 12
+5 2 3
+5 4 5
+5 8 3
+5 12 2
+5 13 3
+6 5 11
+6 8 7
+6 7 7
+6 3 1
+6 12 2
+6 13 1
+7 4 3
+7 2 20
+7 5 6
+7 3 10
+7 1 10
+7 8 10
+7 6 3
+7 11 2
+7 12 2
+7 13 3
+8 2 5
+8 6 5
+8 7 13
+8 1 1
+8 5 2
+8 9 2
+8 3 5
+8 10 1
+8 12 4
+8 13 9
+8 11 6
+11 1 1
+11 2 2
+11 7 1
+11 12 2
+11 13 2
+11 9 1
+11 8 2
+12 8 3
+12 1 1
+12 9 4
+12 10 1
+12 7 2
+12 2 3
+12 11 2
+12 13 1
+13 10 1
+13 5 5
+13 8 6
+13 6 1
+13 3 1
+13 7 1
+13 2 1
+13 1 1
+13 11 1
+13 12 2

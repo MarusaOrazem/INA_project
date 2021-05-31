@@ -1,0 +1,104 @@
+*vertices 13
+1 "Jorge Molina Vidal" 0.0 0.0 ellipse
+2 "Vitorino Gabriel Pacheco Antunes" 0.0 0.0 ellipse
+3 ON_goal 0.0 0.0 ellipse
+4 "Fayçal Fajr" 0.0 0.0 ellipse
+5 "Damián Nicolás Suárez Suárez" 0.0 0.0 ellipse
+6 "Vicente Guaita Panadero" 0.0 0.0 ellipse
+7 "Djené Dakonam Ortega" 0.0 0.0 ellipse
+8 "Markel Bergara Larrañaga" 0.0 0.0 ellipse
+9 "Juan Torres Ruiz" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Gaku Shibasaki/Álvaro José Jiménez Guerrero" 0.0 0.0 ellipse
+12 "Amath Ndiaye/Sergio Mora Sánchez" 0.0 0.0 ellipse
+13 "Mauro Wilney Arambarri Rosa/Francisco Portillo Soler" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+1 10 1
+1 4 3
+1 5 1
+1 11 2
+1 12 1
+1 13 1
+2 9 1
+2 10 2
+2 8 2
+2 4 3
+2 1 2
+2 12 2
+2 13 2
+2 11 1
+4 5 7
+4 9 2
+4 10 2
+4 1 6
+4 2 4
+4 8 3
+4 7 1
+4 11 5
+4 12 1
+4 13 1
+5 6 2
+5 4 9
+5 8 3
+5 2 1
+5 1 3
+5 7 1
+5 9 1
+5 11 3
+5 12 1
+5 13 2
+6 9 2
+6 1 9
+6 5 1
+6 7 1
+6 12 1
+7 6 4
+7 4 3
+7 8 3
+7 5 3
+7 9 1
+7 12 1
+7 11 2
+8 4 3
+8 5 4
+8 1 2
+8 7 2
+8 11 2
+8 12 1
+8 13 1
+9 2 1
+9 6 3
+9 3 1
+9 4 1
+9 5 1
+9 7 1
+9 10 1
+9 12 1
+9 13 3
+9 11 2
+11 7 1
+11 4 2
+11 1 1
+11 9 2
+11 3 1
+11 8 1
+11 13 1
+11 5 2
+11 10 1
+11 12 1
+12 1 1
+12 5 1
+12 2 2
+12 4 3
+12 7 1
+12 11 1
+12 13 3
+13 6 3
+13 10 2
+13 5 5
+13 4 3
+13 2 1
+13 11 2
+13 12 1

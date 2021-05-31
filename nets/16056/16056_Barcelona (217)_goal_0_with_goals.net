@@ -1,0 +1,82 @@
+*vertices 12
+1 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+2 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+3 "Ivan Rakitić" 0.0 0.0 ellipse
+4 "Sergi Roberto Carnicer" 0.0 0.0 ellipse
+5 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+6 "Clément Lenglet" 0.0 0.0 ellipse
+7 "Malcom Filipe Silva de Oliveira" 0.0 0.0 ellipse
+8 "Arthur Henrique Ramos de Oliveira Melo" 0.0 0.0 ellipse
+9 "Jordi Alba Ramos" 0.0 0.0 ellipse
+10 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Marc-André ter Stegen" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 7 1
+1 11 1
+1 9 2
+1 10 2
+2 3 3
+2 11 1
+2 8 2
+2 6 1
+2 12 1
+2 10 1
+3 4 3
+3 5 2
+3 7 3
+3 1 2
+3 10 1
+3 2 1
+3 8 1
+4 5 6
+4 3 4
+4 10 2
+4 8 1
+4 2 1
+5 6 4
+5 7 1
+5 8 2
+5 3 1
+5 4 3
+5 9 1
+5 12 5
+5 10 1
+6 7 1
+6 3 1
+6 5 2
+6 9 3
+6 2 2
+6 12 1
+7 8 2
+7 10 1
+7 1 2
+7 11 1
+7 9 1
+8 9 4
+8 5 5
+8 1 1
+8 6 1
+8 10 1
+8 3 1
+8 4 1
+9 1 1
+9 2 1
+9 8 4
+9 7 5
+9 5 1
+9 6 3
+9 12 1
+9 4 1
+10 11 2
+10 3 2
+10 9 1
+10 4 1
+10 1 1
+12 5 1
+12 1 4
+12 10 1
+12 8 1
+12 6 1
+12 4 1

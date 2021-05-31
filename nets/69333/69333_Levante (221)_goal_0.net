@@ -1,0 +1,16 @@
+*vertices 6
+1 "Vicente Iborra De La Fuente" 0.0 0.0 ellipse
+2 "Arouna Koné" 0.0 0.0 ellipse
+3 "Xavier Torres Buigues" 0.0 0.0 ellipse
+4 "Javier Rodríguez Venta" 0.0 0.0 ellipse
+5 "Pedro López Muñoz" 0.0 0.0 ellipse
+6 "Valmiro Lópes Rocha" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 1
+2 3 1
+4 5 1
+4 2 1
+4 6 1
+5 4 1
+6 1 2

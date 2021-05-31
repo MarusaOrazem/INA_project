@@ -1,0 +1,96 @@
+*vertices 11
+1 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+2 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+3 "Adriano Correia Claro" 0.0 0.0 ellipse
+4 "Jérémy Mathieu" 0.0 0.0 ellipse
+5 "Ivan Rakitić" 0.0 0.0 ellipse
+6 "Arda Turan" 0.0 0.0 ellipse
+7 "Neymar da Silva Santos Junior" 0.0 0.0 ellipse
+8 "Aleix Vidal Parreu" 0.0 0.0 ellipse
+9 "Claudio Andrés Bravo Muñoz" 0.0 0.0 ellipse
+10 "Sergio Busquets i Burgos/Javier Alejandro Mascherano" 0.0 0.0 ellipse
+11 "Gerard Piqué Bernabéu/Marc Bartra Aregall" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 3
+1 7 3
+1 5 1
+1 8 1
+1 10 2
+1 11 1
+2 8 4
+2 7 8
+2 1 4
+2 5 4
+2 6 1
+2 3 1
+2 10 6
+3 4 5
+3 6 6
+3 1 2
+3 7 11
+3 5 2
+3 2 1
+3 10 2
+3 11 1
+4 3 6
+4 8 1
+4 6 3
+4 9 2
+4 7 3
+4 5 2
+4 10 6
+4 11 1
+5 6 3
+5 3 1
+5 4 4
+5 2 4
+5 7 3
+5 8 8
+5 1 1
+5 10 4
+5 11 3
+6 7 11
+6 3 3
+6 5 5
+6 4 3
+6 2 2
+6 1 1
+6 8 1
+6 10 3
+6 11 1
+7 6 6
+7 3 4
+7 2 13
+7 1 2
+8 2 7
+8 5 9
+8 4 2
+8 3 1
+8 1 3
+8 10 1
+8 11 4
+9 4 6
+9 8 1
+9 10 1
+9 11 2
+10 3 2
+10 4 3
+10 2 7
+10 6 6
+10 5 2
+10 8 3
+10 9 2
+10 11 4
+10 1 1
+10 7 1
+11 9 1
+11 5 2
+11 8 1
+11 2 1
+11 7 1
+11 1 3
+11 3 1
+11 6 1
+11 10 9
+11 4 1

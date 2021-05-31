@@ -1,0 +1,38 @@
+*vertices 12
+1 "Sergio Fernández González" 0.0 0.0 ellipse
+2 "Leonardo Daniel Ponzio" 0.0 0.0 ellipse
+3 "Gabriel Alejandro Milito" 0.0 0.0 ellipse
+4 "Ewerthon Henrique de Souza" 0.0 0.0 ellipse
+5 "Carlos Andrés Diogo Enseñat" 0.0 0.0 ellipse
+6 "Ángel Lafita Castillo" 0.0 0.0 ellipse
+7 "Alberto Zapater Arjol" 0.0 0.0 ellipse
+8 "Diego Alberto Milito" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Juan Francisco García García" 0.0 0.0 ellipse
+12 "Pablo César Aimar Giordano/Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 8 1
+1 12 1
+2 3 1
+2 7 1
+2 5 1
+2 6 1
+4 5 1
+4 2 1
+4 11 1
+4 9 1
+5 6 1
+5 4 2
+5 10 1
+5 7 1
+6 9 1
+7 8 1
+7 5 1
+7 10 1
+8 6 1
+11 7 1
+11 12 2
+12 4 1
+12 1 1

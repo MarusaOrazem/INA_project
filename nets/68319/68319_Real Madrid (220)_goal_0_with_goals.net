@@ -1,0 +1,48 @@
+*vertices 11
+1 "Pablo Gabriel García Pérez" 0.0 0.0 ellipse
+2 "David Beckham" 0.0 0.0 ellipse
+3 "Miguel Ángel Salgado Fernández" 0.0 0.0 ellipse
+4 "Sergio Ramos García" 0.0 0.0 ellipse
+5 "Iván Helguera Bujía" 0.0 0.0 ellipse
+6 "Ronaldo Luíz Nazário de Lima" 0.0 0.0 ellipse
+7 "Zinédine Zidane" 0.0 0.0 ellipse
+8 "Roberto Carlos da Silva" 0.0 0.0 ellipse
+9 "Róbson de Souza" 0.0 0.0 ellipse
+10 "Iker Casillas Fernández" 0.0 0.0 ellipse
+11 "Raúl González Blanco" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 7 1
+1 6 1
+1 9 1
+1 8 1
+2 7 4
+2 3 1
+2 4 2
+2 1 1
+2 11 1
+2 8 2
+2 9 1
+3 4 2
+3 9 1
+3 2 3
+4 5 3
+4 1 1
+4 6 1
+5 6 1
+5 7 1
+5 8 1
+6 7 1
+6 9 1
+7 8 1
+7 2 2
+7 1 2
+8 7 3
+8 2 1
+8 1 1
+8 11 1
+9 1 1
+9 3 1
+10 3 1
+10 2 1
+11 2 2

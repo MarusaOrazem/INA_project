@@ -1,0 +1,19 @@
+*vertices 8
+1 "Fara Williams" 0.0 0.0 ellipse
+2 "Jade Moore" 0.0 0.0 ellipse
+3 "Amalie Vevle Eikeland" 0.0 0.0 ellipse
+4 "Brooke Chaplen" 0.0 0.0 ellipse
+5 "Sophie Howard" 0.0 0.0 ellipse
+6 "Grace Moloney" 0.0 0.0 ellipse
+7 "Rachel Rowe" 0.0 0.0 ellipse
+8 "Millie Farrow" 0.0 0.0 ellipse
+*arcs
+1 2 3
+2 3 1
+2 1 1
+4 5 1
+4 1 1
+5 7 1
+5 4 1
+6 5 1
+7 8 2

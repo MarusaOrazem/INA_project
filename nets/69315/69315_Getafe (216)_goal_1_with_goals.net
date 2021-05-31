@@ -1,0 +1,34 @@
+*vertices 13
+1 "Juan Valera Espín" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+3 "Nicolás Ladislao Fedor Flores" 0.0 0.0 ellipse
+4 "Miguel Ángel Moyà Rumbo" 0.0 0.0 ellipse
+5 "Rafael López Gómez" 0.0 0.0 ellipse
+6 "Miguel Marcos Madera" 0.0 0.0 ellipse
+7 "Alberto Lopo García" 0.0 0.0 ellipse
+8 "Francisco Javier Casquero Paredes" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Pablo Sarabia García/Pedro Ríos Maestre" 0.0 0.0 ellipse
+11 "Daniel Alberto Díaz" 0.0 0.0 ellipse
+12 "Diego Castro Giménez/Juan Antonio Rodríguez Villamuela" 0.0 0.0 ellipse
+13 "Mehdi Lacen" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 2
+1 12 1
+3 9 1
+3 8 1
+3 10 1
+4 5 1
+4 3 1
+5 7 1
+5 12 1
+6 7 1
+7 5 1
+8 1 1
+10 6 1
+10 3 4
+11 10 1
+12 13 1
+12 3 1
+12 10 1

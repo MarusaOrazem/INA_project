@@ -1,0 +1,72 @@
+*vertices 12
+1 "Álvaro Giménez Candela" 0.0 0.0 ellipse
+2 "Gonzalo Castro Irizábal" 0.0 0.0 ellipse
+3 "Pedro Bigas Rigo" 0.0 0.0 ellipse
+4 "Jose Luis Martí Soler" 0.0 0.0 ellipse
+5 "Dudú Aouate" 0.0 0.0 ellipse
+6 "Iván Ramis Barrios" 0.0 0.0 ellipse
+7 "José Manuel Flores Moreno" 0.0 0.0 ellipse
+8 "João Victor de Albuquerque Bruno" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Pablo Cendrós López" 0.0 0.0 ellipse
+11 "Emilio Nsue López" 0.0 0.0 ellipse
+12 "Fernando Damián Tissone" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 1
+1 8 1
+1 12 1
+2 3 5
+2 12 1
+3 2 3
+3 4 3
+3 6 2
+3 8 1
+3 5 3
+3 12 2
+4 8 1
+4 11 1
+4 5 1
+4 3 1
+5 6 2
+5 7 3
+5 11 3
+5 1 1
+5 4 1
+6 1 1
+6 2 1
+6 8 1
+6 7 2
+6 10 2
+6 3 2
+6 5 1
+6 11 1
+7 6 3
+7 11 1
+7 10 2
+7 8 1
+7 5 1
+8 1 1
+8 9 1
+8 2 1
+8 10 2
+8 6 2
+8 7 1
+8 4 1
+8 5 2
+10 4 1
+10 11 5
+10 6 2
+10 8 3
+10 7 1
+10 5 1
+10 3 1
+10 12 1
+11 12 1
+11 10 4
+11 4 1
+11 1 2
+11 8 1
+12 11 1
+12 2 1
+12 8 1

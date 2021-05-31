@@ -1,0 +1,43 @@
+*vertices 11
+1 "Álvaro Cejudo Carmona" 0.0 0.0 ellipse
+2 "Joseba Llorente Etxarri" 0.0 0.0 ellipse
+3 "Raoul Cédric Loé" 0.0 0.0 ellipse
+4 "Alejandro Arribas Garrido" 0.0 0.0 ellipse
+5 "Marc Bertrán Vilanova" 0.0 0.0 ellipse
+6 "Oier Sanjurjo Mate" 0.0 0.0 ellipse
+7 "Fernando Macedo Da Silva Rodilla" 0.0 0.0 ellipse
+8 "Miguel Ángel De las Cuevas Barberá" 0.0 0.0 ellipse
+9 "Miguel Flaño Bezunartea" 0.0 0.0 ellipse
+10 "Andrés Eduardo Fernández Moreno" 0.0 0.0 ellipse
+11 "Manuel Jesús Ortiz Toribio" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+1 5 1
+1 6 1
+2 1 1
+3 4 1
+3 9 1
+3 8 1
+3 11 1
+3 1 1
+4 5 1
+4 6 1
+4 10 1
+4 7 1
+5 6 1
+5 11 1
+5 1 2
+6 1 2
+6 5 1
+7 8 2
+7 3 1
+7 2 1
+8 9 1
+9 4 2
+9 3 1
+9 7 1
+10 5 1
+10 1 1
+11 6 1
+11 5 1

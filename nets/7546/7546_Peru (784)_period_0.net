@@ -1,0 +1,90 @@
+*vertices 11
+1 "Alberto Junior Rodríguez Valdelomar" 0.0 0.0 ellipse
+2 "Víctor Yoshimar Yotún Flores" 0.0 0.0 ellipse
+3 "Pedro Jesús Aquino Sánchez" 0.0 0.0 ellipse
+4 "Luis Jan Piers Advíncula Castrillón" 0.0 0.0 ellipse
+5 "José Paolo Guerrero González" 0.0 0.0 ellipse
+6 "Christian Alberto Cueva Bravo" 0.0 0.0 ellipse
+7 "Miguel Ángel Trauco Saavedra" 0.0 0.0 ellipse
+8 "André Martín Carrillo Díaz" 0.0 0.0 ellipse
+9 "Édison Michael Flores Peralta" 0.0 0.0 ellipse
+10 "Christian Guillermo Martín Ramos Garagay" 0.0 0.0 ellipse
+11 "Pedro David Gallese Quiróz" 0.0 0.0 ellipse
+*arcs
+1 2 7
+1 3 2
+1 7 5
+1 10 4
+1 8 1
+1 5 1
+1 9 1
+1 6 2
+1 4 1
+2 3 4
+2 6 3
+2 10 3
+2 7 6
+2 8 2
+2 1 1
+2 4 3
+2 9 1
+2 5 1
+3 4 8
+3 2 6
+3 7 3
+3 6 3
+3 8 3
+3 1 5
+3 5 1
+3 10 3
+3 9 1
+4 5 6
+4 3 9
+4 8 5
+4 9 7
+4 10 5
+4 6 1
+5 6 4
+5 8 3
+5 9 1
+5 4 1
+6 5 3
+6 4 1
+6 10 1
+6 8 5
+6 3 2
+6 2 6
+6 1 2
+6 7 2
+6 9 3
+7 5 4
+7 9 4
+7 3 2
+7 6 4
+7 1 4
+7 2 5
+7 8 2
+8 5 1
+8 4 5
+8 6 2
+8 3 2
+8 2 1
+8 7 3
+9 6 4
+9 7 6
+9 5 2
+9 4 1
+9 3 1
+9 8 1
+10 6 2
+10 3 2
+10 8 1
+10 1 7
+10 4 6
+10 7 1
+10 5 1
+10 2 2
+11 5 1
+11 10 2
+11 9 1
+11 8 1

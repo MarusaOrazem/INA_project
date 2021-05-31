@@ -1,0 +1,105 @@
+*vertices 12
+1 "Claudia Walker" 0.0 0.0 ellipse
+2 "Brianna Visalli" 0.0 0.0 ellipse
+3 "Chloe Arthur" 0.0 0.0 ellipse
+4 "Hannah Hampton" 0.0 0.0 ellipse
+5 "Rebecca Holloway" 0.0 0.0 ellipse
+6 "Harriet Scott" 0.0 0.0 ellipse
+7 "Adrienne Jordan" 0.0 0.0 ellipse
+8 "Abbi Grant" 0.0 0.0 ellipse
+9 "Connie Scofield" 0.0 0.0 ellipse
+10 "Lucy Whipp" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Freya Gregory/Lily Simkin" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 6 1
+1 9 3
+1 3 1
+2 3 6
+2 5 3
+2 1 2
+2 8 5
+2 6 3
+2 11 3
+2 7 4
+2 9 1
+2 12 1
+3 2 6
+3 4 1
+3 6 11
+3 8 4
+3 5 3
+3 9 5
+3 10 4
+3 7 2
+3 11 1
+3 1 1
+3 12 1
+4 5 15
+4 6 18
+4 7 3
+4 3 4
+4 9 1
+4 10 1
+4 12 1
+5 4 16
+5 7 21
+5 6 7
+5 10 1
+5 8 2
+5 1 2
+5 3 2
+5 9 1
+5 2 1
+6 3 9
+6 2 3
+6 4 12
+6 5 16
+6 10 3
+6 9 4
+6 7 1
+6 8 1
+6 12 2
+7 8 11
+7 9 3
+7 5 16
+7 2 8
+7 10 3
+7 1 3
+7 3 4
+7 4 1
+7 6 1
+8 7 5
+8 2 3
+8 11 2
+8 1 1
+8 10 5
+8 9 1
+8 6 1
+8 12 1
+9 3 4
+9 2 3
+9 4 1
+9 6 4
+9 10 2
+9 11 1
+9 8 1
+9 7 2
+9 5 1
+9 12 1
+10 9 4
+10 3 3
+10 2 3
+10 8 2
+10 6 4
+10 1 1
+10 7 1
+10 12 1
+12 3 2
+12 10 1
+12 6 3
+12 2 2
+12 9 2
+12 1 2
+12 8 1

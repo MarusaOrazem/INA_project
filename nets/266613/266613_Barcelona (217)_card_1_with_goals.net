@@ -1,0 +1,54 @@
+*vertices 11
+1 "Javier Alejandro Mascherano" 0.0 0.0 ellipse
+2 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+3 "Daniel Alves da Silva" 0.0 0.0 ellipse
+4 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+5 "Pedro Eliezer Rodríguez Ledesma" 0.0 0.0 ellipse
+6 "Andrés Iniesta Luján" 0.0 0.0 ellipse
+7 "Alexis Alejandro Sánchez Sánchez" 0.0 0.0 ellipse
+8 OFF_goal 0.0 0.0 ellipse
+9 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+10 "Cristian Tello Herrera" 0.0 0.0 ellipse
+11 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 3
+1 11 2
+1 9 1
+1 5 1
+1 4 1
+1 6 1
+2 1 1
+2 6 4
+2 10 2
+2 11 3
+2 5 1
+3 4 5
+3 8 1
+3 5 3
+3 2 1
+4 5 2
+4 3 4
+4 7 1
+4 6 2
+4 8 2
+5 2 2
+5 3 2
+5 1 1
+6 7 1
+6 4 2
+6 10 1
+6 5 1
+6 1 1
+7 4 2
+9 2 1
+9 1 2
+9 11 1
+10 6 1
+10 1 1
+11 4 1
+11 2 2
+11 3 1
+11 1 1
+11 9 1
+11 5 1

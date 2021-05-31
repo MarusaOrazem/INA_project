@@ -1,0 +1,83 @@
+*vertices 13
+1 "Danique Kerkdijk" 0.0 0.0 ellipse
+2 "Sophie Baggaley" 0.0 0.0 ellipse
+3 "Lucy Graham" 0.0 0.0 ellipse
+4 "Frankie Brown" 0.0 0.0 ellipse
+5 "Gemma Evans" 0.0 0.0 ellipse
+6 "Julie Biesmans" 0.0 0.0 ellipse
+7 ON_goal 0.0 0.0 ellipse
+8 "Loren Dykes" 0.0 0.0 ellipse
+9 "Poppy Pattinson" 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Katie Rood/Carla Humphrey" 0.0 0.0 ellipse
+12 "Juliette Kemppi/Rosella Ayane" 0.0 0.0 ellipse
+13 "Ella Rutherford/Katie Robinson" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 10 1
+1 5 2
+1 4 1
+1 8 1
+1 11 1
+2 3 2
+2 6 3
+2 1 2
+2 5 2
+2 11 1
+2 12 3
+3 4 2
+3 7 3
+3 8 2
+3 5 1
+3 9 1
+3 11 1
+3 12 1
+4 5 2
+4 9 1
+4 8 2
+4 3 3
+4 1 2
+4 12 1
+4 13 1
+5 6 3
+5 2 4
+5 9 3
+5 4 1
+5 1 1
+5 12 1
+5 13 1
+5 11 1
+6 5 2
+6 2 1
+6 9 3
+6 4 2
+6 1 1
+6 8 3
+6 3 1
+8 2 3
+8 3 3
+8 6 1
+8 1 1
+8 11 1
+8 12 2
+9 4 2
+9 3 3
+9 5 1
+9 13 4
+9 12 3
+11 1 1
+11 6 1
+11 9 1
+11 8 4
+11 3 1
+11 12 2
+12 6 3
+12 8 2
+12 4 2
+12 3 1
+12 11 1
+12 13 1
+12 9 1
+13 1 1
+13 6 1
+13 10 1

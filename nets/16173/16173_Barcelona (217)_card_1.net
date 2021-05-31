@@ -1,0 +1,29 @@
+*vertices 9
+1 "Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+2 "Gerard Piqué Bernabéu" 0.0 0.0 ellipse
+3 "Marc-André ter Stegen" 0.0 0.0 ellipse
+4 "Carles Aleña Castillo" 0.0 0.0 ellipse
+5 "Sergi Roberto Carnicer" 0.0 0.0 ellipse
+6 "Sergio Busquets i Burgos" 0.0 0.0 ellipse
+7 "Ivan Rakitić" 0.0 0.0 ellipse
+8 "Ousmane Dembélé" 0.0 0.0 ellipse
+9 "Nélson Cabral Semedo" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 1
+2 4 1
+2 6 2
+3 2 1
+4 5 1
+4 6 1
+4 8 1
+5 4 1
+6 7 1
+6 2 1
+6 1 1
+6 9 1
+7 4 1
+7 9 1
+8 7 1
+8 9 1
+9 8 2

@@ -1,0 +1,12 @@
+*vertices 5
+1 "Shinji Kagawa" 0.0 0.0 ellipse
+2 "Makoto Hasebe" 0.0 0.0 ellipse
+3 "Maya Yoshida" 0.0 0.0 ellipse
+4 "Hiroki Sakai" 0.0 0.0 ellipse
+5 "Gen Shōji" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 2
+3 5 1
+4 3 1
+5 2 1

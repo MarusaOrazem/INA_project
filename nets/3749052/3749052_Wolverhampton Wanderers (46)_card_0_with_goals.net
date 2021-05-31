@@ -1,0 +1,102 @@
+*vertices 13
+1 "Lee Naylor" 0.0 0.0 ellipse
+2 "Paul Jones" 0.0 0.0 ellipse
+3 "Alex Rae" 0.0 0.0 ellipse
+4 "Denis Irwin" 0.0 0.0 ellipse
+5 "Colin Cameron" 0.0 0.0 ellipse
+6 "Paul Butler" 0.0 0.0 ellipse
+7 "Kenny Miller" 0.0 0.0 ellipse
+8 "Jody Craddock" 0.0 0.0 ellipse
+9 "Ioan Viorel Ganea" 0.0 0.0 ellipse
+10 "Mark Kennedy" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "Carl Cort/Steffen Iversen" 0.0 0.0 ellipse
+*arcs
+1 2 5
+1 10 8
+1 7 3
+1 9 4
+1 3 2
+1 5 4
+1 11 1
+1 13 7
+2 10 6
+2 9 3
+2 1 3
+2 4 1
+2 7 1
+2 13 7
+3 4 5
+3 5 4
+3 7 4
+3 1 3
+3 2 1
+3 10 3
+3 9 5
+3 6 1
+3 11 1
+3 13 1
+4 5 1
+4 7 9
+4 3 5
+4 8 3
+4 6 1
+4 11 3
+4 9 5
+4 2 1
+4 1 1
+4 13 1
+5 6 2
+5 4 4
+5 2 2
+5 3 5
+5 8 3
+5 1 3
+5 9 1
+5 10 2
+5 13 1
+6 1 6
+6 7 2
+6 10 4
+6 11 1
+6 9 2
+6 5 1
+6 2 4
+7 4 3
+7 3 2
+7 2 2
+7 9 5
+7 5 1
+7 11 2
+7 6 1
+7 13 1
+8 9 2
+8 5 2
+8 3 1
+8 10 2
+8 4 1
+9 1 2
+9 10 3
+9 12 1
+9 7 3
+9 11 2
+9 3 2
+9 4 2
+9 5 2
+9 13 1
+10 1 4
+10 6 2
+10 3 1
+10 9 1
+10 11 1
+10 5 2
+10 13 3
+13 4 4
+13 3 2
+13 10 1
+13 1 3
+13 9 1
+13 5 2
+13 12 1
+13 7 1

@@ -1,0 +1,89 @@
+*vertices 13
+1 "Thomas Müller" 0.0 0.0 ellipse
+2 "Bastian Schweinsteiger" 0.0 0.0 ellipse
+3 "Philipp Lahm" 0.0 0.0 ellipse
+4 ON_goal 0.0 0.0 ellipse
+5 "Arjen Robben" 0.0 0.0 ellipse
+6 OFF_goal 0.0 0.0 ellipse
+7 "Holger Badstuber" 0.0 0.0 ellipse
+8 "Daniel Van Buyten" 0.0 0.0 ellipse
+9 "Mark van Bommel" 0.0 0.0 ellipse
+10 "Martín Gastón Demichelis" 0.0 0.0 ellipse
+11 "Hans-Jörg Butt" 0.0 0.0 ellipse
+12 "Hamit Altıntop/Miroslav Klose" 0.0 0.0 ellipse
+13 "Ivica Olić/Mario Gómez García" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 4 1
+1 5 3
+1 6 1
+1 7 1
+1 9 2
+1 12 1
+1 13 1
+2 3 6
+2 5 6
+2 1 7
+2 10 3
+2 7 18
+2 9 11
+2 12 2
+2 13 2
+3 2 8
+3 8 6
+3 5 11
+3 9 4
+3 1 1
+3 10 3
+3 13 1
+3 12 1
+5 6 5
+5 2 5
+5 3 11
+5 1 1
+5 7 1
+5 4 1
+5 9 2
+5 12 1
+5 13 1
+7 2 13
+7 8 1
+7 1 7
+7 10 5
+7 5 1
+7 9 2
+7 12 4
+8 2 5
+8 3 6
+8 9 5
+8 11 2
+8 5 2
+8 7 1
+9 1 3
+9 3 8
+9 5 9
+9 2 5
+9 6 2
+9 7 3
+9 12 1
+9 13 1
+10 9 5
+10 1 3
+10 3 3
+10 8 2
+10 2 7
+10 7 3
+11 3 1
+11 8 1
+11 10 3
+11 2 1
+12 1 1
+12 7 1
+12 5 1
+12 2 1
+12 6 1
+12 13 1
+13 1 1
+13 6 1
+13 12 1
+13 5 1

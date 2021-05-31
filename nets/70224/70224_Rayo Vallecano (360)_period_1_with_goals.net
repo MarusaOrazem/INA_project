@@ -1,0 +1,75 @@
+*vertices 13
+1 "David Cobeño Iglesias" 0.0 0.0 ellipse
+2 "Roberto Román Triguero" 0.0 0.0 ellipse
+3 "Roberto Trashorras Gayoso" 0.0 0.0 ellipse
+4 "Raúl Tamudo Montero" 0.0 0.0 ellipse
+5 "Miguel Pérez Cuesta" 0.0 0.0 ellipse
+6 OFF_goal 0.0 0.0 ellipse
+7 "Alejandro Arribas Garrido" 0.0 0.0 ellipse
+8 "Jorge Pulido Mayoral" 0.0 0.0 ellipse
+9 "Aitor Núñez Martín" 0.0 0.0 ellipse
+10 "Alhassane Bangoura" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Diego da Silva Costa/Diego Benito Rey" 0.0 0.0 ellipse
+13 "Jose María Movilla Cubero/Pape Maly Diamanka" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+1 4 2
+1 12 2
+1 13 2
+2 3 3
+2 8 1
+2 7 1
+2 5 1
+2 12 1
+2 13 1
+3 4 1
+3 8 2
+3 6 1
+3 9 1
+3 5 1
+3 12 1
+3 13 3
+4 5 2
+4 10 2
+4 1 2
+4 8 1
+4 13 1
+5 6 2
+5 3 1
+5 12 1
+7 1 2
+7 5 1
+7 12 1
+7 13 1
+8 2 2
+8 1 2
+8 9 1
+8 4 2
+8 11 1
+8 5 1
+8 13 2
+9 4 2
+9 10 1
+9 5 1
+9 2 1
+9 3 3
+9 8 1
+9 13 1
+9 12 1
+10 11 1
+10 2 1
+12 1 1
+12 7 1
+12 2 1
+12 13 1
+12 3 1
+12 4 1
+13 3 3
+13 7 2
+13 8 1
+13 1 1
+13 6 1
+13 4 1
+13 12 1

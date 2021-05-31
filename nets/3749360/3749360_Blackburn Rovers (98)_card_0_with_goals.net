@@ -1,0 +1,114 @@
+*vertices 13
+1 "Dwight Yorke" 0.0 0.0 ellipse
+2 "Tugay Kerimoğlu" 0.0 0.0 ellipse
+3 "Barry Ferguson" 0.0 0.0 ellipse
+4 "Lucas Neill" 0.0 0.0 ellipse
+5 OFF_goal 0.0 0.0 ellipse
+6 "Andy Todd" 0.0 0.0 ellipse
+7 "Brett Emerton" 0.0 0.0 ellipse
+8 "Craig Short" 0.0 0.0 ellipse
+9 "Brad Friedel" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Vratislav Greško/Steven Reid" 0.0 0.0 ellipse
+12 "Paul Gallagher/Andy Cole" 0.0 0.0 ellipse
+13 "Markus Babbel/Dino Baggio" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 3 4
+1 5 2
+1 7 4
+1 6 1
+1 4 2
+1 12 2
+1 13 6
+1 11 2
+2 7 4
+2 3 9
+2 1 9
+2 4 8
+2 8 2
+2 5 1
+2 6 2
+2 11 4
+2 12 2
+2 13 1
+3 4 6
+3 10 2
+3 9 1
+3 7 6
+3 2 11
+3 8 5
+3 1 1
+3 6 1
+3 5 1
+3 11 4
+3 12 2
+3 13 6
+4 1 5
+4 2 7
+4 3 7
+4 8 3
+4 7 3
+4 11 6
+4 12 2
+4 13 1
+6 1 3
+6 8 2
+6 2 9
+6 3 5
+6 7 5
+6 9 1
+6 11 1
+6 12 1
+6 13 1
+7 2 7
+7 3 5
+7 1 3
+7 8 2
+7 4 2
+7 6 3
+7 11 4
+7 12 1
+7 13 1
+8 9 4
+8 2 7
+8 6 4
+8 4 6
+8 3 1
+8 7 3
+8 10 1
+8 11 1
+8 13 1
+8 12 2
+9 8 2
+9 7 3
+9 2 4
+9 4 1
+9 1 1
+9 6 1
+9 11 2
+9 13 1
+11 1 1
+11 4 3
+11 2 4
+11 8 2
+11 9 1
+11 7 3
+11 3 2
+11 6 1
+11 12 1
+11 13 1
+12 1 3
+12 3 3
+12 7 1
+12 2 2
+12 11 1
+13 1 3
+13 3 3
+13 7 1
+13 5 1
+13 6 5
+13 2 2
+13 9 1
+13 11 1
+13 12 1

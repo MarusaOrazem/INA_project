@@ -1,0 +1,75 @@
+*vertices 12
+1 "Daniel Toribio Gutiérrez" 0.0 0.0 ellipse
+2 "Sérgio Paulo Barbosa Valente" 0.0 0.0 ellipse
+3 "Juan Jesús Gutiérrez Robles" 0.0 0.0 ellipse
+4 "Nabil Baha" 0.0 0.0 ellipse
+5 "Manuel Gaspar Haro" 0.0 0.0 ellipse
+6 "Weligton Róbson Pena de Oliveira" 0.0 0.0 ellipse
+7 "Fernando Miguel Fernández Escribano" 0.0 0.0 ellipse
+8 "Victor Obinna Nsofor" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "Gustavo Adolfo Munúa Vera" 0.0 0.0 ellipse
+11 "Milan Stepanov/Eduardo Ramos Gómez" 0.0 0.0 ellipse
+12 "Manuel Torres Caturla/Valmiro Lópes Rocha" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 2
+1 3 1
+1 5 2
+1 6 1
+1 4 1
+1 12 1
+2 3 1
+2 8 4
+2 9 1
+2 11 1
+2 12 1
+3 4 1
+3 5 1
+3 2 2
+3 1 1
+3 8 1
+3 11 1
+4 5 2
+4 1 2
+4 8 4
+4 7 2
+4 2 1
+5 3 3
+5 6 1
+5 4 6
+5 7 7
+5 10 2
+6 11 2
+6 12 1
+7 2 2
+7 3 1
+7 4 1
+7 5 4
+7 8 1
+7 1 1
+7 11 1
+8 7 6
+8 3 1
+8 5 1
+8 4 2
+8 1 3
+8 11 1
+8 12 2
+10 7 1
+10 8 3
+10 4 5
+10 6 1
+10 11 1
+10 12 2
+11 2 2
+11 6 1
+11 12 1
+11 7 2
+11 4 2
+12 7 1
+12 2 4
+12 1 2
+12 4 1
+12 6 1
+12 8 1

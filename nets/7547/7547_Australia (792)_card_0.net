@@ -1,0 +1,105 @@
+*vertices 11
+1 "Aaron Mooy" 0.0 0.0 ellipse
+2 "Mark Milligan" 0.0 0.0 ellipse
+3 "Trent Sainsbury" 0.0 0.0 ellipse
+4 "Josh Risdon" 0.0 0.0 ellipse
+5 "Aziz Eraltay Behich" 0.0 0.0 ellipse
+6 "Mathew Ryan" 0.0 0.0 ellipse
+7 "Mile Jedinak" 0.0 0.0 ellipse
+8 "Mathew Leckie" 0.0 0.0 ellipse
+9 "Robbie Kruse/Daniel Arzani" 0.0 0.0 ellipse
+10 "Andrew Nabbout/Tomi Jurić" 0.0 0.0 ellipse
+11 "Tom Rogić/Jackson Irvine" 0.0 0.0 ellipse
+*arcs
+1 2 7
+1 5 7
+1 8 4
+1 4 4
+1 3 9
+1 7 9
+1 6 1
+1 9 3
+1 10 2
+1 11 3
+2 3 11
+2 1 9
+2 5 32
+2 6 11
+2 7 12
+2 4 1
+2 8 1
+2 9 1
+2 11 1
+2 10 1
+3 4 6
+3 2 20
+3 5 2
+3 1 2
+3 7 6
+3 6 7
+3 8 1
+3 9 1
+3 10 1
+3 11 2
+4 2 2
+4 8 9
+4 7 11
+4 1 1
+4 3 4
+4 9 1
+4 10 1
+4 11 2
+5 2 30
+5 6 4
+5 7 1
+5 3 1
+5 1 3
+5 8 2
+5 9 5
+5 10 4
+5 11 2
+6 7 5
+6 5 1
+6 2 11
+6 3 4
+6 4 3
+6 1 1
+6 8 3
+6 11 2
+7 6 2
+7 1 10
+7 4 8
+7 2 5
+7 8 6
+7 3 6
+7 5 3
+7 9 1
+7 11 1
+7 10 1
+8 4 2
+8 2 2
+8 3 2
+8 5 1
+8 1 4
+8 7 1
+8 9 1
+8 10 2
+8 11 2
+9 8 1
+9 4 2
+9 1 2
+9 3 1
+9 5 1
+9 10 2
+9 11 3
+10 8 1
+10 3 1
+10 4 1
+10 11 6
+11 1 4
+11 7 1
+11 4 2
+11 5 3
+11 8 2
+11 9 2
+11 10 1

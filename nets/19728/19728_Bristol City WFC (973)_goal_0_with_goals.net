@@ -1,0 +1,49 @@
+*vertices 12
+1 "Loren Dykes" 0.0 0.0 ellipse
+2 "Lucy Graham" 0.0 0.0 ellipse
+3 "Carla Humphrey" 0.0 0.0 ellipse
+4 "Sophie Baggaley" 0.0 0.0 ellipse
+5 "Ella Rutherford" 0.0 0.0 ellipse
+6 "Juliette Kemppi" 0.0 0.0 ellipse
+7 "Frankie Brown" 0.0 0.0 ellipse
+8 "Danique Kerkdijk" 0.0 0.0 ellipse
+9 "Julie Biesmans" 0.0 0.0 ellipse
+10 "Poppy Pattinson" 0.0 0.0 ellipse
+11 "Gemma Evans" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 2
+1 6 1
+1 8 2
+1 3 2
+2 3 1
+2 9 2
+2 8 1
+3 8 1
+3 1 1
+4 5 1
+4 10 2
+4 11 2
+4 8 1
+5 6 1
+5 2 1
+5 12 2
+6 3 1
+7 2 1
+7 10 1
+7 8 1
+7 11 1
+8 2 1
+8 4 2
+8 9 2
+8 1 1
+9 10 1
+9 3 1
+9 7 2
+9 8 1
+9 1 2
+10 5 1
+10 2 1
+11 9 2
+11 4 1

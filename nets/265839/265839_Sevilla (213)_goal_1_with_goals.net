@@ -1,0 +1,90 @@
+*vertices 13
+1 "Víctor Machín Pérez" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+3 "Steven N"Kemboanza Mike Christopher Nzonzi" 0.0 0.0 ellipse
+4 "Michael Krohn-Dehli" 0.0 0.0 ellipse
+5 "Benoît Trémoulinas" 0.0 0.0 ellipse
+6 "Kevin Gameiro" 0.0 0.0 ellipse
+7 "Sergio Rico González" 0.0 0.0 ellipse
+8 "Timothée Kolodziejczak" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Jorge Andújar Moreno" 0.0 0.0 ellipse
+11 "Adil Rami" 0.0 0.0 ellipse
+12 "Sebastián Carlos Cristóforo Pepe/Yevhen Konoplyanka" 0.0 0.0 ellipse
+13 "Vicente Iborra De La Fuente/Juan Muñoz Muñoz" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 6 3
+1 9 1
+1 3 3
+1 8 1
+1 10 3
+1 5 2
+1 12 1
+1 13 1
+3 4 3
+3 8 3
+3 5 5
+3 1 2
+3 11 1
+3 10 1
+3 9 2
+3 12 2
+4 5 5
+4 6 5
+4 10 3
+4 8 1
+4 11 3
+4 9 2
+4 3 1
+4 1 3
+4 12 1
+4 13 2
+5 3 7
+5 1 3
+5 6 1
+5 4 3
+5 8 1
+5 12 4
+5 13 1
+6 3 2
+6 1 3
+6 2 1
+6 8 1
+6 13 1
+7 3 2
+7 10 2
+7 4 1
+7 13 4
+7 12 1
+8 5 4
+8 7 3
+8 11 1
+8 3 2
+8 12 1
+8 13 1
+10 9 2
+10 4 4
+10 1 3
+10 3 1
+10 6 1
+10 12 1
+10 13 1
+11 3 1
+11 10 2
+11 5 1
+11 12 2
+12 3 1
+12 11 1
+12 4 1
+12 8 3
+12 13 1
+12 5 3
+12 1 1
+13 1 3
+13 8 2
+13 4 3
+13 3 3
+13 6 1
+13 10 1
+13 5 1

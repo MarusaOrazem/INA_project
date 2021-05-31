@@ -1,0 +1,75 @@
+*vertices 13
+1 "Carlos Bellvís LLorens" 0.0 0.0 ellipse
+2 "Alejandro Alfaro Ligero" 0.0 0.0 ellipse
+3 "Mikel Alonso Olano" 0.0 0.0 ellipse
+4 "Ricardo León Brito" 0.0 0.0 ellipse
+5 "Pablo Sicilia Roig" 0.0 0.0 ellipse
+6 "Juan Francisco Martínez Modesto" 0.0 0.0 ellipse
+7 "Sergio Aragoneses Almeida" 0.0 0.0 ellipse
+8 "Ezequiel Luna" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Ayoze García Pérez/Telmário de Araújo Sacramento" 0.0 0.0 ellipse
+12 "Daniel Armand N"Gom Komé/Ángel Luis Rodríguez Díaz" 0.0 0.0 ellipse
+13 "Juan Luis Hens Lorite/Jose Antonio Culebras Arenas" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 1
+1 4 3
+1 5 2
+1 11 3
+2 3 2
+2 4 2
+2 1 1
+2 6 1
+2 11 1
+2 12 2
+3 6 2
+3 4 3
+3 2 2
+3 8 2
+3 12 1
+3 11 4
+4 2 5
+4 6 2
+4 8 1
+4 1 2
+4 3 3
+4 11 1
+4 12 1
+5 3 1
+5 4 2
+5 6 1
+5 1 1
+5 13 1
+6 9 2
+6 3 2
+6 10 1
+6 4 1
+6 11 3
+6 12 1
+7 6 1
+7 1 1
+7 2 1
+7 11 4
+8 6 2
+8 3 3
+8 2 1
+8 4 2
+8 12 3
+8 11 1
+11 6 1
+11 1 2
+11 9 1
+11 4 1
+11 3 2
+11 12 1
+12 3 5
+12 2 1
+12 8 5
+12 6 2
+12 9 1
+12 11 1
+12 13 1
+13 7 2
+13 12 2

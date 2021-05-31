@@ -1,0 +1,96 @@
+*vertices 13
+1 "Ellyes Skhiri" 0.0 0.0 ellipse
+2 "Rami Bedoui" 0.0 0.0 ellipse
+3 "Hamdi Nagguez" 0.0 0.0 ellipse
+4 "Yassine Meriah" 0.0 0.0 ellipse
+5 "Oussama Haddadi" 0.0 0.0 ellipse
+6 "Fakhreddine Ben Youssef" 0.0 0.0 ellipse
+7 "Ghilane Chalali" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Aymen Mathlouthi" 0.0 0.0 ellipse
+11 "Naïm Sliti/Ahmed Khalil" 0.0 0.0 ellipse
+12 "Wahbi Khazri/Bassem Srarfi" 0.0 0.0 ellipse
+13 "Ferjani Sassi/Anice Badri" 0.0 0.0 ellipse
+*arcs
+1 2 6
+1 3 5
+1 7 5
+1 4 5
+1 5 1
+1 11 3
+1 12 4
+1 13 1
+2 3 5
+2 4 13
+2 1 9
+2 6 2
+2 10 6
+2 7 3
+3 4 3
+3 6 4
+3 2 4
+3 9 1
+3 7 2
+3 1 1
+3 10 1
+3 12 4
+4 5 5
+4 2 5
+4 3 2
+4 7 5
+4 6 2
+4 1 4
+4 11 1
+4 12 2
+4 13 8
+5 4 5
+5 1 1
+5 2 1
+5 6 1
+5 11 2
+5 12 1
+5 13 2
+6 2 1
+6 3 3
+6 7 8
+6 8 2
+6 1 2
+6 13 2
+7 3 3
+7 9 1
+7 5 2
+7 1 2
+7 2 3
+7 6 6
+7 10 2
+7 4 2
+7 11 2
+7 12 3
+7 13 1
+10 4 4
+10 2 2
+10 1 2
+10 6 1
+10 11 2
+11 2 1
+11 7 1
+11 12 1
+11 13 1
+11 4 1
+11 6 1
+12 1 2
+12 2 4
+12 6 2
+12 8 2
+12 7 1
+12 11 1
+12 13 1
+13 1 3
+13 6 1
+13 4 4
+13 3 1
+13 7 2
+13 5 3
+13 11 1
+13 12 1

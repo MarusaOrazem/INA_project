@@ -1,0 +1,56 @@
+*vertices 13
+1 "David Villa Sánchez" 0.0 0.0 ellipse
+2 "David Josué Jiménez Silva" 0.0 0.0 ellipse
+3 "Raúl Albiol Tortajada" 0.0 0.0 ellipse
+4 "Pablo Hernández Domínguez" 0.0 0.0 ellipse
+5 "Carlos Marchena López" 0.0 0.0 ellipse
+6 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+7 "César Sánchez Domínguez" 0.0 0.0 ellipse
+8 "Hedwiges Maduro" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Rubén Baraja Vegas/Miguel Alfonso Herrero Javaloyas" 0.0 0.0 ellipse
+12 "Luís Miguel Brito Garcia Monteiro/Emiliano Moretti" 0.0 0.0 ellipse
+13 "Juan Manuel Mata García/Vicente Rodríguez Guillén" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 6 1
+1 9 1
+1 13 1
+2 3 2
+2 4 5
+2 1 1
+2 13 4
+4 2 2
+4 13 1
+5 1 1
+5 2 1
+5 4 1
+5 13 1
+5 12 1
+6 1 4
+6 5 1
+6 10 1
+6 11 2
+6 13 2
+7 1 1
+8 4 1
+8 13 1
+11 1 1
+11 12 1
+11 6 1
+11 2 1
+11 3 1
+12 2 1
+12 7 1
+12 4 1
+12 1 1
+12 13 2
+13 2 4
+13 4 1
+13 10 1
+13 1 2
+13 11 1
+13 5 1
+13 6 1
+13 12 1

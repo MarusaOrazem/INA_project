@@ -1,0 +1,25 @@
+*vertices 11
+1 "Pedro Manuel Munitis Álvarez" 0.0 0.0 ellipse
+2 "Nikola Žigić" 0.0 0.0 ellipse
+3 OFF_goal 0.0 0.0 ellipse
+4 "Juan Valera Espín" 0.0 0.0 ellipse
+5 "Ivan Marcano Sierra" 0.0 0.0 ellipse
+6 "Mohamed Gasana Tchité" 0.0 0.0 ellipse
+7 "Gonzalo Colsa Albendea" 0.0 0.0 ellipse
+8 "Mehdi Lacen" 0.0 0.0 ellipse
+9 "Antonio Rodríguez Martínez" 0.0 0.0 ellipse
+10 "César González Navas/Peter Luccin" 0.0 0.0 ellipse
+11 "László Sepsi" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 8 1
+2 3 1
+2 10 1
+4 2 1
+5 6 1
+5 7 1
+7 1 1
+9 6 1
+10 1 1
+10 5 1
+11 10 1

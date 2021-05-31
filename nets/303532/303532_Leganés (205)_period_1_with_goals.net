@@ -1,0 +1,82 @@
+*vertices 13
+1 "Unai Bustinza Martínez" 0.0 0.0 ellipse
+2 "Rodrigo Tarín Higón" 0.0 0.0 ellipse
+3 "Aitor Ruibal García" 0.0 0.0 ellipse
+4 "Rubén Salvador Pérez Del Mármol" 0.0 0.0 ellipse
+5 "Chidozie Collins Awaziem" 0.0 0.0 ellipse
+6 "Iván Cuéllar Sacristán" 0.0 0.0 ellipse
+7 "Javier Eraso Goñi/Ibrahim Amadou" 0.0 0.0 ellipse
+8 "Jonathan Cristian Silva/Kévin Manuel Rodrigues" 0.0 0.0 ellipse
+9 "Miguel Ángel Guerrero Martín/Guido Marcelo Carrillo" 0.0 0.0 ellipse
+10 "José Luis García del Pozo/Bryan Gil Salvatierra" 0.0 0.0 ellipse
+11 OFF_goal 0.0 0.0 ellipse
+12 "Roque Mesa Quevedo/Roger Claver Assalé Djapone" 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 1
+1 5 1
+1 8 1
+1 12 2
+2 3 1
+2 4 2
+2 1 1
+2 6 1
+2 10 1
+2 7 1
+3 5 2
+3 7 2
+3 10 1
+3 12 2
+3 9 4
+4 2 4
+4 1 1
+4 3 3
+4 5 1
+4 8 3
+4 9 1
+4 10 2
+4 12 1
+4 7 1
+5 2 1
+5 3 2
+5 4 2
+5 9 1
+5 10 1
+5 12 3
+6 8 1
+6 9 1
+7 4 3
+7 3 3
+7 5 1
+7 8 1
+7 12 1
+7 9 2
+8 4 4
+8 1 1
+8 7 1
+8 10 2
+8 12 1
+8 9 2
+9 4 1
+9 7 2
+9 10 1
+9 3 3
+9 11 1
+9 5 1
+9 12 2
+10 4 2
+10 3 2
+10 2 1
+10 11 2
+10 7 1
+10 8 1
+10 9 2
+10 12 1
+12 6 1
+12 13 1
+12 4 2
+12 3 2
+12 10 3
+12 8 1
+12 9 4

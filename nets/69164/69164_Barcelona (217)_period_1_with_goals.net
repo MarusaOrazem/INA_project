@@ -1,0 +1,106 @@
+*vertices 13
+1 "Ronaldo de Assis Moreira" 0.0 0.0 ellipse
+2 "Carles Puyol i Saforcada" 0.0 0.0 ellipse
+3 "José Edmílson Gomes de Moraes" 0.0 0.0 ellipse
+4 "Xavier Hernández Creus" 0.0 0.0 ellipse
+5 "Oleguer Presas Renom" 0.0 0.0 ellipse
+6 "Víctor Valdés Arribas" 0.0 0.0 ellipse
+7 "Sylvio Mendes Campos Junior" 0.0 0.0 ellipse
+8 "Mark van Bommel" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 OFF_goal 0.0 0.0 ellipse
+11 "Ludovic Giuly/Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+12 "Samuel Eto"o Fils/Henrik Larsson" 0.0 0.0 ellipse
+13 "Rafael Márquez Álvarez/Andrés Iniesta Luján" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 1
+1 7 4
+1 4 2
+1 9 3
+1 8 3
+1 3 2
+1 11 3
+1 13 3
+1 12 2
+2 3 9
+2 4 9
+2 1 2
+2 7 3
+2 6 1
+2 8 1
+2 12 3
+2 13 2
+3 2 11
+3 5 4
+3 4 10
+3 10 1
+3 8 2
+3 9 1
+3 7 1
+3 13 1
+4 1 9
+4 3 9
+4 2 5
+4 5 4
+4 8 4
+4 7 4
+4 6 1
+4 11 2
+4 12 1
+4 13 4
+5 3 8
+5 4 4
+5 8 5
+5 6 2
+5 9 1
+5 11 2
+5 12 1
+5 13 3
+6 1 1
+6 4 2
+6 7 2
+6 2 1
+7 4 4
+7 1 6
+7 2 4
+7 8 1
+7 12 1
+7 13 3
+7 11 2
+8 9 1
+8 10 2
+8 5 4
+8 4 4
+8 1 3
+8 7 1
+8 6 1
+8 3 1
+8 11 2
+8 13 2
+8 12 1
+11 2 1
+11 8 2
+11 10 1
+11 5 1
+11 1 4
+11 9 1
+11 12 1
+12 4 1
+12 2 1
+12 10 1
+12 8 1
+12 5 1
+12 11 1
+12 13 1
+12 9 2
+13 1 5
+13 9 2
+13 8 2
+13 5 1
+13 4 4
+13 3 2
+13 2 1
+13 7 1
+13 12 1
+13 11 1

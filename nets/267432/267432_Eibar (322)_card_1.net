@@ -1,0 +1,41 @@
+*vertices 10
+1 "David Juncà Reñé" 0.0 0.0 ellipse
+2 "Florian Lejeune" 0.0 0.0 ellipse
+3 "Daniel García Carrillo" 0.0 0.0 ellipse
+4 "Yoel Rodríguez Oterino" 0.0 0.0 ellipse
+5 "Enrique García Martínez" 0.0 0.0 ellipse
+6 "Pedro León Sánchez Gil" 0.0 0.0 ellipse
+7 "Anaitz Arbilla Zabala" 0.0 0.0 ellipse
+8 "Takashi Inui" 0.0 0.0 ellipse
+9 "Gonzalo Escalante/Christian Rivera Hernández" 0.0 0.0 ellipse
+10 "Sergio Enrich Ametller/Alejandro Gálvez Jimena" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 8 1
+1 7 1
+1 10 1
+2 1 1
+2 7 1
+2 9 2
+3 4 1
+3 8 1
+3 7 1
+3 9 1
+4 5 2
+5 1 2
+5 9 1
+5 10 1
+6 7 1
+6 5 1
+7 8 1
+7 3 1
+7 5 1
+7 9 3
+8 1 1
+9 6 1
+9 3 1
+9 7 2
+9 1 1
+9 10 1
+10 1 1
+10 9 1

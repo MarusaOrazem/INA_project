@@ -1,0 +1,91 @@
+*vertices 13
+1 "Kevin Gameiro" 0.0 0.0 ellipse
+2 "Antoine Griezmann" 0.0 0.0 ellipse
+3 "Gabriel Fernández Arenas" 0.0 0.0 ellipse
+4 "Filipe Luis Kasmirski" 0.0 0.0 ellipse
+5 "Yannick Ferreira Carrasco" 0.0 0.0 ellipse
+6 "Jorge Resurrección Merodio" 0.0 0.0 ellipse
+7 OFF_goal 0.0 0.0 ellipse
+8 "Diego Roberto Godín Leal" 0.0 0.0 ellipse
+9 "Saúl Ñíguez Esclapez" 0.0 0.0 ellipse
+10 "Stefan Savić" 0.0 0.0 ellipse
+11 "Šime Vrsaljko" 0.0 0.0 ellipse
+12 ON_goal 0.0 0.0 ellipse
+13 "Jan Oblak" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 2
+1 3 2
+1 9 2
+1 7 1
+2 3 1
+2 1 5
+2 9 2
+2 4 2
+2 7 1
+2 12 2
+2 6 1
+2 5 3
+3 4 2
+3 2 6
+3 5 3
+3 6 7
+3 1 3
+3 10 2
+3 12 1
+3 11 3
+3 8 3
+3 9 3
+3 7 1
+4 5 9
+4 9 2
+4 6 4
+4 2 2
+4 8 2
+4 3 1
+5 3 6
+5 7 2
+5 9 2
+5 4 6
+5 6 2
+5 2 5
+5 10 1
+5 1 1
+6 3 8
+6 11 2
+6 1 2
+6 9 2
+6 4 5
+6 5 4
+6 2 3
+8 7 2
+8 5 2
+8 4 2
+8 10 1
+8 9 1
+8 3 2
+8 13 1
+9 1 2
+9 4 4
+9 6 1
+9 8 1
+9 5 2
+9 7 2
+9 3 2
+9 11 1
+9 2 2
+10 11 3
+10 3 1
+10 4 1
+10 6 3
+10 9 1
+10 5 2
+10 8 1
+11 6 4
+11 3 2
+11 2 1
+11 10 2
+11 8 1
+11 9 1
+13 9 1
+13 3 1

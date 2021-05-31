@@ -1,0 +1,83 @@
+*vertices 13
+1 "David García Zubiría" 0.0 0.0 ellipse
+2 "Raúl Rodríguez Navas" 0.0 0.0 ellipse
+3 "Aridane Hernández Umpiérrez" 0.0 0.0 ellipse
+4 "Sergio Herrera Pirón" 0.0 0.0 ellipse
+5 "Pervis Josué Estupiñán Tenorio" 0.0 0.0 ellipse
+6 "Iñigo Pérez Soto" 0.0 0.0 ellipse
+7 "Jon Moncayola Tollar" 0.0 0.0 ellipse
+8 "Ignacio Vidal Miralles" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Darko Brašanac/Oier Sanjurjo Mate" 0.0 0.0 ellipse
+12 "Adrián López Álvarez/Enrique Barja Afonso" 0.0 0.0 ellipse
+13 "José Manuel Arnáiz Díaz/Enric Gallego Puigsech" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 2
+1 4 1
+1 7 1
+1 13 1
+2 3 1
+2 4 2
+2 1 1
+2 7 3
+2 8 2
+2 5 2
+2 12 1
+3 4 1
+3 6 1
+3 5 1
+3 8 1
+3 12 2
+3 13 1
+4 5 2
+4 1 2
+4 6 2
+4 12 2
+4 13 1
+5 2 2
+5 1 1
+5 6 6
+5 8 1
+5 7 1
+5 9 1
+5 12 7
+5 13 3
+5 11 1
+6 5 4
+6 7 2
+6 9 1
+6 1 1
+6 8 2
+6 11 1
+6 12 1
+6 13 2
+7 5 2
+7 6 3
+7 2 1
+7 9 1
+7 10 2
+7 11 1
+7 12 1
+7 13 2
+8 3 1
+8 11 1
+8 12 1
+8 13 1
+11 7 2
+11 5 1
+11 12 3
+11 13 1
+12 7 2
+12 5 6
+12 8 2
+12 6 1
+12 11 1
+13 1 1
+13 10 2
+13 5 3
+13 8 1
+13 3 1
+13 12 1
+13 11 1

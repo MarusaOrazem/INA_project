@@ -1,0 +1,74 @@
+*vertices 13
+1 "Kevin Vázquez Comesaña" 0.0 0.0 ellipse
+2 "Okay Yokuşlu" 0.0 0.0 ellipse
+3 "Brais Méndez Portela" 0.0 0.0 ellipse
+4 "Iago Aspas Juncal" 0.0 0.0 ellipse
+5 "Fyodor Smolov" 0.0 0.0 ellipse
+6 OFF_goal 0.0 0.0 ellipse
+7 "Denis Suárez Fernández" 0.0 0.0 ellipse
+8 "Jorge Sáenz de Miera Colmeiro" 0.0 0.0 ellipse
+9 "Rubén Blanco Veiga" 0.0 0.0 ellipse
+10 "Joseph Aidoo" 0.0 0.0 ellipse
+11 "Néstor Alejandro Araújo Razo" 0.0 0.0 ellipse
+12 "Jacobo González Rodrigañez" 0.0 0.0 ellipse
+13 ON_goal 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 4
+1 5 1
+1 10 4
+1 7 1
+1 4 2
+2 10 2
+2 3 3
+2 7 3
+2 1 1
+2 4 1
+2 12 1
+3 4 5
+3 7 2
+3 1 4
+3 13 1
+3 12 1
+4 5 2
+4 8 1
+4 7 1
+4 3 1
+4 13 1
+4 2 1
+4 6 1
+4 10 1
+4 1 1
+5 6 2
+5 4 2
+5 7 1
+5 12 1
+7 4 1
+7 12 2
+7 11 1
+7 3 3
+7 5 2
+7 2 1
+8 4 1
+8 11 1
+8 2 1
+8 3 1
+9 10 1
+9 3 3
+9 11 2
+10 11 2
+10 5 1
+10 1 4
+10 2 2
+10 7 1
+10 8 1
+10 4 1
+11 10 2
+11 9 3
+11 12 1
+11 8 1
+12 7 3
+12 9 1
+12 8 2
+12 4 1
+12 2 1

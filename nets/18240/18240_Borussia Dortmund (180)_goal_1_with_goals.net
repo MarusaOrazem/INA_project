@@ -1,0 +1,75 @@
+*vertices 13
+1 "Robert Lewandowski" 0.0 0.0 ellipse
+2 "Marco Reus" 0.0 0.0 ellipse
+3 "Łukasz Piszczek" 0.0 0.0 ellipse
+4 "Marcel Schmelzer" 0.0 0.0 ellipse
+5 "Mats Hummels" 0.0 0.0 ellipse
+6 "İlkay Gündoğan" 0.0 0.0 ellipse
+7 "Neven Subotić" 0.0 0.0 ellipse
+8 "Kevin Großkreutz" 0.0 0.0 ellipse
+9 OFF_goal 0.0 0.0 ellipse
+10 "Roman Weidenfeller" 0.0 0.0 ellipse
+11 ON_goal 0.0 0.0 ellipse
+12 "Jakub Błaszczykowski/Julian Schieber" 0.0 0.0 ellipse
+13 "Sven Bender/Nuri Şahin" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 3 1
+1 5 1
+1 12 2
+1 13 1
+2 3 1
+2 7 1
+2 6 1
+2 1 5
+2 12 1
+3 9 1
+3 6 1
+3 7 1
+3 12 2
+3 13 1
+4 5 1
+4 2 1
+4 6 1
+4 12 1
+4 13 1
+5 8 3
+5 7 2
+5 9 1
+5 6 2
+5 13 1
+5 12 2
+6 7 4
+6 4 3
+6 3 1
+6 11 1
+6 5 1
+6 12 1
+6 13 3
+7 2 1
+7 5 2
+7 6 2
+7 10 3
+7 3 1
+7 12 1
+8 9 1
+8 2 1
+8 4 1
+10 5 3
+10 1 2
+10 7 1
+10 6 2
+10 13 2
+12 1 3
+12 5 1
+12 7 1
+12 9 1
+12 4 1
+12 11 1
+13 7 1
+13 3 1
+13 6 2
+13 10 1
+13 4 1
+13 5 1
+13 1 1

@@ -1,0 +1,78 @@
+*vertices 13
+1 "Diego Roberto Godín Leal" 0.0 0.0 ellipse
+2 "Arda Turan" 0.0 0.0 ellipse
+3 "Tiago Cardoso Mendes" 0.0 0.0 ellipse
+4 "Mario Mandžukić" 0.0 0.0 ellipse
+5 "Jorge Resurrección Merodio" 0.0 0.0 ellipse
+6 OFF_goal 0.0 0.0 ellipse
+7 "Miguel Ángel Moyà Rumbo" 0.0 0.0 ellipse
+8 "Juan Francisco Torres Belén" 0.0 0.0 ellipse
+9 ON_goal 0.0 0.0 ellipse
+10 "José María Giménez de Vargas" 0.0 0.0 ellipse
+11 "Gabriel Fernández Arenas/Fernando José Torres Sanz" 0.0 0.0 ellipse
+12 "Antoine Griezmann/Raúl García Escudero" 0.0 0.0 ellipse
+13 "Jesús Gámez Duarte/Guilherme Magdalena Siqueira" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 1
+1 7 1
+1 12 1
+2 3 2
+2 8 2
+2 10 1
+2 11 1
+2 13 1
+3 4 1
+3 8 1
+3 5 3
+3 1 1
+3 2 1
+3 9 1
+3 11 1
+3 12 3
+3 13 1
+4 3 1
+4 9 1
+4 5 1
+4 8 1
+4 12 1
+4 13 2
+4 11 1
+5 1 1
+5 4 1
+5 8 2
+5 3 3
+5 2 1
+5 10 3
+5 12 1
+5 13 1
+5 11 1
+7 4 2
+7 10 1
+7 12 2
+8 4 4
+8 2 6
+8 5 1
+8 3 1
+8 11 1
+8 12 1
+10 3 2
+10 12 1
+11 10 2
+11 5 1
+11 8 1
+11 3 2
+11 12 1
+11 4 1
+11 13 1
+12 8 3
+12 2 2
+12 5 1
+12 11 2
+12 4 1
+13 5 3
+13 3 1
+13 2 1
+13 12 3
+13 11 1
+13 1 1

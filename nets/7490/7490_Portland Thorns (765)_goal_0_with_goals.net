@@ -1,0 +1,12 @@
+*vertices 5
+1 "Hayley Raso" 0.0 0.0 ellipse
+2 "Katherine Reynolds" 0.0 0.0 ellipse
+3 "Christine Sinclair" 0.0 0.0 ellipse
+4 "Ana-Maria Crnogorcevic" 0.0 0.0 ellipse
+5 "Meghan Klingenberg" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+3 4 1
+3 1 1
+5 4 1

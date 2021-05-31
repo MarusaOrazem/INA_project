@@ -1,0 +1,46 @@
+*vertices 11
+1 "Anderson Silva de França" 0.0 0.0 ellipse
+2 "Richard Javier Morales Aguirre" 0.0 0.0 ellipse
+3 "Juan Antonio Rodríguez Villamuela" 0.0 0.0 ellipse
+4 "Vicente Valcarce Cano" 0.0 0.0 ellipse
+5 "Edgar Patricio De Carvalho Pacheco" 0.0 0.0 ellipse
+6 "Alexis Ruano Delgado" 0.0 0.0 ellipse
+7 "César González Navas" 0.0 0.0 ellipse
+8 "Gerardo García León" 0.0 0.0 ellipse
+9 "Fernando Sanz Durán" 0.0 0.0 ellipse
+10 "Francesc Arnau" 0.0 0.0 ellipse
+11 "Ignacio Pérez Santamaría/Antonio Hidalgo Morilla" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+1 5 1
+2 3 1
+2 5 1
+3 4 2
+3 2 1
+3 5 1
+3 8 1
+3 6 1
+3 1 2
+4 5 3
+4 2 2
+4 8 4
+4 9 1
+5 1 1
+5 11 1
+6 3 2
+6 7 1
+7 3 1
+7 5 1
+7 4 1
+7 8 1
+8 2 1
+8 4 3
+8 9 1
+8 3 2
+9 10 1
+9 7 1
+9 4 1
+10 3 1
+11 3 1
+11 4 1

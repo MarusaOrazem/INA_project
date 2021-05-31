@@ -1,0 +1,29 @@
+*vertices 10
+1 "Guilherme Magdalena Siqueira" 0.0 0.0 ellipse
+2 ON_goal 0.0 0.0 ellipse
+3 "David Cortés Caballero" 0.0 0.0 ellipse
+4 "Abel Gómez Moreno" 0.0 0.0 ellipse
+5 "Ikechukwu Uche" 0.0 0.0 ellipse
+6 "Carlos Jorge Neto Martins" 0.0 0.0 ellipse
+7 "Borja Gómez Pérez" 0.0 0.0 ellipse
+8 "Diego Mainz García" 0.0 0.0 ellipse
+9 "Alexandre Geijo Pazos" 0.0 0.0 ellipse
+10 "Júlio César Jacobi" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 4 1
+3 4 1
+3 6 1
+4 5 1
+4 6 1
+4 7 1
+4 8 2
+5 4 1
+6 4 2
+6 9 1
+7 1 1
+8 4 1
+8 6 1
+8 9 1
+9 6 1
+10 8 1
