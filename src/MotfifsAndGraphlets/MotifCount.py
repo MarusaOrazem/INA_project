@@ -35,13 +35,13 @@ def parameter_parser():
 
     parser.add_argument('--output',
                         nargs='?',
-                        default='./output/cora_orbital_features_0.csv',
+                        default='./output/arsenal_3749552_orbital_features_1.csv',
                         help='Feature output path.')
 
     parser.add_argument('--graphlet-size',
                         type=int,
                         default=3,
-                        help='Maximal graphlet size. Default is 4.')
+                        help='Maximal graphlet size. Default is 3.')
 
     return parser.parse_args()
 
@@ -117,6 +117,7 @@ class MotifCounterMachine(object):
             graphs = self.interesting_graphs[size]
             for nodes in tqdm(node_lists):
                 sub_gr = self.graph.subgraph(nodes)
+
                 for index, graph in enumerate(graphs):
                     if nx.is_isomorphic(sub_gr, graph):
                         for node in sub_gr.nodes():
@@ -167,7 +168,7 @@ if __name__ == "__main__":
 
     args = parameter_parser()
     tab_printer(args)
-    graph = nx.DiGraph(nx.read_pajek(str(nets) + '\\nets\\7430\\7430_period_0.net'))
+    graph = nx.DiGraph(nx.read_pajek(str(nets) + '\\nets\\3749552\\3749552_Arsenal (1)_period_1.net'))
     model = MotifCounterMachine(graph, args)
     model.extract_features()
 
