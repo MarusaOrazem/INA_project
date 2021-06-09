@@ -1,0 +1,7 @@
+ID: 303610   
+Competition: La Liga    
+Country: Spain    
+Season: 2019/2020    
+Gender: male     
+Home team: Barcelona (217), goals: 1   
+Away team: Granada (1049), goals: 0    

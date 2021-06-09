@@ -1,0 +1,77 @@
+*vertices 11
+1 "Jordan Brian Henderson" 0.0 0.0 ellipse
+2 "Joël Andre Job Matip" 0.0 0.0 ellipse
+3 "Virgil van Dijk" 0.0 0.0 ellipse
+4 "Georginio Wijnaldum" 0.0 0.0 ellipse
+5 "Sadio Mané" 0.0 0.0 ellipse
+6 "Andrew Robertson" 0.0 0.0 ellipse
+7 "Roberto Firmino Barbosa de Oliveira" 0.0 0.0 ellipse
+8 "Fábio Henrique Tavares" 0.0 0.0 ellipse
+9 "Mohamed Salah" 0.0 0.0 ellipse
+10 "Trent Alexander-Arnold" 0.0 0.0 ellipse
+11 "Alisson Ramsés Becker" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 5 3
+1 10 2
+1 6 2
+1 9 2
+1 8 1
+1 3 1
+2 7 1
+2 3 5
+2 5 1
+2 8 1
+2 10 2
+2 6 1
+2 11 1
+3 4 1
+3 11 4
+3 5 1
+3 6 3
+3 2 4
+3 1 1
+3 9 1
+3 10 1
+4 1 1
+4 5 1
+4 6 2
+4 8 1
+4 10 2
+4 9 1
+5 6 3
+5 1 1
+5 9 2
+5 4 2
+5 7 1
+6 5 3
+6 11 2
+6 7 4
+6 4 3
+6 3 3
+6 1 1
+7 9 2
+7 5 1
+7 6 1
+7 1 1
+8 5 1
+8 11 1
+8 2 1
+8 1 2
+8 10 1
+8 6 1
+9 7 2
+9 10 1
+9 1 1
+9 5 1
+10 11 1
+10 1 3
+10 9 3
+10 5 1
+10 4 1
+10 2 1
+11 3 6
+11 8 2
+11 2 3
+11 6 2
+11 5 1

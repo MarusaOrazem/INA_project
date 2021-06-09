@@ -1,0 +1,7 @@
+ID: 7584   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Belgium (782), goals: 3   
+Away team: Japan (778), goals: 2    
