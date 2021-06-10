@@ -5,3 +5,13 @@ Season: 2011/2012
 Gender: male     
 Home team: Sporting Gijón (1041), goals: 0   
 Away team: Barcelona (217), goals: 1    
+Goal time: (11, 8)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1041: 1.7333333333333334    
+Before goal: Time in possession for away team 217: 8.483333333333333    
+After goal: Time in possession for home team 1041: 24.583333333333332    
+After goal: Time in possession for away team 217: 55.7    
+Before card: Time in possession for home team 1041: 26.316666666666666    
+Before card: Time in possession for away team 217: 65.1    
+After card: Time in possession for home team 1041: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

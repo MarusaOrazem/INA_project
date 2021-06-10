@@ -5,3 +5,13 @@ Season: 2016/2017
 Gender: male     
 Home team: Barcelona (217), goals: 1   
 Away team: Deportivo Alavés (206), goals: 2    
+Goal time: (38, 20)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 26.05    
+Before goal: Time in possession for away team 206: 10.766666666666667    
+After goal: Time in possession for home team 217: 38.63333333333333    
+After goal: Time in possession for away team 206: 15.633333333333333    
+Before card: Time in possession for home team 217: 64.68333333333334    
+Before card: Time in possession for away team 206: 27.916666666666668    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 206: -0.016666666666666666    

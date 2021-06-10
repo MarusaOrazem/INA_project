@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Reading WFC (974), goals: 3   
 Away team: Bristol City WFC (973), goals: 0    
+Goal time: (31, 1)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 974: 19.533333333333335    
+Before goal: Time in possession for away team 973: 10.566666666666666    
+After goal: Time in possession for home team 974: 34.56666666666667    
+After goal: Time in possession for away team 973: 29.583333333333332    
+Before card: Time in possession for home team 974: 55.016666666666666    
+Before card: Time in possession for away team 973: 40.15    
+After card: Time in possession for home team 974: -0.016666666666666666    
+After card: Time in possession for away team 973: -0.016666666666666666    

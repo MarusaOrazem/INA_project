@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: China PR Women's (1207), goals: 0   
 Away team: Spain Women's (863), goals: 0    
+Goal time: (-1, -1)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1207: 27.583333333333332    
+Before goal: Time in possession for away team 863: 64.16666666666667    
+After goal: Time in possession for home team 1207: -0.016666666666666666    
+After goal: Time in possession for away team 863: -0.016666666666666666    
+Before card: Time in possession for home team 1207: 27.583333333333332    
+Before card: Time in possession for away team 863: 64.16666666666667    
+After card: Time in possession for home team 1207: -0.016666666666666666    
+After card: Time in possession for away team 863: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2003/2004
 Gender: male     
 Home team: Arsenal (1), goals: 2   
 Away team: Chelsea (33), goals: 1    
+Goal time: (4, 16)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1: 1.0166666666666666    
+Before goal: Time in possession for away team 33: 2.3333333333333335    
+After goal: Time in possession for home team 1: 46.21666666666667    
+After goal: Time in possession for away team 33: 43.13333333333333    
+Before card: Time in possession for home team 1: 48.15    
+Before card: Time in possession for away team 33: 45.46666666666667    
+After card: Time in possession for home team 1: -0.016666666666666666    
+After card: Time in possession for away team 33: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2011/2012
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Espanyol (214), goals: 0    
+Goal time: (11, 4)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 7.483333333333333    
+Before goal: Time in possession for away team 214: 2.4    
+After goal: Time in possession for home team 217: 46.6    
+After goal: Time in possession for away team 214: 34.9    
+Before card: Time in possession for home team 217: 55.266666666666666    
+Before card: Time in possession for away team 214: 37.3    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 214: -0.016666666666666666    

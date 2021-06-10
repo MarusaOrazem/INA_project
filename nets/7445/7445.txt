@@ -5,3 +5,13 @@ Season: 2018
 Gender: female     
 Home team: Utah Royals (767), goals: 2   
 Away team: Washington Spirit (759), goals: 0    
+Goal time: (6, 9)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 767: 4.283333333333333    
+Before goal: Time in possession for away team 759: 1.7333333333333334    
+After goal: Time in possession for home team 767: 48.6    
+After goal: Time in possession for away team 759: 41.36666666666667    
+Before card: Time in possession for home team 767: 53.016666666666666    
+Before card: Time in possession for away team 759: 43.1    
+After card: Time in possession for home team 767: -0.016666666666666666    
+After card: Time in possession for away team 759: -0.016666666666666666    

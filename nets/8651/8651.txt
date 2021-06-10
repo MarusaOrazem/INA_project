@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Sweden (790), goals: 0   
 Away team: England (768), goals: 2    
+Goal time: (29, 47)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 790: 15.5    
+Before goal: Time in possession for away team 768: 12.35    
+After goal: Time in possession for home team 790: 27.983333333333334    
+After goal: Time in possession for away team 768: 35.93333333333333    
+Before card: Time in possession for home team 790: 43.483333333333334    
+Before card: Time in possession for away team 768: 50.21666666666667    
+After card: Time in possession for home team 790: -0.016666666666666666    
+After card: Time in possession for away team 768: -0.016666666666666666    

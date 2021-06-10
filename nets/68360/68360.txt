@@ -5,3 +5,13 @@ Season: 2007/2008
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Levante (221), goals: 1    
+Goal time: (13, 43)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 9.95    
+Before goal: Time in possession for away team 221: 3.316666666666667    
+After goal: Time in possession for home team 217: 53.25    
+After goal: Time in possession for away team 221: 23.45    
+Before card: Time in possession for home team 217: 63.65    
+Before card: Time in possession for away team 221: 26.766666666666666    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 221: -0.016666666666666666    

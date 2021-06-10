@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Brazil (781), goals: 1   
 Away team: Switzerland (773), goals: 1    
+Goal time: (19, 5)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 781: 12.033333333333333    
+Before goal: Time in possession for away team 773: 6.55    
+After goal: Time in possession for home team 781: 45.2    
+After goal: Time in possession for away team 773: 30.75    
+Before card: Time in possession for home team 781: 57.733333333333334    
+Before card: Time in possession for away team 773: 37.3    
+After card: Time in possession for home team 781: -0.016666666666666666    
+After card: Time in possession for away team 773: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2007/2008
 Gender: male     
 Home team: Atlético Madrid (212), goals: 4   
 Away team: Barcelona (217), goals: 2    
+Goal time: (29, 4)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 212: 7.616666666666666    
+Before goal: Time in possession for away team 217: 20.716666666666665    
+After goal: Time in possession for home team 212: 28.75    
+After goal: Time in possession for away team 217: 34.7    
+Before card: Time in possession for home team 212: 36.36666666666667    
+Before card: Time in possession for away team 217: 56.15    
+After card: Time in possession for home team 212: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

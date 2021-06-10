@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Manchester City WFC (746), goals: 3   
 Away team: Birmingham City WFC (969), goals: 0    
+Goal time: (26, 1)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 746: 15.566666666666666    
+Before goal: Time in possession for away team 969: 9.633333333333333    
+After goal: Time in possession for home team 746: 37.55    
+After goal: Time in possession for away team 969: 30.016666666666666    
+Before card: Time in possession for home team 746: 53.93333333333333    
+Before card: Time in possession for away team 969: 39.65    
+After card: Time in possession for home team 746: -0.016666666666666666    
+After card: Time in possession for away team 969: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2014/2015
 Gender: male     
 Home team: Celta Vigo (209), goals: 0   
 Away team: Barcelona (217), goals: 1    
+Goal time: (72, 54)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 209: 28.4    
+Before goal: Time in possession for away team 217: 42.56666666666667    
+After goal: Time in possession for home team 209: 6.25    
+After goal: Time in possession for away team 217: 40.666666666666664    
+Before card: Time in possession for home team 209: 34.65    
+Before card: Time in possession for away team 217: 56.75    
+After card: Time in possession for home team 209: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

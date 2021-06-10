@@ -5,3 +5,13 @@ Season: 2010/2011
 Gender: male     
 Home team: Real Madrid (220), goals: 1   
 Away team: Barcelona (217), goals: 1    
+Goal time: (52, 4)   
+Card time: (50, 47)   
+Before goal: Time in possession for home team 220: 16.316666666666666    
+Before goal: Time in possession for away team 217: 33.85    
+After goal: Time in possession for home team 220: 16.45    
+After goal: Time in possession for away team 217: 32.36666666666667    
+Before card: Time in possession for home team 220: 16.316666666666666    
+Before card: Time in possession for away team 217: 33.85    
+After card: Time in possession for home team 220: 16.45    
+After card: Time in possession for away team 217: 32.36666666666667    

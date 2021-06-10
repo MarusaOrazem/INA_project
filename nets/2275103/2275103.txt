@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Liverpool WFC (966), goals: 1   
 Away team: West Ham United LFC (972), goals: 1    
+Goal time: (4, 19)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 966: 3.4    
+Before goal: Time in possession for away team 972: 0.7333333333333333    
+After goal: Time in possession for home team 966: 42.516666666666666    
+After goal: Time in possession for away team 972: 49.733333333333334    
+Before card: Time in possession for home team 966: 45.916666666666664    
+Before card: Time in possession for away team 972: 50.65    
+After card: Time in possession for home team 966: -0.016666666666666666    
+After card: Time in possession for away team 972: -0.016666666666666666    

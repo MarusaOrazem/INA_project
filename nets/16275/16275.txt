@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: male     
 Home team: Deportivo Alavés (206), goals: 0   
 Away team: Barcelona (217), goals: 2    
+Goal time: (53, 50)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 206: 11.2    
+Before goal: Time in possession for away team 217: 38.71666666666667    
+After goal: Time in possession for home team 206: 11.933333333333334    
+After goal: Time in possession for away team 217: 37.25    
+Before card: Time in possession for home team 206: 23.133333333333333    
+Before card: Time in possession for away team 217: 68.33333333333333    
+After card: Time in possession for home team 206: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

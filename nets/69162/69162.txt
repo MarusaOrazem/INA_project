@@ -5,3 +5,13 @@ Season: 2006/2007
 Gender: male     
 Home team: Barcelona (217), goals: 1   
 Away team: Real Betis (218), goals: 1    
+Goal time: (4, 53)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 1.2666666666666666    
+Before goal: Time in possession for away team 218: 0.7333333333333333    
+After goal: Time in possession for home team 217: 55.61666666666667    
+After goal: Time in possession for away team 218: 34.583333333333336    
+Before card: Time in possession for home team 217: 59.766666666666666    
+Before card: Time in possession for away team 218: 35.31666666666667    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 218: -0.016666666666666666    

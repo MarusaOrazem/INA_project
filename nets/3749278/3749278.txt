@@ -5,3 +5,13 @@ Season: 2003/2004
 Gender: male     
 Home team: Bolton Wanderers (328), goals: 1   
 Away team: Arsenal (1), goals: 1    
+Goal time: (56, 7)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 328: 30.366666666666667    
+Before goal: Time in possession for away team 1: 26.533333333333335    
+After goal: Time in possession for home team 328: 21.866666666666667    
+After goal: Time in possession for away team 1: 25.083333333333332    
+Before card: Time in possession for home team 328: 52.233333333333334    
+Before card: Time in possession for away team 1: 40.63333333333333    
+After card: Time in possession for home team 328: -0.016666666666666666    
+After card: Time in possession for away team 1: -0.016666666666666666    

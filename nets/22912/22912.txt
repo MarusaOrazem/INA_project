@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: male     
 Home team: Tottenham Hotspur (38), goals: 0   
 Away team: Liverpool (24), goals: 2    
+Goal time: (1, 48)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 38: 0.0    
+Before goal: Time in possession for away team 24: 0.0    
+After goal: Time in possession for home team 38: 55.0    
+After goal: Time in possession for away team 24: 38.65    
+Before card: Time in possession for home team 38: 55.0    
+Before card: Time in possession for away team 24: 40.45    
+After card: Time in possession for home team 38: -0.016666666666666666    
+After card: Time in possession for away team 24: -0.016666666666666666    

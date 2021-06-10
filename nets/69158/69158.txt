@@ -5,3 +5,13 @@ Season: 2007/2008
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Almería (403), goals: 0    
+Goal time: (36, 46)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 23.9    
+Before goal: Time in possession for away team 403: 12.816666666666666    
+After goal: Time in possession for home team 217: 33.06666666666667    
+After goal: Time in possession for away team 403: 25.05    
+Before card: Time in possession for home team 217: 57.016666666666666    
+Before card: Time in possession for away team 403: 37.86666666666667    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 403: -0.016666666666666666    

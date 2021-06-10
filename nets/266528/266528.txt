@@ -5,3 +5,13 @@ Season: 2016/2017
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Espanyol (214), goals: 1    
+Goal time: (17, 17)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 10.033333333333333    
+Before goal: Time in possession for away team 214: 6.716666666666667    
+After goal: Time in possession for home team 217: 56.25    
+After goal: Time in possession for away team 214: 21.833333333333332    
+Before card: Time in possession for home team 217: 66.81666666666666    
+Before card: Time in possession for away team 214: 28.55    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 214: -0.016666666666666666    

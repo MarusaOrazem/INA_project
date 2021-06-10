@@ -5,3 +5,13 @@ Season: 2016/2017
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Leganés (205), goals: 1    
+Goal time: (3, 14)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 2.183333333333333    
+Before goal: Time in possession for away team 205: 0.9333333333333333    
+After goal: Time in possession for home team 217: 63.56666666666667    
+After goal: Time in possession for away team 205: 25.733333333333334    
+Before card: Time in possession for home team 217: 65.86666666666666    
+Before card: Time in possession for away team 205: 26.666666666666668    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 205: -0.016666666666666666    

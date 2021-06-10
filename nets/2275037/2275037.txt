@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Manchester City WFC (746), goals: 2   
 Away team: Arsenal WFC (968), goals: 1    
+Goal time: (42, 56)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 746: 16.35    
+Before goal: Time in possession for away team 968: 25.4    
+After goal: Time in possession for home team 746: 14.95    
+After goal: Time in possession for away team 968: 41.233333333333334    
+Before card: Time in possession for home team 746: 32.483333333333334    
+Before card: Time in possession for away team 968: 66.63333333333334    
+After card: Time in possession for home team 746: -0.016666666666666666    
+After card: Time in possession for away team 968: -0.016666666666666666    

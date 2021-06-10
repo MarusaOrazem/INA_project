@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: male     
 Home team: Getafe (216), goals: 1   
 Away team: Barcelona (217), goals: 2    
+Goal time: (19, 50)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 216: 6.583333333333333    
+Before goal: Time in possession for away team 217: 12.916666666666666    
+After goal: Time in possession for home team 216: 18.95    
+After goal: Time in possession for away team 217: 51.416666666666664    
+Before card: Time in possession for home team 216: 25.533333333333335    
+Before card: Time in possession for away team 217: 64.66666666666667    
+After card: Time in possession for home team 216: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

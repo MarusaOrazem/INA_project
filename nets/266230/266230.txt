@@ -5,3 +5,13 @@ Season: 2014/2015
 Gender: male     
 Home team: Deportivo La Coruna (219), goals: 0   
 Away team: Barcelona (217), goals: 4    
+Goal time: (9, 58)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 219: 2.8666666666666667    
+Before goal: Time in possession for away team 217: 5.133333333333334    
+After goal: Time in possession for home team 219: 32.483333333333334    
+After goal: Time in possession for away team 217: 47.28333333333333    
+Before card: Time in possession for home team 219: 35.35    
+Before card: Time in possession for away team 217: 54.38333333333333    
+After card: Time in possession for home team 219: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: France (771), goals: 4   
 Away team: Argentina (779), goals: 3    
+Goal time: (12, 42)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 771: 4.783333333333333    
+Before goal: Time in possession for away team 779: 5.716666666666667    
+After goal: Time in possession for home team 771: 34.56666666666667    
+After goal: Time in possession for away team 779: 48.0    
+Before card: Time in possession for home team 771: 41.55    
+Before card: Time in possession for away team 779: 53.71666666666667    
+After card: Time in possession for home team 771: -0.016666666666666666    
+After card: Time in possession for away team 779: -0.016666666666666666    

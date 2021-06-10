@@ -5,3 +5,13 @@ Season: 2012/2013
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Real Zaragoza (395), goals: 1    
+Goal time: (15, 8)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 10.816666666666666    
+Before goal: Time in possession for away team 395: 3.8333333333333335    
+After goal: Time in possession for home team 217: 45.016666666666666    
+After goal: Time in possession for away team 395: 30.566666666666666    
+Before card: Time in possession for home team 217: 56.31666666666667    
+Before card: Time in possession for away team 395: 34.4    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 395: -0.016666666666666666    

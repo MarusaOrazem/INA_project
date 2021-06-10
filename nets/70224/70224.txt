@@ -5,3 +5,13 @@ Season: 2011/2012
 Gender: male     
 Home team: Rayo Vallecano (360), goals: 0   
 Away team: Barcelona (217), goals: 7    
+Goal time: (15, 30)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 360: 3.2333333333333334    
+Before goal: Time in possession for away team 217: 11.483333333333333    
+After goal: Time in possession for home team 360: 23.15    
+After goal: Time in possession for away team 217: 54.06666666666667    
+Before card: Time in possession for home team 360: 26.383333333333333    
+Before card: Time in possession for away team 217: 66.33333333333333    
+After card: Time in possession for home team 360: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

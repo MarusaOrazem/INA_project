@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: United States Women's (1214), goals: 2   
 Away team: Netherlands Women's (851), goals: 0    
+Goal time: (60, 56)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1214: 31.6    
+Before goal: Time in possession for away team 851: 26.266666666666666    
+After goal: Time in possession for home team 1214: 30.783333333333335    
+After goal: Time in possession for away team 851: 18.55    
+Before card: Time in possession for home team 1214: 51.85    
+Before card: Time in possession for away team 851: 44.81666666666667    
+After card: Time in possession for home team 1214: -0.016666666666666666    
+After card: Time in possession for away team 851: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Croatia (785), goals: 1   
 Away team: Denmark (776), goals: 1    
+Goal time: (0, 57)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 785: 0.016666666666666666    
+Before goal: Time in possession for away team 776: 0.0    
+After goal: Time in possession for home team 785: 52.38333333333333    
+After goal: Time in possession for away team 776: 41.6    
+Before card: Time in possession for home team 785: 52.4    
+Before card: Time in possession for away team 776: 42.53333333333333    
+After card: Time in possession for home team 785: -0.016666666666666666    
+After card: Time in possession for away team 776: -0.016666666666666666    

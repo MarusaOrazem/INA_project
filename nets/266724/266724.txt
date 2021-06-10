@@ -5,3 +5,13 @@ Season: 2012/2013
 Gender: male     
 Home team: Mallorca (1043), goals: 2   
 Away team: Barcelona (217), goals: 4    
+Goal time: (27, 28)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1043: 5.9    
+Before goal: Time in possession for away team 217: 18.15    
+After goal: Time in possession for home team 1043: 19.366666666666667    
+After goal: Time in possession for away team 217: 46.81666666666667    
+Before card: Time in possession for home team 1043: 25.266666666666666    
+Before card: Time in possession for away team 217: 68.38333333333334    
+After card: Time in possession for home team 1043: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

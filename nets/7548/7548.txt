@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Brazil (781), goals: 2   
 Away team: Costa Rica (795), goals: 0    
+Goal time: (90, 23)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 781: 66.58333333333333    
+Before goal: Time in possession for away team 795: 22.883333333333333    
+After goal: Time in possession for home team 781: 52.28333333333333    
+After goal: Time in possession for away team 795: 0.65    
+Before card: Time in possession for home team 781: 74.53333333333333    
+Before card: Time in possession for away team 795: 23.533333333333335    
+After card: Time in possession for home team 781: -0.016666666666666666    
+After card: Time in possession for away team 795: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2007/2008
 Gender: male     
 Home team: Valencia (207), goals: 0   
 Away team: Barcelona (217), goals: 3    
+Goal time: (12, 17)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 207: 3.5833333333333335    
+Before goal: Time in possession for away team 217: 8.533333333333333    
+After goal: Time in possession for home team 207: 31.866666666666667    
+After goal: Time in possession for away team 217: 50.11666666666667    
+Before card: Time in possession for home team 207: 35.45    
+Before card: Time in possession for away team 217: 58.81666666666667    
+After card: Time in possession for home team 207: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

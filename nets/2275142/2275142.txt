@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Manchester United (1475), goals: 0   
 Away team: Bristol City WFC (973), goals: 1    
+Goal time: (33, 18)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1475: 22.55    
+Before goal: Time in possession for away team 973: 9.65    
+After goal: Time in possession for home team 1475: 54.6    
+After goal: Time in possession for away team 973: 12.533333333333333    
+Before card: Time in possession for home team 1475: 77.15    
+Before card: Time in possession for away team 973: 23.283333333333335    
+After card: Time in possession for home team 1475: -0.016666666666666666    
+After card: Time in possession for away team 973: -0.016666666666666666    

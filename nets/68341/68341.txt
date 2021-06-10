@@ -5,3 +5,13 @@ Season: 2006/2007
 Gender: male     
 Home team: Recreativo Huelva (1220), goals: 0   
 Away team: Barcelona (217), goals: 4    
+Goal time: (2, 55)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1220: 0.4166666666666667    
+Before goal: Time in possession for away team 217: 2.3833333333333333    
+After goal: Time in possession for home team 1220: 29.95    
+After goal: Time in possession for away team 217: 56.516666666666666    
+Before card: Time in possession for home team 1220: 30.366666666666667    
+Before card: Time in possession for away team 217: 59.016666666666666    
+After card: Time in possession for home team 1220: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2008/2009
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Deportivo La Coruna (219), goals: 0    
+Goal time: (20, 42)   
+Card time: (83, 31)   
+Before goal: Time in possession for home team 217: 14.683333333333334    
+Before goal: Time in possession for away team 219: 5.916666666666667    
+After goal: Time in possession for home team 217: 45.766666666666666    
+After goal: Time in possession for away team 219: 24.25    
+Before card: Time in possession for home team 217: 54.43333333333333    
+Before card: Time in possession for away team 219: 28.916666666666668    
+After card: Time in possession for home team 217: 44.43333333333333    
+After card: Time in possession for away team 219: 1.25    

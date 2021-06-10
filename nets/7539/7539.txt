@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Poland (789), goals: 1   
 Away team: Senegal (787), goals: 2    
+Goal time: (59, 58)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 789: 32.61666666666667    
+Before goal: Time in possession for away team 787: 27.05    
+After goal: Time in possession for home team 789: 37.9    
+After goal: Time in possession for away team 787: 10.4    
+Before card: Time in possession for home team 789: 57.71666666666667    
+Before card: Time in possession for away team 787: 37.45    
+After card: Time in possession for home team 789: -0.016666666666666666    
+After card: Time in possession for away team 787: -0.016666666666666666    

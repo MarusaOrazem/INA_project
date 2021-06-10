@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Everton LFC (967), goals: 3   
 Away team: Tottenham Hotspur Women (749), goals: 1    
+Goal time: (6, 3)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 967: 4.0    
+Before goal: Time in possession for away team 749: 1.7333333333333334    
+After goal: Time in possession for home team 967: 42.38333333333333    
+After goal: Time in possession for away team 749: 45.05    
+Before card: Time in possession for home team 967: 46.7    
+Before card: Time in possession for away team 749: 46.78333333333333    
+After card: Time in possession for home team 967: -0.016666666666666666    
+After card: Time in possession for away team 749: -0.016666666666666666    

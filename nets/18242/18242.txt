@@ -5,3 +5,13 @@ Season: 2014/2015
 Gender: male     
 Home team: Juventus (224), goals: 1   
 Away team: Barcelona (217), goals: 3    
+Goal time: (3, 24)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 224: 0.5833333333333334    
+Before goal: Time in possession for away team 217: 1.0666666666666667    
+After goal: Time in possession for home team 224: 35.75    
+After goal: Time in possession for away team 217: 57.6    
+Before card: Time in possession for home team 224: 36.333333333333336    
+Before card: Time in possession for away team 217: 60.416666666666664    
+After card: Time in possession for home team 224: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

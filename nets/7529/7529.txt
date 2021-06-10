@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Croatia (785), goals: 2   
 Away team: Nigeria (775), goals: 0    
+Goal time: (70, 51)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 785: 34.71666666666667    
+Before goal: Time in possession for away team 775: 29.866666666666667    
+After goal: Time in possession for home team 785: 37.833333333333336    
+After goal: Time in possession for away team 775: 11.016666666666667    
+Before card: Time in possession for home team 785: 50.583333333333336    
+Before card: Time in possession for away team 775: 40.88333333333333    
+After card: Time in possession for home team 785: -0.016666666666666666    
+After card: Time in possession for away team 775: -0.016666666666666666    

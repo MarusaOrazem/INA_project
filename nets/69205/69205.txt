@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Italy Women's (855), goals: 0   
 Away team: Netherlands Women's (851), goals: 2    
+Goal time: (69, 17)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 855: 25.866666666666667    
+Before goal: Time in possession for away team 851: 46.7    
+After goal: Time in possession for home team 855: 8.233333333333333    
+After goal: Time in possession for away team 851: 40.5    
+Before card: Time in possession for home team 855: 34.1    
+Before card: Time in possession for away team 851: 64.28333333333333    
+After card: Time in possession for home team 855: -0.016666666666666666    
+After card: Time in possession for away team 851: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2006/2007
 Gender: male     
 Home team: AC Milan (243), goals: 2   
 Away team: Liverpool (24), goals: 1    
+Goal time: (44, 28)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 243: 20.816666666666666    
+Before goal: Time in possession for away team 24: 22.2    
+After goal: Time in possession for home team 243: 23.65    
+After goal: Time in possession for away team 24: 24.983333333333334    
+Before card: Time in possession for home team 243: 45.916666666666664    
+Before card: Time in possession for away team 24: 47.18333333333333    
+After card: Time in possession for home team 243: -0.016666666666666666    
+After card: Time in possession for away team 24: -0.016666666666666666    

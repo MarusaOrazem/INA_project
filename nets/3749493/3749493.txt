@@ -5,3 +5,13 @@ Season: 2003/2004
 Gender: male     
 Home team: Arsenal (1), goals: 2   
 Away team: Everton (29), goals: 1    
+Goal time: (34, 19)   
+Card time: (24, 23)   
+Before goal: Time in possession for home team 1: 17.883333333333333    
+Before goal: Time in possession for away team 29: 15.133333333333333    
+After goal: Time in possession for home team 1: 31.683333333333334    
+After goal: Time in possession for away team 29: 28.3    
+Before card: Time in possession for home team 1: 15.45    
+Before card: Time in possession for away team 29: 8.2    
+After card: Time in possession for home team 1: 35.416666666666664    
+After card: Time in possession for away team 29: 34.5    

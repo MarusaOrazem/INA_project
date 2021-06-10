@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Netherlands Women's (851), goals: 2   
 Away team: Canada Women's (1206), goals: 1    
+Goal time: (53, 55)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 851: 33.583333333333336    
+Before goal: Time in possession for away team 1206: 21.716666666666665    
+After goal: Time in possession for home team 851: 26.8    
+After goal: Time in possession for away team 1206: 21.15    
+Before card: Time in possession for home team 851: 52.86666666666667    
+Before card: Time in possession for away team 1206: 42.86666666666667    
+After card: Time in possession for home team 851: -0.016666666666666666    
+After card: Time in possession for away team 1206: -0.016666666666666666    

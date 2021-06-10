@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: England Women's (865), goals: 2   
 Away team: Scotland Women's (866), goals: 1    
+Goal time: (13, 6)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 865: 6.166666666666667    
+Before goal: Time in possession for away team 866: 2.966666666666667    
+After goal: Time in possession for home team 865: 52.38333333333333    
+After goal: Time in possession for away team 866: 30.516666666666666    
+Before card: Time in possession for home team 865: 62.516666666666666    
+Before card: Time in possession for away team 866: 33.483333333333334    
+After card: Time in possession for home team 865: -0.016666666666666666    
+After card: Time in possession for away team 866: -0.016666666666666666    

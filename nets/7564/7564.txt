@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Nigeria (775), goals: 1   
 Away team: Argentina (779), goals: 2    
+Goal time: (13, 52)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 775: 4.15    
+Before goal: Time in possession for away team 779: 9.533333333333333    
+After goal: Time in possession for home team 775: 30.55    
+After goal: Time in possession for away team 779: 51.35    
+Before card: Time in possession for home team 775: 34.7    
+Before card: Time in possession for away team 779: 61.06666666666667    
+After card: Time in possession for home team 775: -0.016666666666666666    
+After card: Time in possession for away team 779: -0.016666666666666666    

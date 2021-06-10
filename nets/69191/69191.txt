@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Italy Women's (855), goals: 2   
 Away team: China PR Women's (1207), goals: 0    
+Goal time: (14, 10)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 855: 7.5    
+Before goal: Time in possession for away team 1207: 6.2    
+After goal: Time in possession for home team 855: 37.166666666666664    
+After goal: Time in possession for away team 1207: 46.8    
+Before card: Time in possession for home team 855: 45.13333333333333    
+Before card: Time in possession for away team 1207: 53.0    
+After card: Time in possession for home team 855: -0.016666666666666666    
+After card: Time in possession for away team 1207: -0.016666666666666666    

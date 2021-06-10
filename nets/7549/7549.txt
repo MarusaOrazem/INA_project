@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Nigeria (775), goals: 2   
 Away team: Iceland (793), goals: 0    
+Goal time: (48, 24)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 775: 26.05    
+Before goal: Time in possession for away team 793: 23.983333333333334    
+After goal: Time in possession for home team 775: 32.266666666666666    
+After goal: Time in possession for away team 793: 18.583333333333332    
+Before card: Time in possession for home team 775: 55.1    
+Before card: Time in possession for away team 793: 42.56666666666667    
+After card: Time in possession for home team 775: -0.016666666666666666    
+After card: Time in possession for away team 793: -0.016666666666666666    

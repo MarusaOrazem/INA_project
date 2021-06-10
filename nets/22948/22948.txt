@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: France Women's (861), goals: 2   
 Away team: Norway Women's (852), goals: 1    
+Goal time: (45, 44)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 861: 25.05    
+Before goal: Time in possession for away team 852: 22.183333333333334    
+After goal: Time in possession for home team 861: 23.9    
+After goal: Time in possession for away team 852: 25.0    
+Before card: Time in possession for home team 861: 48.43333333333333    
+Before card: Time in possession for away team 852: 47.18333333333333    
+After card: Time in possession for home team 861: -0.016666666666666666    
+After card: Time in possession for away team 852: -0.016666666666666666    

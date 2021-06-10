@@ -5,3 +5,13 @@ Season: 2005/2006
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Athletic Bilbao (215), goals: 1    
+Goal time: (15, 12)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 10.15    
+Before goal: Time in possession for away team 215: 4.1    
+After goal: Time in possession for home team 217: 53.63333333333333    
+After goal: Time in possession for away team 215: 25.066666666666666    
+Before card: Time in possession for home team 217: 63.78333333333333    
+Before card: Time in possession for away team 215: 30.116666666666667    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 215: -0.016666666666666666    

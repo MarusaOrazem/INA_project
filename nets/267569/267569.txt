@@ -5,3 +5,13 @@ Season: 2016/2017
 Gender: male     
 Home team: Real Madrid (220), goals: 2   
 Away team: Barcelona (217), goals: 3    
+Goal time: (27, 46)   
+Card time: (76, 48)   
+Before goal: Time in possession for home team 220: 13.616666666666667    
+Before goal: Time in possession for away team 217: 13.233333333333333    
+After goal: Time in possession for home team 220: 27.116666666666667    
+After goal: Time in possession for away team 217: 36.666666666666664    
+Before card: Time in possession for home team 220: 37.2    
+Before card: Time in possession for away team 217: 39.68333333333333    
+After card: Time in possession for home team 220: 4.45    
+After card: Time in possession for away team 217: 41.983333333333334    

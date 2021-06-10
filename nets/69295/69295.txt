@@ -5,3 +5,13 @@ Season: 2010/2011
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Racing Santander (1217), goals: 0    
+Goal time: (1, 34)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 0.03333333333333333    
+Before goal: Time in possession for away team 1217: 0.25    
+After goal: Time in possession for home team 217: 64.95    
+After goal: Time in possession for away team 1217: 25.133333333333333    
+Before card: Time in possession for home team 217: 66.26666666666667    
+Before card: Time in possession for away team 1217: 25.383333333333333    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 1217: -0.016666666666666666    

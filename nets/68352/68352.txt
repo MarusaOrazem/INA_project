@@ -5,3 +5,13 @@ Season: 2004/2005
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Getafe (216), goals: 0    
+Goal time: (29, 30)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 18.05    
+Before goal: Time in possession for away team 216: 9.483333333333333    
+After goal: Time in possession for home team 217: 39.35    
+After goal: Time in possession for away team 216: 26.183333333333334    
+Before card: Time in possession for home team 217: 59.36666666666667    
+Before card: Time in possession for away team 216: 35.666666666666664    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 216: -0.016666666666666666    

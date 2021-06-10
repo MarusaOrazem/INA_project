@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: West Ham United LFC (972), goals: 1   
 Away team: Birmingham City WFC (969), goals: 0    
+Goal time: (26, 24)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 972: 13.766666666666667    
+Before goal: Time in possession for away team 969: 12.366666666666667    
+After goal: Time in possession for home team 972: 33.983333333333334    
+After goal: Time in possession for away team 969: 38.85    
+Before card: Time in possession for home team 972: 48.016666666666666    
+Before card: Time in possession for away team 969: 51.21666666666667    
+After card: Time in possession for home team 972: -0.016666666666666666    
+After card: Time in possession for away team 969: -0.016666666666666666    

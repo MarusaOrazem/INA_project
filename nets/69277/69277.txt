@@ -5,3 +5,13 @@ Season: 2009/2010
 Gender: male     
 Home team: Osasuna (422), goals: 1   
 Away team: Barcelona (217), goals: 1    
+Goal time: (71, 55)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 422: 26.65    
+Before goal: Time in possession for away team 217: 44.016666666666666    
+After goal: Time in possession for home team 422: 9.066666666666666    
+After goal: Time in possession for away team 217: 38.083333333333336    
+Before card: Time in possession for home team 422: 35.71666666666667    
+Before card: Time in possession for away team 217: 56.56666666666667    
+After card: Time in possession for home team 422: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

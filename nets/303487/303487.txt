@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Celta Vigo (209), goals: 1    
+Goal time: (22, 32)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 11.683333333333334    
+Before goal: Time in possession for away team 209: 8.433333333333334    
+After goal: Time in possession for home team 217: 39.45    
+After goal: Time in possession for away team 209: 29.466666666666665    
+Before card: Time in possession for home team 217: 53.55    
+Before card: Time in possession for away team 209: 37.9    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 209: -0.016666666666666666    

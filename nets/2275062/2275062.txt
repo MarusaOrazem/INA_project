@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Liverpool WFC (966), goals: 2   
 Away team: Arsenal WFC (968), goals: 3    
+Goal time: (13, 22)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 966: 5.833333333333333    
+Before goal: Time in possession for away team 968: 7.15    
+After goal: Time in possession for home team 966: 29.716666666666665    
+After goal: Time in possession for away team 968: 51.96666666666667    
+Before card: Time in possession for home team 966: 35.93333333333333    
+Before card: Time in possession for away team 968: 59.11666666666667    
+After card: Time in possession for home team 966: -0.016666666666666666    
+After card: Time in possession for away team 968: -0.016666666666666666    

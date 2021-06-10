@@ -5,3 +5,13 @@ Season: 2018
 Gender: female     
 Home team: Orlando Pride (764), goals: 2   
 Away team: Sky Blue FC (763), goals: 2    
+Goal time: (50, 1)   
+Card time: (95, 14)   
+Before goal: Time in possession for home team 764: 30.666666666666668    
+Before goal: Time in possession for away team 763: 19.5    
+After goal: Time in possession for home team 764: 31.15    
+After goal: Time in possession for away team 763: 21.416666666666668    
+Before card: Time in possession for home team 764: 53.916666666666664    
+Before card: Time in possession for away team 763: 40.916666666666664    
+After card: Time in possession for home team 764: 52.56666666666667    
+After card: Time in possession for away team 763: 0.0    

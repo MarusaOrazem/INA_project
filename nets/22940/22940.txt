@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Argentina Women's (1204), goals: 0   
 Away team: Japan Women's (1210), goals: 0    
+Goal time: (-1, -1)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1204: 29.666666666666668    
+Before goal: Time in possession for away team 1210: 65.25    
+After goal: Time in possession for home team 1204: -0.016666666666666666    
+After goal: Time in possession for away team 1210: -0.016666666666666666    
+Before card: Time in possession for home team 1204: 29.666666666666668    
+Before card: Time in possession for away team 1210: 65.25    
+After card: Time in possession for home team 1204: -0.016666666666666666    
+After card: Time in possession for away team 1210: -0.016666666666666666    

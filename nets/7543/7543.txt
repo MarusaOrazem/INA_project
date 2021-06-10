@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Iran (797), goals: 0   
 Away team: Spain (772), goals: 1    
+Goal time: (53, 34)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 797: 17.133333333333333    
+Before goal: Time in possession for away team 772: 38.166666666666664    
+After goal: Time in possession for home team 797: 10.833333333333334    
+After goal: Time in possession for away team 772: 37.11666666666667    
+Before card: Time in possession for home team 797: 27.966666666666665    
+Before card: Time in possession for away team 772: 67.58333333333333    
+After card: Time in possession for home team 797: -0.016666666666666666    
+After card: Time in possession for away team 772: -0.016666666666666666    

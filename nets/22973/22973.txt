@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Sweden Women's (858), goals: 5   
 Away team: Thailand Women's (1107), goals: 1    
+Goal time: (5, 22)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 858: 3.3333333333333335    
+Before goal: Time in possession for away team 1107: 1.15    
+After goal: Time in possession for home team 858: 63.833333333333336    
+After goal: Time in possession for away team 1107: 23.616666666666667    
+Before card: Time in possession for home team 858: 68.05    
+Before card: Time in possession for away team 1107: 24.766666666666666    
+After card: Time in possession for home team 858: -0.016666666666666666    
+After card: Time in possession for away team 1107: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Japan (778), goals: 2   
 Away team: Senegal (787), goals: 2    
+Goal time: (10, 55)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 778: 5.083333333333333    
+Before goal: Time in possession for away team 787: 5.25    
+After goal: Time in possession for home team 778: 44.1    
+After goal: Time in possession for away team 787: 39.21666666666667    
+Before card: Time in possession for home team 778: 49.18333333333333    
+Before card: Time in possession for away team 787: 45.05    
+After card: Time in possession for home team 778: -0.016666666666666666    
+After card: Time in possession for away team 787: -0.016666666666666666    

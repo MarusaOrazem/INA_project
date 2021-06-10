@@ -5,3 +5,13 @@ Season: 2018
 Gender: female     
 Home team: Chicago Red Stars (761), goals: 1   
 Away team: Seattle Reign (760), goals: 0    
+Goal time: (86, 40)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 761: 49.233333333333334    
+Before goal: Time in possession for away team 760: 46.61666666666667    
+After goal: Time in possession for home team 761: 45.28333333333333    
+After goal: Time in possession for away team 760: 4.483333333333333    
+Before card: Time in possession for home team 761: 52.916666666666664    
+Before card: Time in possession for away team 760: 51.1    
+After card: Time in possession for home team 761: -0.016666666666666666    
+After card: Time in possession for away team 760: -0.016666666666666666    

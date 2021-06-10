@@ -5,3 +5,13 @@ Season: 2004/2005
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Málaga (223), goals: 0    
+Goal time: (24, 26)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 16.0    
+Before goal: Time in possession for away team 223: 7.783333333333333    
+After goal: Time in possession for home team 217: 45.9    
+After goal: Time in possession for away team 223: 19.4    
+Before card: Time in possession for home team 217: 62.55    
+Before card: Time in possession for away team 223: 27.183333333333334    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 223: -0.016666666666666666    

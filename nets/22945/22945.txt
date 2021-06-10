@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Nigeria Women's (1213), goals: 2   
 Away team: Korea Republic Women's (1211), goals: 0    
+Goal time: (74, 14)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1213: 34.28333333333333    
+Before goal: Time in possession for away team 1211: 41.766666666666666    
+After goal: Time in possession for home team 1213: 36.56666666666667    
+After goal: Time in possession for away team 1211: 12.016666666666667    
+Before card: Time in possession for home team 1213: 41.78333333333333    
+Before card: Time in possession for away team 1211: 53.78333333333333    
+After card: Time in possession for home team 1213: -0.016666666666666666    
+After card: Time in possession for away team 1211: -0.016666666666666666    

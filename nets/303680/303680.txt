@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: male     
 Home team: Real Valladolid (901), goals: 0   
 Away team: Barcelona (217), goals: 1    
+Goal time: (14, 44)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 901: 4.316666666666666    
+Before goal: Time in possession for away team 217: 10.05    
+After goal: Time in possession for home team 901: 38.3    
+After goal: Time in possession for away team 217: 44.6    
+Before card: Time in possession for home team 901: 42.61666666666667    
+Before card: Time in possession for away team 217: 55.016666666666666    
+After card: Time in possession for home team 901: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

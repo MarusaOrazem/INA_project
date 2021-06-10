@@ -5,3 +5,13 @@ Season: 2006/2007
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Osasuna (422), goals: 0    
+Goal time: (1, 18)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 0.0    
+Before goal: Time in possession for away team 422: 0.0    
+After goal: Time in possession for home team 217: 57.233333333333334    
+After goal: Time in possession for away team 422: 34.55    
+Before card: Time in possession for home team 217: 58.53333333333333    
+Before card: Time in possession for away team 422: 34.55    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 422: -0.016666666666666666    

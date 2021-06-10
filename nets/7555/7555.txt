@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Poland (789), goals: 0   
 Away team: Colombia (769), goals: 3    
+Goal time: (39, 3)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 789: 21.483333333333334    
+Before goal: Time in possession for away team 769: 16.916666666666668    
+After goal: Time in possession for home team 789: 26.066666666666666    
+After goal: Time in possession for away team 769: 32.4    
+Before card: Time in possession for home team 789: 47.55    
+Before card: Time in possession for away team 769: 49.96666666666667    
+After card: Time in possession for home team 789: -0.016666666666666666    
+After card: Time in possession for away team 769: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2003/2004
 Gender: male     
 Home team: Birmingham City (54), goals: 0   
 Away team: Arsenal (1), goals: 3    
+Goal time: (3, 34)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 54: 1.1    
+Before goal: Time in possession for away team 1: 2.3833333333333333    
+After goal: Time in possession for home team 54: 49.11666666666667    
+After goal: Time in possession for away team 1: 39.85    
+Before card: Time in possession for home team 54: 50.21666666666667    
+Before card: Time in possession for away team 1: 42.31666666666667    
+After card: Time in possession for home team 54: -0.016666666666666666    
+After card: Time in possession for away team 1: -0.016666666666666666    

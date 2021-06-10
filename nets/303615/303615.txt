@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: male     
 Home team: Barcelona (217), goals: 1   
 Away team: Espanyol (214), goals: 0    
+Goal time: (55, 40)   
+Card time: (48, 23)   
+Before goal: Time in possession for home team 217: 37.9    
+Before goal: Time in possession for away team 214: 19.35    
+After goal: Time in possession for home team 217: 34.93333333333333    
+After goal: Time in possession for away team 214: 15.75    
+Before card: Time in possession for home team 217: 36.7    
+Before card: Time in possession for away team 214: 13.5    
+After card: Time in possession for home team 217: 26.166666666666668    
+After card: Time in possession for away team 214: 24.516666666666666    

@@ -5,3 +5,13 @@ Season: 2018
 Gender: female     
 Home team: Seattle Reign (760), goals: 2   
 Away team: Washington Spirit (759), goals: 0    
+Goal time: (43, 34)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 760: 27.6    
+Before goal: Time in possession for away team 759: 15.616666666666667    
+After goal: Time in possession for home team 760: 29.25    
+After goal: Time in possession for away team 759: 19.966666666666665    
+Before card: Time in possession for home team 760: 57.2    
+Before card: Time in possession for away team 759: 35.583333333333336    
+After card: Time in possession for home team 760: -0.016666666666666666    
+After card: Time in possession for away team 759: -0.016666666666666666    

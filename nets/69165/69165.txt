@@ -5,3 +5,13 @@ Season: 2006/2007
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Espanyol (214), goals: 2    
+Goal time: (29, 50)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 20.45    
+Before goal: Time in possession for away team 214: 9.116666666666667    
+After goal: Time in possession for home team 217: 46.45    
+After goal: Time in possession for away team 214: 20.75    
+Before card: Time in possession for home team 217: 66.9    
+Before card: Time in possession for away team 214: 30.133333333333333    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 214: -0.016666666666666666    

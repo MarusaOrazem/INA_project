@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Germany Women's (857), goals: 1   
 Away team: Sweden Women's (858), goals: 2    
+Goal time: (15, 34)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 857: 8.966666666666667    
+Before goal: Time in possession for away team 858: 6.1    
+After goal: Time in possession for home team 857: 49.8    
+After goal: Time in possession for away team 858: 33.166666666666664    
+Before card: Time in possession for home team 857: 59.266666666666666    
+Before card: Time in possession for away team 858: 39.266666666666666    
+After card: Time in possession for home team 857: -0.016666666666666666    
+After card: Time in possession for away team 858: -0.016666666666666666    

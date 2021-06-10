@@ -5,3 +5,13 @@ Season: 2018
 Gender: female     
 Home team: Houston Dash (762), goals: 3   
 Away team: Orlando Pride (764), goals: 1    
+Goal time: (17, 25)   
+Card time: (95, 36)   
+Before goal: Time in possession for home team 762: 6.016666666666667    
+Before goal: Time in possession for away team 764: 11.283333333333333    
+After goal: Time in possession for home team 762: 31.566666666666666    
+After goal: Time in possession for away team 764: 48.05    
+Before card: Time in possession for home team 762: 37.7    
+Before card: Time in possession for away team 764: 57.8    
+After card: Time in possession for home team 762: 0.0    
+After card: Time in possession for away team 764: 52.06666666666667    

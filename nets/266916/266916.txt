@@ -5,3 +5,13 @@ Season: 2014/2015
 Gender: male     
 Home team: Barcelona (217), goals: 6   
 Away team: Rayo Vallecano (360), goals: 1    
+Goal time: (5, 0)   
+Card time: (53, 43)   
+Before goal: Time in possession for home team 217: 2.966666666666667    
+Before goal: Time in possession for away team 360: 1.95    
+After goal: Time in possession for home team 217: 49.916666666666664    
+After goal: Time in possession for away team 360: 37.416666666666664    
+Before card: Time in possession for home team 217: 30.45    
+Before card: Time in possession for away team 360: 22.05    
+After card: Time in possession for home team 217: 30.55    
+After card: Time in possession for away team 360: 17.316666666666666    

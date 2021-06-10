@@ -5,3 +5,13 @@ Season: 2014/2015
 Gender: male     
 Home team: Sevilla (213), goals: 2   
 Away team: Barcelona (217), goals: 2    
+Goal time: (13, 57)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 213: 3.8    
+Before goal: Time in possession for away team 217: 9.75    
+After goal: Time in possession for home team 213: 30.6    
+After goal: Time in possession for away team 217: 48.13333333333333    
+Before card: Time in possession for home team 213: 34.4    
+Before card: Time in possession for away team 217: 58.28333333333333    
+After card: Time in possession for home team 213: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

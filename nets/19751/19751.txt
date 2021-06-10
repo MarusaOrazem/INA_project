@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: West Ham United LFC (972), goals: 0   
 Away team: Chelsea FCW (971), goals: 2    
+Goal time: (61, 27)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 972: 22.433333333333334    
+Before goal: Time in possession for away team 971: 38.35    
+After goal: Time in possession for home team 972: 14.75    
+After goal: Time in possession for away team 971: 32.983333333333334    
+Before card: Time in possession for home team 972: 37.18333333333333    
+Before card: Time in possession for away team 971: 55.2    
+After card: Time in possession for home team 972: -0.016666666666666666    
+After card: Time in possession for away team 971: -0.016666666666666666    

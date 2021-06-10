@@ -5,3 +5,13 @@ Season: 2010/2011
 Gender: male     
 Home team: Real Sociedad (210), goals: 2   
 Away team: Barcelona (217), goals: 1    
+Goal time: (28, 27)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 210: 8.383333333333333    
+Before goal: Time in possession for away team 217: 18.883333333333333    
+After goal: Time in possession for home team 210: 21.35    
+After goal: Time in possession for away team 217: 43.3    
+Before card: Time in possession for home team 210: 29.733333333333334    
+Before card: Time in possession for away team 217: 63.36666666666667    
+After card: Time in possession for home team 210: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

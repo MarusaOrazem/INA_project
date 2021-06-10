@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Bristol City WFC (973), goals: 0   
 Away team: Chelsea FCW (971), goals: 4    
+Goal time: (2, 5)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 973: 1.35    
+Before goal: Time in possession for away team 971: 0.45    
+After goal: Time in possession for home team 973: 30.233333333333334    
+After goal: Time in possession for away team 971: 61.45    
+Before card: Time in possession for home team 973: 31.583333333333332    
+Before card: Time in possession for away team 971: 62.18333333333333    
+After card: Time in possession for home team 973: -0.016666666666666666    
+After card: Time in possession for away team 971: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2010/2011
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Manchester United (39), goals: 1    
+Goal time: (26, 51)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 16.966666666666665    
+Before goal: Time in possession for away team 39: 9.683333333333334    
+After goal: Time in possession for home team 217: 41.75    
+After goal: Time in possession for away team 39: 23.966666666666665    
+Before card: Time in possession for home team 217: 58.916666666666664    
+Before card: Time in possession for away team 39: 33.65    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 39: -0.016666666666666666    

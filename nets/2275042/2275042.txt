@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Manchester City WFC (746), goals: 5   
 Away team: West Ham United LFC (972), goals: 0    
+Goal time: (10, 29)   
+Card time: (69, 41)   
+Before goal: Time in possession for home team 746: 4.15    
+Before goal: Time in possession for away team 972: 5.466666666666667    
+After goal: Time in possession for home team 746: 50.15    
+After goal: Time in possession for away team 972: 32.03333333333333    
+Before card: Time in possession for home team 746: 46.18333333333333    
+Before card: Time in possession for away team 972: 24.7    
+After card: Time in possession for home team 746: 8.983333333333333    
+After card: Time in possession for away team 972: 37.416666666666664    

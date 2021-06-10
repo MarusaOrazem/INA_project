@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Yeovil Town LFC (970), goals: 1   
 Away team: Liverpool WFC (966), goals: 2    
+Goal time: (26, 36)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 970: 7.4    
+Before goal: Time in possession for away team 966: 16.283333333333335    
+After goal: Time in possession for home team 970: 24.416666666666668    
+After goal: Time in possession for away team 966: 45.516666666666666    
+Before card: Time in possession for home team 970: 31.816666666666666    
+Before card: Time in possession for away team 966: 64.71666666666667    
+After card: Time in possession for home team 970: -0.016666666666666666    
+After card: Time in possession for away team 966: -0.016666666666666666    

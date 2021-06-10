@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: South Korea (791), goals: 1   
 Away team: Mexico (794), goals: 2    
+Goal time: (25, 22)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 791: 6.316666666666666    
+Before goal: Time in possession for away team 794: 16.483333333333334    
+After goal: Time in possession for home team 791: 30.433333333333334    
+After goal: Time in possession for away team 794: 39.13333333333333    
+Before card: Time in possession for home team 791: 36.75    
+Before card: Time in possession for away team 794: 58.18333333333333    
+After card: Time in possession for home team 791: -0.016666666666666666    
+After card: Time in possession for away team 794: -0.016666666666666666    

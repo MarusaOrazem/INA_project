@@ -5,3 +5,13 @@ Season: 2012/2013
 Gender: male     
 Home team: Granada (1049), goals: 1   
 Away team: Barcelona (217), goals: 2    
+Goal time: (25, 10)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1049: 6.45    
+Before goal: Time in possession for away team 217: 18.3    
+After goal: Time in possession for home team 1049: 23.233333333333334    
+After goal: Time in possession for away team 217: 45.85    
+Before card: Time in possession for home team 1049: 30.1    
+Before card: Time in possession for away team 217: 64.15    
+After card: Time in possession for home team 1049: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

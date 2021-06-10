@@ -5,3 +5,13 @@ Season: 2005/2006
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Osasuna (422), goals: 0    
+Goal time: (45, 33)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 31.483333333333334    
+Before goal: Time in possession for away team 422: 15.65    
+After goal: Time in possession for home team 217: 29.75    
+After goal: Time in possession for away team 422: 17.766666666666666    
+Before card: Time in possession for home team 217: 61.11666666666667    
+Before card: Time in possession for away team 422: 33.416666666666664    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 422: -0.016666666666666666    

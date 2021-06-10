@@ -5,3 +5,13 @@ Season: 2012/2013
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Real Madrid (220), goals: 2    
+Goal time: (22, 36)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 12.416666666666666    
+Before goal: Time in possession for away team 220: 9.066666666666666    
+After goal: Time in possession for home team 217: 45.45    
+After goal: Time in possession for away team 220: 22.083333333333332    
+Before card: Time in possession for home team 217: 57.86666666666667    
+Before card: Time in possession for away team 220: 32.266666666666666    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 220: -0.016666666666666666    

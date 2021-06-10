@@ -5,3 +5,13 @@ Season: 2017/2018
 Gender: male     
 Home team: Leganés (205), goals: 0   
 Away team: Barcelona (217), goals: 3    
+Goal time: (27, 38)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 205: 7.616666666666666    
+Before goal: Time in possession for away team 217: 19.5    
+After goal: Time in possession for home team 205: 24.8    
+After goal: Time in possession for away team 217: 38.0    
+Before card: Time in possession for home team 205: 32.416666666666664    
+Before card: Time in possession for away team 217: 58.016666666666666    
+After card: Time in possession for home team 205: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

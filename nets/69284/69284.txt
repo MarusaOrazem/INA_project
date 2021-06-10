@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Netherlands Women's (851), goals: 1   
 Away team: Sweden Women's (858), goals: 0    
+Goal time: (-1, -1)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 851: 47.71666666666667    
+Before goal: Time in possession for away team 858: 48.96666666666667    
+After goal: Time in possession for home team 851: -0.016666666666666666    
+After goal: Time in possession for away team 858: -0.016666666666666666    
+Before card: Time in possession for home team 851: 47.71666666666667    
+Before card: Time in possession for away team 858: 48.96666666666667    
+After card: Time in possession for home team 851: -0.016666666666666666    
+After card: Time in possession for away team 858: -0.016666666666666666    

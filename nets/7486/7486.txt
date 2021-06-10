@@ -5,3 +5,13 @@ Season: 2018
 Gender: female     
 Home team: Portland Thorns (765), goals: 3   
 Away team: Houston Dash (762), goals: 1    
+Goal time: (15, 24)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 765: 7.766666666666667    
+Before goal: Time in possession for away team 762: 7.033333333333333    
+After goal: Time in possession for home team 765: 48.28333333333333    
+After goal: Time in possession for away team 762: 30.916666666666668    
+Before card: Time in possession for home team 765: 56.65    
+Before card: Time in possession for away team 762: 37.95    
+After card: Time in possession for home team 765: -0.016666666666666666    
+After card: Time in possession for away team 762: -0.016666666666666666    

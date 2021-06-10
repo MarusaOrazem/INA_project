@@ -5,3 +5,13 @@ Season: 2003/2004
 Gender: male     
 Home team: Manchester City (36), goals: 1   
 Away team: Arsenal (1), goals: 2    
+Goal time: (47, 28)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 36: 19.95    
+Before goal: Time in possession for away team 1: 28.316666666666666    
+After goal: Time in possession for home team 36: 19.516666666666666    
+After goal: Time in possession for away team 1: 28.233333333333334    
+Before card: Time in possession for home team 36: 39.46666666666667    
+Before card: Time in possession for away team 1: 54.983333333333334    
+After card: Time in possession for home team 36: -0.016666666666666666    
+After card: Time in possession for away team 1: -0.016666666666666666    

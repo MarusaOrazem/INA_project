@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Everton LFC (967), goals: 1   
 Away team: Birmingham City WFC (969), goals: 3    
+Goal time: (7, 3)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 967: 3.816666666666667    
+Before goal: Time in possession for away team 969: 2.816666666666667    
+After goal: Time in possession for home team 967: 42.416666666666664    
+After goal: Time in possession for away team 969: 45.8    
+Before card: Time in possession for home team 967: 46.65    
+Before card: Time in possession for away team 969: 48.61666666666667    
+After card: Time in possession for home team 967: -0.016666666666666666    
+After card: Time in possession for away team 969: -0.016666666666666666    

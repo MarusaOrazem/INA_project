@@ -5,3 +5,13 @@ Season: 2005/2006
 Gender: male     
 Home team: Villarreal (222), goals: 0   
 Away team: Barcelona (217), goals: 2    
+Goal time: (62, 27)   
+Card time: (87, 52)   
+Before goal: Time in possession for home team 222: 31.316666666666666    
+Before goal: Time in possession for away team 217: 32.38333333333333    
+After goal: Time in possession for home team 222: 21.466666666666665    
+After goal: Time in possession for away team 217: 27.15    
+Before card: Time in possession for home team 222: 47.016666666666666    
+Before card: Time in possession for away team 217: 42.083333333333336    
+After card: Time in possession for home team 222: 48.45    
+After card: Time in possession for away team 217: 0.16666666666666666    

@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Everton LFC (967), goals: 1   
 Away team: Arsenal WFC (968), goals: 3    
+Goal time: (13, 18)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 967: 3.066666666666667    
+Before goal: Time in possession for away team 968: 8.616666666666667    
+After goal: Time in possession for home team 967: 25.916666666666668    
+After goal: Time in possession for away team 968: 60.43333333333333    
+Before card: Time in possession for home team 967: 28.983333333333334    
+Before card: Time in possession for away team 968: 70.66666666666667    
+After card: Time in possession for home team 967: -0.016666666666666666    
+After card: Time in possession for away team 968: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2012/2013
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Athletic Bilbao (215), goals: 1    
+Goal time: (21, 51)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 12.7    
+Before goal: Time in possession for away team 215: 8.033333333333333    
+After goal: Time in possession for home team 217: 36.36666666666667    
+After goal: Time in possession for away team 215: 31.966666666666665    
+Before card: Time in possession for home team 217: 50.18333333333333    
+Before card: Time in possession for away team 215: 40.0    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 215: -0.016666666666666666    

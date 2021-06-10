@@ -5,3 +5,13 @@ Season: 2017/2018
 Gender: male     
 Home team: Real Madrid (220), goals: 3   
 Away team: Liverpool (24), goals: 1    
+Goal time: (50, 11)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 220: 29.966666666666665    
+Before goal: Time in possession for away team 24: 22.2    
+After goal: Time in possession for home team 220: 31.433333333333334    
+After goal: Time in possession for away team 24: 15.983333333333333    
+Before card: Time in possession for home team 220: 57.1    
+Before card: Time in possession for away team 24: 38.18333333333333    
+After card: Time in possession for home team 220: -0.016666666666666666    
+After card: Time in possession for away team 24: -0.016666666666666666    
