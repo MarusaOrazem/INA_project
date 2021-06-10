@@ -17,6 +17,7 @@ def calculate_centralies(G1, G2):
     all_betweeness = []
     for G in [G1,G2]:
         n = G.number_of_nodes()
+        print(f'nodes: {n}')
         names = list(G.nodes())
         values_closeness = []
         values_betweeness = []
@@ -34,9 +35,12 @@ def calculate_centralies(G1, G2):
             values_betweeness.append(betweeness[node])
         #tops(G, betweeness)
 
-        all_closeness.append(values_closeness)
-        all_betweeness.append(values_betweeness)
 
+        all_closeness.append(np.std(values_closeness))
+        all_betweeness.append(np.std(values_betweeness))
+    return all_closeness, all_betweeness
+
+    '''
     types = ['first' for _ in range(n)]
     types+= ['second' for _ in range(n)]
     df = pd.DataFrame(data = {'players': names+names, 'type': types, 'closeness': np.array(all_closeness).flatten()})
@@ -58,23 +62,43 @@ def calculate_centralies(G1, G2):
     for ax in axs:
         ax.label_outer()
     plt.show()
+    '''
 
 
 if __name__ == "__main__":
     matches_ids = [303524, 303610, 303470, 18237, 7584, 7545, 7567, 303715, 22912, 2302764, 7565, 7542]
-    for match_id in matches_ids[:1]:
+    closeness_all = []
+    closeness_abs_all = []
+    betweeness_all = []
+    betweeness_abs_all = []
+    for match_id in matches_ids:
         path = f'C:/Users/Acer/Desktop/Data science/1 letnik/Introduction to network analysis/INA_project/nets/{match_id}'
         nets = [f for f in os.listdir(path) if f.endswith('.net')]
         print(nets)
-        net1='303524_Atlético Madrid (212)_period_0.net'
-        net2='303524_Atlético Madrid (212)_period_1.net'
-        G1 = nx.read_pajek(path + '/' + net1)
-        G1 = nx.DiGraph(G1)
-        G2 = nx.read_pajek(path + '/' + net2)
-        G2 = nx.DiGraph(G2)
-        calculate_centralies(G1,G2)
-        '''
-        for net in nets:
-            G = nx.read_pajek(path + '/' + net)
-            G = nx.DiGraph(G)
-            calculate_centralies(G)'''
+        #find matches with periods
+        for name in nets:
+            if name.endswith('goal_0.net'):
+                net1 = name
+                net2 = name[:-5] + '1' + name[-4:]
+                #net1='303524_Atlético Madrid (212)_period_0.net'
+                #net2='303524_Atlético Madrid (212)_period_1.net'
+                G1 = nx.read_pajek(path + '/' + net1)
+                G1 = nx.DiGraph(G1)
+                G2 = nx.read_pajek(path + '/' + net2)
+                G2 = nx.DiGraph(G2)
+                closeness, betweeness = calculate_centralies(G1,G2)
+                #print(closeness)
+                #print(betweeness)
+                closeness_diff = closeness[1] - closeness[0]
+                betweeness_diff = betweeness[1] - betweeness[0]
+                closeness_abs_diff = abs(closeness[1] - closeness[0])
+                betweeness_abs_diff = abs(betweeness[1] - betweeness[0])
+                closeness_all.append(closeness_diff)
+                closeness_abs_all.append(closeness_abs_diff)
+                betweeness_all.append(betweeness_diff)
+                betweeness_abs_all.append(betweeness_abs_diff)
+
+    print(np.mean(closeness_all))
+    print(np.mean(closeness_abs_all))
+    print(np.mean(betweeness_all))
+    print(np.mean(betweeness_abs_all))
