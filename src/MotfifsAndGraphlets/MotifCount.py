@@ -6,6 +6,7 @@ from texttable import Texttable
 from tqdm import tqdm
 import pandas as pd
 from create_directed_atlas import create_directed_atlas
+from statistics import median
 
 import argparse
 
@@ -21,7 +22,7 @@ def tab_printer(args):
     print(t.draw())
 
 
-def parameter_parser():
+def parameter_parser(input="./input/whatever", output='someoutput.csv'):
     """
     Calculating counts of orbital roles in connected graphlets.
     Representations are sorted by ID.
@@ -35,7 +36,7 @@ def parameter_parser():
 
     parser.add_argument('--output',
                         nargs='?',
-                        default='./output/arsenal_3749552_orbital_features_1.csv',
+                        default=output,
                         help='Feature output path.')
 
     parser.add_argument('--graphlet-size',
@@ -49,14 +50,15 @@ class MotifCounterMachine(object):
     """
     Connected motif orbital role counter.
     """
-    def __init__(self, graph, args):
+    def __init__(self, graph, output, gs=3):
         """
         Creating an orbital role counter machine.
         :param graph: NetworkX graph.
         :param args: Arguments object.
         """
         self.graph = graph
-        self.args = args
+        self.output = output
+        self.graphlet_size = gs
 
     def create_edge_subsets(self):
         """
@@ -67,7 +69,7 @@ class MotifCounterMachine(object):
         subsets = [[edge[0], edge[1]] for edge in self.graph.edges()]
         self.edge_subsets[2] = subsets
         unique_subsets = dict()
-        for i in range(3, self.args.graphlet_size+1):
+        for i in range(3, self.graphlet_size+1):
             print("Enumerating graphlets with size: " +str(i) + ".")
             for subset in tqdm(subsets):
                 for node in subset:
@@ -85,9 +87,9 @@ class MotifCounterMachine(object):
         Creating a hash table of the benchmark motifs.
         """
         graphs = create_directed_atlas()
-        self.interesting_graphs = {i: [] for i in range(1, self.args.graphlet_size+1)}
+        self.interesting_graphs = {i: [] for i in range(2, self.graphlet_size+1)}
         for graph in graphs:
-            if graph.number_of_nodes() > 0 and graph.number_of_nodes() < self.args.graphlet_size+1:
+            if graph.number_of_nodes() > 1 and graph.number_of_nodes() < self.graphlet_size+1:
                     self.interesting_graphs[graph.number_of_nodes()].append(graph)
 
     def enumerate_categories(self):
@@ -133,7 +135,7 @@ class MotifCounterMachine(object):
         self.motifs = [[n]+[self.features[n][i] for i in  range(self.unique_motif_count)] for n in self.graph.nodes()]
         self.motifs = pd.DataFrame(self.motifs)
         self.motifs.columns = ["id"] + ["role_"+str(index) for index in range(self.unique_motif_count)]
-        self.motifs.to_csv(self.args.output, index=None)
+        self.motifs.to_csv(self.output, index=None)
 
     def write_dictionary(self):
         with open('./output/dictionary.txt', 'w') as f:
@@ -162,13 +164,37 @@ if __name__ == "__main__":
 
     p=Path(os.getcwd())
 
-    nets = p.parent.parent
+    src = p.parent.parent
 
     #G2 = nx.read_pajek(str(nets) + '\\nets\\7430\\7430_period_1.net')
 
-    args = parameter_parser()
-    tab_printer(args)
-    graph = nx.DiGraph(nx.read_pajek(str(nets) + '\\nets\\3749552\\3749552_Arsenal (1)_period_1.net'))
-    model = MotifCounterMachine(graph, args)
-    model.extract_features()
+    root = os.path.join(src, 'chosen_nets')
+    for match in next(os.walk(root))[1]:
+        l1 = os.path.join(root, match)
+        for team in next(os.walk(l1))[1]:
+            l2 = os.path.join(l1, team)
+            for split_method in next(os.walk(l2))[1]:
+                l3 = os.path.join(l2, split_method)
+                nets = [x for x in os.listdir(l3) if (os.path.isfile(l3+'\\'+x) and x.split('.')[-1]=='net')]
+                assert len(list(nets)) == 2
+                graphs = []
+                for net in nets:
+                    graph = nx.DiGraph(nx.read_pajek(str(l3)+'\\'+net))
+                    graphs.append(graph)
+                med1 = median([weight['weight'] for (a, b, weight) in graphs[0].edges.data()])
+                med2 = median([weight['weight'] for (a, b, weight) in graphs[1].edges.data()])
+
+                cutoff = min(med1, med2)
+
+                for net in nets:
+                    output = l3+'\\'+'pruned_orbital_features_'+net+'.csv'
+                    print(str(l3)+'\\'+net)
+                    graph = nx.DiGraph(nx.read_pajek(str(l3)+'\\'+net))
+                    graph_pruned = nx.DiGraph()
+                    graph_pruned.add_nodes_from(list(graph.nodes))
+                    graph_pruned.add_edges_from([(a, b) for (a, b, c) in graph.edges.data() if c['weight'] > cutoff])
+                    model = MotifCounterMachine(graph_pruned, output)
+                    model.extract_features()
+
+
 

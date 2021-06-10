@@ -1,0 +1,7 @@
+ID: 7567   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: South Korea (791), goals: 2   
+Away team: Germany (770), goals: 0    

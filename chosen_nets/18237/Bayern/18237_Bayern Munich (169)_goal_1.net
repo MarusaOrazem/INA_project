@@ -1,0 +1,32 @@
+*vertices 10
+1 "Arjen Robben" 0.0 0.0 ellipse
+2 "Toni Kroos" 0.0 0.0 ellipse
+3 "Franck Bilal Ribéry" 0.0 0.0 ellipse
+4 "Bastian Schweinsteiger" 0.0 0.0 ellipse
+5 "Mario Gómez García" 0.0 0.0 ellipse
+6 "Philipp Lahm" 0.0 0.0 ellipse
+7 "Jérôme Boateng" 0.0 0.0 ellipse
+8 "Anatoliy Tymoshchuk" 0.0 0.0 ellipse
+9 "Manuel Neuer" 0.0 0.0 ellipse
+10 "Thomas Müller/Daniel Van Buyten" 0.0 0.0 ellipse
+*arcs
+1 2 1
+1 3 1
+1 6 2
+2 1 1
+2 8 1
+3 1 1
+3 4 1
+4 3 1
+4 6 1
+5 4 1
+6 1 2
+6 2 2
+6 9 1
+6 10 2
+7 3 2
+7 8 1
+8 6 2
+9 10 1
+10 1 2
+10 7 2

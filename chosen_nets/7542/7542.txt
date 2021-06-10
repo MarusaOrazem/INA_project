@@ -1,0 +1,7 @@
+ID: 7542   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Portugal (780), goals: 1   
+Away team: Morocco (788), goals: 0    
