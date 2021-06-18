@@ -5,3 +5,13 @@ Season: 2012/2013
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Real Betis (218), goals: 2    
+Goal time: (1, 42)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 0.45    
+Before goal: Time in possession for away team 218: 1.1666666666666667    
+After goal: Time in possession for home team 217: 65.05    
+After goal: Time in possession for away team 218: 25.966666666666665    
+Before card: Time in possession for home team 217: 65.5    
+Before card: Time in possession for away team 218: 27.216666666666665    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 218: -0.016666666666666666    

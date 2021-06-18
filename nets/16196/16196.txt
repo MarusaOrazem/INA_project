@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: male     
 Home team: Real Madrid (220), goals: 0   
 Away team: Barcelona (217), goals: 1    
+Goal time: (25, 37)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 220: 10.35    
+Before goal: Time in possession for away team 217: 14.95    
+After goal: Time in possession for home team 220: 37.36666666666667    
+After goal: Time in possession for away team 217: 30.466666666666665    
+Before card: Time in possession for home team 220: 47.71666666666667    
+Before card: Time in possession for away team 217: 45.733333333333334    
+After card: Time in possession for home team 220: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

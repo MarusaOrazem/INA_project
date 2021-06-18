@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Sevilla (213), goals: 0    
+Goal time: (26, 36)   
+Card time: (86, 27)   
+Before goal: Time in possession for home team 217: 15.55    
+Before goal: Time in possession for away team 213: 10.466666666666667    
+After goal: Time in possession for home team 217: 34.35    
+After goal: Time in possession for away team 213: 30.966666666666665    
+Before card: Time in possession for home team 217: 49.083333333333336    
+Before card: Time in possession for away team 213: 37.63333333333333    
+After card: Time in possession for home team 217: 1.4    
+After card: Time in possession for away team 213: 45.03333333333333    

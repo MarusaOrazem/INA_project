@@ -5,3 +5,13 @@ Season: 2015/2016
 Gender: male     
 Home team: Levante (221), goals: 0   
 Away team: Barcelona (217), goals: 2    
+Goal time: (91, 10)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 221: 34.983333333333334    
+Before goal: Time in possession for away team 217: 55.9    
+After goal: Time in possession for home team 221: 0.0    
+After goal: Time in possession for away team 217: 46.166666666666664    
+Before card: Time in possession for home team 221: 34.983333333333334    
+Before card: Time in possession for away team 217: 56.06666666666667    
+After card: Time in possession for home team 221: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

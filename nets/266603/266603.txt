@@ -5,3 +5,13 @@ Season: 2013/2014
 Gender: male     
 Home team: Real Valladolid (901), goals: 1   
 Away team: Barcelona (217), goals: 0    
+Goal time: (16, 33)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 901: 5.166666666666667    
+Before goal: Time in possession for away team 217: 10.333333333333334    
+After goal: Time in possession for home team 901: 24.033333333333335    
+After goal: Time in possession for away team 217: 52.333333333333336    
+Before card: Time in possession for home team 901: 30.25    
+Before card: Time in possession for away team 217: 62.666666666666664    
+After card: Time in possession for home team 901: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

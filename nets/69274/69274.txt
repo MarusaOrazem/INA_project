@@ -5,3 +5,13 @@ Season: 2010/2011
 Gender: male     
 Home team: Valencia (207), goals: 0   
 Away team: Barcelona (217), goals: 1    
+Goal time: (76, 5)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 207: 31.55    
+Before goal: Time in possession for away team 217: 43.13333333333333    
+After goal: Time in possession for home team 207: 8.883333333333333    
+After goal: Time in possession for away team 217: 39.05    
+Before card: Time in possession for home team 207: 40.43333333333333    
+Before card: Time in possession for away team 217: 53.36666666666667    
+After card: Time in possession for home team 207: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

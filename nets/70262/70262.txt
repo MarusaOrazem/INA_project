@@ -5,3 +5,13 @@ Season: 2012/2013
 Gender: male     
 Home team: Osasuna (422), goals: 1   
 Away team: Barcelona (217), goals: 2    
+Goal time: (16, 25)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 422: 4.483333333333333    
+Before goal: Time in possession for away team 217: 11.466666666666667    
+After goal: Time in possession for home team 422: 30.016666666666666    
+After goal: Time in possession for away team 217: 46.86666666666667    
+Before card: Time in possession for home team 422: 34.96666666666667    
+Before card: Time in possession for away team 217: 58.333333333333336    
+After card: Time in possession for home team 422: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

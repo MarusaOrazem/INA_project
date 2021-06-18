@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: male     
 Home team: Valencia (207), goals: 2   
 Away team: Barcelona (217), goals: 0    
+Goal time: (47, 9)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 207: 17.85    
+Before goal: Time in possession for away team 217: 29.916666666666668    
+After goal: Time in possession for home team 207: 21.35    
+After goal: Time in possession for away team 217: 27.466666666666665    
+Before card: Time in possession for home team 207: 37.7    
+Before card: Time in possession for away team 217: 57.38333333333333    
+After card: Time in possession for home team 207: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

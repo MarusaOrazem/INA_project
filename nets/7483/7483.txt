@@ -5,3 +5,13 @@ Season: 2018
 Gender: female     
 Home team: Utah Royals (767), goals: 1   
 Away team: Orlando Pride (764), goals: 2    
+Goal time: (7, 19)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 767: 1.9666666666666666    
+Before goal: Time in possession for away team 764: 2.533333333333333    
+After goal: Time in possession for home team 767: 47.86666666666667    
+After goal: Time in possession for away team 764: 46.333333333333336    
+Before card: Time in possession for home team 767: 52.65    
+Before card: Time in possession for away team 764: 48.86666666666667    
+After card: Time in possession for home team 767: -0.016666666666666666    
+After card: Time in possession for away team 764: -0.016666666666666666    

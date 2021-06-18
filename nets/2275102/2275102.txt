@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Brighton & Hove Albion WFC (965), goals: 2   
 Away team: Reading WFC (974), goals: 2    
+Goal time: (14, 2)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 965: 4.4    
+Before goal: Time in possession for away team 974: 8.3    
+After goal: Time in possession for home team 965: 35.71666666666667    
+After goal: Time in possession for away team 974: 48.46666666666667    
+Before card: Time in possession for home team 965: 40.11666666666667    
+Before card: Time in possession for away team 974: 58.1    
+After card: Time in possession for home team 965: -0.016666666666666666    
+After card: Time in possession for away team 974: -0.016666666666666666    

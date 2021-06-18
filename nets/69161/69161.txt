@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Spain Women's (863), goals: 1   
 Away team: United States Women's (1214), goals: 2    
+Goal time: (6, 6)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 863: 1.5166666666666666    
+Before goal: Time in possession for away team 1214: 2.7333333333333334    
+After goal: Time in possession for home team 863: 33.9    
+After goal: Time in possession for away team 1214: 60.13333333333333    
+Before card: Time in possession for home team 863: 35.416666666666664    
+Before card: Time in possession for away team 1214: 64.71666666666667    
+After card: Time in possession for home team 863: -0.016666666666666666    
+After card: Time in possession for away team 1214: -0.016666666666666666    

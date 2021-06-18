@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Manchester City WFC (746), goals: 1   
 Away team: Liverpool WFC (966), goals: 0    
+Goal time: (19, 50)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 746: 13.016666666666667    
+Before goal: Time in possession for away team 966: 6.15    
+After goal: Time in possession for home team 746: 43.083333333333336    
+After goal: Time in possession for away team 966: 28.65    
+Before card: Time in possession for home team 746: 56.766666666666666    
+Before card: Time in possession for away team 966: 34.8    
+After card: Time in possession for home team 746: -0.016666666666666666    
+After card: Time in possession for away team 966: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2012/2013
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Deportivo La Coruna (219), goals: 0    
+Goal time: (37, 38)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 26.9    
+Before goal: Time in possession for away team 219: 10.366666666666667    
+After goal: Time in possession for home team 217: 37.25    
+After goal: Time in possession for away team 219: 17.566666666666666    
+Before card: Time in possession for home team 217: 64.51666666666667    
+Before card: Time in possession for away team 219: 27.933333333333334    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 219: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Everton LFC (967), goals: 1   
 Away team: West Ham United LFC (972), goals: 2    
+Goal time: (4, 45)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 967: 2.75    
+Before goal: Time in possession for away team 972: 1.65    
+After goal: Time in possession for home team 967: 50.766666666666666    
+After goal: Time in possession for away team 972: 41.083333333333336    
+Before card: Time in possession for home team 967: 53.86666666666667    
+Before card: Time in possession for away team 972: 42.733333333333334    
+After card: Time in possession for home team 967: -0.016666666666666666    
+After card: Time in possession for away team 972: -0.016666666666666666    

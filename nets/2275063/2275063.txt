@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Chelsea FCW (971), goals: 2   
 Away team: Arsenal WFC (968), goals: 1    
+Goal time: (8, 34)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 971: 4.816666666666666    
+Before goal: Time in possession for away team 968: 2.9833333333333334    
+After goal: Time in possession for home team 971: 37.68333333333333    
+After goal: Time in possession for away team 968: 48.68333333333333    
+Before card: Time in possession for home team 971: 42.5    
+Before card: Time in possession for away team 968: 52.43333333333333    
+After card: Time in possession for home team 971: -0.016666666666666666    
+After card: Time in possession for away team 968: -0.016666666666666666    

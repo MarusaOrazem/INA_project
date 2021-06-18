@@ -5,3 +5,13 @@ Season: 2010/2011
 Gender: male     
 Home team: Deportivo La Coruna (219), goals: 0   
 Away team: Barcelona (217), goals: 4    
+Goal time: (25, 40)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 219: 6.833333333333333    
+Before goal: Time in possession for away team 217: 18.3    
+After goal: Time in possession for home team 219: 20.4    
+After goal: Time in possession for away team 217: 45.63333333333333    
+Before card: Time in possession for home team 219: 27.233333333333334    
+Before card: Time in possession for away team 217: 64.46666666666667    
+After card: Time in possession for home team 219: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

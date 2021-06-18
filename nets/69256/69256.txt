@@ -5,3 +5,13 @@ Season: 2009/2010
 Gender: male     
 Home team: Barcelona (217), goals: 1   
 Away team: Almería (403), goals: 0    
+Goal time: (30, 55)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 23.166666666666668    
+Before goal: Time in possession for away team 403: 7.133333333333334    
+After goal: Time in possession for home team 217: 41.71666666666667    
+After goal: Time in possession for away team 403: 20.083333333333332    
+Before card: Time in possession for home team 217: 65.5    
+Before card: Time in possession for away team 403: 27.216666666666665    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 403: -0.016666666666666666    

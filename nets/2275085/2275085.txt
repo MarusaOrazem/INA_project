@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Tottenham Hotspur Women (749), goals: 1   
 Away team: Manchester City WFC (746), goals: 4    
+Goal time: (1, 53)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 749: 0.45    
+Before goal: Time in possession for away team 746: 1.1666666666666667    
+After goal: Time in possession for home team 749: 31.733333333333334    
+After goal: Time in possession for away team 746: 60.9    
+Before card: Time in possession for home team 749: 32.18333333333333    
+Before card: Time in possession for away team 746: 62.333333333333336    
+After card: Time in possession for home team 749: -0.016666666666666666    
+After card: Time in possession for away team 746: -0.016666666666666666    

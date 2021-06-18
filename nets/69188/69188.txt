@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Netherlands Women's (851), goals: 2   
 Away team: Japan Women's (1210), goals: 1    
+Goal time: (16, 2)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 851: 6.75    
+Before goal: Time in possession for away team 1210: 7.333333333333333    
+After goal: Time in possession for home team 851: 44.916666666666664    
+After goal: Time in possession for away team 1210: 35.583333333333336    
+Before card: Time in possession for home team 851: 53.61666666666667    
+Before card: Time in possession for away team 1210: 42.916666666666664    
+After card: Time in possession for home team 851: -0.016666666666666666    
+After card: Time in possession for away team 1210: -0.016666666666666666    

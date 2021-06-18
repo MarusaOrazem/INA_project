@@ -5,3 +5,13 @@ Season: 2008/2009
 Gender: male     
 Home team: Villarreal (222), goals: 1   
 Away team: Barcelona (217), goals: 2    
+Goal time: (47, 12)   
+Card time: (73, 52)   
+Before goal: Time in possession for home team 222: 20.65    
+Before goal: Time in possession for away team 217: 26.266666666666666    
+After goal: Time in possession for home team 222: 24.766666666666666    
+After goal: Time in possession for away team 217: 24.9    
+Before card: Time in possession for home team 222: 30.866666666666667    
+Before card: Time in possession for away team 217: 42.75    
+After card: Time in possession for home team 222: 41.25    
+After card: Time in possession for away team 217: 8.416666666666666    

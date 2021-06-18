@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: France Women's (861), goals: 4   
 Away team: Korea Republic Women's (1211), goals: 0    
+Goal time: (8, 52)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 861: 6.05    
+Before goal: Time in possession for away team 1211: 2.683333333333333    
+After goal: Time in possession for home team 861: 61.06666666666667    
+After goal: Time in possession for away team 1211: 23.783333333333335    
+Before card: Time in possession for home team 861: 67.25    
+Before card: Time in possession for away team 1211: 26.466666666666665    
+After card: Time in possession for home team 861: -0.016666666666666666    
+After card: Time in possession for away team 1211: -0.016666666666666666    

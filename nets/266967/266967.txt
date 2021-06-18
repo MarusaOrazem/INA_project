@@ -5,3 +5,13 @@ Season: 2014/2015
 Gender: male     
 Home team: Eibar (322), goals: 0   
 Away team: Barcelona (217), goals: 2    
+Goal time: (30, 56)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 322: 8.6    
+Before goal: Time in possession for away team 217: 20.333333333333332    
+After goal: Time in possession for home team 322: 26.483333333333334    
+After goal: Time in possession for away team 217: 35.8    
+Before card: Time in possession for home team 322: 35.083333333333336    
+Before card: Time in possession for away team 217: 58.13333333333333    
+After card: Time in possession for home team 322: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

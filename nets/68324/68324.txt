@@ -5,3 +5,13 @@ Season: 2005/2006
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Deportivo Alavés (206), goals: 0    
+Goal time: (46, 13)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 31.416666666666668    
+Before goal: Time in possession for away team 206: 16.0    
+After goal: Time in possession for home team 217: 30.916666666666668    
+After goal: Time in possession for away team 206: 17.383333333333333    
+Before card: Time in possession for home team 217: 61.36666666666667    
+Before card: Time in possession for away team 206: 33.38333333333333    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 206: -0.016666666666666666    

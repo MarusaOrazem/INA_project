@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Chelsea FCW (971), goals: 5   
 Away team: Yeovil Town LFC (970), goals: 0    
+Goal time: (19, 23)   
+Card time: (37, 14)   
+Before goal: Time in possession for home team 971: 12.6    
+Before goal: Time in possession for away team 970: 4.833333333333333    
+After goal: Time in possession for home team 971: 55.81666666666667    
+After goal: Time in possession for away team 970: 19.5    
+Before card: Time in possession for home team 971: 25.2    
+Before card: Time in possession for away team 970: 11.9    
+After card: Time in possession for home team 971: 45.03333333333333    
+After card: Time in possession for away team 970: 12.433333333333334    

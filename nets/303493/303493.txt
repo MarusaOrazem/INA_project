@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: male     
 Home team: Barcelona (217), goals: 1   
 Away team: Athletic Bilbao (215), goals: 0    
+Goal time: (70, 47)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 48.65    
+Before goal: Time in possession for away team 215: 22.5    
+After goal: Time in possession for home team 217: 39.833333333333336    
+After goal: Time in possession for away team 215: 7.933333333333334    
+Before card: Time in possession for home team 217: 63.81666666666667    
+Before card: Time in possession for away team 215: 30.433333333333334    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 215: -0.016666666666666666    

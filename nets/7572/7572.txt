@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Japan (778), goals: 0   
 Away team: Poland (789), goals: 1    
+Goal time: (58, 55)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 778: 28.2    
+Before goal: Time in possession for away team 789: 29.7    
+After goal: Time in possession for home team 778: 13.416666666666666    
+After goal: Time in possession for away team 789: 30.35    
+Before card: Time in possession for home team 778: 41.61666666666667    
+Before card: Time in possession for away team 789: 47.18333333333333    
+After card: Time in possession for home team 778: -0.016666666666666666    
+After card: Time in possession for away team 789: -0.016666666666666666    

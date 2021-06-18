@@ -5,3 +5,13 @@ Season: 2015/2016
 Gender: male     
 Home team: Las Palmas (208), goals: 1   
 Away team: Barcelona (217), goals: 2    
+Goal time: (5, 44)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 208: 2.316666666666667    
+Before goal: Time in possession for away team 217: 2.966666666666667    
+After goal: Time in possession for home team 208: 40.21666666666667    
+After goal: Time in possession for away team 217: 43.75    
+Before card: Time in possession for home team 208: 42.53333333333333    
+Before card: Time in possession for away team 217: 47.166666666666664    
+After card: Time in possession for home team 208: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

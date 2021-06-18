@@ -5,3 +5,13 @@ Season: 2006/2007
 Gender: male     
 Home team: Real Madrid (220), goals: 2   
 Away team: Barcelona (217), goals: 0    
+Goal time: (2, 3)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 220: 0.9833333333333333    
+Before goal: Time in possession for away team 217: 0.8    
+After goal: Time in possession for home team 220: 31.25    
+After goal: Time in possession for away team 217: 54.18333333333333    
+Before card: Time in possession for home team 220: 32.5    
+Before card: Time in possession for away team 217: 54.983333333333334    
+After card: Time in possession for home team 220: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

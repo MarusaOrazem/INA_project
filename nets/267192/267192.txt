@@ -5,3 +5,13 @@ Season: 2013/2014
 Gender: male     
 Home team: Celta Vigo (209), goals: 0   
 Away team: Barcelona (217), goals: 3    
+Goal time: (8, 27)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 209: 3.1666666666666665    
+Before goal: Time in possession for away team 217: 5.2    
+After goal: Time in possession for home team 209: 34.36666666666667    
+After goal: Time in possession for away team 217: 46.86666666666667    
+Before card: Time in possession for home team 209: 37.53333333333333    
+Before card: Time in possession for away team 217: 52.15    
+After card: Time in possession for home team 209: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

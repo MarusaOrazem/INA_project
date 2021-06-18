@@ -5,3 +5,13 @@ Season: 2015/2016
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Granada (1049), goals: 0    
+Goal time: (7, 7)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 3.75    
+Before goal: Time in possession for away team 1049: 0.9166666666666666    
+After goal: Time in possession for home team 217: 52.166666666666664    
+After goal: Time in possession for away team 1049: 30.833333333333332    
+Before card: Time in possession for home team 217: 58.36666666666667    
+Before card: Time in possession for away team 1049: 31.75    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 1049: -0.016666666666666666    

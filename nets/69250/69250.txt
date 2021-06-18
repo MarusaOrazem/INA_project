@@ -5,3 +5,13 @@ Season: 2009/2010
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Mallorca (1043), goals: 2    
+Goal time: (10, 33)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 6.6    
+Before goal: Time in possession for away team 1043: 3.6333333333333333    
+After goal: Time in possession for home team 217: 52.71666666666667    
+After goal: Time in possession for away team 1043: 30.083333333333332    
+Before card: Time in possession for home team 217: 59.63333333333333    
+Before card: Time in possession for away team 1043: 33.71666666666667    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 1043: -0.016666666666666666    

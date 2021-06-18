@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: England Women's (865), goals: 1   
 Away team: Argentina Women's (1204), goals: 0    
+Goal time: (60, 40)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 865: 43.916666666666664    
+Before goal: Time in possession for away team 1204: 17.35    
+After goal: Time in possession for home team 865: 43.016666666666666    
+After goal: Time in possession for away team 1204: 6.116666666666666    
+Before card: Time in possession for home team 865: 71.56666666666666    
+Before card: Time in possession for away team 1204: 23.466666666666665    
+After card: Time in possession for home team 865: -0.016666666666666666    
+After card: Time in possession for away team 1204: -0.016666666666666666    

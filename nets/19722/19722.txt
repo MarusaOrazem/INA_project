@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Yeovil Town LFC (970), goals: 0   
 Away team: Arsenal WFC (968), goals: 7    
+Goal time: (19, 19)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 970: 3.066666666666667    
+Before goal: Time in possession for away team 968: 15.166666666666666    
+After goal: Time in possession for home team 970: 20.983333333333334    
+After goal: Time in possession for away team 968: 54.15    
+Before card: Time in possession for home team 970: 24.05    
+Before card: Time in possession for away team 968: 70.4    
+After card: Time in possession for home team 970: -0.016666666666666666    
+After card: Time in possession for away team 968: -0.016666666666666666    

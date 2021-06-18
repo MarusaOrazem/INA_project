@@ -5,3 +5,13 @@ Season: 2004/2005
 Gender: male     
 Home team: AC Milan (243), goals: 3   
 Away team: Liverpool (24), goals: 3    
+Goal time: (0, 51)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 243: 0.0    
+Before goal: Time in possession for away team 24: 0.11666666666666667    
+After goal: Time in possession for home team 243: 47.7    
+After goal: Time in possession for away team 24: 43.53333333333333    
+Before card: Time in possession for home team 243: 48.43333333333333    
+Before card: Time in possession for away team 24: 43.65    
+After card: Time in possession for home team 243: -0.016666666666666666    
+After card: Time in possession for away team 24: -0.016666666666666666    

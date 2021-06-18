@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: male     
 Home team: Eibar (322), goals: 2   
 Away team: Barcelona (217), goals: 2    
+Goal time: (19, 40)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 322: 9.466666666666667    
+Before goal: Time in possession for away team 217: 9.7    
+After goal: Time in possession for home team 322: 30.65    
+After goal: Time in possession for away team 217: 43.35    
+Before card: Time in possession for home team 322: 40.61666666666667    
+Before card: Time in possession for away team 217: 53.05    
+After card: Time in possession for home team 322: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

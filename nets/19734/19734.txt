@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Everton LFC (967), goals: 3   
 Away team: Brighton & Hove Albion WFC (965), goals: 3    
+Goal time: (2, 1)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 967: 0.0    
+Before goal: Time in possession for away team 965: 0.0    
+After goal: Time in possession for home team 967: 42.68333333333333    
+After goal: Time in possession for away team 965: 49.28333333333333    
+Before card: Time in possession for home team 967: 42.68333333333333    
+Before card: Time in possession for away team 965: 51.3    
+After card: Time in possession for home team 967: -0.016666666666666666    
+After card: Time in possession for away team 965: -0.016666666666666666    

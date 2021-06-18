@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Brazil Women's (1203), goals: 3   
 Away team: Jamaica Women's (1212), goals: 0    
+Goal time: (14, 55)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1203: 9.95    
+Before goal: Time in possession for away team 1212: 3.45    
+After goal: Time in possession for home team 1203: 43.96666666666667    
+After goal: Time in possession for away team 1212: 35.45    
+Before card: Time in possession for home team 1203: 55.43333333333333    
+Before card: Time in possession for away team 1212: 38.9    
+After card: Time in possession for home team 1203: -0.016666666666666666    
+After card: Time in possession for away team 1212: -0.016666666666666666    

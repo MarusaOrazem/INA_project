@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: West Ham United LFC (972), goals: 2   
 Away team: Bristol City WFC (973), goals: 0    
+Goal time: (12, 52)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 972: 8.516666666666667    
+Before goal: Time in possession for away team 973: 4.166666666666667    
+After goal: Time in possession for home team 972: 42.266666666666666    
+After goal: Time in possession for away team 973: 42.61666666666667    
+Before card: Time in possession for home team 972: 50.78333333333333    
+Before card: Time in possession for away team 973: 46.96666666666667    
+After card: Time in possession for home team 972: -0.016666666666666666    
+After card: Time in possession for away team 973: -0.016666666666666666    

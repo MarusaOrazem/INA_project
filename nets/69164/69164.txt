@@ -5,3 +5,13 @@ Season: 2005/2006
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Málaga (223), goals: 0    
+Goal time: (80, 9)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 55.9    
+Before goal: Time in possession for away team 223: 21.916666666666668    
+After goal: Time in possession for home team 217: 43.666666666666664    
+After goal: Time in possession for away team 223: 5.5    
+Before card: Time in possession for home team 217: 66.91666666666667    
+Before card: Time in possession for away team 223: 27.416666666666668    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 223: -0.016666666666666666    

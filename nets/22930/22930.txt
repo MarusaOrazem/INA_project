@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Spain Women's (863), goals: 3   
 Away team: South Africa Women's (1216), goals: 1    
+Goal time: (24, 18)   
+Card time: (78, 56)   
+Before goal: Time in possession for home team 863: 16.366666666666667    
+Before goal: Time in possession for away team 1216: 7.666666666666667    
+After goal: Time in possession for home team 863: 54.983333333333334    
+After goal: Time in possession for away team 1216: 15.566666666666666    
+Before card: Time in possession for home team 863: 58.05    
+Before card: Time in possession for away team 1216: 21.533333333333335    
+After card: Time in possession for home team 863: 47.083333333333336    
+After card: Time in possession for away team 1216: 1.9666666666666666    

@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: France (771), goals: 4   
 Away team: Croatia (785), goals: 2    
+Goal time: (27, 53)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 771: 12.366666666666667    
+Before goal: Time in possession for away team 785: 14.333333333333334    
+After goal: Time in possession for home team 771: 28.716666666666665    
+After goal: Time in possession for away team 785: 40.95    
+Before card: Time in possession for home team 771: 41.083333333333336    
+Before card: Time in possession for away team 785: 56.46666666666667    
+After card: Time in possession for home team 771: -0.016666666666666666    
+After card: Time in possession for away team 785: -0.016666666666666666    

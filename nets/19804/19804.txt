@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Birmingham City WFC (969), goals: 0   
 Away team: Arsenal WFC (968), goals: 1    
+Goal time: (78, 24)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 969: 37.03333333333333    
+Before goal: Time in possession for away team 968: 41.46666666666667    
+After goal: Time in possession for home team 969: 4.25    
+After goal: Time in possession for away team 968: 45.733333333333334    
+Before card: Time in possession for home team 969: 41.28333333333333    
+Before card: Time in possession for away team 968: 54.6    
+After card: Time in possession for home team 969: -0.016666666666666666    
+After card: Time in possession for away team 968: -0.016666666666666666    

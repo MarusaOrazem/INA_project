@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Birmingham City WFC (969), goals: 3   
 Away team: West Ham United LFC (972), goals: 0    
+Goal time: (18, 48)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 969: 8.133333333333333    
+Before goal: Time in possession for away team 972: 8.833333333333334    
+After goal: Time in possession for home team 969: 47.68333333333333    
+After goal: Time in possession for away team 972: 31.966666666666665    
+Before card: Time in possession for home team 969: 57.65    
+Before card: Time in possession for away team 972: 40.8    
+After card: Time in possession for home team 969: -0.016666666666666666    
+After card: Time in possession for away team 972: -0.016666666666666666    

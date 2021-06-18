@@ -5,3 +5,13 @@ Season: 2013/2014
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Valencia (207), goals: 3    
+Goal time: (6, 23)   
+Card time: (76, 51)   
+Before goal: Time in possession for home team 217: 4.266666666666667    
+Before goal: Time in possession for away team 207: 0.5833333333333334    
+After goal: Time in possession for home team 217: 52.86666666666667    
+After goal: Time in possession for away team 207: 35.43333333333333    
+Before card: Time in possession for home team 217: 49.516666666666666    
+Before card: Time in possession for away team 207: 27.8    
+After card: Time in possession for home team 217: 40.31666666666667    
+After card: Time in possession for away team 207: 8.216666666666667    

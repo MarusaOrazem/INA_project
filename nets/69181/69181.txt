@@ -5,3 +5,13 @@ Season: 2007/2008
 Gender: male     
 Home team: Athletic Bilbao (215), goals: 1   
 Away team: Barcelona (217), goals: 1    
+Goal time: (34, 4)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 215: 12.95    
+Before goal: Time in possession for away team 217: 20.75    
+After goal: Time in possession for home team 215: 30.5    
+After goal: Time in possession for away team 217: 27.216666666666665    
+Before card: Time in possession for home team 215: 43.45    
+Before card: Time in possession for away team 217: 48.333333333333336    
+After card: Time in possession for home team 215: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

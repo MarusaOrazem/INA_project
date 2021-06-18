@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Norway Women's (852), goals: 3   
 Away team: Nigeria Women's (1213), goals: 0    
+Goal time: (16, 51)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 852: 8.3    
+Before goal: Time in possession for away team 1213: 7.866666666666666    
+After goal: Time in possession for home team 852: 47.05    
+After goal: Time in possession for away team 1213: 34.516666666666666    
+Before card: Time in possession for home team 852: 56.03333333333333    
+Before card: Time in possession for away team 1213: 42.38333333333333    
+After card: Time in possession for home team 852: -0.016666666666666666    
+After card: Time in possession for away team 1213: -0.016666666666666666    

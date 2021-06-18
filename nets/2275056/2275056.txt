@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Liverpool WFC (966), goals: 0   
 Away team: Everton LFC (967), goals: 1    
+Goal time: (45, 47)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 966: 25.383333333333333    
+Before goal: Time in possession for away team 967: 20.3    
+After goal: Time in possession for home team 966: 28.633333333333333    
+After goal: Time in possession for away team 967: 19.433333333333334    
+Before card: Time in possession for home team 966: 54.016666666666666    
+Before card: Time in possession for away team 967: 39.833333333333336    
+After card: Time in possession for home team 966: -0.016666666666666666    
+After card: Time in possession for away team 967: -0.016666666666666666    

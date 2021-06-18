@@ -5,3 +5,13 @@ Season: 2008/2009
 Gender: male     
 Home team: Recreativo Huelva (1220), goals: 0   
 Away team: Barcelona (217), goals: 2    
+Goal time: (50, 59)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1220: 15.966666666666667    
+Before goal: Time in possession for away team 217: 33.93333333333333    
+After goal: Time in possession for home team 1220: 18.733333333333334    
+After goal: Time in possession for away team 217: 28.95    
+Before card: Time in possession for home team 1220: 34.7    
+Before card: Time in possession for away team 217: 58.333333333333336    
+After card: Time in possession for home team 1220: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

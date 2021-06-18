@@ -1,0 +1,7 @@
+ID: 7545   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Argentina (779), goals: 0   
+Away team: Croatia (785), goals: 3    

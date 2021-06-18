@@ -5,3 +5,13 @@ Season: 2015/2016
 Gender: male     
 Home team: Eibar (322), goals: 0   
 Away team: Barcelona (217), goals: 4    
+Goal time: (7, 8)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 322: 1.15    
+Before goal: Time in possession for away team 217: 5.0    
+After goal: Time in possession for home team 322: 33.4    
+After goal: Time in possession for away team 217: 51.21666666666667    
+Before card: Time in possession for home team 322: 34.55    
+Before card: Time in possession for away team 217: 57.2    
+After card: Time in possession for home team 322: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

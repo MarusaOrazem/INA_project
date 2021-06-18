@@ -5,3 +5,13 @@ Season: 2017/2018
 Gender: male     
 Home team: Real Sociedad (210), goals: 2   
 Away team: Barcelona (217), goals: 4    
+Goal time: (10, 50)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 210: 4.9    
+Before goal: Time in possession for away team 217: 5.7    
+After goal: Time in possession for home team 210: 34.233333333333334    
+After goal: Time in possession for away team 217: 45.21666666666667    
+Before card: Time in possession for home team 210: 39.36666666666667    
+Before card: Time in possession for away team 217: 50.916666666666664    
+After card: Time in possession for home team 210: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: England Women's (865), goals: 3   
 Away team: Cameroon Women's (1208), goals: 0    
+Goal time: (13, 58)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 865: 8.916666666666666    
+Before goal: Time in possession for away team 1208: 2.1    
+After goal: Time in possession for home team 865: 61.68333333333333    
+After goal: Time in possession for away team 1208: 28.633333333333333    
+Before card: Time in possession for home team 865: 73.55    
+Before card: Time in possession for away team 1208: 30.733333333333334    
+After card: Time in possession for home team 865: -0.016666666666666666    
+After card: Time in possession for away team 1208: -0.016666666666666666    

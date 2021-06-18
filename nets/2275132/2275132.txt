@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Chelsea FCW (971), goals: 1   
 Away team: Tottenham Hotspur Women (749), goals: 0    
+Goal time: (3, 33)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 971: 2.75    
+Before goal: Time in possession for away team 749: 0.23333333333333334    
+After goal: Time in possession for home team 971: 63.4    
+After goal: Time in possession for away team 749: 29.85    
+Before card: Time in possession for home team 971: 66.15    
+Before card: Time in possession for away team 749: 30.65    
+After card: Time in possession for home team 971: -0.016666666666666666    
+After card: Time in possession for away team 749: -0.016666666666666666    

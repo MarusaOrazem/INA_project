@@ -5,3 +5,13 @@ Season: 2011/2012
 Gender: male     
 Home team: Athletic Bilbao (215), goals: 2   
 Away team: Barcelona (217), goals: 2    
+Goal time: (19, 8)   
+Card time: (89, 12)   
+Before goal: Time in possession for home team 215: 6.45    
+Before goal: Time in possession for away team 217: 12.3    
+After goal: Time in possession for home team 215: 26.233333333333334    
+After goal: Time in possession for away team 217: 45.016666666666666    
+Before card: Time in possession for home team 215: 32.733333333333334    
+Before card: Time in possession for away team 217: 53.666666666666664    
+After card: Time in possession for home team 215: 0.3333333333333333    
+After card: Time in possession for away team 217: 46.95    

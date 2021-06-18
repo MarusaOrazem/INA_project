@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Everton LFC (967), goals: 2   
 Away team: Bristol City WFC (973), goals: 0    
+Goal time: (43, 34)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 967: 26.183333333333334    
+Before goal: Time in possession for away team 973: 17.25    
+After goal: Time in possession for home team 967: 29.716666666666665    
+After goal: Time in possession for away team 973: 22.266666666666666    
+Before card: Time in possession for home team 967: 56.03333333333333    
+Before card: Time in possession for away team 973: 39.516666666666666    
+After card: Time in possession for home team 967: -0.016666666666666666    
+After card: Time in possession for away team 973: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Argentina (779), goals: 1   
 Away team: Iceland (793), goals: 1    
+Goal time: (18, 36)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 779: 11.183333333333334    
+Before goal: Time in possession for away team 793: 3.9    
+After goal: Time in possession for home team 779: 51.5    
+After goal: Time in possession for away team 793: 23.383333333333333    
+Before card: Time in possession for home team 779: 66.2    
+Before card: Time in possession for away team 793: 27.283333333333335    
+After card: Time in possession for home team 779: -0.016666666666666666    
+After card: Time in possession for away team 793: -0.016666666666666666    

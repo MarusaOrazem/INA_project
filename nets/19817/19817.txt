@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Everton LFC (967), goals: 3   
 Away team: Reading WFC (974), goals: 2    
+Goal time: (7, 13)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 967: 1.9833333333333334    
+Before goal: Time in possession for away team 974: 4.566666666666666    
+After goal: Time in possession for home team 967: 37.1    
+After goal: Time in possession for away team 974: 51.166666666666664    
+Before card: Time in possession for home team 967: 39.083333333333336    
+Before card: Time in possession for away team 974: 56.4    
+After card: Time in possession for home team 967: -0.016666666666666666    
+After card: Time in possession for away team 974: -0.016666666666666666    

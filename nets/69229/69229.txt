@@ -5,3 +5,13 @@ Season: 2009/2010
 Gender: male     
 Home team: Getafe (216), goals: 0   
 Away team: Barcelona (217), goals: 2    
+Goal time: (65, 31)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 216: 31.4    
+Before goal: Time in possession for away team 217: 32.733333333333334    
+After goal: Time in possession for home team 216: 11.516666666666667    
+After goal: Time in possession for away team 217: 35.43333333333333    
+Before card: Time in possession for home team 216: 42.916666666666664    
+Before card: Time in possession for away team 217: 48.2    
+After card: Time in possession for home team 216: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

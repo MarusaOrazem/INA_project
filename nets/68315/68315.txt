@@ -5,3 +5,13 @@ Season: 2004/2005
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Levante (221), goals: 1    
+Goal time: (32, 4)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 16.616666666666667    
+Before goal: Time in possession for away team 221: 14.533333333333333    
+After goal: Time in possession for home team 217: 38.53333333333333    
+After goal: Time in possession for away team 221: 24.916666666666668    
+Before card: Time in possession for home team 217: 56.06666666666667    
+Before card: Time in possession for away team 221: 39.45    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 221: -0.016666666666666666    

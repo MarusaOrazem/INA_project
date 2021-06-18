@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Reading WFC (974), goals: 0   
 Away team: Arsenal WFC (968), goals: 3    
+Goal time: (27, 50)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 974: 10.766666666666667    
+Before goal: Time in possession for away team 968: 16.95    
+After goal: Time in possession for home team 974: 33.233333333333334    
+After goal: Time in possession for away team 968: 35.81666666666667    
+Before card: Time in possession for home team 974: 44.0    
+Before card: Time in possession for away team 968: 52.88333333333333    
+After card: Time in possession for home team 974: -0.016666666666666666    
+After card: Time in possession for away team 968: -0.016666666666666666    

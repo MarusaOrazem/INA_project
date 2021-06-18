@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Chelsea FCW (971), goals: 3   
 Away team: Reading WFC (974), goals: 1    
+Goal time: (14, 15)   
+Card time: (15, 16)   
+Before goal: Time in possession for home team 971: 8.383333333333333    
+Before goal: Time in possession for away team 974: 5.5    
+After goal: Time in possession for home team 971: 61.65    
+After goal: Time in possession for away team 974: 21.7    
+Before card: Time in possession for home team 971: 8.383333333333333    
+Before card: Time in possession for away team 974: 5.866666666666666    
+After card: Time in possession for home team 971: 60.63333333333333    
+After card: Time in possession for away team 974: 21.7    

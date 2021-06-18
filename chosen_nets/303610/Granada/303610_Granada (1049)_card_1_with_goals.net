@@ -1,0 +1,35 @@
+*vertices 11
+1 "Rui Tiago Dantas da Silva" 0.0 0.0 ellipse
+2 "Carlos Fernández Luna" 0.0 0.0 ellipse
+3 "José Antonio Rodríguez Díaz" 0.0 0.0 ellipse
+4 "Maxime Gonalons" 0.0 0.0 ellipse
+5 "Domingos Sousa Coutinho Meneses Duarte" 0.0 0.0 ellipse
+6 "Víctor David Díaz Miguel" 0.0 0.0 ellipse
+7 "Darwin Daniel Machís Marcano" 0.0 0.0 ellipse
+8 "Yangel Clemente Herrera Ravelo" 0.0 0.0 ellipse
+9 "Dimitri Foulquier" 0.0 0.0 ellipse
+10 ON_goal 0.0 0.0 ellipse
+11 "Yan Brice Eteki/José Antonio Martínez Gil" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 4 1
+1 8 1
+2 3 1
+2 4 1
+2 6 1
+3 2 2
+4 5 1
+4 7 1
+4 6 1
+5 3 1
+6 3 1
+6 7 1
+6 11 1
+7 9 1
+7 10 1
+8 4 2
+9 3 1
+9 8 1
+9 7 1
+9 4 1
+11 6 1

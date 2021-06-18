@@ -5,3 +5,13 @@ Season: 2003/2004
 Gender: male     
 Home team: Arsenal (1), goals: 2   
 Away team: Leicester City (22), goals: 1    
+Goal time: (25, 24)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1: 16.466666666666665    
+Before goal: Time in possession for away team 22: 8.75    
+After goal: Time in possession for home team 1: 41.88333333333333    
+After goal: Time in possession for away team 22: 25.116666666666667    
+Before card: Time in possession for home team 1: 58.35    
+Before card: Time in possession for away team 22: 34.05    
+After card: Time in possession for home team 1: -0.016666666666666666    
+After card: Time in possession for away team 22: -0.016666666666666666    

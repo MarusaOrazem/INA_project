@@ -5,3 +5,13 @@ Season: 2003/2004
 Gender: male     
 Home team: Arsenal (1), goals: 2   
 Away team: Charlton Athletic (75), goals: 1    
+Goal time: (1, 36)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1: 0.13333333333333333    
+Before goal: Time in possession for away team 75: 0.5666666666666667    
+After goal: Time in possession for home team 1: 51.916666666666664    
+After goal: Time in possession for away team 75: 40.4    
+Before card: Time in possession for home team 1: 52.95    
+Before card: Time in possession for away team 75: 40.96666666666667    
+After card: Time in possession for home team 1: -0.016666666666666666    
+After card: Time in possession for away team 75: -0.016666666666666666    

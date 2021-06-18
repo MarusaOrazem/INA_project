@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Liverpool WFC (966), goals: 1   
 Away team: Chelsea FCW (971), goals: 1    
+Goal time: (4, 17)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 966: 1.1666666666666667    
+Before goal: Time in possession for away team 971: 1.7666666666666666    
+After goal: Time in possession for home team 966: 27.866666666666667    
+After goal: Time in possession for away team 971: 62.31666666666667    
+Before card: Time in possession for home team 966: 30.383333333333333    
+Before card: Time in possession for away team 971: 64.08333333333333    
+After card: Time in possession for home team 966: -0.016666666666666666    
+After card: Time in possession for away team 971: -0.016666666666666666    

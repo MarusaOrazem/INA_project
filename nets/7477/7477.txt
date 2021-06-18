@@ -5,3 +5,13 @@ Season: 2018
 Gender: female     
 Home team: Portland Thorns (765), goals: 4   
 Away team: Utah Royals (767), goals: 0    
+Goal time: (1, 0)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 765: 0.11666666666666667    
+Before goal: Time in possession for away team 767: 0.7166666666666667    
+After goal: Time in possession for home team 765: 46.11666666666667    
+After goal: Time in possession for away team 767: 44.03333333333333    
+Before card: Time in possession for home team 765: 46.4    
+Before card: Time in possession for away team 767: 44.75    
+After card: Time in possession for home team 765: -0.016666666666666666    
+After card: Time in possession for away team 767: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Germany Women's (857), goals: 1   
 Away team: China PR Women's (1207), goals: 0    
+Goal time: (65, 23)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 857: 49.03333333333333    
+Before goal: Time in possession for away team 1207: 18.866666666666667    
+After goal: Time in possession for home team 857: 36.05    
+After goal: Time in possession for away team 1207: 9.533333333333333    
+Before card: Time in possession for home team 857: 65.66666666666667    
+Before card: Time in possession for away team 1207: 28.4    
+After card: Time in possession for home team 857: -0.016666666666666666    
+After card: Time in possession for away team 1207: -0.016666666666666666    

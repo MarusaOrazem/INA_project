@@ -5,3 +5,13 @@ Season: 2014/2015
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Atlético Madrid (212), goals: 1    
+Goal time: (11, 13)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 6.9    
+Before goal: Time in possession for away team 212: 2.8333333333333335    
+After goal: Time in possession for home team 217: 54.666666666666664    
+After goal: Time in possession for away team 212: 27.816666666666666    
+Before card: Time in possession for home team 217: 63.05    
+Before card: Time in possession for away team 212: 30.65    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 212: -0.016666666666666666    

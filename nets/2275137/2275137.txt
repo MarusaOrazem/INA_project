@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Manchester United (1475), goals: 3   
 Away team: Tottenham Hotspur Women (749), goals: 0    
+Goal time: (57, 15)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1475: 39.916666666666664    
+Before goal: Time in possession for away team 749: 17.416666666666668    
+After goal: Time in possession for home team 1475: 39.86666666666667    
+After goal: Time in possession for away team 749: 10.716666666666667    
+Before card: Time in possession for home team 1475: 69.16666666666667    
+Before card: Time in possession for away team 749: 28.133333333333333    
+After card: Time in possession for home team 1475: -0.016666666666666666    
+After card: Time in possession for away team 749: -0.016666666666666666    

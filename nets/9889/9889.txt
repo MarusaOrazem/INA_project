@@ -5,3 +5,13 @@ Season: 2017/2018
 Gender: male     
 Home team: Celta Vigo (209), goals: 2   
 Away team: Barcelona (217), goals: 2    
+Goal time: (35, 33)   
+Card time: (70, 11)   
+Before goal: Time in possession for home team 209: 16.15    
+Before goal: Time in possession for away team 217: 19.316666666666666    
+After goal: Time in possession for home team 209: 31.583333333333332    
+After goal: Time in possession for away team 217: 23.25    
+Before card: Time in possession for home team 209: 32.5    
+Before card: Time in possession for away team 217: 36.55    
+After card: Time in possession for home team 209: 40.3    
+After card: Time in possession for away team 217: 6.1    

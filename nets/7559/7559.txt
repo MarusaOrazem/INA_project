@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Saudi Arabia (799), goals: 2   
 Away team: Egypt (774), goals: 1    
+Goal time: (21, 25)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 799: 12.816666666666666    
+Before goal: Time in possession for away team 774: 8.5    
+After goal: Time in possession for home team 799: 49.95    
+After goal: Time in possession for away team 774: 25.1    
+Before card: Time in possession for home team 799: 62.766666666666666    
+Before card: Time in possession for away team 774: 33.7    
+After card: Time in possession for home team 799: -0.016666666666666666    
+After card: Time in possession for away team 774: -0.016666666666666666    

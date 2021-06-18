@@ -1,0 +1,77 @@
+*vertices 11
+1 "Nikola Milenković" 0.0 0.0 ellipse
+2 "Aleksandar Mitrović" 0.0 0.0 ellipse
+3 "Nemanja Matić" 0.0 0.0 ellipse
+4 "Aleksandar Kolarov" 0.0 0.0 ellipse
+5 "Sergej Milinković-Savić" 0.0 0.0 ellipse
+6 "Adem Ljajić" 0.0 0.0 ellipse
+7 "Dušan Tadić" 0.0 0.0 ellipse
+8 "Milos Veljkovic" 0.0 0.0 ellipse
+9 "Antonio Rukavina" 0.0 0.0 ellipse
+10 "Filip Kostić" 0.0 0.0 ellipse
+11 "Vladimir Stojković" 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 3 2
+1 5 5
+1 11 1
+1 7 2
+2 5 1
+2 10 2
+2 3 1
+3 4 6
+3 8 3
+3 6 3
+3 9 2
+3 2 2
+3 1 1
+3 10 1
+3 5 1
+4 3 2
+4 2 4
+4 1 1
+4 10 2
+4 6 3
+4 8 2
+4 11 2
+4 7 1
+4 9 1
+5 6 6
+5 8 1
+5 3 1
+5 9 2
+5 4 1
+5 1 1
+6 7 3
+6 8 1
+6 2 1
+6 4 6
+6 11 1
+6 10 2
+6 9 1
+6 5 1
+6 3 2
+6 1 1
+7 9 1
+7 10 1
+7 3 2
+7 2 2
+7 5 1
+8 5 1
+8 11 2
+8 1 2
+8 4 1
+8 10 1
+8 3 1
+9 6 1
+9 2 4
+9 5 3
+9 7 3
+9 3 3
+9 11 1
+10 6 3
+10 2 2
+10 9 1
+10 4 1
+10 3 1
+11 2 2

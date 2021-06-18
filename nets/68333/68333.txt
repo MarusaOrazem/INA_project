@@ -5,3 +5,13 @@ Season: 2006/2007
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Athletic Bilbao (215), goals: 0    
+Goal time: (29, 13)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 19.6    
+Before goal: Time in possession for away team 215: 8.583333333333334    
+After goal: Time in possession for home team 217: 45.516666666666666    
+After goal: Time in possession for away team 215: 18.016666666666666    
+Before card: Time in possession for home team 217: 66.15    
+Before card: Time in possession for away team 215: 26.6    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 215: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Arsenal WFC (968), goals: 11   
 Away team: Bristol City WFC (973), goals: 1    
+Goal time: (6, 26)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 968: 3.8833333333333333    
+Before goal: Time in possession for away team 973: 1.3333333333333333    
+After goal: Time in possession for home team 968: 65.58333333333333    
+After goal: Time in possession for away team 973: 22.0    
+Before card: Time in possession for home team 968: 70.68333333333334    
+Before card: Time in possession for away team 973: 23.333333333333332    
+After card: Time in possession for home team 968: -0.016666666666666666    
+After card: Time in possession for away team 973: -0.016666666666666666    

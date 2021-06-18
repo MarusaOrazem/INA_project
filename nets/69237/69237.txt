@@ -5,3 +5,13 @@ Season: 2009/2010
 Gender: male     
 Home team: Atlético Madrid (212), goals: 2   
 Away team: Barcelona (217), goals: 1    
+Goal time: (8, 34)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 212: 3.75    
+Before goal: Time in possession for away team 217: 4.65    
+After goal: Time in possession for home team 212: 35.016666666666666    
+After goal: Time in possession for away team 217: 50.31666666666667    
+Before card: Time in possession for home team 212: 38.93333333333333    
+Before card: Time in possession for away team 217: 54.96666666666667    
+After card: Time in possession for home team 212: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

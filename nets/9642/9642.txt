@@ -5,3 +5,13 @@ Season: 2017/2018
 Gender: male     
 Home team: Atlético Madrid (212), goals: 1   
 Away team: Barcelona (217), goals: 1    
+Goal time: (20, 11)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 212: 6.7    
+Before goal: Time in possession for away team 217: 12.6    
+After goal: Time in possession for home team 212: 20.85    
+After goal: Time in possession for away team 217: 50.18333333333333    
+Before card: Time in possession for home team 212: 28.433333333333334    
+Before card: Time in possession for away team 217: 62.78333333333333    
+After card: Time in possession for home team 212: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

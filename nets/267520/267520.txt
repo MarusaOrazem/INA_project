@@ -5,3 +5,13 @@ Season: 2013/2014
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Real Sociedad (210), goals: 1    
+Goal time: (4, 27)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 1.3833333333333333    
+Before goal: Time in possession for away team 210: 2.283333333333333    
+After goal: Time in possession for home team 217: 61.3    
+After goal: Time in possession for away team 210: 26.616666666666667    
+Before card: Time in possession for home team 217: 63.46666666666667    
+Before card: Time in possession for away team 210: 28.9    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 210: -0.016666666666666666    

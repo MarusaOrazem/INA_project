@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Nigeria Women's (1213), goals: 0   
 Away team: France Women's (861), goals: 1    
+Goal time: (78, 53)   
+Card time: (72, 8)   
+Before goal: Time in possession for home team 1213: 19.633333333333333    
+Before goal: Time in possession for away team 861: 53.61666666666667    
+After goal: Time in possession for home team 1213: 5.566666666666666    
+After goal: Time in possession for away team 861: 46.81666666666667    
+Before card: Time in possession for home team 1213: 19.633333333333333    
+Before card: Time in possession for away team 861: 53.61666666666667    
+After card: Time in possession for home team 1213: 5.566666666666666    
+After card: Time in possession for away team 861: 46.81666666666667    

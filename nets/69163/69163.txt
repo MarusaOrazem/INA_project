@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Sweden Women's (858), goals: 1   
 Away team: Canada Women's (1206), goals: 0    
+Goal time: (54, 23)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 858: 22.183333333333334    
+Before goal: Time in possession for away team 1206: 33.21666666666667    
+After goal: Time in possession for home team 858: 28.3    
+After goal: Time in possession for away team 1206: 20.85    
+Before card: Time in possession for home team 858: 41.25    
+Before card: Time in possession for away team 1206: 54.06666666666667    
+After card: Time in possession for home team 858: -0.016666666666666666    
+After card: Time in possession for away team 1206: -0.016666666666666666    

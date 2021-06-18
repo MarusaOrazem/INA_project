@@ -5,3 +5,13 @@ Season: 2004/2005
 Gender: male     
 Home team: Albacete (608), goals: 1   
 Away team: Barcelona (217), goals: 2    
+Goal time: (1, 21)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 608: 0.55    
+Before goal: Time in possession for away team 217: 0.5333333333333333    
+After goal: Time in possession for home team 608: 48.75    
+After goal: Time in possession for away team 217: 48.11666666666667    
+Before card: Time in possession for home team 608: 49.3    
+Before card: Time in possession for away team 217: 48.916666666666664    
+After card: Time in possession for home team 608: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

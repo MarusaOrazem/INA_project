@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Manchester United (1475), goals: 2   
 Away team: Reading WFC (974), goals: 0    
+Goal time: (15, 31)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1475: 2.7666666666666666    
+Before goal: Time in possession for away team 974: 5.683333333333334    
+After goal: Time in possession for home team 1475: 35.6    
+After goal: Time in possession for away team 974: 50.71666666666667    
+Before card: Time in possession for home team 1475: 45.43333333333333    
+Before card: Time in possession for away team 974: 56.4    
+After card: Time in possession for home team 1475: -0.016666666666666666    
+After card: Time in possession for away team 974: -0.016666666666666666    

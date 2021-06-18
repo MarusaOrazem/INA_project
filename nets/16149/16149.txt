@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: male     
 Home team: Girona (211), goals: 0   
 Away team: Barcelona (217), goals: 2    
+Goal time: (8, 53)   
+Card time: (50, 28)   
+Before goal: Time in possession for home team 211: 3.216666666666667    
+Before goal: Time in possession for away team 217: 4.783333333333333    
+After goal: Time in possession for home team 211: 34.81666666666667    
+After goal: Time in possession for away team 217: 48.75    
+Before card: Time in possession for home team 211: 21.783333333333335    
+Before card: Time in possession for away team 217: 28.366666666666667    
+After card: Time in possession for home team 211: 16.25    
+After card: Time in possession for away team 217: 30.866666666666667    

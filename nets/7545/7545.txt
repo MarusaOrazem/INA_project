@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Argentina (779), goals: 0   
 Away team: Croatia (785), goals: 3    
+Goal time: (52, 35)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 779: 26.666666666666668    
+Before goal: Time in possession for away team 785: 26.4    
+After goal: Time in possession for home team 779: 31.566666666666666    
+After goal: Time in possession for away team 785: 16.85    
+Before card: Time in possession for home team 779: 51.36666666666667    
+Before card: Time in possession for away team 785: 43.25    
+After card: Time in possession for home team 779: -0.016666666666666666    
+After card: Time in possession for away team 785: -0.016666666666666666    

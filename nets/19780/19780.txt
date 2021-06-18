@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Liverpool WFC (966), goals: 0   
 Away team: Brighton & Hove Albion WFC (965), goals: 2    
+Goal time: (33, 4)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 966: 9.933333333333334    
+Before goal: Time in possession for away team 965: 21.65    
+After goal: Time in possession for home team 966: 29.016666666666666    
+After goal: Time in possession for away team 965: 34.016666666666666    
+Before card: Time in possession for home team 966: 38.95    
+Before card: Time in possession for away team 965: 57.15    
+After card: Time in possession for home team 966: -0.016666666666666666    
+After card: Time in possession for away team 965: -0.016666666666666666    

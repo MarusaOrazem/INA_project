@@ -5,3 +5,13 @@ Season: 2012/2013
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Sevilla (213), goals: 1    
+Goal time: (41, 46)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 26.816666666666666    
+Before goal: Time in possession for away team 213: 13.65    
+After goal: Time in possession for home team 217: 31.066666666666666    
+After goal: Time in possession for away team 213: 21.083333333333332    
+Before card: Time in possession for home team 217: 57.88333333333333    
+Before card: Time in possession for away team 213: 36.03333333333333    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 213: -0.016666666666666666    

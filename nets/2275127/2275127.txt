@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Reading WFC (974), goals: 3   
 Away team: Everton LFC (967), goals: 2    
+Goal time: (6, 0)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 974: 1.6333333333333333    
+Before goal: Time in possession for away team 967: 3.5    
+After goal: Time in possession for home team 974: 49.9    
+After goal: Time in possession for away team 967: 38.166666666666664    
+Before card: Time in possession for home team 974: 52.4    
+Before card: Time in possession for away team 967: 41.666666666666664    
+After card: Time in possession for home team 974: -0.016666666666666666    
+After card: Time in possession for away team 967: -0.016666666666666666    

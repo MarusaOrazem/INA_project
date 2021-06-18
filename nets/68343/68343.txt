@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Thailand Women's (1107), goals: 0   
 Away team: Chile Women's (1209), goals: 2    
+Goal time: (77, 31)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1107: 27.266666666666666    
+Before goal: Time in possession for away team 1209: 51.43333333333333    
+After goal: Time in possession for home team 1107: 4.383333333333334    
+After goal: Time in possession for away team 1209: 45.53333333333333    
+Before card: Time in possession for home team 1107: 31.65    
+Before card: Time in possession for away team 1209: 64.81666666666666    
+After card: Time in possession for home team 1107: -0.016666666666666666    
+After card: Time in possession for away team 1209: -0.016666666666666666    

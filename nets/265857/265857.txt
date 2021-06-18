@@ -5,3 +5,13 @@ Season: 2013/2014
 Gender: male     
 Home team: Real Madrid (220), goals: 3   
 Away team: Barcelona (217), goals: 4    
+Goal time: (6, 14)   
+Card time: (62, 42)   
+Before goal: Time in possession for home team 220: 2.25    
+Before goal: Time in possession for away team 217: 2.9833333333333334    
+After goal: Time in possession for home team 220: 31.75    
+After goal: Time in possession for away team 217: 55.5    
+Before card: Time in possession for home team 220: 25.716666666666665    
+Before card: Time in possession for away team 217: 37.5    
+After card: Time in possession for home team 220: 8.283333333333333    
+After card: Time in possession for away team 217: 39.4    

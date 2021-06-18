@@ -5,3 +5,13 @@ Season: 2011/2012
 Gender: male     
 Home team: Real Betis (218), goals: 2   
 Away team: Barcelona (217), goals: 2    
+Goal time: (8, 9)   
+Card time: (52, 22)   
+Before goal: Time in possession for home team 218: 2.8    
+Before goal: Time in possession for away team 217: 3.433333333333333    
+After goal: Time in possession for home team 218: 36.016666666666666    
+After goal: Time in possession for away team 217: 49.13333333333333    
+Before card: Time in possession for home team 218: 19.333333333333332    
+Before card: Time in possession for away team 217: 32.983333333333334    
+After card: Time in possession for home team 218: 26.25    
+After card: Time in possession for away team 217: 21.5    

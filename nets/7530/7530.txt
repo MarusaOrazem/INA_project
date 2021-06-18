@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: France (771), goals: 2   
 Away team: Australia (792), goals: 1    
+Goal time: (57, 9)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 771: 30.35    
+Before goal: Time in possession for away team 792: 23.716666666666665    
+After goal: Time in possession for home team 771: 33.5    
+After goal: Time in possession for away team 792: 16.916666666666668    
+Before card: Time in possession for home team 771: 55.11666666666667    
+Before card: Time in possession for away team 792: 40.63333333333333    
+After card: Time in possession for home team 771: -0.016666666666666666    
+After card: Time in possession for away team 792: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2010/2011
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Sevilla (213), goals: 0    
+Goal time: (3, 40)   
+Card time: (44, 9)   
+Before goal: Time in possession for home team 217: 2.9166666666666665    
+Before goal: Time in possession for away team 213: 0.4666666666666667    
+After goal: Time in possession for home team 217: 58.55    
+After goal: Time in possession for away team 213: 28.216666666666665    
+Before card: Time in possession for home team 217: 31.45    
+Before card: Time in possession for away team 213: 12.483333333333333    
+After card: Time in possession for home team 217: 30.083333333333332    
+After card: Time in possession for away team 213: 16.2    

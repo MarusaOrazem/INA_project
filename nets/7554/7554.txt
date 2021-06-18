@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: England (768), goals: 6   
 Away team: Panama (798), goals: 1    
+Goal time: (7, 48)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 768: 1.4833333333333334    
+Before goal: Time in possession for away team 798: 4.433333333333334    
+After goal: Time in possession for home team 768: 55.68333333333333    
+After goal: Time in possession for away team 798: 33.3    
+Before card: Time in possession for home team 768: 59.05    
+Before card: Time in possession for away team 798: 37.733333333333334    
+After card: Time in possession for home team 768: -0.016666666666666666    
+After card: Time in possession for away team 798: -0.016666666666666666    

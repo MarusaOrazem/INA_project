@@ -5,3 +5,13 @@ Season: 2018
 Gender: female     
 Home team: Sky Blue FC (763), goals: 1   
 Away team: Chicago Red Stars (761), goals: 3    
+Goal time: (39, 14)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 763: 17.366666666666667    
+Before goal: Time in possession for away team 761: 20.883333333333333    
+After goal: Time in possession for home team 763: 25.55    
+After goal: Time in possession for away team 761: 29.416666666666668    
+Before card: Time in possession for home team 763: 42.916666666666664    
+Before card: Time in possession for away team 761: 51.28333333333333    
+After card: Time in possession for home team 763: -0.016666666666666666    
+After card: Time in possession for away team 761: -0.016666666666666666    

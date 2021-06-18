@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Tunisia (777), goals: 1   
 Away team: England (768), goals: 2    
+Goal time: (10, 37)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 777: 3.0    
+Before goal: Time in possession for away team 768: 6.05    
+After goal: Time in possession for home team 777: 28.1    
+After goal: Time in possession for away team 768: 57.81666666666667    
+Before card: Time in possession for home team 777: 31.1    
+Before card: Time in possession for away team 768: 65.43333333333334    
+After card: Time in possession for home team 777: -0.016666666666666666    
+After card: Time in possession for away team 768: -0.016666666666666666    

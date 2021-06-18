@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Manchester United (1475), goals: 4   
 Away team: Brighton & Hove Albion WFC (965), goals: 0    
+Goal time: (9, 6)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1475: 7.416666666666667    
+Before goal: Time in possession for away team 965: 1.6    
+After goal: Time in possession for home team 1475: 51.8    
+After goal: Time in possession for away team 965: 33.93333333333333    
+Before card: Time in possession for home team 1475: 59.3    
+Before card: Time in possession for away team 965: 35.53333333333333    
+After card: Time in possession for home team 1475: -0.016666666666666666    
+After card: Time in possession for away team 965: -0.016666666666666666    

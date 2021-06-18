@@ -5,3 +5,13 @@ Season: 2015/2016
 Gender: male     
 Home team: Barcelona (217), goals: 6   
 Away team: Celta Vigo (209), goals: 1    
+Goal time: (27, 4)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 217: 15.533333333333333    
+Before goal: Time in possession for away team 209: 10.15    
+After goal: Time in possession for home team 217: 43.88333333333333    
+After goal: Time in possession for away team 209: 19.916666666666668    
+Before card: Time in possession for home team 217: 60.8    
+Before card: Time in possession for away team 209: 30.066666666666666    
+After card: Time in possession for home team 217: -0.016666666666666666    
+After card: Time in possession for away team 209: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2013/2014
 Gender: male     
 Home team: Almería (403), goals: 0   
 Away team: Barcelona (217), goals: 2    
+Goal time: (20, 12)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 403: 5.15    
+Before goal: Time in possession for away team 217: 13.233333333333333    
+After goal: Time in possession for home team 403: 25.466666666666665    
+After goal: Time in possession for away team 217: 47.68333333333333    
+Before card: Time in possession for home team 403: 30.616666666666667    
+Before card: Time in possession for away team 217: 62.733333333333334    
+After card: Time in possession for home team 403: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

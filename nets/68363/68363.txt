@@ -5,3 +5,13 @@ Season: 2007/2008
 Gender: male     
 Home team: Real Valladolid (901), goals: 1   
 Away team: Barcelona (217), goals: 1    
+Goal time: (15, 20)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 901: 6.066666666666666    
+Before goal: Time in possession for away team 217: 9.033333333333333    
+After goal: Time in possession for home team 901: 31.816666666666666    
+After goal: Time in possession for away team 217: 45.65    
+Before card: Time in possession for home team 901: 38.11666666666667    
+Before card: Time in possession for away team 217: 54.68333333333333    
+After card: Time in possession for home team 901: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

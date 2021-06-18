@@ -5,3 +5,13 @@ Season: 2008/2009
 Gender: male     
 Home team: Valencia (207), goals: 2   
 Away team: Barcelona (217), goals: 2    
+Goal time: (23, 14)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 207: 11.066666666666666    
+Before goal: Time in possession for away team 217: 11.15    
+After goal: Time in possession for home team 207: 30.483333333333334    
+After goal: Time in possession for away team 217: 42.333333333333336    
+Before card: Time in possession for home team 207: 41.55    
+Before card: Time in possession for away team 217: 54.5    
+After card: Time in possession for home team 207: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

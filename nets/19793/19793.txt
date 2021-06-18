@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Liverpool WFC (966), goals: 1   
 Away team: West Ham United LFC (972), goals: 0    
+Goal time: (48, 15)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 966: 18.766666666666666    
+Before goal: Time in possession for away team 972: 29.0    
+After goal: Time in possession for home team 966: 23.15    
+After goal: Time in possession for away team 972: 29.316666666666666    
+Before card: Time in possession for home team 966: 39.18333333333333    
+Before card: Time in possession for away team 972: 58.31666666666667    
+After card: Time in possession for home team 966: -0.016666666666666666    
+After card: Time in possession for away team 972: -0.016666666666666666    

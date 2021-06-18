@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: West Ham United LFC (972), goals: 2   
 Away team: Brighton & Hove Albion WFC (965), goals: 1    
+Goal time: (22, 57)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 972: 11.566666666666666    
+Before goal: Time in possession for away team 965: 7.283333333333333    
+After goal: Time in possession for home team 972: 39.233333333333334    
+After goal: Time in possession for away team 965: 33.233333333333334    
+Before card: Time in possession for home team 972: 50.8    
+Before card: Time in possession for away team 965: 44.61666666666667    
+After card: Time in possession for home team 972: -0.016666666666666666    
+After card: Time in possession for away team 965: -0.016666666666666666    

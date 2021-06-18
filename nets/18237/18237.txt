@@ -5,3 +5,13 @@ Season: 2011/2012
 Gender: male     
 Home team: Bayern Munich (169), goals: 1   
 Away team: Chelsea (33), goals: 1    
+Goal time: (82, 11)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 169: 49.35    
+Before goal: Time in possession for away team 33: 33.15    
+After goal: Time in possession for home team 169: 41.96666666666667    
+After goal: Time in possession for away team 33: 3.6333333333333333    
+Before card: Time in possession for home team 169: 54.483333333333334    
+Before card: Time in possession for away team 33: 36.78333333333333    
+After card: Time in possession for home team 169: -0.016666666666666666    
+After card: Time in possession for away team 33: -0.016666666666666666    

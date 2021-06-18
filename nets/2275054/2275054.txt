@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Brighton & Hove Albion WFC (965), goals: 1   
 Away team: Liverpool WFC (966), goals: 0    
+Goal time: (32, 28)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 965: 10.333333333333334    
+Before goal: Time in possession for away team 966: 20.116666666666667    
+After goal: Time in possession for home team 965: 20.183333333333334    
+After goal: Time in possession for away team 966: 45.7    
+Before card: Time in possession for home team 965: 32.53333333333333    
+Before card: Time in possession for away team 966: 65.81666666666666    
+After card: Time in possession for home team 965: -0.016666666666666666    
+After card: Time in possession for away team 966: -0.016666666666666666    

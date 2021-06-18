@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: South Africa Women's (1216), goals: 0   
 Away team: China PR Women's (1207), goals: 1    
+Goal time: (39, 21)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1216: 16.783333333333335    
+Before goal: Time in possession for away team 1207: 21.766666666666666    
+After goal: Time in possession for home team 1216: 24.716666666666665    
+After goal: Time in possession for away team 1207: 30.266666666666666    
+Before card: Time in possession for home team 1216: 41.5    
+Before card: Time in possession for away team 1207: 52.833333333333336    
+After card: Time in possession for home team 1216: -0.016666666666666666    
+After card: Time in possession for away team 1207: -0.016666666666666666    

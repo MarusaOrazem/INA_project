@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: male     
 Home team: Villarreal (222), goals: 4   
 Away team: Barcelona (217), goals: 4    
+Goal time: (11, 44)   
+Card time: (85, 22)   
+Before goal: Time in possession for home team 222: 6.05    
+Before goal: Time in possession for away team 217: 3.066666666666667    
+After goal: Time in possession for home team 222: 30.85    
+After goal: Time in possession for away team 217: 50.68333333333333    
+Before card: Time in possession for home team 222: 36.06666666666667    
+Before card: Time in possession for away team 217: 50.31666666666667    
+After card: Time in possession for home team 222: 0.8333333333333334    
+After card: Time in possession for away team 217: 46.21666666666667    

@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: West Ham United LFC (972), goals: 0   
 Away team: Brighton & Hove Albion WFC (965), goals: 4    
+Goal time: (20, 57)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 972: 13.216666666666667    
+Before goal: Time in possession for away team 965: 7.366666666666666    
+After goal: Time in possession for home team 972: 37.56666666666667    
+After goal: Time in possession for away team 965: 37.6    
+Before card: Time in possession for home team 972: 50.78333333333333    
+Before card: Time in possession for away team 965: 45.333333333333336    
+After card: Time in possession for home team 972: -0.016666666666666666    
+After card: Time in possession for away team 965: -0.016666666666666666    

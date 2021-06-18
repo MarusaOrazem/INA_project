@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Egypt (774), goals: 0   
 Away team: Uruguay (783), goals: 1    
+Goal time: (88, 59)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 774: 37.11666666666667    
+Before goal: Time in possession for away team 783: 49.983333333333334    
+After goal: Time in possession for home team 774: 1.5166666666666666    
+After goal: Time in possession for away team 783: 48.333333333333336    
+Before card: Time in possession for home team 774: 38.63333333333333    
+Before card: Time in possession for away team 783: 57.166666666666664    
+After card: Time in possession for home team 774: -0.016666666666666666    
+After card: Time in possession for away team 783: -0.016666666666666666    

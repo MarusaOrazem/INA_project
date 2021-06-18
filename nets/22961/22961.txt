@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Japan Women's (1210), goals: 2   
 Away team: Scotland Women's (866), goals: 1    
+Goal time: (22, 15)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 1210: 10.016666666666667    
+Before goal: Time in possession for away team 866: 11.833333333333334    
+After goal: Time in possession for home team 1210: 34.7    
+After goal: Time in possession for away team 866: 35.483333333333334    
+Before card: Time in possession for home team 1210: 45.11666666666667    
+Before card: Time in possession for away team 866: 47.31666666666667    
+After card: Time in possession for home team 1210: -0.016666666666666666    
+After card: Time in possession for away team 866: -0.016666666666666666    

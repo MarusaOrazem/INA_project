@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Reading WFC (974), goals: 2   
 Away team: West Ham United LFC (972), goals: 0    
+Goal time: (23, 2)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 974: 14.216666666666667    
+Before goal: Time in possession for away team 972: 8.283333333333333    
+After goal: Time in possession for home team 974: 47.916666666666664    
+After goal: Time in possession for away team 972: 23.95    
+Before card: Time in possession for home team 974: 62.666666666666664    
+Before card: Time in possession for away team 972: 32.233333333333334    
+After card: Time in possession for home team 974: -0.016666666666666666    
+After card: Time in possession for away team 972: -0.016666666666666666    

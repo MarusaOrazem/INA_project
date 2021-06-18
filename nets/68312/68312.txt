@@ -5,3 +5,13 @@ Season: 2019
 Gender: female     
 Home team: Italy Women's (855), goals: 0   
 Away team: Brazil Women's (1203), goals: 1    
+Goal time: (73, 41)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 855: 31.833333333333332    
+Before goal: Time in possession for away team 1203: 39.2    
+After goal: Time in possession for home team 855: 10.933333333333334    
+After goal: Time in possession for away team 1203: 36.96666666666667    
+Before card: Time in possession for home team 855: 42.766666666666666    
+Before card: Time in possession for away team 1203: 50.666666666666664    
+After card: Time in possession for home team 855: -0.016666666666666666    
+After card: Time in possession for away team 1203: -0.016666666666666666    

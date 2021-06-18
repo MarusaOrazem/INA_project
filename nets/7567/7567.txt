@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: South Korea (791), goals: 2   
 Away team: Germany (770), goals: 0    
+Goal time: (91, 9)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 791: 26.633333333333333    
+Before goal: Time in possession for away team 770: 65.03333333333333    
+After goal: Time in possession for home team 791: 50.21666666666667    
+After goal: Time in possession for away team 770: 4.1    
+Before card: Time in possession for home team 791: 32.833333333333336    
+Before card: Time in possession for away team 770: 69.13333333333334    
+After card: Time in possession for home team 791: -0.016666666666666666    
+After card: Time in possession for away team 770: -0.016666666666666666    

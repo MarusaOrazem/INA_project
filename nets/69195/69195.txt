@@ -5,3 +5,13 @@ Season: 2008/2009
 Gender: male     
 Home team: Real Betis (218), goals: 2   
 Away team: Barcelona (217), goals: 2    
+Goal time: (17, 32)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 218: 5.066666666666666    
+Before goal: Time in possession for away team 217: 10.633333333333333    
+After goal: Time in possession for home team 218: 19.65    
+After goal: Time in possession for away team 217: 59.833333333333336    
+Before card: Time in possession for home team 218: 26.55    
+Before card: Time in possession for away team 217: 70.46666666666667    
+After card: Time in possession for home team 218: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

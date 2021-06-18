@@ -5,3 +5,13 @@ Season: 2006/2007
 Gender: male     
 Home team: Celta Vigo (209), goals: 2   
 Away team: Barcelona (217), goals: 3    
+Goal time: (41, 29)   
+Card time: (86, 28)   
+Before goal: Time in possession for home team 209: 14.0    
+Before goal: Time in possession for away team 217: 26.966666666666665    
+After goal: Time in possession for home team 209: 19.833333333333332    
+After goal: Time in possession for away team 217: 31.0    
+Before card: Time in possession for home team 209: 33.05    
+Before card: Time in possession for away team 217: 51.71666666666667    
+After card: Time in possession for home team 209: 1.3    
+After card: Time in possession for away team 217: 47.53333333333333    

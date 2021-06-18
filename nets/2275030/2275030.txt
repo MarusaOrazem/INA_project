@@ -5,3 +5,13 @@ Season: 2019/2020
 Gender: female     
 Home team: Brighton & Hove Albion WFC (965), goals: 0   
 Away team: Tottenham Hotspur Women (749), goals: 1    
+Goal time: (66, 11)   
+Card time: (30, 33)   
+Before goal: Time in possession for home team 965: 26.316666666666666    
+Before goal: Time in possession for away team 749: 39.55    
+After goal: Time in possession for home team 965: 11.533333333333333    
+After goal: Time in possession for away team 749: 37.666666666666664    
+Before card: Time in possession for home team 965: 12.666666666666666    
+Before card: Time in possession for away team 749: 17.716666666666665    
+After card: Time in possession for home team 965: 25.183333333333334    
+After card: Time in possession for away team 749: 40.05    

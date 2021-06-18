@@ -5,3 +5,13 @@ Season: 2006/2007
 Gender: male     
 Home team: Real Sociedad (210), goals: 0   
 Away team: Barcelona (217), goals: 2    
+Goal time: (46, 11)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 210: 20.316666666666666    
+Before goal: Time in possession for away team 217: 26.316666666666666    
+After goal: Time in possession for home team 210: 20.266666666666666    
+After goal: Time in possession for away team 217: 28.75    
+Before card: Time in possession for home team 210: 40.583333333333336    
+Before card: Time in possession for away team 217: 54.31666666666667    
+After card: Time in possession for home team 210: -0.016666666666666666    
+After card: Time in possession for away team 217: -0.016666666666666666    

@@ -5,3 +5,13 @@ Season: 2018/2019
 Gender: female     
 Home team: Chelsea FCW (971), goals: 1   
 Away team: Liverpool WFC (966), goals: 0    
+Goal time: (26, 1)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 971: 20.0    
+Before goal: Time in possession for away team 966: 5.516666666666667    
+After goal: Time in possession for home team 971: 51.7    
+After goal: Time in possession for away team 966: 19.233333333333334    
+Before card: Time in possession for home team 971: 72.2    
+Before card: Time in possession for away team 966: 24.75    
+After card: Time in possession for home team 971: -0.016666666666666666    
+After card: Time in possession for away team 966: -0.016666666666666666    
