@@ -1,0 +1,97 @@
+*vertices 11
+1 "Néstor Fernando Muslera Micol" 0.0 0.0 ellipse
+2 "Luis Alberto Suárez Díaz" 0.0 0.0 ellipse
+3 "Lucas Torreira Di Pascua" 0.0 0.0 ellipse
+4 "Matías Vecino Falero" 0.0 0.0 ellipse
+5 "Diego Sebastián Laxalt Suárez" 0.0 0.0 ellipse
+6 "José Martín Cáceres Silva" 0.0 0.0 ellipse
+7 "Sebastián Coates Nión" 0.0 0.0 ellipse
+8 "Diego Roberto Godín Leal" 0.0 0.0 ellipse
+9 "Rodrigo Bentancur Colmán/Giorgian Daniel De Arrascaeta Benedetti" 0.0 0.0 ellipse
+10 "Nahitan Michel Nández Acosta/Cristian Gabriel Rodríguez Barrotti" 0.0 0.0 ellipse
+11 "Edinson Roberto Cavani Gómez/Maximiliano Gómez González" 0.0 0.0 ellipse
+*arcs
+1 2 4
+1 7 2
+1 8 3
+1 4 1
+1 3 2
+1 5 1
+2 3 1
+2 4 2
+2 5 2
+2 6 1
+2 9 4
+2 11 3
+2 10 2
+3 4 8
+3 8 5
+3 7 6
+3 6 7
+3 5 3
+3 2 1
+3 1 1
+3 9 3
+3 10 2
+4 6 7
+4 8 2
+4 5 12
+4 1 1
+4 3 7
+4 7 5
+4 2 7
+4 9 8
+4 10 2
+4 11 6
+5 3 6
+5 8 6
+5 2 6
+5 4 11
+5 7 1
+5 9 3
+5 11 3
+5 10 2
+6 7 16
+6 3 4
+6 4 3
+6 2 2
+6 9 1
+6 10 1
+6 11 1
+7 8 16
+7 6 12
+7 1 3
+7 4 7
+7 3 7
+7 9 4
+7 10 5
+7 11 1
+8 5 9
+8 7 9
+8 4 9
+8 3 10
+8 1 1
+9 5 3
+9 4 4
+9 2 1
+9 6 3
+9 8 2
+9 7 1
+9 3 2
+9 10 1
+9 11 1
+10 7 5
+10 4 3
+10 6 10
+10 3 4
+10 9 1
+10 11 1
+10 5 2
+10 2 1
+11 5 3
+11 3 3
+11 6 1
+11 2 1
+11 7 1
+11 9 1
+11 10 1

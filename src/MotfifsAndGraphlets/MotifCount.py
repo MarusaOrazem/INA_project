@@ -135,6 +135,12 @@ class MotifCounterMachine(object):
         self.motifs = [[n]+[self.features[n][i] for i in  range(self.unique_motif_count)] for n in self.graph.nodes()]
         self.motifs = pd.DataFrame(self.motifs)
         self.motifs.columns = ["id"] + ["role_"+str(index) for index in range(self.unique_motif_count)]
+        sum_motifs = 0
+        for role in self.motifs.columns[1:]:
+            sum_motifs += sum(self.motifs[role])
+        print(self.motifs)
+        for role in self.motifs.columns[1:]:
+            self.motifs[role] = [x/sum_motifs for x in self.motifs[role]]
         self.motifs.to_csv(self.output, index=None)
 
     def write_dictionary(self):

@@ -1,0 +1,17 @@
+ID: 7558   
+Competition: FIFA World Cup    
+Country: International    
+Season: 2018    
+Gender: male     
+Home team: Uruguay (783), goals: 3   
+Away team: Russia (796), goals: 0    
+Goal time: (9, 28)   
+Card time: (35, 28)   
+Before goal: Time in possession for home team 783: 3.433333333333333    
+Before goal: Time in possession for away team 796: 4.6    
+After goal: Time in possession for home team 783: 44.61666666666667    
+After goal: Time in possession for away team 796: 41.6    
+Before card: Time in possession for home team 783: 16.65    
+Before card: Time in possession for away team 796: 18.666666666666668    
+After card: Time in possession for home team 783: 32.68333333333333    
+After card: Time in possession for away team 796: 27.533333333333335    
