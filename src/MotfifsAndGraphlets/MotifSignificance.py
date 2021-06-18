@@ -76,11 +76,12 @@ for match in next(os.walk(root))[1]:
             for net in nets:
                 G = nx.DiGraph(nx.read_pajek(l3+f'\\{net}'))
                 graphs.append(G)
-            med1 = statistics.median([weight['weight'] for (a, b, weight) in graphs[0].edges.data()])
-            med2 = statistics.median([weight['weight'] for (a, b, weight) in graphs[1].edges.data()])
-            cutoff = min(med1, med2)
+            # med1 = statistics.median([weight['weight'] for (a, b, weight) in graphs[0].edges.data()])
+            # med2 = statistics.median([weight['weight'] for (a, b, weight) in graphs[1].edges.data()])
+            # cutoff = min(med1, med2)
             pruned_graphs = []
             for graph in graphs:
+                cutoff = statistics.median([weight['weight'] for (a, b, weight) in graph.edges.data()])
                 G_pruned = nx.DiGraph()
                 G_pruned.add_nodes_from(graph.nodes())
                 G_pruned.add_edges_from([(a, b) for (a, b, c) in graph.edges.data() if c['weight'] > cutoff])
@@ -182,14 +183,14 @@ col_line2 = [[abs(x) for x in list(df[col])] for col in df.columns]
 SPLIT_KIND = "halftime split"
 sns.barplot(data=melted, x='variable', y='value', ax=ax[0])
 sns.barplot(data=melted2, x='variable', y='value', ax=ax[1])
-ax[0].set_title(f'Mean Between-{SPLIT_KIND[0]} Difference - Pruned')
+ax[0].set_title(f'Mean Between-{SPLIT_KIND[0]} Difference - pruned')
 ax[1].set_title(f'Mean Absolute Between-{SPLIT_KIND[0]} Significance difference - pruned')
 ax[1].set_xlabel(r'Motif ordinal number $i$')
 ax[0].set_xlabel(r'Motif ordinal number $i$')
 ax[0].set_ylabel(f'Motif Significance difference \n((+) is first half)')
 ax[1].set_ylabel(f'Absolute Motif Significance difference')
 ax[0].hlines(0, 0, 14, ls='--', color='black')
-plt.suptitle(f'halftime split, pruned (min median), 24 matches, {num_iters} random iters')
+plt.suptitle(f'halftime split, pruned (median of each graph), 24 matches, {num_iters} random iters')
 plt.subplots_adjust(hspace=0.5)
-plt.savefig('./OVERALL SIGNIFICANCE DIFFERENCE')
+plt.savefig('././OVERALL SIGNIFICANCE DIFFERENCE')
 plt.show()

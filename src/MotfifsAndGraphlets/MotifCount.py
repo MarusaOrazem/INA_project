@@ -181,10 +181,10 @@ if __name__ == "__main__":
                 for net in nets:
                     graph = nx.DiGraph(nx.read_pajek(str(l3)+'\\'+net))
                     graphs.append(graph)
-                med1 = median([weight['weight'] for (a, b, weight) in graphs[0].edges.data()])
-                med2 = median([weight['weight'] for (a, b, weight) in graphs[1].edges.data()])
+                # med1 = median([weight['weight'] for (a, b, weight) in graphs[0].edges.data()])
+                # med2 = median([weight['weight'] for (a, b, weight) in graphs[1].edges.data()])
 
-                cutoff = min(med1, med2)
+                #cutoff = min(med1, med2)
 
                 for net in nets:
                     output = l3+'\\'+'pruned_orbital_features_'+net+'.csv'
@@ -192,6 +192,7 @@ if __name__ == "__main__":
                     graph = nx.DiGraph(nx.read_pajek(str(l3)+'\\'+net))
                     graph_pruned = nx.DiGraph()
                     graph_pruned.add_nodes_from(list(graph.nodes))
+                    cutoff = median([weight['weight'] for (a, b, weight) in graph.edges.data()])
                     graph_pruned.add_edges_from([(a, b) for (a, b, c) in graph.edges.data() if c['weight'] > cutoff])
                     model = MotifCounterMachine(graph_pruned, output)
                     model.extract_features()
