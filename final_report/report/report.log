@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.29)  16 JUN 2021 20:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.29)  19 JUN 2021 21:41
 entering extended mode
 **./report.tex
 (report.tex
@@ -1149,29 +1149,25 @@ Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
 File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
-)) (report.aux
-
-LaTeX Warning: Label `fig:example' multiply defined.
-
-)
+)) (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
@@ -1194,7 +1190,7 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-Package hyperref Info: Link coloring ON on input line 28.
+Package hyperref Info: Link coloring ON on input line 32.
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1208,9 +1204,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count364
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
  (report.out) (report.out)
 \@outlinefile=\write4
 \openout4 = `report.out'.
@@ -1258,7 +1254,7 @@ Package newfloat Info: `float' package detected.
 Package newfloat Info: `sidecap' package detected.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 28.
+(lastpage)             ! on input line 32.
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
 Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
 
@@ -1283,14 +1279,14 @@ LaTeX Info: Redefining \selectfont on input line 126.
 \RaggedRightParindent=\skip159
 \JustifyingParindent=\skip160
 )
-LaTeX Info: Redefining \microtypecontext on input line 28.
+LaTeX Info: Redefining \microtypecontext on input line 32.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 28.
+LaTeX Info: Redefining \showhyphens on input line 32.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1300,64 +1296,64 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3
-0.
+4.
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <9> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 30.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 34.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <22> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 30.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 30
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 34.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 34
 .
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 30.
+(Font)              scaled to size 8.54997pt on input line 34.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 30.
+(Font)              scaled to size 8.54997pt on input line 34.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
-0.
+4.
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
-0.
+4.
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-30.
+34.
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-30.
+34.
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 30.
+(Font)              <9> on input line 34.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 30.
+(Font)              <6> on input line 34.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 30.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+(Font)              <5> on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
 
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -1366,7 +1362,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
 
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1376,150 +1372,96 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 5.69998pt on input line 30.
+(Font)              scaled to size 5.69998pt on input line 34.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 30.
+(Font)              scaled to size 6.64998pt on input line 34.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 30.
+(Font)              <7> on input line 34.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 30.
+(Font)              scaled to size 4.74998pt on input line 34.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 32.
+(Font)              scaled to size 7.59998pt on input line 36.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/9'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <22.96867> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 34.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <26> not available
-(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 34.
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 40.
 Package lettrine.sty Info: Targeted height = 15.69254pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 18.05571pt ({\fontfamily {lmss}\bf
-series \fontsize {26pt}{28pt}\selectfont {P}});
-(lettrine.sty)             reported on input line 34.
+series \fontsize {26pt}{28pt}\selectfont {A}});
+(lettrine.sty)             reported on input line 40.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 36.
-<examples.pdf, id=6, 620.3175pt x 188.705pt>
-File: examples.pdf Graphic file (type pdf)
-<use examples.pdf>
-Package pdftex.def Info: examples.pdf  used on input line 38.
-(pdftex.def)             Requested size: 196.87823pt x 59.89157pt.
-<growth.pdf, id=7, 649.42625pt x 175.65625pt>
-File: growth.pdf Graphic file (type pdf)
-<use growth.pdf>
-Package pdftex.def Info: growth.pdf  used on input line 39.
-(pdftex.def)             Requested size: 246.09686pt x 66.56244pt.
-LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 6.64998pt on input line 40.
+(Font)              scaled to size 5.69998pt on input line 47.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 44.
+(Font)              scaled to size 9.49997pt on input line 59.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 44.
+(Font)              scaled to size 9.49997pt on input line 59.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 6.64998pt on input line 63.
 
 [1{C:/Users/vs6309/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
- <./examples.pdf> <./growth.pdf>]
+]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 54.
+(Font)              scaled to size 7.59998pt on input line 67.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.12497pt on input line 55.
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 55.
+(Font)              scaled to size 7.12497pt on input line 68.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 68.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.5> on input line 55.
+(Font)              <7.5> on input line 68.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.24997> on input line 55.
+(Font)              <5.24997> on input line 68.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <3.75> on input line 55.
-<example1.pdf, id=405, 1817.98607pt x 1702.05086pt>
-File: example1.pdf Graphic file (type pdf)
-<use example1.pdf>
-Package pdftex.def Info: example1.pdf  used on input line 67.
-(pdftex.def)             Requested size: 120.5888pt x 112.89668pt.
-<example2.pdf, id=406, 1846.57774pt x 1707.37875pt>
-File: example2.pdf Graphic file (type pdf)
-<use example2.pdf>
-Package pdftex.def Info: example2.pdf  used on input line 68.
-(pdftex.def)             Requested size: 120.5888pt x 111.4785pt.
+(Font)              <3.75> on input line 68.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 73.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 87.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 6.64998pt on input line 73.
- [2 <./example1.pdf> <./example2.pdf>]
-<distributions.pdf, id=420, 217.75856pt x 135.93161pt>
-File: distributions.pdf Graphic file (type pdf)
-<use distributions.pdf>
-Package pdftex.def Info: distributions.pdf  used on input line 75.
-(pdftex.def)             Requested size: 246.09686pt x 153.6258pt.
-<results1.pdf, id=423, 421.575pt x 393.47pt>
-File: results1.pdf Graphic file (type pdf)
-<use results1.pdf>
-Package pdftex.def Info: results1.pdf  used on input line 80.
-(pdftex.def)             Requested size: 110.74283pt x 103.35646pt.
-<results2.pdf, id=424, 421.575pt x 394.47375pt>
-File: results2.pdf Graphic file (type pdf)
-<use results2.pdf>
-Package pdftex.def Info: results2.pdf  used on input line 81.
-(pdftex.def)             Requested size: 110.74283pt x 103.62012pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3 <./distributions.pdf> <./results1.pdf> <./results2.pdf>]
+(Font)              scaled to size 6.64998pt on input line 87.
+ [2]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 95.
- (report.bbl
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 11.
-LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 5.69998pt on input line 11.
-)
+(Font)              <8> on input line 92.
 
+(report.bbl) 
 AED: lastpage setting LastPage
-[4] (report.aux)
+[3] (report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 25965 strings out of 479799
- 478558 string characters out of 2869247
- 1092090 words of memory out of 3000000
- 42177 multiletter control sequences out of 15000+200000
- 653100 words of font info for 183 fonts, out of 3000000 for 9000
+ 25909 strings out of 479799
+ 477564 string characters out of 2869247
+ 1093513 words of memory out of 3000000
+ 42120 multiletter control sequences out of 15000+200000
+ 654874 words of font info for 187 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 122i,11n,124p,1409b,500s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 122i,11n,124p,1919b,492s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.e
 nc}{C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 {C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/
 Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Use
 rs/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Us
-ers/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.
-pfb><C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmss12.pfb><C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmss8.pfb><C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmss9.pfb><C:/Users/vs6309/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/vs6309/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/vs6309/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx8.pfb><C:/Users/vs6309/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users/vs6309/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/vs6309/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/vs6309/AppData/
-Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Users/vs6309/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/vs6309/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/vs6309/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/vs6309/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/vs6309/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/vs6309/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/lm/lmsy9.pfb><C:/Users/vs6309/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/vs6309/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/vs6309/A
-ppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on report.pdf (4 pages, 829633 bytes).
+ers/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx8.pfb><C:/Us
+ers/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Us
+ers/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Us
+ers/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Us
+ers/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Use
+rs/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/User
+s/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users
+/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/
+vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/
+vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Use
+rs/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Use
+rs/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:
+/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb
+><C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8
+a.pfb>
+Output written on report.pdf (3 pages, 250033 bytes).
 PDF statistics:
- 629 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
- 43056 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 44557 words of extra memory for PDF output out of 51595 (max. 10000000)
 
