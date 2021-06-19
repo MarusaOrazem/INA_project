@@ -1,0 +1,17 @@
+ID: 9736   
+Competition: La Liga    
+Country: Spain    
+Season: 2017/2018    
+Gender: male     
+Home team: Real Madrid (220), goals: 0   
+Away team: Barcelona (217), goals: 3    
+Goal time: (53, 32)   
+Card time: (62, 31)   
+Before goal: Time in possession for home team 220: 29.116666666666667    
+Before goal: Time in possession for away team 217: 22.083333333333332    
+After goal: Time in possession for home team 220: 15.55    
+After goal: Time in possession for away team 217: 30.483333333333334    
+Before card: Time in possession for home team 220: 33.86666666666667    
+Before card: Time in possession for away team 217: 26.316666666666666    
+After card: Time in possession for home team 220: 10.8    
+After card: Time in possession for away team 217: 35.233333333333334    

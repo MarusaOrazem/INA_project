@@ -61,7 +61,9 @@ def get_motif_counts(my_graph):
     return motif_counts
 
 src = p.parent.parent
-odiffs = {}
+half_diffs = {}
+goal_diffs = {}
+cards_diffs = {}
 root = os.path.join(src, 'chosen_nets')
 for match in next(os.walk(root))[1]:
     l1 = os.path.join(root, match)
@@ -76,11 +78,12 @@ for match in next(os.walk(root))[1]:
             for net in nets:
                 G = nx.DiGraph(nx.read_pajek(l3+f'\\{net}'))
                 graphs.append(G)
-            med1 = statistics.median([weight['weight'] for (a, b, weight) in graphs[0].edges.data()])
-            med2 = statistics.median([weight['weight'] for (a, b, weight) in graphs[1].edges.data()])
-            cutoff = min(med1, med2)
+            # med1 = statistics.median([weight['weight'] for (a, b, weight) in graphs[0].edges.data()])
+            # med2 = statistics.median([weight['weight'] for (a, b, weight) in graphs[1].edges.data()])
+            # cutoff = min(med1, med2)
             pruned_graphs = []
             for graph in graphs:
+                cutoff = statistics.median([weight['weight'] for (a, b, weight) in graph.edges.data()])
                 G_pruned = nx.DiGraph()
                 G_pruned.add_nodes_from(graph.nodes())
                 G_pruned.add_edges_from([(a, b) for (a, b, c) in graph.edges.data() if c['weight'] > cutoff])
@@ -153,7 +156,12 @@ for match in next(os.walk(root))[1]:
             print(plot_df)
             sns.lineplot(data=plot_df, ax=ax[0])
             diff = plot_df[halfs[0]] - plot_df[halfs[1]]
-            odiffs[(match, team, split_method)] =  diff
+            if split_method == 'periods':
+                half_diffs[(match, team, split_method)] =  diff
+            elif split_method == 'goals':
+                goal_diffs[(match, team, split_method)] =  diff
+            elif split_method == 'cards':
+                cards_diffs[(match, team, split_method)] =  diff
             sns.lineplot(x=range(len(diff)), y=diff, ax=ax[1])
             ax[1].hlines(0, 0, 13, ls='--')
 
@@ -170,26 +178,26 @@ for match in next(os.walk(root))[1]:
             plt.subplots_adjust(hspace=0.5)
             #plt.show()
 
-
-df =pd.DataFrame(odiffs).transpose()
-melted = pd.melt(df)
-melted2 = melted.copy()
-melted2.value = [abs(val) for val in melted2.value]
-print(df.columns)
-fig, ax = plt.subplots(2,1)
-col_line = [list(df[col]) for col in df.columns]
-col_line2 = [[abs(x) for x in list(df[col])] for col in df.columns]
-SPLIT_KIND = "halftime split"
-sns.barplot(data=melted, x='variable', y='value', ax=ax[0])
-sns.barplot(data=melted2, x='variable', y='value', ax=ax[1])
-ax[0].set_title(f'Mean Between-{SPLIT_KIND[0]} Difference - Pruned')
-ax[1].set_title(f'Mean Absolute Between-{SPLIT_KIND[0]} Significance difference - pruned')
-ax[1].set_xlabel(r'Motif ordinal number $i$')
-ax[0].set_xlabel(r'Motif ordinal number $i$')
-ax[0].set_ylabel(f'Motif Significance difference \n((+) is first half)')
-ax[1].set_ylabel(f'Absolute Motif Significance difference')
-ax[0].hlines(0, 0, 14, ls='--', color='black')
-plt.suptitle(f'halftime split, pruned (min median), 24 matches, {num_iters} random iters')
-plt.subplots_adjust(hspace=0.5)
-plt.savefig('./OVERALL SIGNIFICANCE DIFFERENCE')
-plt.show()
+for (diffs, kind) in zip([half_diffs, goal_diffs, cards_diffs], ['Halftime split', 'First Goal Split', 'Dismissal split']):
+    df =pd.DataFrame(diffs).transpose()
+    melted = pd.melt(df)
+    melted2 = melted.copy()
+    melted2.value = [abs(val) for val in melted2.value]
+    print(df.columns)
+    fig, ax = plt.subplots(2,1)
+    col_line = [list(df[col]) for col in df.columns]
+    col_line2 = [[abs(x) for x in list(df[col])] for col in df.columns]
+    SPLIT_KIND = kind
+    sns.boxplot(data=melted, x='variable', y='value', ax=ax[0], showfliers=False)
+    sns.boxplot(data=melted2, x='variable', y='value', ax=ax[1], showfliers=False)
+    ax[0].set_title(f'Mean Between-{SPLIT_KIND[0]} Difference - pruned')
+    ax[1].set_title(f'Mean Absolute Between-{SPLIT_KIND[0]} Significance difference - pruned')
+    ax[1].set_xlabel(r'Motif ordinal number $i$')
+    ax[0].set_xlabel(r'Motif ordinal number $i$')
+    ax[0].set_ylabel(f'Motif Significance difference \n((+) is first half)')
+    ax[1].set_ylabel(f'Absolute Motif Significance difference')
+    #ax[0].hlines(0, 0, 14, ls='--', color='black')
+    plt.suptitle(f'{kind}, pruned (median of each graph), 22 teams, {num_iters} random iters')
+    plt.subplots_adjust(hspace=0.5)
+    plt.savefig(f'OVERALL SIGNIFICANCE DIFFERENCE - {kind}.png', bbox_inches='tight')
+    plt.show()

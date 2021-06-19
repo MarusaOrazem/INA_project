@@ -1,0 +1,17 @@
+ID: 19813   
+Competition: FA Women's Super League    
+Country: England    
+Season: 2018/2019    
+Gender: female     
+Home team: West Ham United LFC (972), goals: 1   
+Away team: Birmingham City WFC (969), goals: 2    
+Goal time: (26, 14)   
+Card time: (40, 22)   
+Before goal: Time in possession for home team 972: 10.416666666666666    
+Before goal: Time in possession for away team 969: 15.15    
+After goal: Time in possession for home team 972: 22.45    
+After goal: Time in possession for away team 969: 49.333333333333336    
+Before card: Time in possession for home team 972: 16.716666666666665    
+Before card: Time in possession for away team 969: 23.65    
+After card: Time in possession for home team 972: 16.816666666666666    
+After card: Time in possession for away team 969: 40.833333333333336    

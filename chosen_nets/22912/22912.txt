@@ -1,7 +1,0 @@
-ID: 22912   
-Competition: Champions League    
-Country: Europe    
-Season: 2018/2019    
-Gender: male     
-Home team: Tottenham Hotspur (38), goals: 0   
-Away team: Liverpool (24), goals: 2    

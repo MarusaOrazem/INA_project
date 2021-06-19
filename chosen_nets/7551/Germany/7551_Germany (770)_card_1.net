@@ -1,0 +1,51 @@
+*vertices 10
+1 "Joshua Kimmich" 0.0 0.0 ellipse
+2 "Antonio Rüdiger" 0.0 0.0 ellipse
+3 "Manuel Neuer" 0.0 0.0 ellipse
+4 "İlkay Gündoğan" 0.0 0.0 ellipse
+5 "Toni Kroos" 0.0 0.0 ellipse
+6 "Thomas Müller" 0.0 0.0 ellipse
+7 "Marco Reus" 0.0 0.0 ellipse
+8 "Mario Gómez García" 0.0 0.0 ellipse
+9 "Timo Werner" 0.0 0.0 ellipse
+10 "Jonas Hector/Julian Brandt" 0.0 0.0 ellipse
+*arcs
+1 2 2
+1 6 3
+1 7 2
+1 4 3
+1 5 2
+1 10 2
+2 3 1
+2 1 4
+2 5 2
+2 4 2
+2 10 1
+3 4 1
+3 6 2
+4 1 3
+4 2 2
+4 5 3
+4 7 2
+4 10 2
+5 1 1
+5 4 2
+5 8 1
+5 6 2
+5 9 2
+5 7 2
+5 10 2
+6 1 2
+6 4 3
+6 2 1
+6 10 1
+7 6 2
+7 9 1
+7 5 2
+7 4 1
+9 7 1
+9 4 1
+10 5 1
+10 2 1
+10 4 1
+10 1 1

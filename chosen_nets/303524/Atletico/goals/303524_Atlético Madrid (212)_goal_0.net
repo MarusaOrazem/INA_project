@@ -1,0 +1,99 @@
+*vertices 11
+1 "Héctor Miguel Herrera López" 0.0 0.0 ellipse
+2 "Thomas Teye Partey" 0.0 0.0 ellipse
+3 "Saúl Ñíguez Esclapez" 0.0 0.0 ellipse
+4 "Jorge Resurrección Merodio" 0.0 0.0 ellipse
+5 "Álvaro Borja Morata Martín" 0.0 0.0 ellipse
+6 "Felipe Augusto de Almeida Monteiro" 0.0 0.0 ellipse
+7 "Jan Oblak" 0.0 0.0 ellipse
+8 "Mario Hermoso Canseco" 0.0 0.0 ellipse
+9 "Kieran Trippier" 0.0 0.0 ellipse
+10 "João Félix Sequeira/Víctor Machín Pérez" 0.0 0.0 ellipse
+11 "Ángel Martín Correa/Thomas Lemar" 0.0 0.0 ellipse
+*arcs
+1 2 12
+1 3 3
+1 9 11
+1 6 3
+1 5 4
+1 4 6
+1 8 3
+1 10 4
+1 11 7
+2 4 5
+2 5 4
+2 1 8
+2 9 3
+2 7 1
+2 3 8
+2 8 4
+2 11 3
+2 10 1
+3 4 10
+3 5 6
+3 2 4
+3 1 2
+3 8 1
+3 7 1
+3 10 2
+3 11 2
+4 1 9
+4 9 1
+4 6 2
+4 2 5
+4 3 10
+4 5 1
+4 10 1
+5 3 1
+5 9 1
+5 1 2
+5 2 1
+5 4 1
+5 10 2
+5 11 1
+6 5 2
+6 1 6
+6 4 1
+6 7 1
+6 8 1
+6 2 2
+6 9 1
+6 10 1
+6 11 1
+7 8 2
+7 6 2
+7 2 2
+7 1 1
+7 4 1
+7 3 1
+7 5 1
+8 6 3
+8 7 2
+8 1 3
+8 4 5
+8 9 4
+8 2 3
+8 10 1
+8 11 2
+9 2 2
+9 4 2
+9 1 12
+9 6 1
+9 3 1
+9 5 7
+9 10 1
+9 11 3
+10 4 2
+10 1 2
+10 8 1
+10 2 2
+10 3 1
+10 11 2
+10 5 1
+11 3 1
+11 6 3
+11 5 3
+11 1 3
+11 2 1
+11 9 2
+11 10 1

@@ -5,3 +5,13 @@ Season: 2018
 Gender: male     
 Home team: Belgium (782), goals: 3   
 Away team: Japan (778), goals: 2    
+Goal time: (47, 19)   
+Card time: (-1, -1)   
+Before goal: Time in possession for home team 782: 31.4    
+Before goal: Time in possession for away team 778: 16.766666666666666    
+After goal: Time in possession for home team 782: 27.55    
+After goal: Time in possession for away team 778: 22.483333333333334    
+Before card: Time in possession for home team 782: 58.95    
+Before card: Time in possession for away team 778: 37.11666666666667    
+After card: Time in possession for home team 782: -0.016666666666666666    
+After card: Time in possession for away team 778: -0.016666666666666666    
