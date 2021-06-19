@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Sweden (790), goals: 1   
 Away team: Switzerland (773), goals: 0    
-Goal time: (65, 52)   
-Card time: (92, 42)   
+Goal time: (65, 52), for (790, 'Sweden')   
+Card time: (92, 42), for (773, 'Switzerland')   
+First period: Time in possession for home team 790: 19.85    
+First period: Time in possession for away team 773: 25.32    
+Second period: Time in possession for home team 790: 16.38    
+Second period: Time in possession for away team 773: 31.12    
 Before goal: Time in possession for home team 790: 28.95    
-Before goal: Time in possession for away team 773: 36.333333333333336    
-After goal: Time in possession for home team 790: 27.4    
-After goal: Time in possession for away team 773: 20.1    
-Before card: Time in possession for home team 790: 36.233333333333334    
-Before card: Time in possession for away team 773: 56.43333333333333    
-After card: Time in possession for home team 790: 0.0    
-After card: Time in possession for away team 773: 0.0    
+Before goal: Time in possession for away team 773: 36.33    
+After goal: Time in possession for home team 790: 27.40    
+After goal: Time in possession for away team 773: 20.10    
+Before card: Time in possession for home team 790: 36.23    
+Before card: Time in possession for away team 773: 56.43    
+After card: Time in possession for home team 790: 0.00    
+After card: Time in possession for away team 773: 0.00    

@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: North Carolina Courage (766), goals: 1   
 Away team: Chicago Red Stars (761), goals: 1    
-Goal time: (36, 53)   
-Card time: (-1, -1)   
+Goal time: (36, 53), for (761, 'Chicago Red Stars')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 766: 27.60    
+First period: Time in possession for away team 761: 19.43    
+Second period: Time in possession for home team 766: 33.27    
+Second period: Time in possession for away team 761: 15.30    
 Before goal: Time in possession for home team 766: 21.45    
-Before goal: Time in possession for away team 761: 15.216666666666667    
-After goal: Time in possession for home team 766: 39.416666666666664    
-After goal: Time in possession for away team 761: 19.3    
-Before card: Time in possession for home team 766: 60.86666666666667    
-Before card: Time in possession for away team 761: 34.733333333333334    
-After card: Time in possession for home team 766: -0.016666666666666666    
-After card: Time in possession for away team 761: -0.016666666666666666    
+Before goal: Time in possession for away team 761: 15.22    
+After goal: Time in possession for home team 766: 39.42    
+After goal: Time in possession for away team 761: 19.30    
+Before card: Time in possession for home team 766: 60.87    
+Before card: Time in possession for away team 761: 34.73    
+After card: Time in possession for home team 766: -0.02    
+After card: Time in possession for away team 761: -0.02    

@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Russia (796), goals: 3   
 Away team: Egypt (774), goals: 1    
-Goal time: (58, 37)   
-Card time: (-1, -1)   
+Goal time: (58, 37), for (796, 'Russia')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 796: 25.07    
+First period: Time in possession for away team 774: 19.32    
+Second period: Time in possession for home team 796: 24.85    
+Second period: Time in possession for away team 774: 23.98    
 Before goal: Time in possession for home team 796: 31.75    
-Before goal: Time in possession for away team 774: 25.866666666666667    
-After goal: Time in possession for home team 796: 31.4    
-After goal: Time in possession for away team 774: 17.433333333333334    
-Before card: Time in possession for home team 796: 49.916666666666664    
-Before card: Time in possession for away team 774: 43.3    
-After card: Time in possession for home team 796: -0.016666666666666666    
-After card: Time in possession for away team 774: -0.016666666666666666    
+Before goal: Time in possession for away team 774: 25.87    
+After goal: Time in possession for home team 796: 31.40    
+After goal: Time in possession for away team 774: 17.43    
+Before card: Time in possession for home team 796: 49.92    
+Before card: Time in possession for away team 774: 43.30    
+After card: Time in possession for home team 796: -0.02    
+After card: Time in possession for away team 774: -0.02    

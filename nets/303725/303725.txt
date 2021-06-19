@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: male     
 Home team: Villarreal (222), goals: 1   
 Away team: Barcelona (217), goals: 4    
-Goal time: (13, 1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 222: 4.533333333333333    
-Before goal: Time in possession for away team 217: 7.4    
-After goal: Time in possession for home team 222: 35.11666666666667    
+Goal time: (13, 1), for (222, 'Villarreal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 222: 15.88    
+First period: Time in possession for away team 217: 31.72    
+Second period: Time in possession for home team 222: 24.85    
+Second period: Time in possession for away team 217: 25.03    
+Before goal: Time in possession for home team 222: 4.53    
+Before goal: Time in possession for away team 217: 7.40    
+After goal: Time in possession for home team 222: 35.12    
 After goal: Time in possession for away team 217: 49.35    
-Before card: Time in possession for home team 222: 40.733333333333334    
+Before card: Time in possession for home team 222: 40.73    
 Before card: Time in possession for away team 217: 56.75    
-After card: Time in possession for home team 222: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After card: Time in possession for home team 222: -0.02    
+After card: Time in possession for away team 217: -0.02    

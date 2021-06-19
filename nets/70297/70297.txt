@@ -5,13 +5,17 @@ Season: 2012/2013
 Gender: male     
 Home team: Barcelona (217), goals: 6   
 Away team: Getafe (216), goals: 1    
-Goal time: (5, 17)   
-Card time: (-1, -1)   
+Goal time: (5, 17), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 33.02    
+First period: Time in possession for away team 216: 11.93    
+Second period: Time in possession for home team 217: 31.23    
+Second period: Time in possession for away team 216: 14.65    
 Before goal: Time in possession for home team 217: 2.75    
 Before goal: Time in possession for away team 216: 1.95    
-After goal: Time in possession for home team 217: 60.916666666666664    
-After goal: Time in possession for away team 216: 24.633333333333333    
+After goal: Time in possession for home team 217: 60.92    
+After goal: Time in possession for away team 216: 24.63    
 Before card: Time in possession for home team 217: 64.25    
-Before card: Time in possession for away team 216: 26.583333333333332    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 216: -0.016666666666666666    
+Before card: Time in possession for away team 216: 26.58    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 216: -0.02    

@@ -5,13 +5,17 @@ Season: 2013/2014
 Gender: male     
 Home team: Real Betis (218), goals: 1   
 Away team: Barcelona (217), goals: 4    
-Goal time: (34, 59)   
-Card time: (-1, -1)   
+Goal time: (34, 59), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 218: 21.75    
+First period: Time in possession for away team 217: 23.28    
+Second period: Time in possession for home team 218: 18.55    
+Second period: Time in possession for away team 217: 26.77    
 Before goal: Time in possession for home team 218: 16.05    
-Before goal: Time in possession for away team 217: 18.783333333333335    
+Before goal: Time in possession for away team 217: 18.78    
 After goal: Time in possession for home team 218: 24.25    
-After goal: Time in possession for away team 217: 31.116666666666667    
-Before card: Time in possession for home team 218: 40.3    
+After goal: Time in possession for away team 217: 31.12    
+Before card: Time in possession for home team 218: 40.30    
 Before card: Time in possession for away team 217: 50.05    
-After card: Time in possession for home team 218: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After card: Time in possession for home team 218: -0.02    
+After card: Time in possession for away team 217: -0.02    

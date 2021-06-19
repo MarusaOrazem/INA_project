@@ -5,13 +5,17 @@ Season: 2015/2016
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Sevilla (213), goals: 1    
-Goal time: (19, 17)   
-Card time: (-1, -1)   
+Goal time: (19, 17), for (213, 'Sevilla')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 31.92    
+First period: Time in possession for away team 213: 13.15    
+Second period: Time in possession for home team 217: 24.68    
+Second period: Time in possession for away team 213: 22.05    
 Before goal: Time in possession for home team 217: 11.45    
 Before goal: Time in possession for away team 213: 6.85    
 After goal: Time in possession for home team 217: 45.15    
-After goal: Time in possession for away team 213: 27.366666666666667    
-Before card: Time in possession for home team 217: 56.6    
-Before card: Time in possession for away team 213: 35.2    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 213: -0.016666666666666666    
+After goal: Time in possession for away team 213: 27.37    
+Before card: Time in possession for home team 217: 56.60    
+Before card: Time in possession for away team 213: 35.20    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 213: -0.02    

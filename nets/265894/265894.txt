@@ -5,13 +5,17 @@ Season: 2015/2016
 Gender: male     
 Home team: Málaga (223), goals: 1   
 Away team: Barcelona (217), goals: 2    
-Goal time: (1, 4)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 223: 0.0    
-Before goal: Time in possession for away team 217: 0.0    
-After goal: Time in possession for home team 223: 37.266666666666666    
-After goal: Time in possession for away team 217: 56.63333333333333    
-Before card: Time in possession for home team 223: 37.266666666666666    
-Before card: Time in possession for away team 217: 57.7    
-After card: Time in possession for home team 223: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (1, 4), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 223: 20.27    
+First period: Time in possession for away team 217: 26.57    
+Second period: Time in possession for home team 223: 17.00    
+Second period: Time in possession for away team 217: 31.13    
+Before goal: Time in possession for home team 223: 0.00    
+Before goal: Time in possession for away team 217: 0.00    
+After goal: Time in possession for home team 223: 37.27    
+After goal: Time in possession for away team 217: 56.63    
+Before card: Time in possession for home team 223: 37.27    
+Before card: Time in possession for away team 217: 57.70    
+After card: Time in possession for home team 223: -0.02    
+After card: Time in possession for away team 217: -0.02    

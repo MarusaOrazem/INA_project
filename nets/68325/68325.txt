@@ -5,13 +5,17 @@ Season: 2005/2006
 Gender: male     
 Home team: Mallorca (1043), goals: 0   
 Away team: Barcelona (217), goals: 3    
-Goal time: (38, 59)   
-Card time: (72, 14)   
-Before goal: Time in possession for home team 1043: 14.566666666666666    
+Goal time: (38, 59), for (217, 'Barcelona')   
+Card time: (72, 14), for -1   
+First period: Time in possession for home team 1043: 17.18    
+First period: Time in possession for away team 217: 28.37    
+Second period: Time in possession for home team 1043: 20.42    
+Second period: Time in possession for away team 217: 24.35    
+Before goal: Time in possession for home team 1043: 14.57    
 Before goal: Time in possession for away team 217: 24.25    
-After goal: Time in possession for home team 1043: 23.033333333333335    
-After goal: Time in possession for away team 217: 28.3    
-Before card: Time in possession for home team 1043: 31.933333333333334    
-Before card: Time in possession for away team 217: 40.766666666666666    
-After card: Time in possession for home team 1043: 5.666666666666667    
-After card: Time in possession for away team 217: 39.1    
+After goal: Time in possession for home team 1043: 23.03    
+After goal: Time in possession for away team 217: 28.30    
+Before card: Time in possession for home team 1043: 31.93    
+Before card: Time in possession for away team 217: 40.77    
+After card: Time in possession for home team 1043: 5.67    
+After card: Time in possession for away team 217: 39.10    

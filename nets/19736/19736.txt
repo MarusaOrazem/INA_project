@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Chelsea FCW (971), goals: 0   
 Away team: Arsenal WFC (968), goals: 5    
-Goal time: (20, 20)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 971: 10.1    
-Before goal: Time in possession for away team 968: 7.5    
-After goal: Time in possession for home team 971: 39.63333333333333    
-After goal: Time in possession for away team 968: 33.28333333333333    
-Before card: Time in possession for home team 971: 49.733333333333334    
-Before card: Time in possession for away team 968: 43.516666666666666    
-After card: Time in possession for home team 971: -0.016666666666666666    
-After card: Time in possession for away team 968: -0.016666666666666666    
+Goal time: (20, 20), for (968, 'Arsenal WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 971: 21.85    
+First period: Time in possession for away team 968: 23.43    
+Second period: Time in possession for home team 971: 27.88    
+Second period: Time in possession for away team 968: 20.08    
+Before goal: Time in possession for home team 971: 10.10    
+Before goal: Time in possession for away team 968: 7.50    
+After goal: Time in possession for home team 971: 39.63    
+After goal: Time in possession for away team 968: 33.28    
+Before card: Time in possession for home team 971: 49.73    
+Before card: Time in possession for away team 968: 43.52    
+After card: Time in possession for home team 971: -0.02    
+After card: Time in possession for away team 968: -0.02    

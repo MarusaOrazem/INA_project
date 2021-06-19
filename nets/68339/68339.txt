@@ -5,13 +5,17 @@ Season: 2005/2006
 Gender: male     
 Home team: Getafe (216), goals: 1   
 Away team: Barcelona (217), goals: 3    
-Goal time: (0, 59)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 216: 0.0    
-Before goal: Time in possession for away team 217: 0.0    
-After goal: Time in possession for home team 216: 41.0    
-After goal: Time in possession for away team 217: 51.016666666666666    
-Before card: Time in possession for home team 216: 41.0    
-Before card: Time in possession for away team 217: 52.0    
-After card: Time in possession for home team 216: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (0, 59), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 216: 18.30    
+First period: Time in possession for away team 217: 26.68    
+Second period: Time in possession for home team 216: 22.70    
+Second period: Time in possession for away team 217: 25.32    
+Before goal: Time in possession for home team 216: 0.00    
+Before goal: Time in possession for away team 217: 0.00    
+After goal: Time in possession for home team 216: 41.00    
+After goal: Time in possession for away team 217: 51.02    
+Before card: Time in possession for home team 216: 41.00    
+Before card: Time in possession for away team 217: 52.00    
+After card: Time in possession for home team 216: -0.02    
+After card: Time in possession for away team 217: -0.02    

@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Portugal (780), goals: 3   
 Away team: Spain (772), goals: 3    
-Goal time: (3, 28)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 780: 0.0    
-Before goal: Time in possession for away team 772: 0.4    
-After goal: Time in possession for home team 780: 37.833333333333336    
-After goal: Time in possession for away team 772: 53.8    
-Before card: Time in possession for home team 780: 40.9    
-Before card: Time in possession for away team 772: 54.2    
-After card: Time in possession for home team 780: -0.016666666666666666    
-After card: Time in possession for away team 772: -0.016666666666666666    
+Goal time: (3, 28), for (780, 'Portugal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 780: 17.92    
+First period: Time in possession for away team 772: 27.32    
+Second period: Time in possession for home team 780: 22.98    
+Second period: Time in possession for away team 772: 26.88    
+Before goal: Time in possession for home team 780: 0.00    
+Before goal: Time in possession for away team 772: 0.40    
+After goal: Time in possession for home team 780: 37.83    
+After goal: Time in possession for away team 772: 53.80    
+Before card: Time in possession for home team 780: 40.90    
+Before card: Time in possession for away team 772: 54.20    
+After card: Time in possession for home team 780: -0.02    
+After card: Time in possession for away team 772: -0.02    

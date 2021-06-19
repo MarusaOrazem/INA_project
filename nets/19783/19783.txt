@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Chelsea FCW (971), goals: 3   
 Away team: Everton LFC (967), goals: 0    
-Goal time: (5, 41)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 971: 4.316666666666666    
-Before goal: Time in possession for away team 967: 1.2333333333333334    
+Goal time: (5, 41), for (971, 'Chelsea FCW')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 971: 31.47    
+First period: Time in possession for away team 967: 14.58    
+Second period: Time in possession for home team 971: 32.13    
+Second period: Time in possession for away team 967: 14.45    
+Before goal: Time in possession for home team 971: 4.32    
+Before goal: Time in possession for away team 967: 1.23    
 After goal: Time in possession for home team 971: 59.15    
-After goal: Time in possession for away team 967: 27.8    
-Before card: Time in possession for home team 971: 63.6    
-Before card: Time in possession for away team 967: 29.033333333333335    
-After card: Time in possession for home team 971: -0.016666666666666666    
-After card: Time in possession for away team 967: -0.016666666666666666    
+After goal: Time in possession for away team 967: 27.80    
+Before card: Time in possession for home team 971: 63.60    
+Before card: Time in possession for away team 967: 29.03    
+After card: Time in possession for home team 971: -0.02    
+After card: Time in possession for away team 967: -0.02    

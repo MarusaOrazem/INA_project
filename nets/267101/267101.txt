@@ -5,13 +5,17 @@ Season: 2016/2017
 Gender: male     
 Home team: Barcelona (217), goals: 7   
 Away team: Osasuna (422), goals: 1    
-Goal time: (11, 46)   
-Card time: (-1, -1)   
+Goal time: (11, 46), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 35.43    
+First period: Time in possession for away team 422: 9.17    
+Second period: Time in possession for home team 217: 34.77    
+Second period: Time in possession for away team 422: 9.87    
 Before goal: Time in possession for home team 217: 9.65    
-Before goal: Time in possession for away team 422: 1.4833333333333334    
+Before goal: Time in possession for away team 422: 1.48    
 After goal: Time in possession for home team 217: 60.55    
-After goal: Time in possession for away team 422: 16.916666666666668    
-Before card: Time in possession for home team 217: 70.2    
-Before card: Time in possession for away team 422: 19.033333333333335    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 422: -0.016666666666666666    
+After goal: Time in possession for away team 422: 16.92    
+Before card: Time in possession for home team 217: 70.20    
+Before card: Time in possession for away team 422: 19.03    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 422: -0.02    

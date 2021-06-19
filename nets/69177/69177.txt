@@ -5,13 +5,17 @@ Season: 2008/2009
 Gender: male     
 Home team: Almería (403), goals: 0   
 Away team: Barcelona (217), goals: 2    
-Goal time: (52, 12)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 403: 16.433333333333334    
-Before goal: Time in possession for away team 217: 36.18333333333333    
-After goal: Time in possession for home team 403: 14.316666666666666    
+Goal time: (52, 12), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 403: 13.77    
+First period: Time in possession for away team 217: 32.15    
+Second period: Time in possession for home team 403: 16.98    
+Second period: Time in possession for away team 217: 28.48    
+Before goal: Time in possession for home team 403: 16.43    
+Before goal: Time in possession for away team 217: 36.18    
+After goal: Time in possession for home team 403: 14.32    
 After goal: Time in possession for away team 217: 31.15    
 Before card: Time in possession for home team 403: 30.75    
-Before card: Time in possession for away team 217: 60.63333333333333    
-After card: Time in possession for home team 403: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Before card: Time in possession for away team 217: 60.63    
+After card: Time in possession for home team 403: -0.02    
+After card: Time in possession for away team 217: -0.02    

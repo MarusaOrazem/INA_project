@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: West Ham United LFC (972), goals: 3   
 Away team: Manchester United (1475), goals: 2    
-Goal time: (0, 47)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 972: 0.08333333333333333    
-Before goal: Time in possession for away team 1475: 0.6    
-After goal: Time in possession for home team 972: 46.166666666666664    
-After goal: Time in possession for away team 1475: 49.03333333333333    
+Goal time: (0, 47), for (1475, 'Manchester United')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 972: 20.52    
+First period: Time in possession for away team 1475: 24.45    
+Second period: Time in possession for home team 972: 25.73    
+Second period: Time in possession for away team 1475: 25.28    
+Before goal: Time in possession for home team 972: 0.08    
+Before goal: Time in possession for away team 1475: 0.60    
+After goal: Time in possession for home team 972: 46.17    
+After goal: Time in possession for away team 1475: 49.03    
 Before card: Time in possession for home team 972: 46.25    
-Before card: Time in possession for away team 1475: 49.733333333333334    
-After card: Time in possession for home team 972: -0.016666666666666666    
-After card: Time in possession for away team 1475: -0.016666666666666666    
+Before card: Time in possession for away team 1475: 49.73    
+After card: Time in possession for home team 972: -0.02    
+After card: Time in possession for away team 1475: -0.02    

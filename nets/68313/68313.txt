@@ -5,13 +5,17 @@ Season: 2004/2005
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Osasuna (422), goals: 0    
-Goal time: (39, 56)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 25.366666666666667    
-Before goal: Time in possession for away team 422: 14.283333333333333    
-After goal: Time in possession for home team 217: 33.71666666666667    
+Goal time: (39, 56), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 31.40    
+First period: Time in possession for away team 422: 15.72    
+Second period: Time in possession for home team 217: 27.97    
+Second period: Time in possession for away team 422: 19.12    
+Before goal: Time in possession for home team 217: 25.37    
+Before goal: Time in possession for away team 422: 14.28    
+After goal: Time in possession for home team 217: 33.72    
 After goal: Time in possession for away team 422: 20.55    
-Before card: Time in possession for home team 217: 59.36666666666667    
-Before card: Time in possession for away team 422: 34.833333333333336    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 422: -0.016666666666666666    
+Before card: Time in possession for home team 217: 59.37    
+Before card: Time in possession for away team 422: 34.83    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 422: -0.02    

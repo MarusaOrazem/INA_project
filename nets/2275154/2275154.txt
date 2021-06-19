@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Chelsea FCW (971), goals: 1   
 Away team: Manchester United (1475), goals: 0    
-Goal time: (64, 21)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 971: 39.483333333333334    
-Before goal: Time in possession for away team 1475: 24.416666666666668    
-After goal: Time in possession for home team 971: 34.2    
-After goal: Time in possession for away team 1475: 14.966666666666667    
-Before card: Time in possession for home team 971: 55.78333333333333    
-Before card: Time in possession for away team 1475: 39.38333333333333    
-After card: Time in possession for home team 971: -0.016666666666666666    
-After card: Time in possession for away team 1475: -0.016666666666666666    
+Goal time: (64, 21), for (971, 'Chelsea FCW')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 971: 27.32    
+First period: Time in possession for away team 1475: 18.68    
+Second period: Time in possession for home team 971: 28.47    
+Second period: Time in possession for away team 1475: 20.70    
+Before goal: Time in possession for home team 971: 39.48    
+Before goal: Time in possession for away team 1475: 24.42    
+After goal: Time in possession for home team 971: 34.20    
+After goal: Time in possession for away team 1475: 14.97    
+Before card: Time in possession for home team 971: 55.78    
+Before card: Time in possession for away team 1475: 39.38    
+After card: Time in possession for home team 971: -0.02    
+After card: Time in possession for away team 1475: -0.02    

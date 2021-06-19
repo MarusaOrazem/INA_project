@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Costa Rica (795), goals: 0   
 Away team: Serbia (786), goals: 1    
-Goal time: (55, 59)   
-Card time: (-1, -1)   
+Goal time: (55, 59), for (786, 'Serbia')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 795: 16.37    
+First period: Time in possession for away team 786: 29.65    
+Second period: Time in possession for home team 795: 30.17    
+Second period: Time in possession for away team 786: 20.45    
 Before goal: Time in possession for home team 795: 20.55    
-Before goal: Time in possession for away team 786: 34.983333333333334    
-After goal: Time in possession for home team 795: 25.983333333333334    
-After goal: Time in possession for away team 786: 24.633333333333333    
-Before card: Time in possession for home team 795: 46.53333333333333    
-Before card: Time in possession for away team 786: 50.1    
-After card: Time in possession for home team 795: -0.016666666666666666    
-After card: Time in possession for away team 786: -0.016666666666666666    
+Before goal: Time in possession for away team 786: 34.98    
+After goal: Time in possession for home team 795: 25.98    
+After goal: Time in possession for away team 786: 24.63    
+Before card: Time in possession for home team 795: 46.53    
+Before card: Time in possession for away team 786: 50.10    
+After card: Time in possession for home team 795: -0.02    
+After card: Time in possession for away team 786: -0.02    

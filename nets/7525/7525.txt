@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Russia (796), goals: 5   
 Away team: Saudi Arabia (799), goals: 0    
-Goal time: (11, 32)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 796: 4.316666666666666    
+Goal time: (11, 32), for (796, 'Russia')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 796: 19.28    
+First period: Time in possession for away team 799: 27.68    
+Second period: Time in possession for home team 796: 25.42    
+Second period: Time in possession for away team 799: 24.25    
+Before goal: Time in possession for home team 796: 4.32    
 Before goal: Time in possession for away team 799: 4.05    
-After goal: Time in possession for home team 796: 37.21666666666667    
-After goal: Time in possession for away team 799: 47.88333333333333    
-Before card: Time in possession for home team 796: 44.7    
-Before card: Time in possession for away team 799: 51.93333333333333    
-After card: Time in possession for home team 796: -0.016666666666666666    
-After card: Time in possession for away team 799: -0.016666666666666666    
+After goal: Time in possession for home team 796: 37.22    
+After goal: Time in possession for away team 799: 47.88    
+Before card: Time in possession for home team 796: 44.70    
+Before card: Time in possession for away team 799: 51.93    
+After card: Time in possession for home team 796: -0.02    
+After card: Time in possession for away team 799: -0.02    

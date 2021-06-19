@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: male     
 Home team: Barcelona (217), goals: 1   
 Away team: Osasuna (422), goals: 2    
-Goal time: (14, 59)   
-Card time: (74, 42)   
+Goal time: (14, 59), for (422, 'Osasuna')   
+Card time: (74, 42), for (422, 'Osasuna')   
+First period: Time in possession for home team 217: 39.05    
+First period: Time in possession for away team 422: 11.60    
+Second period: Time in possession for home team 217: 37.43    
+Second period: Time in possession for away team 422: 14.25    
 Before goal: Time in possession for home team 217: 11.35    
 Before goal: Time in possession for away team 422: 2.75    
-After goal: Time in possession for home team 217: 65.13333333333334    
-After goal: Time in possession for away team 422: 22.216666666666665    
-Before card: Time in possession for home team 217: 62.516666666666666    
-Before card: Time in possession for away team 422: 17.783333333333335    
-After card: Time in possession for home team 217: 13.966666666666667    
-After card: Time in possession for away team 422: 37.71666666666667    
+After goal: Time in possession for home team 217: 65.13    
+After goal: Time in possession for away team 422: 22.22    
+Before card: Time in possession for home team 217: 62.52    
+Before card: Time in possession for away team 422: 17.78    
+After card: Time in possession for home team 217: 13.97    
+After card: Time in possession for away team 422: 37.72    

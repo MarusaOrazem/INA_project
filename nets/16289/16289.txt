@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: male     
 Home team: Barcelona (217), goals: 1   
 Away team: Levante (221), goals: 0    
-Goal time: (61, 14)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 41.93333333333333    
-Before goal: Time in possession for away team 221: 17.733333333333334    
-After goal: Time in possession for home team 217: 29.0    
-After goal: Time in possession for away team 221: 17.4    
-Before card: Time in possession for home team 217: 55.46666666666667    
-Before card: Time in possession for away team 221: 35.13333333333333    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 221: -0.016666666666666666    
+Goal time: (61, 14), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 30.53    
+First period: Time in possession for away team 221: 13.67    
+Second period: Time in possession for home team 217: 24.93    
+Second period: Time in possession for away team 221: 21.47    
+Before goal: Time in possession for home team 217: 41.93    
+Before goal: Time in possession for away team 221: 17.73    
+After goal: Time in possession for home team 217: 29.00    
+After goal: Time in possession for away team 221: 17.40    
+Before card: Time in possession for home team 217: 55.47    
+Before card: Time in possession for away team 221: 35.13    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 221: -0.02    

@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Atlético Madrid (212), goals: 0    
-Goal time: (84, 15)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 53.78333333333333    
-Before goal: Time in possession for away team 212: 31.9    
-After goal: Time in possession for home team 217: 44.516666666666666    
-After goal: Time in possession for away team 212: 1.4833333333333334    
-Before card: Time in possession for home team 217: 60.38333333333333    
-Before card: Time in possession for away team 212: 33.38333333333333    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 212: -0.016666666666666666    
+Goal time: (84, 15), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 33.50    
+First period: Time in possession for away team 212: 14.27    
+Second period: Time in possession for home team 217: 26.88    
+Second period: Time in possession for away team 212: 19.12    
+Before goal: Time in possession for home team 217: 53.78    
+Before goal: Time in possession for away team 212: 31.90    
+After goal: Time in possession for home team 217: 44.52    
+After goal: Time in possession for away team 212: 1.48    
+Before card: Time in possession for home team 217: 60.38    
+Before card: Time in possession for away team 212: 33.38    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 212: -0.02    

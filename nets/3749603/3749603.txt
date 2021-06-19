@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Fulham (55), goals: 0   
 Away team: Arsenal (1), goals: 1    
-Goal time: (8, 11)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 55: 2.1666666666666665    
-Before goal: Time in possession for away team 1: 5.333333333333333    
-After goal: Time in possession for home team 55: 47.18333333333333    
-After goal: Time in possession for away team 1: 38.61666666666667    
-Before card: Time in possession for home team 55: 50.03333333333333    
+Goal time: (8, 11), for (1, 'Arsenal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 55: 21.47    
+First period: Time in possession for away team 1: 24.25    
+Second period: Time in possession for home team 55: 28.57    
+Second period: Time in possession for away team 1: 19.70    
+Before goal: Time in possession for home team 55: 2.17    
+Before goal: Time in possession for away team 1: 5.33    
+After goal: Time in possession for home team 55: 47.18    
+After goal: Time in possession for away team 1: 38.62    
+Before card: Time in possession for home team 55: 50.03    
 Before card: Time in possession for away team 1: 43.95    
-After card: Time in possession for home team 55: -0.016666666666666666    
-After card: Time in possession for away team 1: -0.016666666666666666    
+After card: Time in possession for home team 55: -0.02    
+After card: Time in possession for away team 1: -0.02    

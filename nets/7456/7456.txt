@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Sky Blue FC (763), goals: 1   
 Away team: North Carolina Courage (766), goals: 2    
-Goal time: (15, 39)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 763: 6.716666666666667    
-Before goal: Time in possession for away team 766: 8.783333333333333    
-After goal: Time in possession for home team 763: 23.7    
+Goal time: (15, 39), for (766, 'North Carolina Courage')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 763: 15.90    
+First period: Time in possession for away team 766: 29.07    
+Second period: Time in possession for home team 763: 14.52    
+Second period: Time in possession for away team 766: 30.82    
+Before goal: Time in possession for home team 763: 6.72    
+Before goal: Time in possession for away team 766: 8.78    
+After goal: Time in possession for home team 763: 23.70    
 After goal: Time in possession for away team 766: 50.95    
-Before card: Time in possession for home team 763: 30.416666666666668    
-Before card: Time in possession for away team 766: 59.88333333333333    
-After card: Time in possession for home team 763: -0.016666666666666666    
-After card: Time in possession for away team 766: -0.016666666666666666    
+Before card: Time in possession for home team 763: 30.42    
+Before card: Time in possession for away team 766: 59.88    
+After card: Time in possession for home team 763: -0.02    
+After card: Time in possession for away team 766: -0.02    

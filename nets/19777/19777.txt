@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Yeovil Town LFC (970), goals: 0   
 Away team: West Ham United LFC (972), goals: 5    
-Goal time: (18, 32)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 970: 3.816666666666667    
-Before goal: Time in possession for away team 972: 14.566666666666666    
-After goal: Time in possession for home team 970: 30.633333333333333    
-After goal: Time in possession for away team 972: 44.583333333333336    
+Goal time: (18, 32), for (972, 'West Ham United LFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 970: 14.75    
+First period: Time in possession for away team 972: 31.90    
+Second period: Time in possession for home team 970: 19.70    
+Second period: Time in possession for away team 972: 27.40    
+Before goal: Time in possession for home team 970: 3.82    
+Before goal: Time in possession for away team 972: 14.57    
+After goal: Time in possession for home team 970: 30.63    
+After goal: Time in possession for away team 972: 44.58    
 Before card: Time in possession for home team 970: 34.45    
-Before card: Time in possession for away team 972: 59.3    
-After card: Time in possession for home team 970: -0.016666666666666666    
-After card: Time in possession for away team 972: -0.016666666666666666    
+Before card: Time in possession for away team 972: 59.30    
+After card: Time in possession for home team 970: -0.02    
+After card: Time in possession for away team 972: -0.02    

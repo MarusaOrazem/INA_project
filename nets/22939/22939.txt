@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Canada Women's (1206), goals: 1   
 Away team: Cameroon Women's (1208), goals: 0    
-Goal time: (44, 31)   
-Card time: (-1, -1)   
+Goal time: (44, 31), for (1206, "Canada Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1206: 30.47    
+First period: Time in possession for away team 1208: 16.58    
+Second period: Time in possession for home team 1206: 32.38    
+Second period: Time in possession for away team 1208: 13.78    
 Before goal: Time in possession for home team 1206: 28.15    
-Before goal: Time in possession for away team 1208: 16.316666666666666    
+Before goal: Time in possession for away team 1208: 16.32    
 After goal: Time in possession for home team 1206: 34.65    
 After goal: Time in possession for away team 1208: 14.05    
 Before card: Time in possession for home team 1206: 62.85    
-Before card: Time in possession for away team 1208: 30.366666666666667    
-After card: Time in possession for home team 1206: -0.016666666666666666    
-After card: Time in possession for away team 1208: -0.016666666666666666    
+Before card: Time in possession for away team 1208: 30.37    
+After card: Time in possession for home team 1206: -0.02    
+After card: Time in possession for away team 1208: -0.02    

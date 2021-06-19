@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Manchester United (1475), goals: 0   
 Away team: Arsenal WFC (968), goals: 1    
-Goal time: (88, 30)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1475: 27.9    
-Before goal: Time in possession for away team 968: 58.61666666666667    
-After goal: Time in possession for home team 1475: 6.083333333333333    
-After goal: Time in possession for away team 968: 44.166666666666664    
-Before card: Time in possession for home team 1475: 33.983333333333334    
-Before card: Time in possession for away team 968: 61.31666666666667    
-After card: Time in possession for home team 1475: -0.016666666666666666    
-After card: Time in possession for away team 968: -0.016666666666666666    
+Goal time: (88, 30), for (968, 'Arsenal WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1475: 18.03    
+First period: Time in possession for away team 968: 27.02    
+Second period: Time in possession for home team 1475: 15.95    
+Second period: Time in possession for away team 968: 34.30    
+Before goal: Time in possession for home team 1475: 27.90    
+Before goal: Time in possession for away team 968: 58.62    
+After goal: Time in possession for home team 1475: 6.08    
+After goal: Time in possession for away team 968: 44.17    
+Before card: Time in possession for home team 1475: 33.98    
+Before card: Time in possession for away team 968: 61.32    
+After card: Time in possession for home team 1475: -0.02    
+After card: Time in possession for away team 968: -0.02    

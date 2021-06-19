@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Wolverhampton Wanderers (46), goals: 1   
 Away team: Arsenal (1), goals: 3    
-Goal time: (8, 11)   
-Card time: (-1, -1)   
+Goal time: (8, 11), for (1, 'Arsenal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 46: 20.83    
+First period: Time in possession for away team 1: 26.58    
+Second period: Time in possession for home team 46: 18.50    
+Second period: Time in possession for away team 1: 27.73    
 Before goal: Time in possession for home team 46: 1.75    
-Before goal: Time in possession for away team 1: 6.116666666666666    
-After goal: Time in possession for home team 46: 37.583333333333336    
-After goal: Time in possession for away team 1: 47.88333333333333    
-Before card: Time in possession for home team 46: 39.333333333333336    
-Before card: Time in possession for away team 1: 54.31666666666667    
-After card: Time in possession for home team 46: -0.016666666666666666    
-After card: Time in possession for away team 1: -0.016666666666666666    
+Before goal: Time in possession for away team 1: 6.12    
+After goal: Time in possession for home team 46: 37.58    
+After goal: Time in possession for away team 1: 47.88    
+Before card: Time in possession for home team 46: 39.33    
+Before card: Time in possession for away team 1: 54.32    
+After card: Time in possession for home team 46: -0.02    
+After card: Time in possession for away team 1: -0.02    

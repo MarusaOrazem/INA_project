@@ -5,13 +5,17 @@ Season: 2014/2015
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Córdoba (373), goals: 0    
-Goal time: (1, 11)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 0.48333333333333334    
-Before goal: Time in possession for away team 373: 0.06666666666666667    
-After goal: Time in possession for home team 217: 57.2    
-After goal: Time in possession for away team 373: 30.083333333333332    
-Before card: Time in possession for home team 217: 58.31666666666667    
+Goal time: (1, 11), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 29.15    
+First period: Time in possession for away team 373: 12.57    
+Second period: Time in possession for home team 217: 29.17    
+Second period: Time in possession for away team 373: 17.58    
+Before goal: Time in possession for home team 217: 0.48    
+Before goal: Time in possession for away team 373: 0.07    
+After goal: Time in possession for home team 217: 57.20    
+After goal: Time in possession for away team 373: 30.08    
+Before card: Time in possession for home team 217: 58.32    
 Before card: Time in possession for away team 373: 30.15    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 373: -0.016666666666666666    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 373: -0.02    

@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Aston Villa (59), goals: 0   
 Away team: Arsenal (1), goals: 2    
-Goal time: (28, 1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 59: 9.833333333333334    
-Before goal: Time in possession for away team 1: 16.3    
-After goal: Time in possession for home team 59: 34.43333333333333    
+Goal time: (28, 1), for (1, 'Arsenal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 59: 16.68    
+First period: Time in possession for away team 1: 30.10    
+Second period: Time in possession for home team 59: 27.58    
+Second period: Time in possession for away team 1: 19.43    
+Before goal: Time in possession for home team 59: 9.83    
+Before goal: Time in possession for away team 1: 16.30    
+After goal: Time in possession for home team 59: 34.43    
 After goal: Time in possession for away team 1: 31.35    
-Before card: Time in possession for home team 59: 44.266666666666666    
-Before card: Time in possession for away team 1: 49.53333333333333    
-After card: Time in possession for home team 59: -0.016666666666666666    
-After card: Time in possession for away team 1: -0.016666666666666666    
+Before card: Time in possession for home team 59: 44.27    
+Before card: Time in possession for away team 1: 49.53    
+After card: Time in possession for home team 59: -0.02    
+After card: Time in possession for away team 1: -0.02    

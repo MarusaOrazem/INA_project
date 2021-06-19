@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Houston Dash (762), goals: 1   
 Away team: North Carolina Courage (766), goals: 1    
-Goal time: (48, 32)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 762: 37.0    
+Goal time: (48, 32), for (762, 'Houston Dash')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 762: 35.38    
+First period: Time in possession for away team 766: 16.47    
+Second period: Time in possession for home team 762: 20.18    
+Second period: Time in possession for away team 766: 29.42    
+Before goal: Time in possession for home team 762: 37.00    
 Before goal: Time in possession for away team 766: 18.15    
-After goal: Time in possession for home team 762: 21.866666666666667    
-After goal: Time in possession for away team 766: 27.733333333333334    
-Before card: Time in possession for home team 762: 55.56666666666667    
-Before card: Time in possession for away team 766: 45.88333333333333    
-After card: Time in possession for home team 762: -0.016666666666666666    
-After card: Time in possession for away team 766: -0.016666666666666666    
+After goal: Time in possession for home team 762: 21.87    
+After goal: Time in possession for away team 766: 27.73    
+Before card: Time in possession for home team 762: 55.57    
+Before card: Time in possession for away team 766: 45.88    
+After card: Time in possession for home team 762: -0.02    
+After card: Time in possession for away team 766: -0.02    

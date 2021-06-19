@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Spain (772), goals: 1   
 Away team: Russia (796), goals: 1    
-Goal time: (40, 55)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 772: 23.933333333333334    
-Before goal: Time in possession for away team 796: 13.2    
-After goal: Time in possession for home team 772: 42.166666666666664    
+Goal time: (40, 55), for (796, 'Russia')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 772: 27.57    
+First period: Time in possession for away team 796: 19.13    
+Second period: Time in possession for home team 772: 38.53    
+Second period: Time in possession for away team 796: 9.30    
+Before goal: Time in possession for home team 772: 23.93    
+Before goal: Time in possession for away team 796: 13.20    
+After goal: Time in possession for home team 772: 42.17    
 After goal: Time in possession for away team 796: 11.45    
-Before card: Time in possession for home team 772: 66.1    
-Before card: Time in possession for away team 796: 28.433333333333334    
-After card: Time in possession for home team 772: -0.016666666666666666    
-After card: Time in possession for away team 796: -0.016666666666666666    
+Before card: Time in possession for home team 772: 66.10    
+Before card: Time in possession for away team 796: 28.43    
+After card: Time in possession for home team 772: -0.02    
+After card: Time in possession for away team 796: -0.02    

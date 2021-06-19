@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Portland Thorns (765), goals: 2   
 Away team: Seattle Reign (760), goals: 3    
-Goal time: (35, 8)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 765: 14.233333333333333    
-Before goal: Time in possession for away team 760: 20.183333333333334    
-After goal: Time in possession for home team 765: 34.016666666666666    
+Goal time: (35, 8), for (760, 'Seattle Reign')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 765: 17.72    
+First period: Time in possession for away team 760: 25.92    
+Second period: Time in possession for home team 765: 30.53    
+Second period: Time in possession for away team 760: 17.53    
+Before goal: Time in possession for home team 765: 14.23    
+Before goal: Time in possession for away team 760: 20.18    
+After goal: Time in possession for home team 765: 34.02    
 After goal: Time in possession for away team 760: 22.55    
 Before card: Time in possession for home team 765: 48.25    
 Before card: Time in possession for away team 760: 43.45    
-After card: Time in possession for home team 765: -0.016666666666666666    
-After card: Time in possession for away team 760: -0.016666666666666666    
+After card: Time in possession for home team 765: -0.02    
+After card: Time in possession for away team 760: -0.02    

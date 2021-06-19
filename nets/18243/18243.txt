@@ -5,13 +5,17 @@ Season: 2015/2016
 Gender: male     
 Home team: Real Madrid (220), goals: 1   
 Away team: Atlético Madrid (212), goals: 1    
-Goal time: (14, 27)   
-Card time: (-1, -1)   
+Goal time: (14, 27), for (220, 'Real Madrid')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 220: 22.05    
+First period: Time in possession for away team 212: 23.62    
+Second period: Time in possession for home team 220: 20.97    
+Second period: Time in possession for away team 212: 27.65    
 Before goal: Time in possession for home team 220: 8.75    
-Before goal: Time in possession for away team 212: 4.8    
-After goal: Time in possession for home team 220: 33.36666666666667    
-After goal: Time in possession for away team 212: 46.46666666666667    
-Before card: Time in possession for home team 220: 43.016666666666666    
-Before card: Time in possession for away team 212: 51.266666666666666    
-After card: Time in possession for home team 220: -0.016666666666666666    
-After card: Time in possession for away team 212: -0.016666666666666666    
+Before goal: Time in possession for away team 212: 4.80    
+After goal: Time in possession for home team 220: 33.37    
+After goal: Time in possession for away team 212: 46.47    
+Before card: Time in possession for home team 220: 43.02    
+Before card: Time in possession for away team 212: 51.27    
+After card: Time in possession for home team 220: -0.02    
+After card: Time in possession for away team 212: -0.02    

@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Serbia (786), goals: 0   
 Away team: Brazil (781), goals: 2    
-Goal time: (34, 58)   
-Card time: (-1, -1)   
+Goal time: (34, 58), for (781, 'Brazil')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 786: 18.18    
+First period: Time in possession for away team 781: 28.15    
+Second period: Time in possession for home team 786: 21.28    
+Second period: Time in possession for away team 781: 25.40    
 Before goal: Time in possession for home team 786: 12.45    
-Before goal: Time in possession for away team 781: 22.1    
-After goal: Time in possession for home team 786: 27.016666666666666    
-After goal: Time in possession for away team 781: 31.033333333333335    
-Before card: Time in possession for home team 786: 39.46666666666667    
+Before goal: Time in possession for away team 781: 22.10    
+After goal: Time in possession for home team 786: 27.02    
+After goal: Time in possession for away team 781: 31.03    
+Before card: Time in possession for home team 786: 39.47    
 Before card: Time in possession for away team 781: 53.55    
-After card: Time in possession for home team 786: -0.016666666666666666    
-After card: Time in possession for away team 781: -0.016666666666666666    
+After card: Time in possession for home team 786: -0.02    
+After card: Time in possession for away team 781: -0.02    

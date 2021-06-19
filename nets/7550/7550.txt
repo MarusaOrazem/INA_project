@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Serbia (786), goals: 1   
 Away team: Switzerland (773), goals: 2    
-Goal time: (4, 48)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 786: 1.1333333333333333    
+Goal time: (4, 48), for (786, 'Serbia')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 786: 20.33    
+First period: Time in possession for away team 773: 26.68    
+Second period: Time in possession for home team 786: 20.72    
+Second period: Time in possession for away team 773: 30.00    
+Before goal: Time in possession for home team 786: 1.13    
 Before goal: Time in possession for away team 773: 2.65    
-After goal: Time in possession for home team 786: 38.9    
-After goal: Time in possession for away team 773: 54.03333333333333    
+After goal: Time in possession for home team 786: 38.90    
+After goal: Time in possession for away team 773: 54.03    
 Before card: Time in possession for home team 786: 41.05    
-Before card: Time in possession for away team 773: 56.68333333333333    
-After card: Time in possession for home team 786: -0.016666666666666666    
-After card: Time in possession for away team 773: -0.016666666666666666    
+Before card: Time in possession for away team 773: 56.68    
+After card: Time in possession for home team 786: -0.02    
+After card: Time in possession for away team 773: -0.02    

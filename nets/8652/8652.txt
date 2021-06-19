@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Russia (796), goals: 2   
 Away team: Croatia (785), goals: 2    
-Goal time: (30, 48)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 796: 10.316666666666666    
-Before goal: Time in possession for away team 785: 20.316666666666666    
-After goal: Time in possession for home team 796: 20.066666666666666    
-After goal: Time in possession for away team 785: 44.86666666666667    
+Goal time: (30, 48), for (796, 'Russia')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 796: 18.20    
+First period: Time in possession for away team 785: 28.62    
+Second period: Time in possession for home team 796: 12.35    
+Second period: Time in possession for away team 785: 36.57    
+Before goal: Time in possession for home team 796: 10.32    
+Before goal: Time in possession for away team 785: 20.32    
+After goal: Time in possession for home team 796: 20.07    
+After goal: Time in possession for away team 785: 44.87    
 Before card: Time in possession for home team 796: 30.55    
-Before card: Time in possession for away team 785: 65.18333333333334    
-After card: Time in possession for home team 796: -0.016666666666666666    
-After card: Time in possession for away team 785: -0.016666666666666666    
+Before card: Time in possession for away team 785: 65.18    
+After card: Time in possession for home team 796: -0.02    
+After card: Time in possession for away team 785: -0.02    

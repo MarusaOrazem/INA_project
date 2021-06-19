@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Arsenal (1), goals: 1   
 Away team: Manchester United (39), goals: 1    
-Goal time: (49, 8)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1: 26.133333333333333    
+Goal time: (49, 8), for (1, 'Arsenal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1: 24.93    
+First period: Time in possession for away team 39: 19.82    
+Second period: Time in possession for home team 1: 20.67    
+Second period: Time in possession for away team 39: 25.85    
+Before goal: Time in possession for home team 1: 26.13    
 Before goal: Time in possession for away team 39: 22.15    
-After goal: Time in possession for home team 1: 23.0    
-After goal: Time in possession for away team 39: 23.516666666666666    
-Before card: Time in possession for home team 1: 45.6    
-Before card: Time in possession for away team 39: 45.666666666666664    
-After card: Time in possession for home team 1: -0.016666666666666666    
-After card: Time in possession for away team 39: -0.016666666666666666    
+After goal: Time in possession for home team 1: 23.00    
+After goal: Time in possession for away team 39: 23.52    
+Before card: Time in possession for home team 1: 45.60    
+Before card: Time in possession for away team 39: 45.67    
+After card: Time in possession for home team 1: -0.02    
+After card: Time in possession for away team 39: -0.02    

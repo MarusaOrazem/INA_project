@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Sky Blue FC (763), goals: 1   
 Away team: Portland Thorns (765), goals: 2    
-Goal time: (3, 10)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 763: 2.816666666666667    
-Before goal: Time in possession for away team 765: 0.1    
-After goal: Time in possession for home team 763: 45.9    
-After goal: Time in possession for away team 765: 45.916666666666664    
-Before card: Time in possession for home team 763: 48.71666666666667    
-Before card: Time in possession for away team 765: 46.266666666666666    
-After card: Time in possession for home team 763: -0.016666666666666666    
-After card: Time in possession for away team 765: -0.016666666666666666    
+Goal time: (3, 10), for (765, 'Portland Thorns')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 763: 25.60    
+First period: Time in possession for away team 765: 20.90    
+Second period: Time in possession for home team 763: 23.12    
+Second period: Time in possession for away team 765: 25.37    
+Before goal: Time in possession for home team 763: 2.82    
+Before goal: Time in possession for away team 765: 0.10    
+After goal: Time in possession for home team 763: 45.90    
+After goal: Time in possession for away team 765: 45.92    
+Before card: Time in possession for home team 763: 48.72    
+Before card: Time in possession for away team 765: 46.27    
+After card: Time in possession for home team 763: -0.02    
+After card: Time in possession for away team 765: -0.02    

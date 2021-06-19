@@ -5,13 +5,17 @@ Season: 2005/2006
 Gender: male     
 Home team: Real Zaragoza (395), goals: 0   
 Away team: Barcelona (217), goals: 2    
-Goal time: (79, 2)   
-Card time: (78, 10)   
-Before goal: Time in possession for home team 395: 31.216666666666665    
-Before goal: Time in possession for away team 217: 43.36666666666667    
-After goal: Time in possession for home team 395: 5.216666666666667    
-After goal: Time in possession for away team 217: 43.1    
-Before card: Time in possession for home team 395: 31.216666666666665    
-Before card: Time in possession for away team 217: 43.36666666666667    
-After card: Time in possession for home team 395: 5.216666666666667    
-After card: Time in possession for away team 217: 43.1    
+Goal time: (79, 2), for (217, 'Barcelona')   
+Card time: (78, 10), for (395, 'Real Zaragoza')   
+First period: Time in possession for home team 395: 16.50    
+First period: Time in possession for away team 217: 28.58    
+Second period: Time in possession for home team 395: 19.93    
+Second period: Time in possession for away team 217: 28.38    
+Before goal: Time in possession for home team 395: 31.22    
+Before goal: Time in possession for away team 217: 43.37    
+After goal: Time in possession for home team 395: 5.22    
+After goal: Time in possession for away team 217: 43.10    
+Before card: Time in possession for home team 395: 31.22    
+Before card: Time in possession for away team 217: 43.37    
+After card: Time in possession for home team 395: 5.22    
+After card: Time in possession for away team 217: 43.10    

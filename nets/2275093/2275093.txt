@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Birmingham City WFC (969), goals: 0   
 Away team: Chelsea FCW (971), goals: 6    
-Goal time: (1, 45)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 969: 0.0    
-Before goal: Time in possession for away team 971: 0.0    
-After goal: Time in possession for home team 969: 41.416666666666664    
+Goal time: (1, 45), for (971, 'Chelsea FCW')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 969: 20.40    
+First period: Time in possession for away team 971: 26.13    
+Second period: Time in possession for home team 969: 21.02    
+Second period: Time in possession for away team 971: 25.67    
+Before goal: Time in possession for home team 969: 0.00    
+Before goal: Time in possession for away team 971: 0.00    
+After goal: Time in possession for home team 969: 41.42    
 After goal: Time in possession for away team 971: 50.05    
-Before card: Time in possession for home team 969: 41.416666666666664    
-Before card: Time in possession for away team 971: 51.8    
-After card: Time in possession for home team 969: -0.016666666666666666    
-After card: Time in possession for away team 971: -0.016666666666666666    
+Before card: Time in possession for home team 969: 41.42    
+Before card: Time in possession for away team 971: 51.80    
+After card: Time in possession for home team 969: -0.02    
+After card: Time in possession for away team 971: -0.02    

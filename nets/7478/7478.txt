@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Seattle Reign (760), goals: 3   
 Away team: Houston Dash (762), goals: 1    
-Goal time: (11, 53)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 760: 7.833333333333333    
+Goal time: (11, 53), for (762, 'Houston Dash')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 760: 30.50    
+First period: Time in possession for away team 762: 15.38    
+Second period: Time in possession for home team 760: 31.13    
+Second period: Time in possession for away team 762: 20.25    
+Before goal: Time in possession for home team 760: 7.83    
 Before goal: Time in possession for away team 762: 3.35    
-After goal: Time in possession for home team 760: 53.8    
-After goal: Time in possession for away team 762: 31.583333333333332    
-Before card: Time in possession for home team 760: 61.63333333333333    
-Before card: Time in possession for away team 762: 35.63333333333333    
-After card: Time in possession for home team 760: -0.016666666666666666    
-After card: Time in possession for away team 762: -0.016666666666666666    
+After goal: Time in possession for home team 760: 53.80    
+After goal: Time in possession for away team 762: 31.58    
+Before card: Time in possession for home team 760: 61.63    
+Before card: Time in possession for away team 762: 35.63    
+After card: Time in possession for home team 760: -0.02    
+After card: Time in possession for away team 762: -0.02    

@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Manchester City WFC (746), goals: 2   
 Away team: Liverpool WFC (966), goals: 1    
-Goal time: (27, 7)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 746: 16.5    
-Before goal: Time in possession for away team 966: 10.066666666666666    
-After goal: Time in possession for home team 746: 55.0    
-After goal: Time in possession for away team 966: 15.916666666666666    
+Goal time: (27, 7), for (746, 'Manchester City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 746: 33.38    
+First period: Time in possession for away team 966: 14.53    
+Second period: Time in possession for home team 746: 38.67    
+Second period: Time in possession for away team 966: 11.45    
+Before goal: Time in possession for home team 746: 16.50    
+Before goal: Time in possession for away team 966: 10.07    
+After goal: Time in possession for home team 746: 55.00    
+After goal: Time in possession for away team 966: 15.92    
 Before card: Time in possession for home team 746: 72.05    
-Before card: Time in possession for away team 966: 25.983333333333334    
-After card: Time in possession for home team 746: -0.016666666666666666    
-After card: Time in possession for away team 966: -0.016666666666666666    
+Before card: Time in possession for away team 966: 25.98    
+After card: Time in possession for home team 746: -0.02    
+After card: Time in possession for away team 966: -0.02    

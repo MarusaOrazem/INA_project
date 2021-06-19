@@ -5,13 +5,17 @@ Season: 2010/2011
 Gender: male     
 Home team: Real Zaragoza (395), goals: 0   
 Away team: Barcelona (217), goals: 2    
-Goal time: (41, 18)   
-Card time: (46, 12)   
-Before goal: Time in possession for home team 395: 11.6    
+Goal time: (41, 18), for (217, 'Barcelona')   
+Card time: (46, 12), for (395, 'Real Zaragoza')   
+First period: Time in possession for home team 395: 13.80    
+First period: Time in possession for away team 217: 32.35    
+Second period: Time in possession for home team 395: 12.67    
+Second period: Time in possession for away team 217: 33.55    
+Before goal: Time in possession for home team 395: 11.60    
 Before goal: Time in possession for away team 217: 29.55    
-After goal: Time in possession for home team 395: 14.866666666666667    
-After goal: Time in possession for away team 217: 36.2    
-Before card: Time in possession for home team 395: 13.8    
+After goal: Time in possession for home team 395: 14.87    
+After goal: Time in possession for away team 217: 36.20    
+Before card: Time in possession for home team 395: 13.80    
 Before card: Time in possession for away team 217: 32.35    
-After card: Time in possession for home team 395: 12.666666666666666    
+After card: Time in possession for home team 395: 12.67    
 After card: Time in possession for away team 217: 33.55    

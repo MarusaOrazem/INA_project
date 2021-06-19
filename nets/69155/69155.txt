@@ -5,13 +5,17 @@ Season: 2006/2007
 Gender: male     
 Home team: Villarreal (222), goals: 2   
 Away team: Barcelona (217), goals: 0    
-Goal time: (55, 56)   
-Card time: (-1, -1)   
+Goal time: (55, 56), for (222, 'Villarreal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 222: 18.17    
+First period: Time in possession for away team 217: 26.97    
+Second period: Time in possession for home team 222: 20.13    
+Second period: Time in possession for away team 217: 26.38    
 Before goal: Time in possession for home team 222: 21.05    
 Before goal: Time in possession for away team 217: 34.65    
-After goal: Time in possession for home team 222: 27.816666666666666    
-After goal: Time in possession for away team 217: 18.7    
-Before card: Time in possession for home team 222: 38.3    
+After goal: Time in possession for home team 222: 27.82    
+After goal: Time in possession for away team 217: 18.70    
+Before card: Time in possession for home team 222: 38.30    
 Before card: Time in possession for away team 217: 53.35    
-After card: Time in possession for home team 222: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After card: Time in possession for home team 222: -0.02    
+After card: Time in possession for away team 217: -0.02    

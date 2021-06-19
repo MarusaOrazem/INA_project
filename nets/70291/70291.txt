@@ -5,13 +5,17 @@ Season: 2013/2014
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Málaga (223), goals: 0    
-Goal time: (39, 26)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 26.466666666666665    
-Before goal: Time in possession for away team 223: 11.566666666666666    
-After goal: Time in possession for home team 217: 39.266666666666666    
-After goal: Time in possession for away team 223: 13.716666666666667    
-Before card: Time in possession for home team 217: 67.13333333333334    
-Before card: Time in possession for away team 223: 25.283333333333335    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 223: -0.016666666666666666    
+Goal time: (39, 26), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 33.78    
+First period: Time in possession for away team 223: 12.27    
+Second period: Time in possession for home team 217: 33.35    
+Second period: Time in possession for away team 223: 13.02    
+Before goal: Time in possession for home team 217: 26.47    
+Before goal: Time in possession for away team 223: 11.57    
+After goal: Time in possession for home team 217: 39.27    
+After goal: Time in possession for away team 223: 13.72    
+Before card: Time in possession for home team 217: 67.13    
+Before card: Time in possession for away team 223: 25.28    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 223: -0.02    

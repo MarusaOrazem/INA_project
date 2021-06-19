@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Liverpool WFC (966), goals: 0   
 Away team: Birmingham City WFC (969), goals: 2    
-Goal time: (2, 30)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 966: 0.31666666666666665    
-Before goal: Time in possession for away team 969: 2.033333333333333    
-After goal: Time in possession for home team 966: 28.333333333333332    
-After goal: Time in possession for away team 969: 64.16666666666667    
+Goal time: (2, 30), for (969, 'Birmingham City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 966: 16.63    
+First period: Time in possession for away team 969: 29.20    
+Second period: Time in possession for home team 966: 12.02    
+Second period: Time in possession for away team 969: 37.15    
+Before goal: Time in possession for home team 966: 0.32    
+Before goal: Time in possession for away team 969: 2.03    
+After goal: Time in possession for home team 966: 28.33    
+After goal: Time in possession for away team 969: 64.17    
 Before card: Time in possession for home team 966: 28.65    
 Before card: Time in possession for away team 969: 66.35    
-After card: Time in possession for home team 966: -0.016666666666666666    
-After card: Time in possession for away team 969: -0.016666666666666666    
+After card: Time in possession for home team 966: -0.02    
+After card: Time in possession for away team 969: -0.02    

@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Jamaica Women's (1212), goals: 0   
 Away team: Italy Women's (855), goals: 5    
-Goal time: (11, 49)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1212: 3.9833333333333334    
-Before goal: Time in possession for away team 855: 4.2    
-After goal: Time in possession for home team 1212: 32.7    
-After goal: Time in possession for away team 855: 50.03333333333333    
-Before card: Time in possession for home team 1212: 36.68333333333333    
-Before card: Time in possession for away team 855: 57.86666666666667    
-After card: Time in possession for home team 1212: -0.016666666666666666    
-After card: Time in possession for away team 855: -0.016666666666666666    
+Goal time: (11, 49), for (855, "Italy Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1212: 16.88    
+First period: Time in possession for away team 855: 29.32    
+Second period: Time in possession for home team 1212: 19.80    
+Second period: Time in possession for away team 855: 28.55    
+Before goal: Time in possession for home team 1212: 3.98    
+Before goal: Time in possession for away team 855: 4.20    
+After goal: Time in possession for home team 1212: 32.70    
+After goal: Time in possession for away team 855: 50.03    
+Before card: Time in possession for home team 1212: 36.68    
+Before card: Time in possession for away team 855: 57.87    
+After card: Time in possession for home team 1212: -0.02    
+After card: Time in possession for away team 855: -0.02    

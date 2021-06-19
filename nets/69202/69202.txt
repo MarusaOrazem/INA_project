@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: France Women's (861), goals: 1   
 Away team: United States Women's (1214), goals: 2    
-Goal time: (4, 42)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 861: 2.033333333333333    
-Before goal: Time in possession for away team 1214: 0.5166666666666667    
-After goal: Time in possession for home team 861: 56.88333333333333    
-After goal: Time in possession for away team 1214: 34.46666666666667    
-Before card: Time in possession for home team 861: 58.916666666666664    
-Before card: Time in possession for away team 1214: 37.13333333333333    
-After card: Time in possession for home team 861: -0.016666666666666666    
-After card: Time in possession for away team 1214: -0.016666666666666666    
+Goal time: (4, 42), for (1214, "United States Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 861: 27.73    
+First period: Time in possession for away team 1214: 19.30    
+Second period: Time in possession for home team 861: 31.18    
+Second period: Time in possession for away team 1214: 17.83    
+Before goal: Time in possession for home team 861: 2.03    
+Before goal: Time in possession for away team 1214: 0.52    
+After goal: Time in possession for home team 861: 56.88    
+After goal: Time in possession for away team 1214: 34.47    
+Before card: Time in possession for home team 861: 58.92    
+Before card: Time in possession for away team 1214: 37.13    
+After card: Time in possession for home team 861: -0.02    
+After card: Time in possession for away team 1214: -0.02    

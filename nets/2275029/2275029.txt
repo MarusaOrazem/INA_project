@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Bristol City WFC (973), goals: 0   
 Away team: Liverpool WFC (966), goals: 1    
-Goal time: (12, 40)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 973: 6.066666666666666    
+Goal time: (12, 40), for (966, 'Liverpool WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 973: 24.17    
+First period: Time in possession for away team 966: 21.08    
+Second period: Time in possession for home team 973: 22.68    
+Second period: Time in possession for away team 966: 27.90    
+Before goal: Time in possession for home team 973: 6.07    
 Before goal: Time in possession for away team 966: 6.25    
-After goal: Time in possession for home team 973: 40.78333333333333    
-After goal: Time in possession for away team 966: 42.38333333333333    
+After goal: Time in possession for home team 973: 40.78    
+After goal: Time in possession for away team 966: 42.38    
 Before card: Time in possession for home team 973: 46.85    
-Before card: Time in possession for away team 966: 48.983333333333334    
-After card: Time in possession for home team 973: -0.016666666666666666    
-After card: Time in possession for away team 966: -0.016666666666666666    
+Before card: Time in possession for away team 966: 48.98    
+After card: Time in possession for home team 973: -0.02    
+After card: Time in possession for away team 966: -0.02    

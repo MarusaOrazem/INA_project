@@ -5,13 +5,17 @@ Season: 2006/2007
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Sevilla (213), goals: 1    
-Goal time: (27, 22)   
-Card time: (-1, -1)   
+Goal time: (27, 22), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 29.65    
+First period: Time in possession for away team 213: 17.33    
+Second period: Time in possession for home team 217: 21.73    
+Second period: Time in possession for away team 213: 27.22    
 Before goal: Time in possession for home team 217: 14.05    
-Before goal: Time in possession for away team 213: 10.533333333333333    
+Before goal: Time in possession for away team 213: 10.53    
 After goal: Time in possession for home team 217: 34.55    
-After goal: Time in possession for away team 213: 34.016666666666666    
-Before card: Time in possession for home team 217: 51.38333333333333    
+After goal: Time in possession for away team 213: 34.02    
+Before card: Time in possession for home team 217: 51.38    
 Before card: Time in possession for away team 213: 44.55    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 213: -0.016666666666666666    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 213: -0.02    

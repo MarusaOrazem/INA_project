@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Sweden Women's (858), goals: 0   
 Away team: United States Women's (1214), goals: 2    
-Goal time: (2, 40)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 858: 0.7    
-Before goal: Time in possession for away team 1214: 0.8833333333333333    
-After goal: Time in possession for home team 858: 34.36666666666667    
-After goal: Time in possession for away team 1214: 61.733333333333334    
-Before card: Time in possession for home team 858: 35.06666666666667    
-Before card: Time in possession for away team 1214: 63.7    
-After card: Time in possession for home team 858: -0.016666666666666666    
-After card: Time in possession for away team 1214: -0.016666666666666666    
+Goal time: (2, 40), for (1214, "United States Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 858: 14.45    
+First period: Time in possession for away team 1214: 32.47    
+Second period: Time in possession for home team 858: 20.62    
+Second period: Time in possession for away team 1214: 31.23    
+Before goal: Time in possession for home team 858: 0.70    
+Before goal: Time in possession for away team 1214: 0.88    
+After goal: Time in possession for home team 858: 34.37    
+After goal: Time in possession for away team 1214: 61.73    
+Before card: Time in possession for home team 858: 35.07    
+Before card: Time in possession for away team 1214: 63.70    
+After card: Time in possession for home team 858: -0.02    
+After card: Time in possession for away team 1214: -0.02    

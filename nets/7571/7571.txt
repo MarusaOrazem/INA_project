@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Senegal (787), goals: 0   
 Away team: Colombia (769), goals: 1    
-Goal time: (73, 29)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 787: 30.3    
-Before goal: Time in possession for away team 769: 43.06666666666667    
-After goal: Time in possession for home team 787: 11.2    
-After goal: Time in possession for away team 769: 36.93333333333333    
-Before card: Time in possession for home team 787: 41.5    
+Goal time: (73, 29), for (769, 'Colombia')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 787: 22.82    
+First period: Time in possession for away team 769: 23.80    
+Second period: Time in possession for home team 787: 18.68    
+Second period: Time in possession for away team 769: 29.45    
+Before goal: Time in possession for home team 787: 30.30    
+Before goal: Time in possession for away team 769: 43.07    
+After goal: Time in possession for home team 787: 11.20    
+After goal: Time in possession for away team 769: 36.93    
+Before card: Time in possession for home team 787: 41.50    
 Before card: Time in possession for away team 769: 53.25    
-After card: Time in possession for home team 787: -0.016666666666666666    
-After card: Time in possession for away team 769: -0.016666666666666666    
+After card: Time in possession for home team 787: -0.02    
+After card: Time in possession for away team 769: -0.02    

@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Utah Royals (767), goals: 0   
 Away team: North Carolina Courage (766), goals: 0    
-Goal time: (-1, -1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 767: 51.516666666666666    
-Before goal: Time in possession for away team 766: 39.43333333333333    
-After goal: Time in possession for home team 767: -0.016666666666666666    
-After goal: Time in possession for away team 766: -0.016666666666666666    
-Before card: Time in possession for home team 767: 51.516666666666666    
-Before card: Time in possession for away team 766: 39.43333333333333    
-After card: Time in possession for home team 767: -0.016666666666666666    
-After card: Time in possession for away team 766: -0.016666666666666666    
+Goal time: (-1, -1), for -1   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 767: 22.32    
+First period: Time in possession for away team 766: 23.05    
+Second period: Time in possession for home team 767: 29.20    
+Second period: Time in possession for away team 766: 16.38    
+Before goal: Time in possession for home team 767: 51.52    
+Before goal: Time in possession for away team 766: 39.43    
+After goal: Time in possession for home team 767: -0.02    
+After goal: Time in possession for away team 766: -0.02    
+Before card: Time in possession for home team 767: 51.52    
+Before card: Time in possession for away team 766: 39.43    
+After card: Time in possession for home team 767: -0.02    
+After card: Time in possession for away team 766: -0.02    

@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Bristol City WFC (973), goals: 1   
 Away team: Tottenham Hotspur Women (749), goals: 2    
-Goal time: (38, 18)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 973: 15.7    
-Before goal: Time in possession for away team 749: 21.966666666666665    
+Goal time: (38, 18), for (973, 'Bristol City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 973: 21.32    
+First period: Time in possession for away team 749: 26.03    
+Second period: Time in possession for home team 973: 20.77    
+Second period: Time in possession for away team 749: 27.20    
+Before goal: Time in possession for home team 973: 15.70    
+Before goal: Time in possession for away team 749: 21.97    
 After goal: Time in possession for home team 973: 25.75    
-After goal: Time in possession for away team 749: 31.266666666666666    
-Before card: Time in possession for home team 973: 42.083333333333336    
-Before card: Time in possession for away team 749: 53.233333333333334    
-After card: Time in possession for home team 973: -0.016666666666666666    
-After card: Time in possession for away team 749: -0.016666666666666666    
+After goal: Time in possession for away team 749: 31.27    
+Before card: Time in possession for home team 973: 42.08    
+Before card: Time in possession for away team 749: 53.23    
+After card: Time in possession for home team 973: -0.02    
+After card: Time in possession for away team 749: -0.02    

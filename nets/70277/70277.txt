@@ -5,13 +5,17 @@ Season: 2013/2014
 Gender: male     
 Home team: Barcelona (217), goals: 7   
 Away team: Levante (221), goals: 0    
-Goal time: (2, 33)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 1.1833333333333333    
-Before goal: Time in possession for away team 221: 0.48333333333333334    
+Goal time: (2, 33), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 38.52    
+First period: Time in possession for away team 221: 6.90    
+Second period: Time in possession for home team 217: 32.70    
+Second period: Time in possession for away team 221: 13.95    
+Before goal: Time in possession for home team 217: 1.18    
+Before goal: Time in possession for away team 221: 0.48    
 After goal: Time in possession for home team 217: 69.15    
-After goal: Time in possession for away team 221: 20.366666666666667    
-Before card: Time in possession for home team 217: 71.21666666666667    
+After goal: Time in possession for away team 221: 20.37    
+Before card: Time in possession for home team 217: 71.22    
 Before card: Time in possession for away team 221: 20.85    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 221: -0.016666666666666666    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 221: -0.02    

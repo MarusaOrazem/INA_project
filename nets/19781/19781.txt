@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: West Ham United LFC (972), goals: 2   
 Away team: Arsenal WFC (968), goals: 4    
-Goal time: (10, 51)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 972: 5.116666666666666    
-Before goal: Time in possession for away team 968: 4.733333333333333    
-After goal: Time in possession for home team 972: 28.616666666666667    
-After goal: Time in possession for away team 968: 54.583333333333336    
-Before card: Time in possession for home team 972: 34.733333333333334    
-Before card: Time in possession for away team 968: 59.31666666666667    
-After card: Time in possession for home team 972: -0.016666666666666666    
-After card: Time in possession for away team 968: -0.016666666666666666    
+Goal time: (10, 51), for (972, 'West Ham United LFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 972: 19.02    
+First period: Time in possession for away team 968: 27.95    
+Second period: Time in possession for home team 972: 15.72    
+Second period: Time in possession for away team 968: 31.37    
+Before goal: Time in possession for home team 972: 5.12    
+Before goal: Time in possession for away team 968: 4.73    
+After goal: Time in possession for home team 972: 28.62    
+After goal: Time in possession for away team 968: 54.58    
+Before card: Time in possession for home team 972: 34.73    
+Before card: Time in possession for away team 968: 59.32    
+After card: Time in possession for home team 972: -0.02    
+After card: Time in possession for away team 968: -0.02    

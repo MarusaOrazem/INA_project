@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Leeds United (101), goals: 1   
 Away team: Arsenal (1), goals: 4    
-Goal time: (7, 17)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 101: 4.766666666666667    
-Before goal: Time in possession for away team 1: 1.6333333333333333    
-After goal: Time in possession for home team 101: 46.3    
-After goal: Time in possession for away team 1: 39.266666666666666    
-Before card: Time in possession for home team 101: 51.06666666666667    
-Before card: Time in possession for away team 1: 41.78333333333333    
-After card: Time in possession for home team 101: -0.016666666666666666    
-After card: Time in possession for away team 1: -0.016666666666666666    
+Goal time: (7, 17), for (1, 'Arsenal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 101: 27.07    
+First period: Time in possession for away team 1: 18.87    
+Second period: Time in possession for home team 101: 24.00    
+Second period: Time in possession for away team 1: 22.92    
+Before goal: Time in possession for home team 101: 4.77    
+Before goal: Time in possession for away team 1: 1.63    
+After goal: Time in possession for home team 101: 46.30    
+After goal: Time in possession for away team 1: 39.27    
+Before card: Time in possession for home team 101: 51.07    
+Before card: Time in possession for away team 1: 41.78    
+After card: Time in possession for home team 101: -0.02    
+After card: Time in possession for away team 1: -0.02    

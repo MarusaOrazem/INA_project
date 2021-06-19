@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Arsenal (1), goals: 4   
 Away team: Middlesbrough (47), goals: 1    
-Goal time: (37, 22)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1: 18.3    
-Before goal: Time in possession for away team 47: 16.5    
-After goal: Time in possession for home team 1: 37.8    
-After goal: Time in possession for away team 47: 17.583333333333332    
-Before card: Time in possession for home team 1: 58.666666666666664    
-Before card: Time in possession for away team 47: 34.083333333333336    
-After card: Time in possession for home team 1: -0.016666666666666666    
-After card: Time in possession for away team 47: -0.016666666666666666    
+Goal time: (37, 22), for (1, 'Arsenal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1: 28.08    
+First period: Time in possession for away team 47: 18.97    
+Second period: Time in possession for home team 1: 30.58    
+Second period: Time in possession for away team 47: 15.12    
+Before goal: Time in possession for home team 1: 18.30    
+Before goal: Time in possession for away team 47: 16.50    
+After goal: Time in possession for home team 1: 37.80    
+After goal: Time in possession for away team 47: 17.58    
+Before card: Time in possession for home team 1: 58.67    
+Before card: Time in possession for away team 47: 34.08    
+After card: Time in possession for home team 1: -0.02    
+After card: Time in possession for away team 47: -0.02    

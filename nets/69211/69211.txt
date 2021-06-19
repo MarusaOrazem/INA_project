@@ -5,13 +5,17 @@ Season: 2008/2009
 Gender: male     
 Home team: Espanyol (214), goals: 1   
 Away team: Barcelona (217), goals: 2    
-Goal time: (19, 43)   
-Card time: (46, 1)   
-Before goal: Time in possession for home team 214: 7.7    
-Before goal: Time in possession for away team 217: 10.516666666666667    
-After goal: Time in possession for home team 214: 21.166666666666668    
-After goal: Time in possession for away team 217: 58.28333333333333    
-Before card: Time in possession for home team 214: 17.8    
-Before card: Time in possession for away team 217: 28.133333333333333    
-After card: Time in possession for home team 214: 12.483333333333333    
-After card: Time in possession for away team 217: 40.666666666666664    
+Goal time: (19, 43), for (214, 'Espanyol')   
+Card time: (46, 1), for -1   
+First period: Time in possession for home team 214: 19.58    
+First period: Time in possession for away team 217: 28.13    
+Second period: Time in possession for home team 214: 10.78    
+Second period: Time in possession for away team 217: 40.67    
+Before goal: Time in possession for home team 214: 7.70    
+Before goal: Time in possession for away team 217: 10.52    
+After goal: Time in possession for home team 214: 21.17    
+After goal: Time in possession for away team 217: 58.28    
+Before card: Time in possession for home team 214: 17.80    
+Before card: Time in possession for away team 217: 28.13    
+After card: Time in possession for home team 214: 12.48    
+After card: Time in possession for away team 217: 40.67    

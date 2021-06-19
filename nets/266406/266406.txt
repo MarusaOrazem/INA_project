@@ -5,13 +5,17 @@ Season: 2014/2015
 Gender: male     
 Home team: Villarreal (222), goals: 0   
 Away team: Barcelona (217), goals: 1    
-Goal time: (81, 43)   
-Card time: (-1, -1)   
+Goal time: (81, 43), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 222: 12.68    
+First period: Time in possession for away team 217: 32.23    
+Second period: Time in possession for home team 222: 15.85    
+Second period: Time in possession for away team 217: 32.12    
 Before goal: Time in possession for home team 222: 23.75    
-Before goal: Time in possession for away team 217: 56.88333333333333    
-After goal: Time in possession for home team 222: 4.783333333333333    
-After goal: Time in possession for away team 217: 43.18333333333333    
-Before card: Time in possession for home team 222: 28.533333333333335    
+Before goal: Time in possession for away team 217: 56.88    
+After goal: Time in possession for home team 222: 4.78    
+After goal: Time in possession for away team 217: 43.18    
+Before card: Time in possession for home team 222: 28.53    
 Before card: Time in possession for away team 217: 64.35    
-After card: Time in possession for home team 222: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After card: Time in possession for home team 222: -0.02    
+After card: Time in possession for away team 217: -0.02    

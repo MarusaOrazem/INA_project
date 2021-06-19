@@ -5,13 +5,17 @@ Season: 2008/2009
 Gender: male     
 Home team: Barcelona (217), goals: 6   
 Away team: Atlético Madrid (212), goals: 1    
-Goal time: (3, 1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 1.4833333333333334    
-Before goal: Time in possession for away team 212: 1.0    
-After goal: Time in possession for home team 217: 51.11666666666667    
-After goal: Time in possession for away team 212: 35.63333333333333    
-Before card: Time in possession for home team 217: 53.13333333333333    
-Before card: Time in possession for away team 212: 36.63333333333333    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 212: -0.016666666666666666    
+Goal time: (3, 1), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 29.18    
+First period: Time in possession for away team 212: 15.27    
+Second period: Time in possession for home team 217: 23.95    
+Second period: Time in possession for away team 212: 21.37    
+Before goal: Time in possession for home team 217: 1.48    
+Before goal: Time in possession for away team 212: 1.00    
+After goal: Time in possession for home team 217: 51.12    
+After goal: Time in possession for away team 212: 35.63    
+Before card: Time in possession for home team 217: 53.13    
+Before card: Time in possession for away team 212: 36.63    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 212: -0.02    

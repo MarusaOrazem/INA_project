@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Australia (792), goals: 0   
 Away team: Peru (784), goals: 2    
-Goal time: (17, 14)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 792: 11.016666666666667    
+Goal time: (17, 14), for (784, 'Peru')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 792: 27.07    
+First period: Time in possession for away team 784: 18.95    
+Second period: Time in possession for home team 792: 29.08    
+Second period: Time in possession for away team 784: 18.40    
+Before goal: Time in possession for home team 792: 11.02    
 Before goal: Time in possession for away team 784: 5.85    
-After goal: Time in possession for home team 792: 45.13333333333333    
-After goal: Time in possession for away team 784: 31.133333333333333    
+After goal: Time in possession for home team 792: 45.13    
+After goal: Time in possession for away team 784: 31.13    
 Before card: Time in possession for home team 792: 56.15    
 Before card: Time in possession for away team 784: 37.35    
-After card: Time in possession for home team 792: -0.016666666666666666    
-After card: Time in possession for away team 784: -0.016666666666666666    
+After card: Time in possession for home team 792: -0.02    
+After card: Time in possession for away team 784: -0.02    

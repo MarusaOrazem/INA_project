@@ -5,13 +5,17 @@ Season: 2008/2009
 Gender: male     
 Home team: Barcelona (217), goals: 1   
 Away team: Racing Santander (1217), goals: 1    
-Goal time: (70, 36)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 51.56666666666667    
-Before goal: Time in possession for away team 1217: 15.2    
-After goal: Time in possession for home team 217: 41.13333333333333    
-After goal: Time in possession for away team 1217: 7.483333333333333    
-Before card: Time in possession for home team 217: 71.96666666666667    
-Before card: Time in possession for away team 1217: 22.683333333333334    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 1217: -0.016666666666666666    
+Goal time: (70, 36), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 35.75    
+First period: Time in possession for away team 1217: 10.28    
+Second period: Time in possession for home team 217: 36.22    
+Second period: Time in possession for away team 1217: 12.40    
+Before goal: Time in possession for home team 217: 51.57    
+Before goal: Time in possession for away team 1217: 15.20    
+After goal: Time in possession for home team 217: 41.13    
+After goal: Time in possession for away team 1217: 7.48    
+Before card: Time in possession for home team 217: 71.97    
+Before card: Time in possession for away team 1217: 22.68    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 1217: -0.02    

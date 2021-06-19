@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Switzerland (773), goals: 2   
 Away team: Costa Rica (795), goals: 2    
-Goal time: (30, 24)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 773: 18.583333333333332    
-Before goal: Time in possession for away team 795: 11.633333333333333    
+Goal time: (30, 24), for (773, 'Switzerland')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 773: 26.88    
+First period: Time in possession for away team 795: 19.15    
+Second period: Time in possession for home team 773: 24.73    
+Second period: Time in possession for away team 795: 24.27    
+Before goal: Time in possession for home team 773: 18.58    
+Before goal: Time in possession for away team 795: 11.63    
 After goal: Time in possession for home team 773: 32.85    
-After goal: Time in possession for away team 795: 31.783333333333335    
-Before card: Time in possession for home team 773: 51.61666666666667    
-Before card: Time in possession for away team 795: 43.416666666666664    
-After card: Time in possession for home team 773: -0.016666666666666666    
-After card: Time in possession for away team 795: -0.016666666666666666    
+After goal: Time in possession for away team 795: 31.78    
+Before card: Time in possession for home team 773: 51.62    
+Before card: Time in possession for away team 795: 43.42    
+After card: Time in possession for home team 773: -0.02    
+After card: Time in possession for away team 795: -0.02    

@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Arsenal WFC (968), goals: 2   
 Away team: West Ham United LFC (972), goals: 1    
-Goal time: (13, 36)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 968: 7.716666666666667    
-Before goal: Time in possession for away team 972: 5.666666666666667    
-After goal: Time in possession for home team 968: 51.266666666666666    
-After goal: Time in possession for away team 972: 29.966666666666665    
-Before card: Time in possession for home team 968: 59.2    
-Before card: Time in possession for away team 972: 35.63333333333333    
-After card: Time in possession for home team 968: -0.016666666666666666    
-After card: Time in possession for away team 972: -0.016666666666666666    
+Goal time: (13, 36), for (968, 'Arsenal WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 968: 30.35    
+First period: Time in possession for away team 972: 16.53    
+Second period: Time in possession for home team 968: 28.85    
+Second period: Time in possession for away team 972: 19.10    
+Before goal: Time in possession for home team 968: 7.72    
+Before goal: Time in possession for away team 972: 5.67    
+After goal: Time in possession for home team 968: 51.27    
+After goal: Time in possession for away team 972: 29.97    
+Before card: Time in possession for home team 968: 59.20    
+Before card: Time in possession for away team 972: 35.63    
+After card: Time in possession for home team 968: -0.02    
+After card: Time in possession for away team 972: -0.02    

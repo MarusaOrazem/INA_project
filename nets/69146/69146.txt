@@ -5,13 +5,17 @@ Season: 2007/2008
 Gender: male     
 Home team: Sevilla (213), goals: 1   
 Away team: Barcelona (217), goals: 1    
-Goal time: (33, 57)   
-Card time: (77, 20)   
-Before goal: Time in possession for home team 213: 15.4    
-Before goal: Time in possession for away team 217: 18.3    
-After goal: Time in possession for home team 213: 21.883333333333333    
-After goal: Time in possession for away team 217: 37.81666666666667    
-Before card: Time in possession for home team 213: 36.333333333333336    
-Before card: Time in possession for away team 217: 40.18333333333333    
-After card: Time in possession for home team 213: 1.2    
-After card: Time in possession for away team 217: 47.68333333333333    
+Goal time: (33, 57), for (213, 'Sevilla')   
+Card time: (77, 20), for -1   
+First period: Time in possession for home team 213: 22.73    
+First period: Time in possession for away team 217: 22.03    
+Second period: Time in possession for home team 213: 14.80    
+Second period: Time in possession for away team 217: 34.08    
+Before goal: Time in possession for home team 213: 15.40    
+Before goal: Time in possession for away team 217: 18.30    
+After goal: Time in possession for home team 213: 21.88    
+After goal: Time in possession for away team 217: 37.82    
+Before card: Time in possession for home team 213: 36.33    
+Before card: Time in possession for away team 217: 40.18    
+After card: Time in possession for home team 213: 1.20    
+After card: Time in possession for away team 217: 47.68    

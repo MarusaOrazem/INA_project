@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Everton LFC (967), goals: 0   
 Away team: Yeovil Town LFC (970), goals: 1    
-Goal time: (77, 2)   
-Card time: (-1, -1)   
+Goal time: (77, 2), for (970, 'Yeovil Town LFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 967: 29.05    
+First period: Time in possession for away team 970: 14.73    
+Second period: Time in possession for home team 967: 32.18    
+Second period: Time in possession for away team 970: 19.10    
 Before goal: Time in possession for home team 967: 49.35    
-Before goal: Time in possession for away team 970: 24.816666666666666    
-After goal: Time in possession for home team 967: 11.883333333333333    
-After goal: Time in possession for away team 970: 39.4    
-Before card: Time in possession for home team 967: 61.233333333333334    
-Before card: Time in possession for away team 970: 33.833333333333336    
-After card: Time in possession for home team 967: -0.016666666666666666    
-After card: Time in possession for away team 970: -0.016666666666666666    
+Before goal: Time in possession for away team 970: 24.82    
+After goal: Time in possession for home team 967: 11.88    
+After goal: Time in possession for away team 970: 39.40    
+Before card: Time in possession for home team 967: 61.23    
+Before card: Time in possession for away team 970: 33.83    
+After card: Time in possession for home team 967: -0.02    
+After card: Time in possession for away team 970: -0.02    

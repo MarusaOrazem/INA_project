@@ -5,13 +5,17 @@ Season: 2013/2014
 Gender: male     
 Home team: Espanyol (214), goals: 0   
 Away team: Barcelona (217), goals: 1    
-Goal time: (76, 13)   
-Card time: (82, 27)   
-Before goal: Time in possession for home team 214: 25.7    
-Before goal: Time in possession for away team 217: 46.233333333333334    
+Goal time: (76, 13), for (217, 'Barcelona')   
+Card time: (82, 27), for (214, 'Espanyol')   
+First period: Time in possession for home team 214: 14.88    
+First period: Time in possession for away team 217: 30.28    
+Second period: Time in possession for home team 214: 12.87    
+Second period: Time in possession for away team 217: 33.43    
+Before goal: Time in possession for home team 214: 25.70    
+Before goal: Time in possession for away team 217: 46.23    
 After goal: Time in possession for home team 214: 2.05    
 After goal: Time in possession for away team 217: 44.25    
-Before card: Time in possession for home team 214: 26.933333333333334    
-Before card: Time in possession for away team 217: 53.333333333333336    
-After card: Time in possession for home team 214: 0.8166666666666667    
-After card: Time in possession for away team 217: 45.483333333333334    
+Before card: Time in possession for home team 214: 26.93    
+Before card: Time in possession for away team 217: 53.33    
+After card: Time in possession for home team 214: 0.82    
+After card: Time in possession for away team 217: 45.48    
