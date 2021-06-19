@@ -5,13 +5,17 @@ Season: 2016/2017
 Gender: male     
 Home team: Barcelona (217), goals: 1   
 Away team: Real Madrid (220), goals: 1    
-Goal time: (52, 23)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 28.233333333333334    
-Before goal: Time in possession for away team 220: 22.966666666666665    
-After goal: Time in possession for home team 217: 23.8    
-After goal: Time in possession for away team 220: 22.183333333333334    
+Goal time: (52, 23), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 24.98    
+First period: Time in possession for away team 220: 20.13    
+Second period: Time in possession for home team 217: 20.97    
+Second period: Time in possession for away team 220: 25.02    
+Before goal: Time in possession for home team 217: 28.23    
+Before goal: Time in possession for away team 220: 22.97    
+After goal: Time in possession for home team 217: 23.80    
+After goal: Time in possession for away team 220: 22.18    
 Before card: Time in possession for home team 217: 45.95    
 Before card: Time in possession for away team 220: 45.15    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 220: -0.016666666666666666    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 220: -0.02    

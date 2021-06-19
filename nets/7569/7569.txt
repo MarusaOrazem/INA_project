@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Panama (798), goals: 1   
 Away team: Tunisia (777), goals: 2    
-Goal time: (50, 16)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 798: 17.1    
-Before goal: Time in possession for away team 777: 34.083333333333336    
-After goal: Time in possession for home team 798: 21.416666666666668    
-After goal: Time in possession for away team 777: 31.033333333333335    
-Before card: Time in possession for home team 798: 38.516666666666666    
-Before card: Time in possession for away team 777: 60.916666666666664    
-After card: Time in possession for home team 798: -0.016666666666666666    
-After card: Time in possession for away team 777: -0.016666666666666666    
+Goal time: (50, 16), for (777, 'Tunisia')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 798: 16.67    
+First period: Time in possession for away team 777: 30.32    
+Second period: Time in possession for home team 798: 21.85    
+Second period: Time in possession for away team 777: 30.60    
+Before goal: Time in possession for home team 798: 17.10    
+Before goal: Time in possession for away team 777: 34.08    
+After goal: Time in possession for home team 798: 21.42    
+After goal: Time in possession for away team 777: 31.03    
+Before card: Time in possession for home team 798: 38.52    
+Before card: Time in possession for away team 777: 60.92    
+After card: Time in possession for home team 798: -0.02    
+After card: Time in possession for away team 777: -0.02    

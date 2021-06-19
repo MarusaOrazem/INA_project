@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Eibar (322), goals: 0    
-Goal time: (13, 45)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 9.833333333333334    
-Before goal: Time in possession for away team 322: 3.716666666666667    
+Goal time: (13, 45), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 29.60    
+First period: Time in possession for away team 322: 15.32    
+Second period: Time in possession for home team 217: 30.68    
+Second period: Time in possession for away team 322: 14.38    
+Before goal: Time in possession for home team 217: 9.83    
+Before goal: Time in possession for away team 322: 3.72    
 After goal: Time in possession for home team 217: 50.25    
-After goal: Time in possession for away team 322: 25.983333333333334    
-Before card: Time in possession for home team 217: 60.28333333333333    
-Before card: Time in possession for away team 322: 29.7    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 322: -0.016666666666666666    
+After goal: Time in possession for away team 322: 25.98    
+Before card: Time in possession for home team 217: 60.28    
+Before card: Time in possession for away team 322: 29.70    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 322: -0.02    

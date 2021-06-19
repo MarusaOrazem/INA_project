@@ -5,13 +5,17 @@ Season: 2017/2018
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Valencia (207), goals: 1    
-Goal time: (14, 7)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 7.7    
-Before goal: Time in possession for away team 207: 5.316666666666666    
-After goal: Time in possession for home team 217: 45.7    
-After goal: Time in possession for away team 207: 34.233333333333334    
-Before card: Time in possession for home team 217: 54.5    
+Goal time: (14, 7), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 28.03    
+First period: Time in possession for away team 207: 17.80    
+Second period: Time in possession for home team 217: 26.47    
+Second period: Time in possession for away team 207: 21.75    
+Before goal: Time in possession for home team 217: 7.70    
+Before goal: Time in possession for away team 207: 5.32    
+After goal: Time in possession for home team 217: 45.70    
+After goal: Time in possession for away team 207: 34.23    
+Before card: Time in possession for home team 217: 54.50    
 Before card: Time in possession for away team 207: 39.55    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 207: -0.016666666666666666    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 207: -0.02    

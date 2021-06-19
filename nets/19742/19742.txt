@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Yeovil Town LFC (970), goals: 1   
 Away team: Bristol City WFC (973), goals: 2    
-Goal time: (31, 57)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 970: 10.333333333333334    
+Goal time: (31, 57), for (973, 'Bristol City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 970: 16.82    
+First period: Time in possession for away team 973: 29.45    
+Second period: Time in possession for home team 970: 17.75    
+Second period: Time in possession for away team 973: 32.58    
+Before goal: Time in possession for home team 970: 10.33    
 Before goal: Time in possession for away team 973: 20.55    
-After goal: Time in possession for home team 970: 24.233333333333334    
-After goal: Time in possession for away team 973: 40.416666666666664    
-Before card: Time in possession for home team 970: 34.56666666666667    
-Before card: Time in possession for away team 973: 62.03333333333333    
-After card: Time in possession for home team 970: -0.016666666666666666    
-After card: Time in possession for away team 973: -0.016666666666666666    
+After goal: Time in possession for home team 970: 24.23    
+After goal: Time in possession for away team 973: 40.42    
+Before card: Time in possession for home team 970: 34.57    
+Before card: Time in possession for away team 973: 62.03    
+After card: Time in possession for home team 970: -0.02    
+After card: Time in possession for away team 973: -0.02    

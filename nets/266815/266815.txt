@@ -5,13 +5,17 @@ Season: 2015/2016
 Gender: male     
 Home team: Sporting Gijón (1041), goals: 1   
 Away team: Barcelona (217), goals: 3    
-Goal time: (24, 20)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1041: 4.733333333333333    
-Before goal: Time in possession for away team 217: 17.666666666666668    
-After goal: Time in possession for home team 1041: 17.783333333333335    
-After goal: Time in possession for away team 217: 49.68333333333333    
-Before card: Time in possession for home team 1041: 22.516666666666666    
-Before card: Time in possession for away team 217: 69.28333333333333    
-After card: Time in possession for home team 1041: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (24, 20), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1041: 10.77    
+First period: Time in possession for away team 217: 33.10    
+Second period: Time in possession for home team 1041: 11.75    
+Second period: Time in possession for away team 217: 36.18    
+Before goal: Time in possession for home team 1041: 4.73    
+Before goal: Time in possession for away team 217: 17.67    
+After goal: Time in possession for home team 1041: 17.78    
+After goal: Time in possession for away team 217: 49.68    
+Before card: Time in possession for home team 1041: 22.52    
+Before card: Time in possession for away team 217: 69.28    
+After card: Time in possession for home team 1041: -0.02    
+After card: Time in possession for away team 217: -0.02    

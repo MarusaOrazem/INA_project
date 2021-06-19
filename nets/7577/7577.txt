@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Morocco (788), goals: 0   
 Away team: Iran (797), goals: 1    
-Goal time: (-1, -1)   
-Card time: (-1, -1)   
+Goal time: (-1, -1), for -1   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 788: 27.68    
+First period: Time in possession for away team 797: 18.83    
+Second period: Time in possession for home team 788: 30.37    
+Second period: Time in possession for away team 797: 19.98    
 Before goal: Time in possession for home team 788: 58.05    
-Before goal: Time in possession for away team 797: 38.81666666666667    
-After goal: Time in possession for home team 788: -0.016666666666666666    
-After goal: Time in possession for away team 797: -0.016666666666666666    
+Before goal: Time in possession for away team 797: 38.82    
+After goal: Time in possession for home team 788: -0.02    
+After goal: Time in possession for away team 797: -0.02    
 Before card: Time in possession for home team 788: 58.05    
-Before card: Time in possession for away team 797: 38.81666666666667    
-After card: Time in possession for home team 788: -0.016666666666666666    
-After card: Time in possession for away team 797: -0.016666666666666666    
+Before card: Time in possession for away team 797: 38.82    
+After card: Time in possession for home team 788: -0.02    
+After card: Time in possession for away team 797: -0.02    

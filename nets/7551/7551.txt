@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Germany (770), goals: 2   
 Away team: Sweden (790), goals: 1    
-Goal time: (31, 44)   
-Card time: (80, 50)   
-Before goal: Time in possession for home team 770: 23.766666666666666    
+Goal time: (31, 44), for (790, 'Sweden')   
+Card time: (80, 50), for -1   
+First period: Time in possession for home team 770: 36.73    
+First period: Time in possession for away team 790: 9.63    
+Second period: Time in possession for home team 770: 37.22    
+Second period: Time in possession for away team 790: 14.90    
+Before goal: Time in possession for home team 770: 23.77    
 Before goal: Time in possession for away team 790: 7.85    
-After goal: Time in possession for home team 770: 50.18333333333333    
-After goal: Time in possession for away team 790: 16.566666666666666    
-Before card: Time in possession for home team 770: 63.3    
+After goal: Time in possession for home team 770: 50.18    
+After goal: Time in possession for away team 790: 16.57    
+Before card: Time in possession for home team 770: 63.30    
 Before card: Time in possession for away team 790: 18.85    
 After card: Time in possession for home team 770: 10.65    
-After card: Time in possession for away team 790: 41.46666666666667    
+After card: Time in possession for away team 790: 41.47    

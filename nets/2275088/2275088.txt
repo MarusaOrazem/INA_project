@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Bristol City WFC (973), goals: 0   
 Away team: Birmingham City WFC (969), goals: 2    
-Goal time: (4, 53)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 973: 1.9333333333333333    
-Before goal: Time in possession for away team 969: 2.6166666666666667    
-After goal: Time in possession for home team 973: 41.13333333333333    
-After goal: Time in possession for away team 969: 47.96666666666667    
-Before card: Time in possession for home team 973: 43.06666666666667    
-Before card: Time in possession for away team 969: 50.916666666666664    
-After card: Time in possession for home team 973: -0.016666666666666666    
-After card: Time in possession for away team 969: -0.016666666666666666    
+Goal time: (4, 53), for (969, 'Birmingham City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 973: 22.15    
+First period: Time in possession for away team 969: 25.07    
+Second period: Time in possession for home team 973: 20.92    
+Second period: Time in possession for away team 969: 25.85    
+Before goal: Time in possession for home team 973: 1.93    
+Before goal: Time in possession for away team 969: 2.62    
+After goal: Time in possession for home team 973: 41.13    
+After goal: Time in possession for away team 969: 47.97    
+Before card: Time in possession for home team 973: 43.07    
+Before card: Time in possession for away team 969: 50.92    
+After card: Time in possession for home team 973: -0.02    
+After card: Time in possession for away team 969: -0.02    

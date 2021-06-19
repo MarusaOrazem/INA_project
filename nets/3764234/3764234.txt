@@ -5,13 +5,17 @@ Season: 2020/2021
 Gender: female     
 Home team: Aston Villa (2647), goals: 0   
 Away team: Manchester City WFC (746), goals: 2    
-Goal time: (5, 51)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 2647: 1.6833333333333333    
+Goal time: (5, 51), for (746, 'Manchester City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 2647: 19.25    
+First period: Time in possession for away team 746: 25.65    
+Second period: Time in possession for home team 2647: 17.62    
+Second period: Time in possession for away team 746: 28.10    
+Before goal: Time in possession for home team 2647: 1.68    
 Before goal: Time in possession for away team 746: 4.05    
-After goal: Time in possession for home team 2647: 35.06666666666667    
-After goal: Time in possession for away team 746: 49.7    
-Before card: Time in possession for home team 2647: 36.86666666666667    
+After goal: Time in possession for home team 2647: 35.07    
+After goal: Time in possession for away team 746: 49.70    
+Before card: Time in possession for home team 2647: 36.87    
 Before card: Time in possession for away team 746: 53.75    
-After card: Time in possession for home team 2647: -0.016666666666666666    
-After card: Time in possession for away team 746: -0.016666666666666666    
+After card: Time in possession for home team 2647: -0.02    
+After card: Time in possession for away team 746: -0.02    

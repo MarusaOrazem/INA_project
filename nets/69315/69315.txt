@@ -5,13 +5,17 @@ Season: 2011/2012
 Gender: male     
 Home team: Getafe (216), goals: 1   
 Away team: Barcelona (217), goals: 0    
-Goal time: (66, 43)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 216: 19.766666666666666    
-Before goal: Time in possession for away team 217: 46.483333333333334    
+Goal time: (66, 43), for (216, 'Getafe')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 216: 15.05    
+First period: Time in possession for away team 217: 30.90    
+Second period: Time in possession for home team 216: 10.87    
+Second period: Time in possession for away team 217: 36.52    
+Before goal: Time in possession for home team 216: 19.77    
+Before goal: Time in possession for away team 217: 46.48    
 After goal: Time in possession for home team 216: 26.45    
-After goal: Time in possession for away team 217: 20.933333333333334    
-Before card: Time in possession for home team 216: 25.916666666666668    
-Before card: Time in possession for away team 217: 67.41666666666667    
-After card: Time in possession for home team 216: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After goal: Time in possession for away team 217: 20.93    
+Before card: Time in possession for home team 216: 25.92    
+Before card: Time in possession for away team 217: 67.42    
+After card: Time in possession for home team 216: -0.02    
+After card: Time in possession for away team 217: -0.02    

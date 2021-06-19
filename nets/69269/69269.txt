@@ -5,13 +5,17 @@ Season: 2010/2011
 Gender: male     
 Home team: Atlético Madrid (212), goals: 1   
 Away team: Barcelona (217), goals: 2    
-Goal time: (12, 53)   
-Card time: (92, 15)   
-Before goal: Time in possession for home team 212: 5.166666666666667    
-Before goal: Time in possession for away team 217: 7.333333333333333    
-After goal: Time in possession for home team 212: 28.933333333333334    
+Goal time: (12, 53), for (217, 'Barcelona')   
+Card time: (92, 15), for -1   
+First period: Time in possession for home team 212: 17.15    
+First period: Time in possession for away team 217: 28.70    
+Second period: Time in possession for home team 212: 16.95    
+Second period: Time in possession for away team 217: 32.77    
+Before goal: Time in possession for home team 212: 5.17    
+Before goal: Time in possession for away team 217: 7.33    
+After goal: Time in possession for home team 212: 28.93    
 After goal: Time in possession for away team 217: 53.75    
-Before card: Time in possession for home team 212: 34.1    
-Before card: Time in possession for away team 217: 58.86666666666667    
-After card: Time in possession for home team 212: 0.0    
-After card: Time in possession for away team 217: 49.71666666666667    
+Before card: Time in possession for home team 212: 34.10    
+Before card: Time in possession for away team 217: 58.87    
+After card: Time in possession for home team 212: 0.00    
+After card: Time in possession for away team 217: 49.72    

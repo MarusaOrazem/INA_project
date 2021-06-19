@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Tottenham Hotspur (38), goals: 2   
 Away team: Arsenal (1), goals: 2    
-Goal time: (2, 40)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 38: 1.4666666666666666    
-Before goal: Time in possession for away team 1: 1.0166666666666666    
-After goal: Time in possession for home team 38: 52.016666666666666    
-After goal: Time in possession for away team 1: 43.61666666666667    
-Before card: Time in possession for home team 38: 53.483333333333334    
-Before card: Time in possession for away team 1: 44.81666666666667    
-After card: Time in possession for home team 38: -0.016666666666666666    
-After card: Time in possession for away team 1: -0.016666666666666666    
+Goal time: (2, 40), for (1, 'Arsenal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 38: 25.20    
+First period: Time in possession for away team 1: 20.62    
+Second period: Time in possession for home team 38: 28.28    
+Second period: Time in possession for away team 1: 24.20    
+Before goal: Time in possession for home team 38: 1.47    
+Before goal: Time in possession for away team 1: 1.02    
+After goal: Time in possession for home team 38: 52.02    
+After goal: Time in possession for away team 1: 43.62    
+Before card: Time in possession for home team 38: 53.48    
+Before card: Time in possession for away team 1: 44.82    
+After card: Time in possession for home team 38: -0.02    
+After card: Time in possession for away team 1: -0.02    

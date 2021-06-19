@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Southampton (25), goals: 0   
 Away team: Arsenal (1), goals: 1    
-Goal time: (34, 40)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 25: 15.3    
+Goal time: (34, 40), for (1, 'Arsenal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 25: 19.42    
+First period: Time in possession for away team 1: 26.52    
+Second period: Time in possession for home team 25: 21.17    
+Second period: Time in possession for away team 1: 26.27    
+Before goal: Time in possession for home team 25: 15.30    
 Before goal: Time in possession for away team 1: 18.85    
-After goal: Time in possession for home team 25: 25.283333333333335    
-After goal: Time in possession for away team 1: 33.416666666666664    
-Before card: Time in possession for home team 25: 40.583333333333336    
-Before card: Time in possession for away team 1: 52.78333333333333    
-After card: Time in possession for home team 25: -0.016666666666666666    
-After card: Time in possession for away team 1: -0.016666666666666666    
+After goal: Time in possession for home team 25: 25.28    
+After goal: Time in possession for away team 1: 33.42    
+Before card: Time in possession for home team 25: 40.58    
+Before card: Time in possession for away team 1: 52.78    
+After card: Time in possession for home team 25: -0.02    
+After card: Time in possession for away team 1: -0.02    

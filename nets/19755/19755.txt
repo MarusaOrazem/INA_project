@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Manchester City WFC (746), goals: 2   
 Away team: Chelsea FCW (971), goals: 2    
-Goal time: (11, 25)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 746: 3.6666666666666665    
+Goal time: (11, 25), for (746, 'Manchester City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 746: 20.45    
+First period: Time in possession for away team 971: 26.60    
+Second period: Time in possession for home team 746: 20.48    
+Second period: Time in possession for away team 971: 30.00    
+Before goal: Time in possession for home team 746: 3.67    
 Before goal: Time in possession for away team 971: 6.95    
-After goal: Time in possession for home team 746: 37.266666666666666    
+After goal: Time in possession for home team 746: 37.27    
 After goal: Time in possession for away team 971: 48.85    
-Before card: Time in possession for home team 746: 40.93333333333333    
-Before card: Time in possession for away team 971: 56.6    
-After card: Time in possession for home team 746: -0.016666666666666666    
-After card: Time in possession for away team 971: -0.016666666666666666    
+Before card: Time in possession for home team 746: 40.93    
+Before card: Time in possession for away team 971: 56.60    
+After card: Time in possession for home team 746: -0.02    
+After card: Time in possession for away team 971: -0.02    

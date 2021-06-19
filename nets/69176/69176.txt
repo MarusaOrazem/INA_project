@@ -5,13 +5,17 @@ Season: 2006/2007
 Gender: male     
 Home team: Atlético Madrid (212), goals: 0   
 Away team: Barcelona (217), goals: 6    
-Goal time: (38, 50)   
-Card time: (71, 10)   
-Before goal: Time in possession for home team 212: 15.016666666666667    
-Before goal: Time in possession for away team 217: 23.283333333333335    
+Goal time: (38, 50), for (217, 'Barcelona')   
+Card time: (71, 10), for -1   
+First period: Time in possession for home team 212: 17.15    
+First period: Time in possession for away team 217: 28.97    
+Second period: Time in possession for home team 212: 19.22    
+Second period: Time in possession for away team 217: 27.30    
+Before goal: Time in possession for home team 212: 15.02    
+Before goal: Time in possession for away team 217: 23.28    
 After goal: Time in possession for home team 212: 21.35    
 After goal: Time in possession for away team 217: 32.45    
-Before card: Time in possession for home team 212: 28.616666666666667    
-Before card: Time in possession for away team 217: 43.63333333333333    
+Before card: Time in possession for home team 212: 28.62    
+Before card: Time in possession for away team 217: 43.63    
 After card: Time in possession for home team 212: 7.75    
-After card: Time in possession for away team 217: 38.766666666666666    
+After card: Time in possession for away team 217: 38.77    

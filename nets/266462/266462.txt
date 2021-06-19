@@ -5,13 +5,17 @@ Season: 2013/2014
 Gender: male     
 Home team: Osasuna (422), goals: 0   
 Away team: Barcelona (217), goals: 0    
-Goal time: (-1, -1)   
-Card time: (-1, -1)   
+Goal time: (-1, -1), for -1   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 422: 14.52    
+First period: Time in possession for away team 217: 31.50    
+Second period: Time in possession for home team 422: 12.53    
+Second period: Time in possession for away team 217: 34.93    
 Before goal: Time in possession for home team 422: 27.05    
-Before goal: Time in possession for away team 217: 66.43333333333334    
-After goal: Time in possession for home team 422: -0.016666666666666666    
-After goal: Time in possession for away team 217: -0.016666666666666666    
+Before goal: Time in possession for away team 217: 66.43    
+After goal: Time in possession for home team 422: -0.02    
+After goal: Time in possession for away team 217: -0.02    
 Before card: Time in possession for home team 422: 27.05    
-Before card: Time in possession for away team 217: 66.43333333333334    
-After card: Time in possession for home team 422: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Before card: Time in possession for away team 217: 66.43    
+After card: Time in possession for home team 422: -0.02    
+After card: Time in possession for away team 217: -0.02    

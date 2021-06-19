@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: AS Monaco (129), goals: 0   
 Away team: FC Porto (256), goals: 3    
-Goal time: (38, 44)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 129: 18.116666666666667    
-Before goal: Time in possession for away team 256: 19.816666666666666    
-After goal: Time in possession for home team 129: 35.56666666666667    
-After goal: Time in possession for away team 256: 19.216666666666665    
-Before card: Time in possession for home team 129: 53.68333333333333    
-Before card: Time in possession for away team 256: 39.833333333333336    
-After card: Time in possession for home team 129: -0.016666666666666666    
-After card: Time in possession for away team 256: -0.016666666666666666    
+Goal time: (38, 44), for (256, 'FC Porto')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 129: 23.12    
+First period: Time in possession for away team 256: 22.50    
+Second period: Time in possession for home team 129: 30.57    
+Second period: Time in possession for away team 256: 17.33    
+Before goal: Time in possession for home team 129: 18.12    
+Before goal: Time in possession for away team 256: 19.82    
+After goal: Time in possession for home team 129: 35.57    
+After goal: Time in possession for away team 256: 19.22    
+Before card: Time in possession for home team 129: 53.68    
+Before card: Time in possession for away team 256: 39.83    
+After card: Time in possession for home team 129: -0.02    
+After card: Time in possession for away team 256: -0.02    

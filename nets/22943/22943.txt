@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: United States Women's (1214), goals: 13   
 Away team: Thailand Women's (1107), goals: 0    
-Goal time: (11, 45)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1214: 9.133333333333333    
-Before goal: Time in possession for away team 1107: 2.2666666666666666    
-After goal: Time in possession for home team 1214: 67.08333333333333    
+Goal time: (11, 45), for (1214, "United States Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1214: 38.18    
+First period: Time in possession for away team 1107: 8.12    
+Second period: Time in possession for home team 1214: 38.38    
+Second period: Time in possession for away team 1107: 9.20    
+Before goal: Time in possession for home team 1214: 9.13    
+Before goal: Time in possession for away team 1107: 2.27    
+After goal: Time in possession for home team 1214: 67.08    
 After goal: Time in possession for away team 1107: 15.05    
-Before card: Time in possession for home team 1214: 76.56666666666666    
-Before card: Time in possession for away team 1107: 17.316666666666666    
-After card: Time in possession for home team 1214: -0.016666666666666666    
-After card: Time in possession for away team 1107: -0.016666666666666666    
+Before card: Time in possession for home team 1214: 76.57    
+Before card: Time in possession for away team 1107: 17.32    
+After card: Time in possession for home team 1214: -0.02    
+After card: Time in possession for away team 1107: -0.02    

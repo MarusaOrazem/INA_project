@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Houston Dash (762), goals: 1   
 Away team: Utah Royals (767), goals: 2    
-Goal time: (40, 15)   
-Card time: (-1, -1)   
+Goal time: (40, 15), for (762, 'Houston Dash')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 762: 18.02    
+First period: Time in possession for away team 767: 27.62    
+Second period: Time in possession for home team 762: 21.78    
+Second period: Time in possession for away team 767: 28.22    
 Before goal: Time in possession for home team 762: 13.45    
-Before goal: Time in possession for away team 767: 24.716666666666665    
-After goal: Time in possession for home team 762: 24.266666666666666    
-After goal: Time in possession for away team 767: 31.116666666666667    
-Before card: Time in possession for home team 762: 39.8    
-Before card: Time in possession for away team 767: 55.833333333333336    
-After card: Time in possession for home team 762: -0.016666666666666666    
-After card: Time in possession for away team 767: -0.016666666666666666    
+Before goal: Time in possession for away team 767: 24.72    
+After goal: Time in possession for home team 762: 24.27    
+After goal: Time in possession for away team 767: 31.12    
+Before card: Time in possession for home team 762: 39.80    
+Before card: Time in possession for away team 767: 55.83    
+After card: Time in possession for home team 762: -0.02    
+After card: Time in possession for away team 767: -0.02    

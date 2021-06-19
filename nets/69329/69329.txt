@@ -5,13 +5,17 @@ Season: 2011/2012
 Gender: male     
 Home team: Barcelona (217), goals: 0   
 Away team: Sevilla (213), goals: 0    
-Goal time: (-1, -1)   
-Card time: (96, 12)   
-Before goal: Time in possession for home team 217: 71.53333333333333    
-Before goal: Time in possession for away team 213: 24.616666666666667    
-After goal: Time in possession for home team 217: -0.016666666666666666    
-After goal: Time in possession for away team 213: -0.016666666666666666    
-Before card: Time in possession for home team 217: 71.53333333333333    
-Before card: Time in possession for away team 213: 24.616666666666667    
-After card: Time in possession for home team 217: 0.0    
-After card: Time in possession for away team 213: 0.0    
+Goal time: (-1, -1), for -1   
+Card time: (96, 12), for -1   
+First period: Time in possession for home team 217: 31.95    
+First period: Time in possession for away team 213: 13.25    
+Second period: Time in possession for home team 217: 39.58    
+Second period: Time in possession for away team 213: 11.37    
+Before goal: Time in possession for home team 217: 71.53    
+Before goal: Time in possession for away team 213: 24.62    
+After goal: Time in possession for home team 217: -0.02    
+After goal: Time in possession for away team 213: -0.02    
+Before card: Time in possession for home team 217: 71.53    
+Before card: Time in possession for away team 213: 24.62    
+After card: Time in possession for home team 217: 0.00    
+After card: Time in possession for away team 213: 0.00    

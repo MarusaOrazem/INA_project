@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: male     
 Home team: Real Valladolid (901), goals: 0   
 Away team: Barcelona (217), goals: 1    
-Goal time: (56, 30)   
-Card time: (-1, -1)   
+Goal time: (56, 30), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 901: 10.58    
+First period: Time in possession for away team 217: 34.05    
+Second period: Time in possession for home team 901: 26.50    
+Second period: Time in possession for away team 217: 22.57    
 Before goal: Time in possession for home team 901: 15.65    
-Before goal: Time in possession for away team 217: 39.666666666666664    
-After goal: Time in possession for home team 901: 21.433333333333334    
-After goal: Time in possession for away team 217: 27.633333333333333    
-Before card: Time in possession for home team 901: 37.083333333333336    
-Before card: Time in possession for away team 217: 56.61666666666667    
-After card: Time in possession for home team 901: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Before goal: Time in possession for away team 217: 39.67    
+After goal: Time in possession for home team 901: 21.43    
+After goal: Time in possession for away team 217: 27.63    
+Before card: Time in possession for home team 901: 37.08    
+Before card: Time in possession for away team 217: 56.62    
+After card: Time in possession for home team 901: -0.02    
+After card: Time in possession for away team 217: -0.02    

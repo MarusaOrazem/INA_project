@@ -5,13 +5,17 @@ Season: 2014/2015
 Gender: male     
 Home team: Getafe (216), goals: 0   
 Away team: Barcelona (217), goals: 0    
-Goal time: (-1, -1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 216: 21.866666666666667    
-Before goal: Time in possession for away team 217: 71.66666666666667    
-After goal: Time in possession for home team 216: -0.016666666666666666    
-After goal: Time in possession for away team 217: -0.016666666666666666    
-Before card: Time in possession for home team 216: 21.866666666666667    
-Before card: Time in possession for away team 217: 71.66666666666667    
-After card: Time in possession for home team 216: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (-1, -1), for -1   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 216: 13.23    
+First period: Time in possession for away team 217: 31.48    
+Second period: Time in possession for home team 216: 8.63    
+Second period: Time in possession for away team 217: 40.18    
+Before goal: Time in possession for home team 216: 21.87    
+Before goal: Time in possession for away team 217: 71.67    
+After goal: Time in possession for home team 216: -0.02    
+After goal: Time in possession for away team 217: -0.02    
+Before card: Time in possession for home team 216: 21.87    
+Before card: Time in possession for away team 217: 71.67    
+After card: Time in possession for home team 216: -0.02    
+After card: Time in possession for away team 217: -0.02    

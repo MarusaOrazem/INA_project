@@ -5,13 +5,17 @@ Season: 2011/2012
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Levante (221), goals: 0    
-Goal time: (3, 3)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 1.4833333333333334    
-Before goal: Time in possession for away team 221: 0.6333333333333333    
-After goal: Time in possession for home team 217: 59.233333333333334    
-After goal: Time in possession for away team 221: 27.666666666666668    
+Goal time: (3, 3), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 31.77    
+First period: Time in possession for away team 221: 12.18    
+Second period: Time in possession for home team 217: 29.88    
+Second period: Time in possession for away team 221: 16.12    
+Before goal: Time in possession for home team 217: 1.48    
+Before goal: Time in possession for away team 221: 0.63    
+After goal: Time in possession for home team 217: 59.23    
+After goal: Time in possession for away team 221: 27.67    
 Before card: Time in possession for home team 217: 61.65    
-Before card: Time in possession for away team 221: 28.3    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 221: -0.016666666666666666    
+Before card: Time in possession for away team 221: 28.30    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 221: -0.02    

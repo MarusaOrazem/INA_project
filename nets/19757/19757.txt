@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Bristol City WFC (973), goals: 0   
 Away team: Brighton & Hove Albion WFC (965), goals: 0    
-Goal time: (-1, -1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 973: 37.71666666666667    
-Before goal: Time in possession for away team 965: 55.483333333333334    
-After goal: Time in possession for home team 973: -0.016666666666666666    
-After goal: Time in possession for away team 965: -0.016666666666666666    
-Before card: Time in possession for home team 973: 37.71666666666667    
-Before card: Time in possession for away team 965: 55.483333333333334    
-After card: Time in possession for home team 973: -0.016666666666666666    
-After card: Time in possession for away team 965: -0.016666666666666666    
+Goal time: (-1, -1), for -1   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 973: 18.67    
+First period: Time in possession for away team 965: 26.62    
+Second period: Time in possession for home team 973: 19.05    
+Second period: Time in possession for away team 965: 28.87    
+Before goal: Time in possession for home team 973: 37.72    
+Before goal: Time in possession for away team 965: 55.48    
+After goal: Time in possession for home team 973: -0.02    
+After goal: Time in possession for away team 965: -0.02    
+Before card: Time in possession for home team 973: 37.72    
+Before card: Time in possession for away team 965: 55.48    
+After card: Time in possession for home team 973: -0.02    
+After card: Time in possession for away team 965: -0.02    

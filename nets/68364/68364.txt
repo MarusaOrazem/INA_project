@@ -5,13 +5,17 @@ Season: 2007/2008
 Gender: male     
 Home team: Villarreal (222), goals: 3   
 Away team: Barcelona (217), goals: 1    
-Goal time: (2, 6)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 222: 0.9333333333333333    
-Before goal: Time in possession for away team 217: 0.5    
-After goal: Time in possession for home team 222: 42.333333333333336    
-After goal: Time in possession for away team 217: 48.766666666666666    
-Before card: Time in possession for home team 222: 43.93333333333333    
-Before card: Time in possession for away team 217: 49.266666666666666    
-After card: Time in possession for home team 222: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (2, 6), for (222, 'Villarreal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 222: 22.68    
+First period: Time in possession for away team 217: 22.73    
+Second period: Time in possession for home team 222: 21.25    
+Second period: Time in possession for away team 217: 26.53    
+Before goal: Time in possession for home team 222: 0.93    
+Before goal: Time in possession for away team 217: 0.50    
+After goal: Time in possession for home team 222: 42.33    
+After goal: Time in possession for away team 217: 48.77    
+Before card: Time in possession for home team 222: 43.93    
+Before card: Time in possession for away team 217: 49.27    
+After card: Time in possession for home team 222: -0.02    
+After card: Time in possession for away team 217: -0.02    

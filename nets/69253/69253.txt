@@ -5,13 +5,17 @@ Season: 2009/2010
 Gender: male     
 Home team: Barcelona (217), goals: 6   
 Away team: Real Zaragoza (395), goals: 1    
-Goal time: (24, 1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 18.133333333333333    
-Before goal: Time in possession for away team 395: 4.866666666666666    
-After goal: Time in possession for home team 217: 51.666666666666664    
-After goal: Time in possession for away team 395: 15.983333333333333    
-Before card: Time in possession for home team 217: 70.81666666666666    
+Goal time: (24, 1), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 37.48    
+First period: Time in possession for away team 395: 8.58    
+Second period: Time in possession for home team 217: 33.33    
+Second period: Time in possession for away team 395: 12.27    
+Before goal: Time in possession for home team 217: 18.13    
+Before goal: Time in possession for away team 395: 4.87    
+After goal: Time in possession for home team 217: 51.67    
+After goal: Time in possession for away team 395: 15.98    
+Before card: Time in possession for home team 217: 70.82    
 Before card: Time in possession for away team 395: 20.85    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 395: -0.016666666666666666    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 395: -0.02    

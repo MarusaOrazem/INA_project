@@ -5,13 +5,17 @@ Season: 2015/2016
 Gender: male     
 Home team: Real Sociedad (210), goals: 1   
 Away team: Barcelona (217), goals: 0    
-Goal time: (4, 4)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 210: 1.3833333333333333    
-Before goal: Time in possession for away team 217: 2.566666666666667    
-After goal: Time in possession for home team 210: 23.983333333333334    
-After goal: Time in possession for away team 217: 64.3    
-Before card: Time in possession for home team 210: 25.483333333333334    
-Before card: Time in possession for away team 217: 66.86666666666666    
-After card: Time in possession for home team 210: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (4, 4), for (210, 'Real Sociedad')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 210: 13.47    
+First period: Time in possession for away team 217: 31.35    
+Second period: Time in possession for home team 210: 12.02    
+Second period: Time in possession for away team 217: 35.52    
+Before goal: Time in possession for home team 210: 1.38    
+Before goal: Time in possession for away team 217: 2.57    
+After goal: Time in possession for home team 210: 23.98    
+After goal: Time in possession for away team 217: 64.30    
+Before card: Time in possession for home team 210: 25.48    
+Before card: Time in possession for away team 217: 66.87    
+After card: Time in possession for home team 210: -0.02    
+After card: Time in possession for away team 217: -0.02    

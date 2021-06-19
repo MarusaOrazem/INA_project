@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: male     
 Home team: Real Betis (218), goals: 2   
 Away team: Barcelona (217), goals: 3    
-Goal time: (5, 41)   
-Card time: (78, 22)   
-Before goal: Time in possession for home team 218: 0.7333333333333333    
-Before goal: Time in possession for away team 217: 2.566666666666667    
-After goal: Time in possession for home team 218: 26.433333333333334    
+Goal time: (5, 41), for (218, 'Real Betis')   
+Card time: (78, 22), for -1   
+First period: Time in possession for home team 218: 17.05    
+First period: Time in possession for away team 217: 27.85    
+Second period: Time in possession for home team 218: 12.50    
+Second period: Time in possession for away team 217: 36.27    
+Before goal: Time in possession for home team 218: 0.73    
+Before goal: Time in possession for away team 217: 2.57    
+After goal: Time in possession for home team 218: 26.43    
 After goal: Time in possession for away team 217: 61.55    
-Before card: Time in possession for home team 218: 23.133333333333333    
-Before card: Time in possession for away team 217: 54.666666666666664    
-After card: Time in possession for home team 218: 39.31666666666667    
+Before card: Time in possession for home team 218: 23.13    
+Before card: Time in possession for away team 217: 54.67    
+After card: Time in possession for home team 218: 39.32    
 After card: Time in possession for away team 217: 9.45    

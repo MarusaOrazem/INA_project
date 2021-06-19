@@ -5,13 +5,17 @@ Season: 2008/2009
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Sporting Gijón (1041), goals: 1    
-Goal time: (22, 57)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 16.0    
-Before goal: Time in possession for away team 1041: 6.783333333333333    
+Goal time: (22, 57), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 31.43    
+First period: Time in possession for away team 1041: 14.53    
+Second period: Time in possession for home team 217: 37.48    
+Second period: Time in possession for away team 1041: 9.62    
+Before goal: Time in possession for home team 217: 16.00    
+Before goal: Time in possession for away team 1041: 6.78    
 After goal: Time in possession for home team 217: 52.75    
-After goal: Time in possession for away team 1041: 17.366666666666667    
-Before card: Time in possession for home team 217: 68.91666666666667    
+After goal: Time in possession for away team 1041: 17.37    
+Before card: Time in possession for home team 217: 68.92    
 Before card: Time in possession for away team 1041: 24.15    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 1041: -0.016666666666666666    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 1041: -0.02    

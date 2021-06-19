@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Brazil (781), goals: 2   
 Away team: Mexico (794), goals: 0    
-Goal time: (50, 18)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 781: 27.966666666666665    
-Before goal: Time in possession for away team 794: 21.666666666666668    
-After goal: Time in possession for home team 781: 26.116666666666667    
-After goal: Time in possession for away team 794: 24.733333333333334    
-Before card: Time in possession for home team 781: 49.13333333333333    
-Before card: Time in possession for away team 794: 46.4    
-After card: Time in possession for home team 781: -0.016666666666666666    
-After card: Time in possession for away team 794: -0.016666666666666666    
+Goal time: (50, 18), for (781, 'Brazil')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 781: 23.95    
+First period: Time in possession for away team 794: 20.73    
+Second period: Time in possession for home team 781: 25.18    
+Second period: Time in possession for away team 794: 25.67    
+Before goal: Time in possession for home team 781: 27.97    
+Before goal: Time in possession for away team 794: 21.67    
+After goal: Time in possession for home team 781: 26.12    
+After goal: Time in possession for away team 794: 24.73    
+Before card: Time in possession for home team 781: 49.13    
+Before card: Time in possession for away team 794: 46.40    
+After card: Time in possession for home team 781: -0.02    
+After card: Time in possession for away team 794: -0.02    

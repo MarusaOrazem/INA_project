@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Australia Women's (1205), goals: 3   
 Away team: Brazil Women's (1203), goals: 2    
-Goal time: (26, 51)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1205: 13.116666666666667    
-Before goal: Time in possession for away team 1203: 11.416666666666666    
-After goal: Time in possession for home team 1205: 37.68333333333333    
-After goal: Time in possession for away team 1203: 32.68333333333333    
-Before card: Time in possession for home team 1205: 50.8    
-Before card: Time in possession for away team 1203: 46.416666666666664    
-After card: Time in possession for home team 1205: -0.016666666666666666    
-After card: Time in possession for away team 1203: -0.016666666666666666    
+Goal time: (26, 51), for (1203, "Brazil Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1205: 23.50    
+First period: Time in possession for away team 1203: 24.03    
+Second period: Time in possession for home team 1205: 27.30    
+Second period: Time in possession for away team 1203: 22.38    
+Before goal: Time in possession for home team 1205: 13.12    
+Before goal: Time in possession for away team 1203: 11.42    
+After goal: Time in possession for home team 1205: 37.68    
+After goal: Time in possession for away team 1203: 32.68    
+Before card: Time in possession for home team 1205: 50.80    
+Before card: Time in possession for away team 1203: 46.42    
+After card: Time in possession for home team 1205: -0.02    
+After card: Time in possession for away team 1203: -0.02    

@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Colombia (769), goals: 1   
 Away team: England (768), goals: 1    
-Goal time: (56, 54)   
-Card time: (-1, -1)   
+Goal time: (56, 54), for (768, 'England')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 769: 17.48    
+First period: Time in possession for away team 768: 32.28    
+Second period: Time in possession for home team 769: 21.60    
+Second period: Time in possession for away team 768: 29.20    
 Before goal: Time in possession for home team 769: 20.35    
 Before goal: Time in possession for away team 768: 34.75    
-After goal: Time in possession for home team 769: 18.733333333333334    
-After goal: Time in possession for away team 768: 32.06666666666667    
-Before card: Time in possession for home team 769: 39.083333333333336    
-Before card: Time in possession for away team 768: 61.483333333333334    
-After card: Time in possession for home team 769: -0.016666666666666666    
-After card: Time in possession for away team 768: -0.016666666666666666    
+After goal: Time in possession for home team 769: 18.73    
+After goal: Time in possession for away team 768: 32.07    
+Before card: Time in possession for home team 769: 39.08    
+Before card: Time in possession for away team 768: 61.48    
+After card: Time in possession for home team 769: -0.02    
+After card: Time in possession for away team 768: -0.02    

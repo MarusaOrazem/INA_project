@@ -5,13 +5,17 @@ Season: 2014/2015
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Elche (1042), goals: 0    
-Goal time: (41, 40)   
-Card time: (42, 54)   
-Before goal: Time in possession for home team 217: 29.433333333333334    
+Goal time: (41, 40), for (217, 'Barcelona')   
+Card time: (42, 54), for (217, 'Barcelona')   
+First period: Time in possession for home team 217: 31.32    
+First period: Time in possession for away team 1042: 13.90    
+Second period: Time in possession for home team 217: 27.82    
+Second period: Time in possession for away team 1042: 19.53    
+Before goal: Time in possession for home team 217: 29.43    
 Before goal: Time in possession for away team 1042: 11.35    
-After goal: Time in possession for home team 217: 28.816666666666666    
-After goal: Time in possession for away team 1042: 22.083333333333332    
-Before card: Time in possession for home team 217: 31.316666666666666    
+After goal: Time in possession for home team 217: 28.82    
+After goal: Time in possession for away team 1042: 22.08    
+Before card: Time in possession for home team 217: 31.32    
 Before card: Time in possession for away team 1042: 11.35    
-After card: Time in possession for home team 217: 27.816666666666666    
+After card: Time in possession for home team 217: 27.82    
 After card: Time in possession for away team 1042: 21.85    

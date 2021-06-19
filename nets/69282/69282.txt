@@ -5,13 +5,17 @@ Season: 2010/2011
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Athletic Bilbao (215), goals: 1    
-Goal time: (3, 30)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 2.0    
+Goal time: (3, 30), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 35.63    
+First period: Time in possession for away team 215: 10.22    
+Second period: Time in possession for home team 217: 35.22    
+Second period: Time in possession for away team 215: 10.53    
+Before goal: Time in possession for home team 217: 2.00    
 Before goal: Time in possession for away team 215: 0.35    
-After goal: Time in possession for home team 217: 67.7    
-After goal: Time in possession for away team 215: 20.4    
+After goal: Time in possession for home team 217: 67.70    
+After goal: Time in possession for away team 215: 20.40    
 Before card: Time in possession for home team 217: 70.85    
 Before card: Time in possession for away team 215: 20.75    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 215: -0.016666666666666666    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 215: -0.02    

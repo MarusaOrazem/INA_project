@@ -5,13 +5,17 @@ Season: 2011/2012
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Valencia (207), goals: 1    
-Goal time: (8, 17)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 5.766666666666667    
-Before goal: Time in possession for away team 207: 2.066666666666667    
-After goal: Time in possession for home team 217: 56.916666666666664    
-After goal: Time in possession for away team 207: 26.983333333333334    
-Before card: Time in possession for home team 217: 62.68333333333333    
-Before card: Time in possession for away team 207: 29.5    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 207: -0.016666666666666666    
+Goal time: (8, 17), for (207, 'Valencia')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 30.87    
+First period: Time in possession for away team 207: 14.55    
+Second period: Time in possession for home team 217: 31.82    
+Second period: Time in possession for away team 207: 14.95    
+Before goal: Time in possession for home team 217: 5.77    
+Before goal: Time in possession for away team 207: 2.07    
+After goal: Time in possession for home team 217: 56.92    
+After goal: Time in possession for away team 207: 26.98    
+Before card: Time in possession for home team 217: 62.68    
+Before card: Time in possession for away team 207: 29.50    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 207: -0.02    

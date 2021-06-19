@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Jamaica Women's (1212), goals: 1   
 Away team: Australia Women's (1205), goals: 4    
-Goal time: (10, 14)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1212: 3.683333333333333    
-Before goal: Time in possession for away team 1205: 5.566666666666666    
+Goal time: (10, 14), for (1205, "Australia Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1212: 12.58    
+First period: Time in possession for away team 1205: 31.87    
+Second period: Time in possession for home team 1212: 14.75    
+Second period: Time in possession for away team 1205: 33.07    
+Before goal: Time in possession for home team 1212: 3.68    
+Before goal: Time in possession for away team 1205: 5.57    
 After goal: Time in possession for home team 1212: 23.65    
-After goal: Time in possession for away team 1205: 58.38333333333333    
-Before card: Time in possession for home team 1212: 27.333333333333332    
-Before card: Time in possession for away team 1205: 64.93333333333334    
-After card: Time in possession for home team 1212: -0.016666666666666666    
-After card: Time in possession for away team 1205: -0.016666666666666666    
+After goal: Time in possession for away team 1205: 58.38    
+Before card: Time in possession for home team 1212: 27.33    
+Before card: Time in possession for away team 1205: 64.93    
+After card: Time in possession for home team 1212: -0.02    
+After card: Time in possession for away team 1205: -0.02    

@@ -5,13 +5,17 @@ Season: 2015/2016
 Gender: male     
 Home team: Deportivo La Coruna (219), goals: 0   
 Away team: Barcelona (217), goals: 8    
-Goal time: (10, 44)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 219: 4.366666666666666    
-Before goal: Time in possession for away team 217: 5.533333333333333    
+Goal time: (10, 44), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 219: 14.10    
+First period: Time in possession for away team 217: 30.02    
+Second period: Time in possession for home team 219: 18.72    
+Second period: Time in possession for away team 217: 25.90    
+Before goal: Time in possession for home team 219: 4.37    
+Before goal: Time in possession for away team 217: 5.53    
 After goal: Time in possession for home team 219: 28.45    
 After goal: Time in possession for away team 217: 49.55    
-Before card: Time in possession for home team 219: 32.81666666666667    
-Before card: Time in possession for away team 217: 55.916666666666664    
-After card: Time in possession for home team 219: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Before card: Time in possession for home team 219: 32.82    
+Before card: Time in possession for away team 217: 55.92    
+After card: Time in possession for home team 219: -0.02    
+After card: Time in possession for away team 217: -0.02    

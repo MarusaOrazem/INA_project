@@ -5,13 +5,17 @@ Season: 2004/2005
 Gender: male     
 Home team: Espanyol (214), goals: 0   
 Away team: Barcelona (217), goals: 1    
-Goal time: (8, 52)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 214: 3.033333333333333    
-Before goal: Time in possession for away team 217: 5.566666666666666    
+Goal time: (8, 52), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 214: 17.75    
+First period: Time in possession for away team 217: 25.73    
+Second period: Time in possession for home team 214: 17.73    
+Second period: Time in possession for away team 217: 29.20    
+Before goal: Time in possession for home team 214: 3.03    
+Before goal: Time in possession for away team 217: 5.57    
 After goal: Time in possession for home team 214: 32.45    
-After goal: Time in possession for away team 217: 49.1    
-Before card: Time in possession for home team 214: 35.483333333333334    
-Before card: Time in possession for away team 217: 54.93333333333333    
-After card: Time in possession for home team 214: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After goal: Time in possession for away team 217: 49.10    
+Before card: Time in possession for home team 214: 35.48    
+Before card: Time in possession for away team 217: 54.93    
+After card: Time in possession for home team 214: -0.02    
+After card: Time in possession for away team 217: -0.02    

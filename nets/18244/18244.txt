@@ -5,13 +5,17 @@ Season: 2016/2017
 Gender: male     
 Home team: Juventus (224), goals: 1   
 Away team: Real Madrid (220), goals: 4    
-Goal time: (19, 38)   
-Card time: (-1, -1)   
+Goal time: (19, 38), for (220, 'Real Madrid')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 224: 25.38    
+First period: Time in possession for away team 220: 20.67    
+Second period: Time in possession for home team 224: 17.95    
+Second period: Time in possession for away team 220: 30.97    
 Before goal: Time in possession for home team 224: 8.65    
-Before goal: Time in possession for away team 220: 10.433333333333334    
-After goal: Time in possession for home team 224: 34.68333333333333    
+Before goal: Time in possession for away team 220: 10.43    
+After goal: Time in possession for home team 224: 34.68    
 After goal: Time in possession for away team 220: 40.65    
-Before card: Time in possession for home team 224: 43.333333333333336    
-Before card: Time in possession for away team 220: 51.63333333333333    
-After card: Time in possession for home team 224: -0.016666666666666666    
-After card: Time in possession for away team 220: -0.016666666666666666    
+Before card: Time in possession for home team 224: 43.33    
+Before card: Time in possession for away team 220: 51.63    
+After card: Time in possession for home team 224: -0.02    
+After card: Time in possession for away team 220: -0.02    

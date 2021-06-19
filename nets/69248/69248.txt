@@ -5,13 +5,17 @@ Season: 2010/2011
 Gender: male     
 Home team: Sporting Gijón (1041), goals: 1   
 Away team: Barcelona (217), goals: 1    
-Goal time: (15, 52)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1041: 6.766666666666667    
-Before goal: Time in possession for away team 217: 8.883333333333333    
-After goal: Time in possession for home team 1041: 16.5    
-After goal: Time in possession for away team 217: 63.03333333333333    
-Before card: Time in possession for home team 1041: 23.483333333333334    
-Before card: Time in possession for away team 217: 71.91666666666667    
-After card: Time in possession for home team 1041: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (15, 52), for (1041, 'Sporting Gijón')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1041: 14.97    
+First period: Time in possession for away team 217: 31.10    
+Second period: Time in possession for home team 1041: 8.52    
+Second period: Time in possession for away team 217: 40.82    
+Before goal: Time in possession for home team 1041: 6.77    
+Before goal: Time in possession for away team 217: 8.88    
+After goal: Time in possession for home team 1041: 16.50    
+After goal: Time in possession for away team 217: 63.03    
+Before card: Time in possession for home team 1041: 23.48    
+Before card: Time in possession for away team 217: 71.92    
+After card: Time in possession for home team 1041: -0.02    
+After card: Time in possession for away team 217: -0.02    

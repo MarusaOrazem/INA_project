@@ -5,13 +5,17 @@ Season: 2011/2012
 Gender: male     
 Home team: Racing Santander (1217), goals: 0   
 Away team: Barcelona (217), goals: 2    
-Goal time: (28, 20)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1217: 6.033333333333333    
-Before goal: Time in possession for away team 217: 21.283333333333335    
+Goal time: (28, 20), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1217: 8.83    
+First period: Time in possession for away team 217: 36.93    
+Second period: Time in possession for home team 1217: 16.85    
+Second period: Time in possession for away team 217: 30.02    
+Before goal: Time in possession for home team 1217: 6.03    
+Before goal: Time in possession for away team 217: 21.28    
 After goal: Time in possession for home team 1217: 19.65    
 After goal: Time in possession for away team 217: 44.65    
-Before card: Time in possession for home team 1217: 25.683333333333334    
+Before card: Time in possession for home team 1217: 25.68    
 Before card: Time in possession for away team 217: 66.95    
-After card: Time in possession for home team 1217: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After card: Time in possession for home team 1217: -0.02    
+After card: Time in possession for away team 217: -0.02    

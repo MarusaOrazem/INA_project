@@ -5,13 +5,17 @@ Season: 2005/2006
 Gender: male     
 Home team: Cádiz (552), goals: 1   
 Away team: Barcelona (217), goals: 3    
-Goal time: (31, 51)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 552: 12.2    
+Goal time: (31, 51), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 552: 18.68    
+First period: Time in possession for away team 217: 25.82    
+Second period: Time in possession for home team 552: 24.55    
+Second period: Time in possession for away team 217: 22.50    
+Before goal: Time in possession for home team 552: 12.20    
 Before goal: Time in possession for away team 217: 19.55    
-After goal: Time in possession for home team 552: 31.033333333333335    
-After goal: Time in possession for away team 217: 28.666666666666668    
-Before card: Time in possession for home team 552: 43.233333333333334    
-Before card: Time in possession for away team 217: 48.31666666666667    
-After card: Time in possession for home team 552: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After goal: Time in possession for home team 552: 31.03    
+After goal: Time in possession for away team 217: 28.67    
+Before card: Time in possession for home team 552: 43.23    
+Before card: Time in possession for away team 217: 48.32    
+After card: Time in possession for home team 552: -0.02    
+After card: Time in possession for away team 217: -0.02    

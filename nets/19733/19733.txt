@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Birmingham City WFC (969), goals: 2   
 Away team: Manchester City WFC (746), goals: 3    
-Goal time: (48, 22)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 969: 19.433333333333334    
+Goal time: (48, 22), for (969, 'Birmingham City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 969: 18.93    
+First period: Time in possession for away team 746: 29.15    
+Second period: Time in possession for home team 969: 24.43    
+Second period: Time in possession for away team 746: 24.03    
+Before goal: Time in possession for home team 969: 19.43    
 Before goal: Time in possession for away team 746: 30.35    
-After goal: Time in possession for home team 969: 25.633333333333333    
-After goal: Time in possession for away team 746: 22.833333333333332    
-Before card: Time in possession for home team 969: 43.36666666666667    
-Before card: Time in possession for away team 746: 53.18333333333333    
-After card: Time in possession for home team 969: -0.016666666666666666    
-After card: Time in possession for away team 746: -0.016666666666666666    
+After goal: Time in possession for home team 969: 25.63    
+After goal: Time in possession for away team 746: 22.83    
+Before card: Time in possession for home team 969: 43.37    
+Before card: Time in possession for away team 746: 53.18    
+After card: Time in possession for home team 969: -0.02    
+After card: Time in possession for away team 746: -0.02    

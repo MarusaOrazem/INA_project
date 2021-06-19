@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Germany (770), goals: 0   
 Away team: Mexico (794), goals: 1    
-Goal time: (34, 32)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 770: 18.766666666666666    
-Before goal: Time in possession for away team 794: 15.566666666666666    
-After goal: Time in possession for home team 770: 39.53333333333333    
-After goal: Time in possession for away team 794: 19.166666666666668    
-Before card: Time in possession for home team 770: 58.3    
-Before card: Time in possession for away team 794: 34.93333333333333    
-After card: Time in possession for home team 770: -0.016666666666666666    
-After card: Time in possession for away team 794: -0.016666666666666666    
+Goal time: (34, 32), for (794, 'Mexico')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 770: 25.70    
+First period: Time in possession for away team 794: 19.42    
+Second period: Time in possession for home team 770: 32.60    
+Second period: Time in possession for away team 794: 15.52    
+Before goal: Time in possession for home team 770: 18.77    
+Before goal: Time in possession for away team 794: 15.57    
+After goal: Time in possession for home team 770: 39.53    
+After goal: Time in possession for away team 794: 19.17    
+Before card: Time in possession for home team 770: 58.30    
+Before card: Time in possession for away team 794: 34.93    
+After card: Time in possession for home team 770: -0.02    
+After card: Time in possession for away team 794: -0.02    

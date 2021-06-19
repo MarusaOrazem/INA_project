@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Manchester City WFC (746), goals: 3   
 Away team: Brighton & Hove Albion WFC (965), goals: 0    
-Goal time: (2, 15)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 746: 0.5333333333333333    
-Before goal: Time in possession for away team 965: 0.08333333333333333    
-After goal: Time in possession for home team 746: 69.08333333333333    
-After goal: Time in possession for away team 965: 28.666666666666668    
+Goal time: (2, 15), for (746, 'Manchester City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 746: 36.68    
+First period: Time in possession for away team 965: 14.07    
+Second period: Time in possession for home team 746: 34.57    
+Second period: Time in possession for away team 965: 14.68    
+Before goal: Time in possession for home team 746: 0.53    
+Before goal: Time in possession for away team 965: 0.08    
+After goal: Time in possession for home team 746: 69.08    
+After goal: Time in possession for away team 965: 28.67    
 Before card: Time in possession for home team 746: 71.25    
 Before card: Time in possession for away team 965: 28.75    
-After card: Time in possession for home team 746: -0.016666666666666666    
-After card: Time in possession for away team 965: -0.016666666666666666    
+After card: Time in possession for home team 746: -0.02    
+After card: Time in possession for away team 965: -0.02    

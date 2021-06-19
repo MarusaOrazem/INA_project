@@ -5,13 +5,17 @@ Season: 2016/2017
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Valencia (207), goals: 2    
-Goal time: (28, 47)   
-Card time: (43, 22)   
-Before goal: Time in possession for home team 217: 19.683333333333334    
-Before goal: Time in possession for away team 207: 8.066666666666666    
-After goal: Time in possession for home team 217: 48.2    
-After goal: Time in possession for away team 207: 14.916666666666666    
-Before card: Time in possession for home team 217: 30.9    
+Goal time: (28, 47), for (207, 'Valencia')   
+Card time: (43, 22), for (207, 'Valencia')   
+First period: Time in possession for home team 217: 34.38    
+First period: Time in possession for away team 207: 10.95    
+Second period: Time in possession for home team 217: 33.50    
+Second period: Time in possession for away team 207: 13.07    
+Before goal: Time in possession for home team 217: 19.68    
+Before goal: Time in possession for away team 207: 8.07    
+After goal: Time in possession for home team 217: 48.20    
+After goal: Time in possession for away team 207: 14.92    
+Before card: Time in possession for home team 217: 30.90    
 Before card: Time in possession for away team 207: 10.95    
-After card: Time in possession for home team 217: 35.46666666666667    
-After card: Time in possession for away team 207: 13.066666666666666    
+After card: Time in possession for home team 217: 35.47    
+After card: Time in possession for away team 207: 13.07    

@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Birmingham City WFC (969), goals: 1   
 Away team: Tottenham Hotspur Women (749), goals: 1    
-Goal time: (21, 52)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 969: 9.583333333333334    
-Before goal: Time in possession for away team 749: 11.466666666666667    
-After goal: Time in possession for home team 969: 31.516666666666666    
-After goal: Time in possession for away team 749: 42.516666666666666    
-Before card: Time in possession for home team 969: 41.916666666666664    
-Before card: Time in possession for away team 749: 53.983333333333334    
-After card: Time in possession for home team 969: -0.016666666666666666    
-After card: Time in possession for away team 749: -0.016666666666666666    
+Goal time: (21, 52), for (969, 'Birmingham City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 969: 23.00    
+First period: Time in possession for away team 749: 23.25    
+Second period: Time in possession for home team 969: 18.92    
+Second period: Time in possession for away team 749: 30.73    
+Before goal: Time in possession for home team 969: 9.58    
+Before goal: Time in possession for away team 749: 11.47    
+After goal: Time in possession for home team 969: 31.52    
+After goal: Time in possession for away team 749: 42.52    
+Before card: Time in possession for home team 969: 41.92    
+Before card: Time in possession for away team 749: 53.98    
+After card: Time in possession for home team 969: -0.02    
+After card: Time in possession for away team 749: -0.02    

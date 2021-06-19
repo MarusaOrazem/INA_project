@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Brighton & Hove Albion WFC (965), goals: 1   
 Away team: Chelsea FCW (971), goals: 1    
-Goal time: (83, 30)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 965: 30.533333333333335    
-Before goal: Time in possession for away team 971: 52.96666666666667    
-After goal: Time in possession for home team 965: 42.2    
-After goal: Time in possession for away team 971: 8.116666666666667    
-Before card: Time in possession for home team 965: 35.3    
-Before card: Time in possession for away team 971: 61.083333333333336    
-After card: Time in possession for home team 965: -0.016666666666666666    
-After card: Time in possession for away team 971: -0.016666666666666666    
+Goal time: (83, 30), for (965, 'Brighton & Hove Albion WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 965: 18.70    
+First period: Time in possession for away team 971: 27.37    
+Second period: Time in possession for home team 965: 16.60    
+Second period: Time in possession for away team 971: 33.72    
+Before goal: Time in possession for home team 965: 30.53    
+Before goal: Time in possession for away team 971: 52.97    
+After goal: Time in possession for home team 965: 42.20    
+After goal: Time in possession for away team 971: 8.12    
+Before card: Time in possession for home team 965: 35.30    
+Before card: Time in possession for away team 971: 61.08    
+After card: Time in possession for home team 965: -0.02    
+After card: Time in possession for away team 971: -0.02    

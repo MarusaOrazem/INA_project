@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Tottenham Hotspur Women (749), goals: 1   
 Away team: Liverpool WFC (966), goals: 0    
-Goal time: (45, 53)   
-Card time: (63, 53)   
-Before goal: Time in possession for home team 749: 25.783333333333335    
-Before goal: Time in possession for away team 966: 19.166666666666668    
-After goal: Time in possession for home team 749: 30.316666666666666    
+Goal time: (45, 53), for (749, 'Tottenham Hotspur Women')   
+Card time: (63, 53), for (966, 'Liverpool WFC')   
+First period: Time in possession for home team 749: 28.05    
+First period: Time in possession for away team 966: 19.22    
+Second period: Time in possession for home team 749: 28.98    
+Second period: Time in possession for away team 966: 20.10    
+Before goal: Time in possession for home team 749: 25.78    
+Before goal: Time in possession for away team 966: 19.17    
+After goal: Time in possession for home team 749: 30.32    
 After goal: Time in possession for away team 966: 20.15    
 Before card: Time in possession for home team 749: 37.25    
-Before card: Time in possession for away team 966: 28.766666666666666    
-After card: Time in possession for home team 749: 38.53333333333333    
+Before card: Time in possession for away team 966: 28.77    
+After card: Time in possession for home team 749: 38.53    
 After card: Time in possession for away team 966: 10.55    

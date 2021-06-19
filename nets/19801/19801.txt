@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Reading WFC (974), goals: 3   
 Away team: Manchester City WFC (746), goals: 4    
-Goal time: (3, 0)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 974: 1.1666666666666667    
+Goal time: (3, 0), for (974, 'Reading WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 974: 25.87    
+First period: Time in possession for away team 746: 20.75    
+Second period: Time in possession for home team 974: 26.27    
+Second period: Time in possession for away team 746: 22.98    
+Before goal: Time in possession for home team 974: 1.17    
 Before goal: Time in possession for away team 746: 0.95    
-After goal: Time in possession for home team 974: 50.083333333333336    
-After goal: Time in possession for away team 746: 42.78333333333333    
-Before card: Time in possession for home team 974: 52.13333333333333    
-Before card: Time in possession for away team 746: 43.733333333333334    
-After card: Time in possession for home team 974: -0.016666666666666666    
-After card: Time in possession for away team 746: -0.016666666666666666    
+After goal: Time in possession for home team 974: 50.08    
+After goal: Time in possession for away team 746: 42.78    
+Before card: Time in possession for home team 974: 52.13    
+Before card: Time in possession for away team 746: 43.73    
+After card: Time in possession for home team 974: -0.02    
+After card: Time in possession for away team 746: -0.02    

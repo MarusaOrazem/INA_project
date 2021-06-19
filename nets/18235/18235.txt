@@ -5,13 +5,17 @@ Season: 2009/2010
 Gender: male     
 Home team: Bayern Munich (169), goals: 0   
 Away team: Inter Milan (238), goals: 2    
-Goal time: (33, 59)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 169: 21.1    
-Before goal: Time in possession for away team 238: 12.7    
-After goal: Time in possession for home team 169: 38.4    
+Goal time: (33, 59), for (238, 'Inter Milan')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 169: 27.73    
+First period: Time in possession for away team 238: 17.07    
+Second period: Time in possession for home team 169: 31.77    
+Second period: Time in possession for away team 238: 16.57    
+Before goal: Time in possession for home team 169: 21.10    
+Before goal: Time in possession for away team 238: 12.70    
+After goal: Time in possession for home team 169: 38.40    
 After goal: Time in possession for away team 238: 20.75    
-Before card: Time in possession for home team 169: 59.5    
-Before card: Time in possession for away team 238: 33.63333333333333    
-After card: Time in possession for home team 169: -0.016666666666666666    
-After card: Time in possession for away team 238: -0.016666666666666666    
+Before card: Time in possession for home team 169: 59.50    
+Before card: Time in possession for away team 238: 33.63    
+After card: Time in possession for home team 169: -0.02    
+After card: Time in possession for away team 238: -0.02    

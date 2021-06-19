@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: England Women's (865), goals: 1   
 Away team: United States Women's (1214), goals: 2    
-Goal time: (9, 3)   
-Card time: (85, 27)   
-Before goal: Time in possession for home team 865: 4.716666666666667    
+Goal time: (9, 3), for (1214, "United States Women's")   
+Card time: (85, 27), for -1   
+First period: Time in possession for home team 865: 24.30    
+First period: Time in possession for away team 1214: 21.02    
+Second period: Time in possession for home team 865: 33.60    
+Second period: Time in possession for away team 1214: 17.93    
+Before goal: Time in possession for home team 865: 4.72    
 Before goal: Time in possession for away team 1214: 3.85    
-After goal: Time in possession for home team 865: 53.18333333333333    
-After goal: Time in possession for away team 1214: 34.61666666666667    
-Before card: Time in possession for home team 865: 51.06666666666667    
-Before card: Time in possession for away team 1214: 33.21666666666667    
-After card: Time in possession for home team 865: 45.8    
-After card: Time in possession for away team 1214: 5.733333333333333    
+After goal: Time in possession for home team 865: 53.18    
+After goal: Time in possession for away team 1214: 34.62    
+Before card: Time in possession for home team 865: 51.07    
+Before card: Time in possession for away team 1214: 33.22    
+After card: Time in possession for home team 865: 45.80    
+After card: Time in possession for away team 1214: 5.73    

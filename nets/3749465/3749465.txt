@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Blackburn Rovers (98), goals: 0   
 Away team: Arsenal (1), goals: 2    
-Goal time: (55, 59)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 98: 22.716666666666665    
+Goal time: (55, 59), for (1, 'Arsenal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 98: 18.65    
+First period: Time in possession for away team 1: 28.07    
+Second period: Time in possession for home team 98: 23.22    
+Second period: Time in possession for away team 1: 23.30    
+Before goal: Time in possession for home team 98: 22.72    
 Before goal: Time in possession for away team 1: 33.75    
 After goal: Time in possession for home team 98: 19.15    
-After goal: Time in possession for away team 1: 27.366666666666667    
-Before card: Time in possession for home team 98: 41.86666666666667    
-Before card: Time in possession for away team 1: 51.36666666666667    
-After card: Time in possession for home team 98: -0.016666666666666666    
-After card: Time in possession for away team 1: -0.016666666666666666    
+After goal: Time in possession for away team 1: 27.37    
+Before card: Time in possession for home team 98: 41.87    
+Before card: Time in possession for away team 1: 51.37    
+After card: Time in possession for home team 98: -0.02    
+After card: Time in possession for away team 1: -0.02    

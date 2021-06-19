@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Uruguay (783), goals: 0   
 Away team: France (771), goals: 2    
-Goal time: (39, 29)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 783: 16.1    
-Before goal: Time in possession for away team 771: 21.716666666666665    
-After goal: Time in possession for home team 783: 23.816666666666666    
+Goal time: (39, 29), for (771, 'France')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 783: 20.13    
+First period: Time in possession for away team 771: 26.90    
+Second period: Time in possession for home team 783: 19.78    
+Second period: Time in possession for away team 771: 29.43    
+Before goal: Time in possession for home team 783: 16.10    
+Before goal: Time in possession for away team 771: 21.72    
+After goal: Time in possession for home team 783: 23.82    
 After goal: Time in possession for away team 771: 32.95    
-Before card: Time in possession for home team 783: 39.916666666666664    
-Before card: Time in possession for away team 771: 56.333333333333336    
-After card: Time in possession for home team 783: -0.016666666666666666    
-After card: Time in possession for away team 771: -0.016666666666666666    
+Before card: Time in possession for home team 783: 39.92    
+Before card: Time in possession for away team 771: 56.33    
+After card: Time in possession for home team 783: -0.02    
+After card: Time in possession for away team 771: -0.02    

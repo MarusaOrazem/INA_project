@@ -5,13 +5,17 @@ Season: 2008/2009
 Gender: male     
 Home team: Real Valladolid (901), goals: 0   
 Away team: Barcelona (217), goals: 1    
-Goal time: (39, 51)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 901: 12.066666666666666    
-Before goal: Time in possession for away team 217: 27.316666666666666    
-After goal: Time in possession for home team 901: 20.683333333333334    
-After goal: Time in possession for away team 217: 34.38333333333333    
+Goal time: (39, 51), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 901: 14.77    
+First period: Time in possession for away team 217: 31.25    
+Second period: Time in possession for home team 901: 17.98    
+Second period: Time in possession for away team 217: 30.92    
+Before goal: Time in possession for home team 901: 12.07    
+Before goal: Time in possession for away team 217: 27.32    
+After goal: Time in possession for home team 901: 20.68    
+After goal: Time in possession for away team 217: 34.38    
 Before card: Time in possession for home team 901: 32.75    
-Before card: Time in possession for away team 217: 62.166666666666664    
-After card: Time in possession for home team 901: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Before card: Time in possession for away team 217: 62.17    
+After card: Time in possession for home team 901: -0.02    
+After card: Time in possession for away team 217: -0.02    

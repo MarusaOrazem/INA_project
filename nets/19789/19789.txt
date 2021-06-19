@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Chelsea FCW (971), goals: 2   
 Away team: Birmingham City WFC (969), goals: 3    
-Goal time: (12, 57)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 971: 7.583333333333333    
-Before goal: Time in possession for away team 969: 4.833333333333333    
-After goal: Time in possession for home team 971: 43.2    
+Goal time: (12, 57), for (971, 'Chelsea FCW')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 971: 24.55    
+First period: Time in possession for away team 969: 21.95    
+Second period: Time in possession for home team 971: 26.77    
+Second period: Time in possession for away team 969: 21.23    
+Before goal: Time in possession for home team 971: 7.58    
+Before goal: Time in possession for away team 969: 4.83    
+After goal: Time in possession for home team 971: 43.20    
 After goal: Time in possession for away team 969: 38.35    
-Before card: Time in possession for home team 971: 51.31666666666667    
-Before card: Time in possession for away team 969: 43.18333333333333    
-After card: Time in possession for home team 971: -0.016666666666666666    
-After card: Time in possession for away team 969: -0.016666666666666666    
+Before card: Time in possession for home team 971: 51.32    
+Before card: Time in possession for away team 969: 43.18    
+After card: Time in possession for home team 971: -0.02    
+After card: Time in possession for away team 969: -0.02    

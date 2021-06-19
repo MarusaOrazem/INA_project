@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Scotland Women's (866), goals: 3   
 Away team: Argentina Women's (1204), goals: 3    
-Goal time: (18, 55)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 866: 6.316666666666666    
+Goal time: (18, 55), for (866, "Scotland Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 866: 21.60    
+First period: Time in possession for away team 1204: 24.33    
+Second period: Time in possession for home team 866: 21.88    
+Second period: Time in possession for away team 1204: 27.80    
+Before goal: Time in possession for home team 866: 6.32    
 Before goal: Time in possession for away team 1204: 11.65    
-After goal: Time in possession for home team 866: 36.21666666666667    
-After goal: Time in possession for away team 1204: 40.483333333333334    
-Before card: Time in possession for home team 866: 43.483333333333334    
-Before card: Time in possession for away team 1204: 52.13333333333333    
-After card: Time in possession for home team 866: -0.016666666666666666    
-After card: Time in possession for away team 1204: -0.016666666666666666    
+After goal: Time in possession for home team 866: 36.22    
+After goal: Time in possession for away team 1204: 40.48    
+Before card: Time in possession for home team 866: 43.48    
+Before card: Time in possession for away team 1204: 52.13    
+After card: Time in possession for home team 866: -0.02    
+After card: Time in possession for away team 1204: -0.02    

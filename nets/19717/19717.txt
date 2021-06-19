@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Arsenal WFC (968), goals: 5   
 Away team: Liverpool WFC (966), goals: 0    
-Goal time: (5, 26)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 968: 3.433333333333333    
-Before goal: Time in possession for away team 966: 1.1    
-After goal: Time in possession for home team 968: 56.916666666666664    
-After goal: Time in possession for away team 966: 30.183333333333334    
+Goal time: (5, 26), for (968, 'Arsenal WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 968: 31.12    
+First period: Time in possession for away team 966: 13.52    
+Second period: Time in possession for home team 968: 30.13    
+Second period: Time in possession for away team 966: 17.77    
+Before goal: Time in possession for home team 968: 3.43    
+Before goal: Time in possession for away team 966: 1.10    
+After goal: Time in possession for home team 968: 56.92    
+After goal: Time in possession for away team 966: 30.18    
 Before card: Time in possession for home team 968: 61.25    
-Before card: Time in possession for away team 966: 31.283333333333335    
-After card: Time in possession for home team 968: -0.016666666666666666    
-After card: Time in possession for away team 966: -0.016666666666666666    
+Before card: Time in possession for away team 966: 31.28    
+After card: Time in possession for home team 968: -0.02    
+After card: Time in possession for away team 966: -0.02    

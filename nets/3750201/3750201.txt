@@ -5,13 +5,17 @@ Season: 2008/2009
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Manchester United (39), goals: 0    
-Goal time: (9, 8)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 2.6666666666666665    
-Before goal: Time in possession for away team 39: 6.283333333333333    
-After goal: Time in possession for home team 217: 40.733333333333334    
-After goal: Time in possession for away team 39: 43.68333333333333    
-Before card: Time in possession for home team 217: 43.583333333333336    
-Before card: Time in possession for away team 39: 49.96666666666667    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 39: -0.016666666666666666    
+Goal time: (9, 8), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 22.63    
+First period: Time in possession for away team 39: 23.53    
+Second period: Time in possession for home team 217: 20.95    
+Second period: Time in possession for away team 39: 26.43    
+Before goal: Time in possession for home team 217: 2.67    
+Before goal: Time in possession for away team 39: 6.28    
+After goal: Time in possession for home team 217: 40.73    
+After goal: Time in possession for away team 39: 43.68    
+Before card: Time in possession for home team 217: 43.58    
+Before card: Time in possession for away team 39: 49.97    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 39: -0.02    

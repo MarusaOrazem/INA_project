@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Cameroon Women's (1208), goals: 2   
 Away team: New Zealand Women's (1215), goals: 1    
-Goal time: (56, 56)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1208: 26.516666666666666    
-Before goal: Time in possession for away team 1215: 32.7    
-After goal: Time in possession for home team 1208: 27.4    
-After goal: Time in possession for away team 1215: 21.766666666666666    
-Before card: Time in possession for home team 1208: 42.4    
-Before card: Time in possession for away team 1215: 54.46666666666667    
-After card: Time in possession for home team 1208: -0.016666666666666666    
-After card: Time in possession for away team 1215: -0.016666666666666666    
+Goal time: (56, 56), for (1208, "Cameroon Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1208: 21.75    
+First period: Time in possession for away team 1215: 25.95    
+Second period: Time in possession for home team 1208: 20.65    
+Second period: Time in possession for away team 1215: 28.52    
+Before goal: Time in possession for home team 1208: 26.52    
+Before goal: Time in possession for away team 1215: 32.70    
+After goal: Time in possession for home team 1208: 27.40    
+After goal: Time in possession for away team 1215: 21.77    
+Before card: Time in possession for home team 1208: 42.40    
+Before card: Time in possession for away team 1215: 54.47    
+After card: Time in possession for home team 1208: -0.02    
+After card: Time in possession for away team 1215: -0.02    

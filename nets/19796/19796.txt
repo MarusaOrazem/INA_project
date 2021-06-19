@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Brighton & Hove Albion WFC (965), goals: 2   
 Away team: Birmingham City WFC (969), goals: 1    
-Goal time: (25, 45)   
-Card time: (-1, -1)   
+Goal time: (25, 45), for (969, 'Birmingham City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 965: 14.90    
+First period: Time in possession for away team 969: 31.17    
+Second period: Time in possession for home team 965: 17.10    
+Second period: Time in possession for away team 969: 32.85    
 Before goal: Time in possession for home team 965: 7.55    
-Before goal: Time in possession for away team 969: 17.516666666666666    
+Before goal: Time in possession for away team 969: 17.52    
 After goal: Time in possession for home team 965: 24.45    
-After goal: Time in possession for away team 969: 45.81666666666667    
-Before card: Time in possession for home team 965: 32.0    
-Before card: Time in possession for away team 969: 64.01666666666667    
-After card: Time in possession for home team 965: -0.016666666666666666    
-After card: Time in possession for away team 969: -0.016666666666666666    
+After goal: Time in possession for away team 969: 45.82    
+Before card: Time in possession for home team 965: 32.00    
+Before card: Time in possession for away team 969: 64.02    
+After card: Time in possession for home team 965: -0.02    
+After card: Time in possession for away team 969: -0.02    

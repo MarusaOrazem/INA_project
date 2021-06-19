@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Belgium (782), goals: 5   
 Away team: Tunisia (777), goals: 2    
-Goal time: (6, 0)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 782: 1.0333333333333334    
-Before goal: Time in possession for away team 777: 0.8166666666666667    
-After goal: Time in possession for home team 782: 47.63333333333333    
-After goal: Time in possession for away team 777: 40.583333333333336    
-Before card: Time in possession for home team 782: 52.81666666666667    
-Before card: Time in possession for away team 777: 41.4    
-After card: Time in possession for home team 782: -0.016666666666666666    
-After card: Time in possession for away team 777: -0.016666666666666666    
+Goal time: (6, 0), for (782, 'Belgium')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 782: 27.88    
+First period: Time in possession for away team 777: 18.90    
+Second period: Time in possession for home team 782: 24.93    
+Second period: Time in possession for away team 777: 22.50    
+Before goal: Time in possession for home team 782: 1.03    
+Before goal: Time in possession for away team 777: 0.82    
+After goal: Time in possession for home team 782: 47.63    
+After goal: Time in possession for away team 777: 40.58    
+Before card: Time in possession for home team 782: 52.82    
+Before card: Time in possession for away team 777: 41.40    
+After card: Time in possession for home team 782: -0.02    
+After card: Time in possession for away team 777: -0.02    

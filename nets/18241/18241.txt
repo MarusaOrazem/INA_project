@@ -5,13 +5,17 @@ Season: 2013/2014
 Gender: male     
 Home team: Real Madrid (220), goals: 4   
 Away team: Atlético Madrid (212), goals: 1    
-Goal time: (35, 26)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 220: 20.583333333333332    
-Before goal: Time in possession for away team 212: 14.216666666666667    
-After goal: Time in possession for home team 220: 38.8    
-After goal: Time in possession for away team 212: 21.366666666666667    
-Before card: Time in possession for home team 220: 59.38333333333333    
-Before card: Time in possession for away team 212: 36.21666666666667    
-After card: Time in possession for home team 220: -0.016666666666666666    
-After card: Time in possession for away team 212: -0.016666666666666666    
+Goal time: (35, 26), for (212, 'Atlético Madrid')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 220: 27.02    
+First period: Time in possession for away team 212: 18.67    
+Second period: Time in possession for home team 220: 32.37    
+Second period: Time in possession for away team 212: 17.55    
+Before goal: Time in possession for home team 220: 20.58    
+Before goal: Time in possession for away team 212: 14.22    
+After goal: Time in possession for home team 220: 38.80    
+After goal: Time in possession for away team 212: 21.37    
+Before card: Time in possession for home team 220: 59.38    
+Before card: Time in possession for away team 212: 36.22    
+After card: Time in possession for home team 220: -0.02    
+After card: Time in possession for away team 212: -0.02    

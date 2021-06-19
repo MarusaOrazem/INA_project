@@ -5,13 +5,17 @@ Season: 2007/2008
 Gender: male     
 Home team: Getafe (216), goals: 2   
 Away team: Barcelona (217), goals: 0    
-Goal time: (27, 12)   
-Card time: (84, 52)   
+Goal time: (27, 12), for (216, 'Getafe')   
+Card time: (84, 52), for (217, 'Barcelona')   
+First period: Time in possession for home team 216: 20.63    
+First period: Time in possession for away team 217: 25.00    
+Second period: Time in possession for home team 216: 18.95    
+Second period: Time in possession for away team 217: 30.95    
 Before goal: Time in possession for home team 216: 10.15    
 Before goal: Time in possession for away team 217: 15.95    
-After goal: Time in possession for home team 216: 28.333333333333332    
-After goal: Time in possession for away team 217: 40.0    
-Before card: Time in possession for home team 216: 34.36666666666667    
-Before card: Time in possession for away team 217: 50.93333333333333    
-After card: Time in possession for home team 216: 44.88333333333333    
-After card: Time in possession for away team 217: 5.016666666666667    
+After goal: Time in possession for home team 216: 28.33    
+After goal: Time in possession for away team 217: 40.00    
+Before card: Time in possession for home team 216: 34.37    
+Before card: Time in possession for away team 217: 50.93    
+After card: Time in possession for home team 216: 44.88    
+After card: Time in possession for away team 217: 5.02    

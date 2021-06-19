@@ -5,13 +5,17 @@ Season: 2016/2017
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Athletic Bilbao (215), goals: 0    
-Goal time: (17, 38)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 8.716666666666667    
-Before goal: Time in possession for away team 215: 6.916666666666667    
-After goal: Time in possession for home team 217: 42.46666666666667    
-After goal: Time in possession for away team 215: 32.78333333333333    
-Before card: Time in possession for home team 217: 53.18333333333333    
-Before card: Time in possession for away team 215: 39.7    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 215: -0.016666666666666666    
+Goal time: (17, 38), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 26.07    
+First period: Time in possession for away team 215: 18.92    
+Second period: Time in possession for home team 217: 27.12    
+Second period: Time in possession for away team 215: 20.78    
+Before goal: Time in possession for home team 217: 8.72    
+Before goal: Time in possession for away team 215: 6.92    
+After goal: Time in possession for home team 217: 42.47    
+After goal: Time in possession for away team 215: 32.78    
+Before card: Time in possession for home team 217: 53.18    
+Before card: Time in possession for away team 215: 39.70    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 215: -0.02    
