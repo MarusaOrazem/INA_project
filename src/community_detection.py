@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import statistics
 import copy
-
+import seaborn as sns
 
 game_ids = [
     '9620',
@@ -61,6 +61,14 @@ rc_communities_by_position = [
     {'home_team': [[9], [2, 3, 4, 5], [1, 6, 7, 10, 11], [8]], 'away_team': [[6], [2, 3, 7, 8], [1, 5, 9, 10], [4, 11]]}
 ]
 
+rc_games = ['9717', '9889', '9736', '9924', '266440', '267432', '267590', '267492', '267569', '69239', '69224', '69226', '69255', '69262', '69240', '69213', '69270', '69245', '69296', '69289', '69263', '70219', '69325', '70225', '69319', '69327', '69318', '70304', '70260', '70287', '70306', '266613', '265857', '266916', '266770', '267561', '266794', '266921', '266871', '267533', '267576', '266653', '265944', '266149', '266986', '266424', '68354', '68351', '68317', '68325', '69176', '68334', '68326', '68335', '68332', '68331', '68347', '16056', '16149', '16095', '15986', '16173', '69169', '69180', '69178', '69146', '69232', '69209', '69217', '69139', '69189', '69171', '69138', '69228', '69211', '303634', '303615']
+rc_events = ['h', 'a', 'h', 'h', 'a', 'a', 'a', 'a', 'h', 'h', 'a', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'a', 'h', 'h', 'a', 'h', 'a', 'a', 'h', 'a', 'a', 'a', 'h', 'h', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'a', 'a', 'h', 'a', 'a', 'h', 'h', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'a', 'h', 'a', 'a', 'h', 'h', 'a', 'h', 'h', 'a', 'h', 'a', 'h']
+
+ggames = ['9592', '9870', '9783', '9700', '9860', '9695', '9717', '9673', '9620', '9827', '9837', '9642', '9602', '9948', '9682', '9581', '9726', '9754', '9575', '9765', '9889', '9609', '9636', '9661', '9736', '9799', '9924', '267212', '267220', '266989', '266357', '267039', '267058', '266477', '266440', '267660', '266273', '266874', '266731', '266280', '267076', '267590', '267373', '267077', '266952', '267464', '266299', '266191', '267492', '267569', '69243', '69257', '69253', '69244', '69277', '69229', '69219', '69218', '69250', '69242', '69256', '69298', '69221', '69259', '69224', '69210', '69220', '69237']
+gevents = ['h', 'h', 'h', 'a', 'h', 'h', 'a', 'h', 'a', 'a', 'h', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'a', 'a', 'a', 'h', 'h', 'a', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'a', 'h', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'a', 'a', 'a', 'a', 'a', 'h', 'h', 'h', 'a', 'h', 'a', 'h', 'a', 'a', 'h']
+
+
+
 def read_team_names(id):
     home = ''
     guests = ''
@@ -82,6 +90,46 @@ def read_team_names(id):
 
 
     return home, guests
+
+
+def who_did_what(event):
+    # games = extract_games(100)
+    event_data = []
+
+    for id in ggames:
+        home_team, away_team = read_team_names(id)
+        with open('../nets/' + id + '/' + id + '.txt', 'r', encoding="utf-8") as File:
+            line_count = 1
+            for line in File:
+                if line_count == 8:
+                    if event == 'goal':
+                        line_segment = line.split(',')[3]
+                        team = line_segment.replace(')', '')
+                        team = team.replace("'", '')
+                        team = team.strip()
+                        print(team)
+                        if team in home_team:
+                            event_data.append('h')
+                        else:
+                            event_data.append('a')
+                if line_count == 9:
+                    if event == 'card':
+                        if len(line.split(',')) > 3:
+                            line_segment = line.split(',')[3]
+                            team = line_segment.replace(')', '')
+                            team = team.replace("'", '')
+                            team = team.strip()
+                            print(team)
+                            if team in home_team:
+                                event_data.append('h')
+                            else:
+                                event_data.append('a')
+
+
+                line_count += 1
+
+
+    return event_data
 
 def read_game_result(id):
 
@@ -170,14 +218,57 @@ def recreate_graph_from_communities(g, communities):
         return g
 
 
+def extract_games(n):
+    collected_games = 0
+    ids = []
+    with open('../all_matches.txt', 'r', encoding="utf-8") as File:
+        for line in File:
+            id = str(int(line.split(',')[0].split(':')[1]))
+            ids.append(id)
+            collected_games += 1
+            if collected_games >= n:
+                break
+
+        print(ids)
+
+def extract_redcard_games(n):
+    collected_games = 0
+    ids = []
+    with open('../all_matches.txt', 'r', encoding="utf-8") as File:
+        for line in File:
+            if 'Has dismissal: True' in line:
+                id = str(int(line.split(',')[0].split(':')[1]))
+                ids.append(id)
+                collected_games += 1
+                if collected_games >= n:
+                    break
+
+        print(ids)
+
+def extract_goal_games(n):
+    collected_games = 0
+    ids = []
+    with open('../all_matches.txt', 'r', encoding="utf-8") as File:
+        for line in File:
+            if line.count('goals: 0') < 2:
+                id = str(int(line.split(',')[0].split(':')[1]))
+                ids.append(id)
+                collected_games += 1
+                if collected_games >= n:
+                    break
+
+        print(ids)
+
 def read_halftime_split_for_communities():
-    comm_1h_number = []
-    comm_2h_number = []
+    team_h1_comm = []
+    team_h2_comm = []
+    team_a1_comm = []
+    team_a2_comm = []
     teams = []
     game_results = []
     # algorithms = [leiden]
 
-    for game_id in game_ids:
+    for game_id in game_ids + red_card_games:
         home_team, away_team = read_team_names(game_id)
         gs = read_game_result(game_id)
         game_results.append(gs)
@@ -190,32 +281,27 @@ def read_halftime_split_for_communities():
         teams.append(home_team)
         teams.append(away_team)
 
-        try:
-            detected_communities = leiden(home_1hg, weights=home_1hweights)
-            comm_1h_number.append(len(detected_communities.communities))
-        except:
-            print('Game: ' + game_id)
-            print('G edges: ' + str(len(home_1hg.edges)))
-            print('G weights: ' + str(len(home_1hweights)))
-
+        detected_communities = leiden(home_1hg, weights=home_1hweights)
+        team_h1_comm.append(len(detected_communities.communities))
 
         detected_communities = leiden(away_1hg, weights=away_1hweights)
-        comm_1h_number.append(len(detected_communities.communities))
+        team_a1_comm.append(len(detected_communities.communities))
 
         detected_communities = leiden(home_2hg, weights=home_2hweights)
-        comm_2h_number.append(len(detected_communities.communities))
+        team_h2_comm.append(len(detected_communities.communities))
 
         detected_communities = leiden(away_2hg, weights=away_2hweights)
-        comm_2h_number.append(len(detected_communities.communities))
+        team_a2_comm.append(len(detected_communities.communities))
 
-    first_half_comms = pd.DataFrame({'first_half_comms': comm_1h_number,
-                                     'second_half_team': comm_2h_number})
-
+    cms = pd.DataFrame({'first_half_comms': team_h1_comm + team_a1_comm,
+                                     'second_half_comms': team_h2_comm + team_a2_comm},
+									 )
+    diffs = pd.DataFrame({'differences': cms['first_half_comms'] - cms['second_half_comms']})
     fig, ax = plt.subplots()
     ax.set_title('Boxplot for halftime split')
-    ax.boxplot(first_half_comms)
-    plt.xticks([1, 2], ['1st halftime', '2nd halftime'])
-    plt.savefig('halftime_split_boxplot.png')
+    ax.boxplot(diffs)
+    # plt.xticks([1, 2], ['1st halftime', '2nd halftime'])
+    plt.savefig('ht_boxplot.png')
     plt.show()
     # first_half_comms = pd.DataFrame({'team': teams,
     #                                  'first_half_comms': comm_1h_number,
@@ -224,13 +310,15 @@ def read_halftime_split_for_communities():
     # first_half_comms.to_csv('half_split_communities.csv', index=False)
 
 def read_goal_split_for_communities():
-    comm_1h_number = []
-    comm_2h_number = []
+    team_h1_comm = []
+    team_h2_comm = []
+    team_a1_comm = []
+    team_a2_comm = []
     teams = []
     game_results = []
     # algorithms = [leiden]
 
-    for game_id in game_ids:
+    for game_id in game_ids + red_card_games:
         home_team, away_team = read_team_names(game_id)
         gs = read_game_result(game_id)
         game_results.append(gs)
@@ -243,42 +331,27 @@ def read_goal_split_for_communities():
         teams.append(home_team)
         teams.append(away_team)
 
-        try:
-            detected_communities = leiden(home_1hg, weights=home_1hweights)
-            comm_1h_number.append(len(detected_communities.communities))
-        except:
-            print('Graph is disconnected')
-            print(game_id)
-            print(home_team)
-            print(away_team)
-            print(read_game_result(game_id))
+        detected_communities = leiden(home_1hg, weights=home_1hweights)
+        team_h1_comm.append(len(detected_communities.communities))
 
         detected_communities = leiden(away_1hg, weights=away_1hweights)
-        comm_1h_number.append(len(detected_communities.communities))
+        team_a1_comm.append(len(detected_communities.communities))
 
-        try:
-            detected_communities = leiden(home_2hg, weights=home_2hweights)
-            comm_2h_number.append(len(detected_communities.communities))
-        except:
-            print('Graph is disconnected')
-            print(game_id)
-            print(home_team)
-            print(away_team)
-            print(read_game_result(game_id))
-            # print(list(nx.connected_components(home_2hg)))
-            # detected_communities = leiden(nx.connected_components(home_2hg), weights=home_2hweights)
-            # comm_2h_number.append(len(detected_communities.communities))
+        detected_communities = leiden(home_2hg, weights=home_2hweights)
+        team_h2_comm.append(len(detected_communities.communities))
 
         detected_communities = leiden(away_2hg, weights=away_2hweights)
-        comm_2h_number.append(len(detected_communities.communities))
+        team_a2_comm.append(len(detected_communities.communities))
 
-    first_half_comms = pd.DataFrame({'before_first_goal_comms': comm_1h_number,
-                                     'after_first_goal_comms': comm_2h_number})
+    cms = pd.DataFrame({'first_goal_comms': team_h1_comm + team_a1_comm,
+                                     'second_goal_comms': team_h2_comm + team_a2_comm},
+									 )
+    diffs = pd.DataFrame({'differences': cms['first_goal_comms'] - cms['second_goal_comms']})
     fig, ax = plt.subplots()
     ax.set_title('Boxplot for goal split')
-    ax.boxplot(first_half_comms)
-    plt.xticks([1, 2], ['Before 1st goal', 'After 1st goal'])
-    plt.savefig('goal_split_boxplot.png')
+    ax.boxplot(diffs)
+    # plt.xticks([1, 2], ['1st halftime', '2nd halftime'])
+    plt.savefig('goal_boxplot.png')
     plt.show()
     # goal_split_cooms = pd.DataFrame({'team': teams,
     #                                  'before_first_goal_comms': comm_1h_number,
@@ -286,62 +359,75 @@ def read_goal_split_for_communities():
     #                                  'game_results': game_results})
     # goal_split_cooms.to_csv('goal_split_communities.csv', index=False)
 
+
 def read_redcard_split_for_communities():
-    comm_1h_number = []
-    comm_2h_number = []
+    team_recieving_card_t1_comm = []
+    team_recieving_card_t2_comm = []
+    team_opp_card_t1_comm = []
+    team_opp_card_t2_comm = []
     teams = []
     game_results = []
     # algorithms = [leiden]
 
-    for game_id in red_card_games:
+    for i, game_id in enumerate(rc_games):
         home_team, away_team = read_team_names(game_id)
         gs = read_game_result(game_id)
         game_results.append(gs)
         game_results.append(gs)
-        home_1hg, home_1hweights = parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_card_0.net')
-        away_1hg, away_1hweights = parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_card_0.net')
-        home_2hg, home_2hweights = parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_card_1.net')
-        away_2hg, away_2hweights = parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_card_1.net')
+        home_1hg, home_1hweights = parse_weighted_graph(
+            '../nets/' + game_id + '/' + game_id + '_' + home_team + '_card_0.net')
+        away_1hg, away_1hweights = parse_weighted_graph(
+            '../nets/' + game_id + '/' + game_id + '_' + away_team + '_card_0.net')
+        home_2hg, home_2hweights = parse_weighted_graph(
+            '../nets/' + game_id + '/' + game_id + '_' + home_team + '_card_1.net')
+        away_2hg, away_2hweights = parse_weighted_graph(
+            '../nets/' + game_id + '/' + game_id + '_' + away_team + '_card_1.net')
 
         teams.append(home_team)
         teams.append(away_team)
 
         try:
             detected_communities = leiden(home_1hg, weights=home_1hweights)
-            comm_1h_number.append(len(detected_communities.communities))
-        except:
-            print('Graph is disconnected')
-            print(game_id)
-            print(home_team)
-            print(away_team)
-            print(read_game_result(game_id))
+            if rc_events[i] == 'h':
+                team_recieving_card_t1_comm.append(len(detected_communities.communities))
+            else:
+                team_opp_card_t1_comm.append(len(detected_communities.communities))
 
-        detected_communities = leiden(away_1hg, weights=away_1hweights)
-        comm_1h_number.append(len(detected_communities.communities))
+            detected_communities = leiden(away_1hg, weights=away_1hweights)
+            if rc_events[i] == 'h':
+                team_opp_card_t1_comm.append(len(detected_communities.communities))
+            else:
+                team_recieving_card_t1_comm.append(len(detected_communities.communities))
 
-        try:
             detected_communities = leiden(home_2hg, weights=home_2hweights)
-            comm_2h_number.append(len(detected_communities.communities))
+            if rc_events[i] == 'h':
+                team_recieving_card_t2_comm.append(len(detected_communities.communities))
+            else:
+                team_opp_card_t2_comm.append(len(detected_communities.communities))
+
+            detected_communities = leiden(away_2hg, weights=away_2hweights)
+            if rc_events[i] == 'h':
+                team_opp_card_t2_comm.append(len(detected_communities.communities))
+            else:
+                team_recieving_card_t2_comm.append(len(detected_communities.communities))
+
         except:
-            print('Graph is disconnected')
-            print(game_id)
-            print(home_team)
-            print(away_team)
-            print(read_game_result(game_id))
-            # print(list(nx.connected_components(home_2hg)))
-            # detected_communities = leiden(nx.connected_components(home_2hg), weights=home_2hweights)
-            # comm_2h_number.append(len(detected_communities.communities))
+            print('Game id for which it was not possible: ' + str(game_id))
 
-        detected_communities = leiden(away_2hg, weights=away_2hweights)
-        comm_2h_number.append(len(detected_communities.communities))
+    print()
+    cms = pd.DataFrame({'recieving_card_t1': team_recieving_card_t1_comm,
+                        'recieving_card_t2': team_recieving_card_t2_comm,
+                        'opp_card_t1': team_opp_card_t1_comm,
+                        'opp_card_t2': team_opp_card_t2_comm,
+                        }, )
 
-    first_half_comms = pd.DataFrame({'before_first_card_comms': comm_1h_number,
-                                     'after_first_card_comms': comm_2h_number})
+    diffs = pd.DataFrame({'receiving_team': cms['recieving_card_t1'] - cms['recieving_card_t2'],
+                          'opp_team': cms['opp_card_t1'] - cms['opp_card_t2']})
     fig, ax = plt.subplots()
     ax.set_title('Boxplot for red card split')
-    ax.boxplot(first_half_comms)
-    plt.xticks([1, 2], ['Before red card', 'After red card'])
-    plt.savefig('rcard_split_boxplot.png')
+    ax.boxplot(diffs)
+    plt.xticks([1, 2], ['Team recieving red card', 'Opposing team'])
+    plt.savefig('card_boxplot_2_teams.png')
     plt.show()
 
     # red_card_splits = pd.DataFrame({'team': teams,
@@ -395,11 +481,12 @@ def see_community_changes(type, alg):
         if type == 'card':
             the_ids = red_card_games
         filenamestr = type
-    hteam_nmis_first_half = []
-    ateam_nmis_first_half = []
 
-    hteam_nmis_second_half = []
-    ateam_nmis_second_half = []
+    hteam_h1_nmi = []
+    hteam_h2_nmi = []
+    ateam_h1_nmi = []
+    ateam_h2_nmi = []
+
 
     home_team_communities_after = []
     away_team_communities_after = []
@@ -414,62 +501,53 @@ def see_community_changes(type, alg):
         home_2hg, home_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_' + type + '_1.net', with_node_names=False))
         away_2hg, away_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_' + type + '_1.net', with_node_names=False))
 
-        detected_communities_hh1 = alg(home_1hg, weights=home_1hweights)
-        detected_communities_hh1.communities == add_missing_node_as_separate_community(detected_communities_hh1.communities)
-        nc = NodeClustering(communities=transform_communities_to_str(communities_by_position[i]['home_team']), graph=home_1hg)
-        nmi_instance = normalized_mutual_information(nc, detected_communities_hh1).score
-        hteam_nmis_first_half.append(nmi_instance)
-
-
-
-        detected_communities_ah1 = alg(away_1hg, weights=away_1hweights)
-        detected_communities_ah1.communities == add_missing_node_as_separate_community(detected_communities_ah1.communities)
-        nc = NodeClustering(communities=transform_communities_to_str(communities_by_position[i]['away_team']),
-                            graph=away_1hg)
-        nmi_instance = normalized_mutual_information(nc, detected_communities_ah1).score
-        ateam_nmis_first_half.append(nmi_instance)
-
         try:
+            detected_communities_hh1 = alg(home_1hg, weights=home_1hweights)
+            detected_communities_hh1.communities == add_missing_node_as_separate_community(detected_communities_hh1.communities)
+            nc = NodeClustering(communities=transform_communities_to_str(communities_by_position[i]['home_team']), graph=home_1hg)
+            nmi_instance = normalized_mutual_information(nc, detected_communities_hh1).score
+            hteam_h1_nmi.append(nmi_instance)
+
+
+            detected_communities_ah1 = alg(away_1hg, weights=away_1hweights)
+            detected_communities_ah1.communities == add_missing_node_as_separate_community(detected_communities_ah1.communities)
+            nc = NodeClustering(communities=transform_communities_to_str(communities_by_position[i]['away_team']),
+                                graph=away_1hg)
+            nmi_instance = normalized_mutual_information(nc, detected_communities_ah1).score
+            ateam_h1_nmi.append(nmi_instance)
+
+
             detected_communities_hh2 = alg(home_2hg, weights=home_2hweights)
             detected_communities_hh2.communities == add_missing_node_as_separate_community(detected_communities_hh2.communities)
             nc = NodeClustering(communities=transform_communities_to_str(communities_by_position[i]['home_team']),
                                 graph=home_2hg)
             nmi_instance = normalized_mutual_information(nc, detected_communities_hh2).score
+
+            # print(transform_communities_to_str(communities_by_position[i]['home_team']))
+            # print(detected_communities_hh2.communities)
+
+            hteam_h2_nmi.append(nmi_instance)
+
+            detected_communities_ah2 = alg(away_2hg, weights=away_2hweights)
+            detected_communities_ah2.communities == add_missing_node_as_separate_community(detected_communities_ah2.communities)
+            nc = NodeClustering(communities=transform_communities_to_str(communities_by_position[i]['away_team']),
+                                graph=away_2hg)
+            nmi_instance = normalized_mutual_information(nc, detected_communities_ah2).score
+
+            ateam_h2_nmi.append(nmi_instance)
+
         except:
+            print('Error occured for game')
             print(game_id)
-
-
-
-        # print(transform_communities_to_str(communities_by_position[i]['home_team']))
-        # print(detected_communities_hh2.communities)
-
-        hteam_nmis_second_half.append(nmi_instance)
-
-        detected_communities_ah2 = alg(away_2hg, weights=away_2hweights)
-        detected_communities_ah2.communities == add_missing_node_as_separate_community(detected_communities_ah2.communities)
-        nc = NodeClustering(communities=transform_communities_to_str(communities_by_position[i]['away_team']),
-                            graph=away_2hg)
-        nmi_instance = normalized_mutual_information(nc, detected_communities_ah2).score
-        ateam_nmis_second_half.append(nmi_instance)
-
-        # Comparing differences in communitites between first and second half
-        nmi_instance = normalized_mutual_information(detected_communities_hh1, detected_communities_hh2).score
-        hometeam_1h_vs_2h_nmis.append(nmi_instance)
-
-        nmi_instance = normalized_mutual_information(detected_communities_ah1, detected_communities_ah2).score
-        awayteam_1h_vs_2h_nmis.append(nmi_instance)
-
-
-        # detected_communities_hh2 = leiden(home_2hg, weights=home_2hweights)
-        # detected_communities_ah2 = leiden(away_2hg, weights=away_2hweights)
+            print('----------------')
 
     nmi_halftime_split_coms = pd.DataFrame({'game': the_ids,
-                                     'first_' + filenamestr +'_NMI_hteam': hteam_nmis_first_half,
-                                     'second_' + filenamestr +'_NMI_hteam': hteam_nmis_second_half,
-                                    'first_' + filenamestr +'_NMI_ateam': ateam_nmis_first_half,
-                                    'second_' + filenamestr +'_NMI_ateam': ateam_nmis_second_half,
-                                    'hometeam_1h_vs_2h_nmi': hometeam_1h_vs_2h_nmis,
-                                    'awayteam_1h_vs_2h_nmi': awayteam_1h_vs_2h_nmis
+                                     'first_' + filenamestr +'_NMI_hteam': hteam_h1_nmi,
+                                     'second_' + filenamestr +'_NMI_hteam': hteam_h2_nmi,
+                                    'first_' + filenamestr +'_NMI_ateam': ateam_h1_nmi,
+                                    'second_' + filenamestr +'_NMI_ateam': ateam_h2_nmi
+                                    # 'hometeam_1h_vs_2h_nmi': hometeam_1h_vs_2h_nmis,
+                                    # 'awayteam_1h_vs_2h_nmi': awayteam_1h_vs_2h_nmis
                                     })
 
     # nmi_halftime_split_coms = pd.DataFrame({'game': the_ids + the_ids,
@@ -484,7 +562,7 @@ def tree_pruning(gw):
     g = gw[0]
     weights = gw[1]
     edata = g.edges(data=True)
-    print('Edges length before prunning:' + str(len(edata)))
+    # print('Edges length before prunning:' + str(len(edata)))
 
     weights = []
     for edge in edata:
@@ -495,12 +573,12 @@ def tree_pruning(gw):
 
     ws = []
     for i, edge in enumerate(copy.deepcopy(g.edges(data=True))):
-        if edge[2]['weight'] < median:
+        if edge[2]['weight'] <= median:
             g.remove_edge(edge[0], edge[1])
         else:
             ws.append(weights[i])
 
-    print('Edges length after prunning:' + str(len(ws)))
+    # print('Edges length after prunning:' + str(len(ws)))
     return g, ws
 
 def edge_clustering(type):
@@ -513,29 +591,16 @@ def edge_clustering(type):
 
     return hierarchical_link_community(home_1hg)
 
-
-if __name__ == "__main__":
-    # print(read_team_names(game_ids[0]))
-
-    # print(edge_clustering('period').communities)
-
-    # read_halftime_split_for_communities()
-    # read_goal_split_for_communities()
-    # read_redcard_split_for_communities()
-
+def visualize_nmis():
     alg_names = ['Aslpaw', 'Louvain', 'Leiden', 'Greedy modularity', 'CPM']
     algorithms = [aslpaw, louvain, leiden, greedy_modularity, cpm]
 
-    # half_nmi_aslpaw = see_community_changes('period', aslpaw)
-    # half_nmi_louvain = see_community_changes('period', louvain)
-    half_nmi_leiden = see_community_changes('card', leiden)
-    # half_nmi_greedy_modularity = see_community_changes('period', greedy_modularity)
-    half_nmi_cpm = see_community_changes('card', cpm)
+    half_nmi_leiden = see_community_changes('goal', leiden)
+    half_nmi_cpm = see_community_changes('goal', cpm)
 
     gms = []
     for i in range(1, len(half_nmi_cpm['game']) + 1):
         gms.append('Game #' + str(i))
-
 
     fig = plt.figure()
     ax = plt.axes()
@@ -543,27 +608,152 @@ if __name__ == "__main__":
     plt.ylabel('NMI', fontsize=14)
     ax.tick_params(axis='both', which='major', labelsize=14)
 
+    ax.plot(range(1, len(half_nmi_cpm['goal']) + 1), half_nmi_leiden['first_goal_NMI_hteam'],
+            label='Leiden before goal Home team')
+    # ax.plot(range(1, len(half_nmi_cpm['game']) + 1), half_nmi_leiden['second_card_NMI_hteam'],
+    #         label='Leiden 2nd card Home team')
 
-    # ax.plot(range(1, 25), half_nmi_leiden['first_half_NMI'], label='Leiden 1st half')
-    # ax.plot(range(1, 25), half_nmi_leiden['second_half_NMI'], label='Leiden 2nd half')
+    ax.plot(range(1, len(half_nmi_cpm['game']) + 1), half_nmi_leiden['first_goal_NMI_ateam'],
+            label='Leiden before goal Away team')
+    # ax.plot(range(1, len(half_nmi_cpm['game']) + 1), half_nmi_leiden['second_card_NMI_ateam'],
+    #         label='Leiden 2nd card Away team')
 
-    # ax.plot(range(1, 25), half_nmi_greedy_modularity['first_half_NMI'], label='Greedy modularity 1st half')
-    # ax.plot(range(1, 25), half_nmi_greedy_modularity['second_half_NMI'], label='Greedy modularity  2nd half')
-
-    ax.plot(range(1, len(half_nmi_cpm['game']) + 1), half_nmi_leiden['first_card_NMI_hteam'], label='Leiden 1st card Home team')
-    ax.plot(range(1, len(half_nmi_cpm['game']) + 1), half_nmi_leiden['second_card_NMI_hteam'], label='Leiden 2nd card Home team')
-
-    ax.plot(range(1, len(half_nmi_cpm['game']) + 1), half_nmi_leiden['first_card_NMI_ateam'], label='Leiden 1st card Away team')
-    ax.plot(range(1, len(half_nmi_cpm['game']) + 1), half_nmi_leiden['second_card_NMI_ateam'], label='Leiden 2nd card Away team')
-
-    # ax.plot(range(1, 25), half_nmi_walktrap['second_half_NMI'], label='Walktrap 2nd half')
-    # ax.plot(mu_list, nmis[1], label='Walktrap')
-    # ax.plot(mu_list, nmis[2], label='Label Propagation')
     handles, labels = ax.get_legend_handles_labels()
     ax.legend(handles, labels)
     plt.title('NMI for 8 selected games')
     plt.savefig('NMI_leiden_card.png')
     plt.show()
+
+def some_f():
+    game_id = '9736'
+    home_team, away_team = read_team_names(game_id)
+    type = 'period'
+    home_1hg, home_1hweights = tree_pruning(
+        parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_' + type + '_0.net',
+                             with_node_names=False))
+    home_2hg, home_2hweights = tree_pruning(
+        parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_' + type + '_1.net',
+                             with_node_names=False))
+    away_1hg, away_1hweights = tree_pruning(
+        parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_' + type + '_0.net',
+                             with_node_names=False))
+    away_2hg, away_2hweights = tree_pruning(
+        parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_' + type + '_1.net',
+                             with_node_names=False))
+
+    detected_communities_hh1 = leiden(home_1hg, weights=home_1hweights)
+    detected_communities_hh2 = leiden(home_2hg, weights=home_2hweights)
+    detected_communities_ah1 = leiden(away_1hg, weights=away_1hweights)
+    detected_communities_ah2 = leiden(away_2hg, weights=away_2hweights)
+
+    print(detected_communities_hh1.communities)
+    print(detected_communities_hh2.communities)
+    print(detected_communities_ah1.communities)
+    print(detected_communities_ah2.communities)
+
+
+def read_goal_lcommunities():
+    team_performing_t1_comm = []
+    team_performing_t2_comm = []
+    team_opp_t1_comm = []
+    team_opp_t2_comm = []
+    teams = []
+    game_results = []
+    ngames = []
+
+    for i, game_id in enumerate(ggames):
+        home_team, away_team = read_team_names(game_id)
+        gs = read_game_result(game_id)
+        game_results.append(gs)
+        game_results.append(gs)
+        home_1hg, home_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_goal_0.net', with_node_names=False))
+        away_1hg, away_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_goal_0.net', with_node_names=False))
+        home_2hg, home_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_goal_1.net', with_node_names=False))
+        away_2hg, away_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_goal_1.net', with_node_names=False))
+
+        teams.append(home_team)
+        teams.append(away_team)
+
+        try:
+            detected_communities = leiden(home_1hg, weights=home_1hweights)
+            largest_com = max([len(com) for com in detected_communities.communities])
+            if gevents[i] == 'h':
+                team_performing_t1_comm.append(largest_com)
+            else:
+                team_opp_t1_comm.append(largest_com)
+
+            detected_communities = leiden(away_1hg, weights=away_1hweights)
+            largest_com = max([len(com) for com in detected_communities.communities])
+            if gevents[i] == 'h':
+                team_opp_t1_comm.append(largest_com)
+            else:
+                team_performing_t1_comm.append(largest_com)
+
+            detected_communities = leiden(home_2hg, weights=home_2hweights)
+            largest_com = max([len(com) for com in detected_communities.communities])
+            if gevents[i] == 'h':
+                team_performing_t2_comm.append(largest_com)
+            else:
+                team_opp_t2_comm.append(largest_com)
+
+            detected_communities = leiden(away_2hg, weights=away_2hweights)
+            largest_com = max([len(com) for com in detected_communities.communities])
+            if gevents[i] == 'h':
+                team_opp_t2_comm.append(largest_com)
+            else:
+                team_performing_t2_comm.append(largest_com)
+        except:
+            print('Dogodio se exception' + str(game_id))
+
+    print('----- Duzine --------------')
+    print(len(team_performing_t1_comm))
+    print(len(team_performing_t2_comm))
+    print(len(team_opp_t1_comm))
+    print(len(team_opp_t2_comm))
+    print('------------')
+    cms = pd.DataFrame({'team_scoring_goal_t1': team_performing_t1_comm,
+        'team_scoring_goal_t2': team_performing_t2_comm,
+        'team_opp_goal_t1': team_opp_t1_comm,
+        'team_opp_goal_t2': team_opp_t2_comm})
+
+    avgs = [cms['team_scoring_goal_t1'].mean(), cms['team_scoring_goal_t2'].mean(), cms['team_opp_goal_t1'].mean(),
+            cms['team_opp_goal_t2'].mean()]
+    x = ['Before team scored goal', 'After team scored goal', 'Before team conceded goal', 'After team conceded goal']
+
+    diffs = pd.DataFrame({'x': x, 'avg': avgs})
+    sns.set_theme(style="whitegrid")
+    ax = sns.barplot(x="x", y="avg", data=diffs)
+    plt.savefig('lcom.png')
+    plt.show()
+
+if __name__ == "__main__":
+    # read_halftime_split_for_communities()
+    # read_goal_split_for_communities()
+    # read_redcard_split_for_communities()
+    # print(len(rc_games))
+    # extract_goal_games(90)
+    # extract_redcard_games(90)
+
+    # df = see_community_changes('goal')
+    #
+    # dteam1 = df['first_goal_NMI_did']
+    #
+    #
+    #
+    # sns.set_theme(style="whitegrid")
+    # # tips = sns.load_dataset("tips")
+    # ax = sns.barplot(x="day", y="total_bill", data=df)
+    # who_did_what('goal')
+    # gevents = who_did_what('goal')
+    # read_goal_lcommunities()
+
+    some_f()
+
+
+
+
+
+
 
 
 
