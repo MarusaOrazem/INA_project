@@ -415,8 +415,12 @@ def see_community_changes(type, alg):
         away_2hg, away_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_' + type + '_1.net', with_node_names=False))
 
         detected_communities_hh1 = alg(home_1hg, weights=home_1hweights)
+
         detected_communities_hh1.communities == add_missing_node_as_separate_community(detected_communities_hh1.communities)
         nc = NodeClustering(communities=transform_communities_to_str(communities_by_position[i]['home_team']), graph=home_1hg)
+        # print(f'******{game_id}************', nc)
+        print('******', game_id,'\n', detected_communities_hh1.communities)
+        print('Half 1 - home',)
         nmi_instance = normalized_mutual_information(nc, detected_communities_hh1).score
         hteam_nmis_first_half.append(nmi_instance)
 
@@ -431,9 +435,12 @@ def see_community_changes(type, alg):
 
         try:
             detected_communities_hh2 = alg(home_2hg, weights=home_2hweights)
+            print('******', game_id,'\n', detected_communities_hh2.communities)
+            print('Half 2 - home')
             detected_communities_hh2.communities == add_missing_node_as_separate_community(detected_communities_hh2.communities)
             nc = NodeClustering(communities=transform_communities_to_str(communities_by_position[i]['home_team']),
                                 graph=home_2hg)
+            # print(f'******{game_id}************', list(nc))
             nmi_instance = normalized_mutual_information(nc, detected_communities_hh2).score
         except:
             print(game_id)
@@ -528,9 +535,11 @@ if __name__ == "__main__":
 
     # half_nmi_aslpaw = see_community_changes('period', aslpaw)
     # half_nmi_louvain = see_community_changes('period', louvain)
-    half_nmi_leiden = see_community_changes('card', leiden)
+    half_nmi_leiden = see_community_changes('goal', leiden)
+    print(half_nmi_leiden)
     # half_nmi_greedy_modularity = see_community_changes('period', greedy_modularity)
-    half_nmi_cpm = see_community_changes('card', cpm)
+    half_nmi_cpm = see_community_changes('goal', cpm)
+    print(half_nmi_cpm)
 
     gms = []
     for i in range(1, len(half_nmi_cpm['game']) + 1):
