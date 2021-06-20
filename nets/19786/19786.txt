@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: West Ham United LFC (972), goals: 1   
 Away team: Manchester City WFC (746), goals: 3    
-Goal time: (14, 47)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 972: 6.183333333333334    
-Before goal: Time in possession for away team 746: 7.616666666666666    
-After goal: Time in possession for home team 972: 38.13333333333333    
-After goal: Time in possession for away team 746: 40.11666666666667    
-Before card: Time in possession for home team 972: 44.31666666666667    
-Before card: Time in possession for away team 746: 48.71666666666667    
-After card: Time in possession for home team 972: -0.016666666666666666    
-After card: Time in possession for away team 746: -0.016666666666666666    
+Goal time: (14, 47), for (746, 'Manchester City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 972: 25.73    
+First period: Time in possession for away team 746: 20.27    
+Second period: Time in possession for home team 972: 18.58    
+Second period: Time in possession for away team 746: 28.45    
+Before goal: Time in possession for home team 972: 6.18    
+Before goal: Time in possession for away team 746: 7.62    
+After goal: Time in possession for home team 972: 38.13    
+After goal: Time in possession for away team 746: 40.12    
+Before card: Time in possession for home team 972: 44.32    
+Before card: Time in possession for away team 746: 48.72    
+After card: Time in possession for home team 972: -0.02    
+After card: Time in possession for away team 746: -0.02    

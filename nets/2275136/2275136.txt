@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Manchester City WFC (746), goals: 1   
 Away team: Manchester United (1475), goals: 0    
-Goal time: (47, 48)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 746: 21.5    
+Goal time: (47, 48), for (746, 'Manchester City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 746: 20.62    
+First period: Time in possession for away team 1475: 26.55    
+Second period: Time in possession for home team 746: 30.60    
+Second period: Time in possession for away team 1475: 16.92    
+Before goal: Time in possession for home team 746: 21.50    
 Before goal: Time in possession for away team 1475: 27.15    
-After goal: Time in possession for home team 746: 31.2    
-After goal: Time in possession for away team 1475: 16.316666666666666    
-Before card: Time in possession for home team 746: 51.21666666666667    
-Before card: Time in possession for away team 1475: 43.46666666666667    
-After card: Time in possession for home team 746: -0.016666666666666666    
-After card: Time in possession for away team 1475: -0.016666666666666666    
+After goal: Time in possession for home team 746: 31.20    
+After goal: Time in possession for away team 1475: 16.32    
+Before card: Time in possession for home team 746: 51.22    
+Before card: Time in possession for away team 1475: 43.47    
+After card: Time in possession for home team 746: -0.02    
+After card: Time in possession for away team 1475: -0.02    

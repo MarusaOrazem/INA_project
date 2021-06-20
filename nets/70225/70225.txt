@@ -5,13 +5,17 @@ Season: 2011/2012
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Granada (1049), goals: 3    
-Goal time: (3, 36)   
-Card time: (87, 34)   
+Goal time: (3, 36), for (217, 'Barcelona')   
+Card time: (87, 34), for (217, 'Barcelona')   
+First period: Time in possession for home team 217: 30.80    
+First period: Time in possession for away team 1049: 13.37    
+Second period: Time in possession for home team 217: 33.23    
+Second period: Time in possession for away team 1049: 14.22    
 Before goal: Time in possession for home team 217: 2.25    
 Before goal: Time in possession for away team 1049: 1.05    
-After goal: Time in possession for home team 217: 61.483333333333334    
-After goal: Time in possession for away team 1049: 26.533333333333335    
+After goal: Time in possession for home team 217: 61.48    
+After goal: Time in possession for away team 1049: 26.53    
 Before card: Time in possession for home team 217: 61.95    
 Before card: Time in possession for away team 1049: 23.55    
-After card: Time in possession for home team 217: 2.0833333333333335    
-After card: Time in possession for away team 1049: 45.36666666666667    
+After card: Time in possession for home team 217: 2.08    
+After card: Time in possession for away team 1049: 45.37    

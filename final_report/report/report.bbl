@@ -1,0 +1,40 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[plp()]{plpasses}
+Premier {League} {Average} {Passes} {Per} {Game} {Overview} for teams.
+\newblock URL
+  \url{https://www.footballcritic.com/premier-league/season-2019-2020/passes-per-game/2/21558}.
+
+\bibitem[Bavelas(1950)]{bavelas}
+A.~Bavelas.
+\newblock Communication patterns in task-oriented groups, 1950.
+
+\bibitem[Shaw(1964)]{shaw}
+M.~E. Shaw.
+\newblock Communication networks, 1964.
+
+\bibitem[Grund(2012)]{grund}
+Thomas~U. Grund.
+\newblock Network structure and team performance: The case of english premier
+  league soccer teams, 2012.
+
+\bibitem[Fernandez and Cervone(2019)]{fbrn}
+Bornn~L Fernandez, J. and D.~Cervone.
+\newblock Decomposing the immeasurable sport: A deep learning expected
+  possession value framework for soccer, 2019.
+
+\bibitem[Chawla et~al.(2017)Chawla, Estephan, Gudmundsson, and Horton]{chawla}
+Sanjay Chawla, Jo\"{e}l Estephan, Joachim Gudmundsson, and Michael Horton.
+\newblock Classification of passes in football matches using spatiotemporal
+  data, 2017.
+
+\bibitem[Mattsson and Takes(2021)]{trajectory}
+Carolina E.~S. Mattsson and Frank~W. Takes.
+\newblock Trajectories through temporal networks, 2021.
+
+\end{thebibliography}

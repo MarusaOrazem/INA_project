@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Iran (797), goals: 1   
 Away team: Portugal (780), goals: 1    
-Goal time: (44, 19)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 797: 12.766666666666667    
-Before goal: Time in possession for away team 780: 31.033333333333335    
-After goal: Time in possession for home team 797: 25.466666666666665    
-After goal: Time in possession for away team 780: 28.3    
-Before card: Time in possession for home team 797: 38.233333333333334    
+Goal time: (44, 19), for (780, 'Portugal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 797: 13.40    
+First period: Time in possession for away team 780: 32.87    
+Second period: Time in possession for home team 797: 24.83    
+Second period: Time in possession for away team 780: 26.98    
+Before goal: Time in possession for home team 797: 12.77    
+Before goal: Time in possession for away team 780: 31.03    
+After goal: Time in possession for home team 797: 25.47    
+After goal: Time in possession for away team 780: 28.30    
+Before card: Time in possession for home team 797: 38.23    
 Before card: Time in possession for away team 780: 59.85    
-After card: Time in possession for home team 797: -0.016666666666666666    
-After card: Time in possession for away team 780: -0.016666666666666666    
+After card: Time in possession for home team 797: -0.02    
+After card: Time in possession for away team 780: -0.02    

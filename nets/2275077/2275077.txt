@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Tottenham Hotspur Women (749), goals: 2   
 Away team: West Ham United LFC (972), goals: 1    
-Goal time: (29, 57)   
-Card time: (-1, -1)   
+Goal time: (29, 57), for (749, 'Tottenham Hotspur Women')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 749: 20.23    
+First period: Time in possession for away team 972: 29.70    
+Second period: Time in possession for home team 749: 22.32    
+Second period: Time in possession for away team 972: 31.52    
 Before goal: Time in possession for home team 749: 11.85    
 Before goal: Time in possession for away team 972: 16.85    
 After goal: Time in possession for home team 749: 29.45    
-After goal: Time in possession for away team 972: 44.36666666666667    
+After goal: Time in possession for away team 972: 44.37    
 Before card: Time in possession for home team 749: 42.55    
-Before card: Time in possession for away team 972: 61.21666666666667    
-After card: Time in possession for home team 749: -0.016666666666666666    
-After card: Time in possession for away team 972: -0.016666666666666666    
+Before card: Time in possession for away team 972: 61.22    
+After card: Time in possession for home team 749: -0.02    
+After card: Time in possession for away team 972: -0.02    

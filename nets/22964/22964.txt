@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Netherlands Women's (851), goals: 3   
 Away team: Cameroon Women's (1208), goals: 1    
-Goal time: (40, 8)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 851: 25.116666666666667    
-Before goal: Time in possession for away team 1208: 14.5    
-After goal: Time in possession for home team 851: 25.683333333333334    
-After goal: Time in possession for away team 1208: 25.583333333333332    
-Before card: Time in possession for home team 851: 51.31666666666667    
-Before card: Time in possession for away team 1208: 40.083333333333336    
-After card: Time in possession for home team 851: -0.016666666666666666    
-After card: Time in possession for away team 1208: -0.016666666666666666    
+Goal time: (40, 8), for (851, "Netherlands Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 851: 28.08    
+First period: Time in possession for away team 1208: 17.80    
+Second period: Time in possession for home team 851: 23.23    
+Second period: Time in possession for away team 1208: 22.28    
+Before goal: Time in possession for home team 851: 25.12    
+Before goal: Time in possession for away team 1208: 14.50    
+After goal: Time in possession for home team 851: 25.68    
+After goal: Time in possession for away team 1208: 25.58    
+Before card: Time in possession for home team 851: 51.32    
+Before card: Time in possession for away team 1208: 40.08    
+After card: Time in possession for home team 851: -0.02    
+After card: Time in possession for away team 1208: -0.02    

@@ -5,13 +5,17 @@ Season: 2013/2014
 Gender: male     
 Home team: Barcelona (217), goals: 2   
 Away team: Athletic Bilbao (215), goals: 1    
-Goal time: (49, 42)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 30.766666666666666    
-Before goal: Time in possession for away team 215: 18.933333333333334    
-After goal: Time in possession for home team 217: 24.7    
-After goal: Time in possession for away team 215: 23.0    
-Before card: Time in possession for home team 217: 55.46666666666667    
-Before card: Time in possession for away team 215: 37.483333333333334    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 215: -0.016666666666666666    
+Goal time: (49, 42), for (215, 'Athletic Bilbao')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 27.48    
+First period: Time in possession for away team 215: 17.77    
+Second period: Time in possession for home team 217: 27.98    
+Second period: Time in possession for away team 215: 19.72    
+Before goal: Time in possession for home team 217: 30.77    
+Before goal: Time in possession for away team 215: 18.93    
+After goal: Time in possession for home team 217: 24.70    
+After goal: Time in possession for away team 215: 23.00    
+Before card: Time in possession for home team 217: 55.47    
+Before card: Time in possession for away team 215: 37.48    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 215: -0.02    

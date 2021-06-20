@@ -5,13 +5,17 @@ Season: 2006/2007
 Gender: male     
 Home team: Gimnàstic Tarragona (1036), goals: 1   
 Away team: Barcelona (217), goals: 5    
-Goal time: (19, 54)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1036: 6.216666666666667    
-Before goal: Time in possession for away team 217: 12.3    
-After goal: Time in possession for home team 1036: 22.183333333333334    
-After goal: Time in possession for away team 217: 48.46666666666667    
-Before card: Time in possession for home team 1036: 28.4    
+Goal time: (19, 54), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1036: 9.72    
+First period: Time in possession for away team 217: 34.77    
+Second period: Time in possession for home team 1036: 18.68    
+Second period: Time in possession for away team 217: 27.38    
+Before goal: Time in possession for home team 1036: 6.22    
+Before goal: Time in possession for away team 217: 12.30    
+After goal: Time in possession for home team 1036: 22.18    
+After goal: Time in possession for away team 217: 48.47    
+Before card: Time in possession for home team 1036: 28.40    
 Before card: Time in possession for away team 217: 62.15    
-After card: Time in possession for home team 1036: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After card: Time in possession for home team 1036: -0.02    
+After card: Time in possession for away team 217: -0.02    

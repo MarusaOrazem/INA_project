@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: France (771), goals: 1   
 Away team: Belgium (782), goals: 0    
-Goal time: (50, 35)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 771: 22.5    
+Goal time: (50, 35), for (771, 'France')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 771: 21.78    
+First period: Time in possession for away team 782: 22.68    
+Second period: Time in possession for home team 771: 20.50    
+Second period: Time in possession for away team 782: 29.08    
+Before goal: Time in possession for home team 771: 22.50    
 Before goal: Time in possession for away team 782: 26.15    
-After goal: Time in possession for home team 771: 23.966666666666665    
-After goal: Time in possession for away team 782: 25.616666666666667    
-Before card: Time in possession for home team 771: 42.28333333333333    
-Before card: Time in possession for away team 782: 51.766666666666666    
-After card: Time in possession for home team 771: -0.016666666666666666    
-After card: Time in possession for away team 782: -0.016666666666666666    
+After goal: Time in possession for home team 771: 23.97    
+After goal: Time in possession for away team 782: 25.62    
+Before card: Time in possession for home team 771: 42.28    
+Before card: Time in possession for away team 782: 51.77    
+After card: Time in possession for home team 771: -0.02    
+After card: Time in possession for away team 782: -0.02    

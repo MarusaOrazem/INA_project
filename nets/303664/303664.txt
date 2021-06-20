@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: male     
 Home team: Real Sociedad (210), goals: 2   
 Away team: Barcelona (217), goals: 2    
-Goal time: (11, 23)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 210: 5.783333333333333    
-Before goal: Time in possession for away team 217: 3.183333333333333    
-After goal: Time in possession for home team 210: 44.733333333333334    
-After goal: Time in possession for away team 217: 37.06666666666667    
-Before card: Time in possession for home team 210: 52.93333333333333    
+Goal time: (11, 23), for (210, 'Real Sociedad')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 210: 27.25    
+First period: Time in possession for away team 217: 18.62    
+Second period: Time in possession for home team 210: 25.68    
+Second period: Time in possession for away team 217: 21.63    
+Before goal: Time in possession for home team 210: 5.78    
+Before goal: Time in possession for away team 217: 3.18    
+After goal: Time in possession for home team 210: 44.73    
+After goal: Time in possession for away team 217: 37.07    
+Before card: Time in possession for home team 210: 52.93    
 Before card: Time in possession for away team 217: 40.25    
-After card: Time in possession for home team 210: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After card: Time in possession for home team 210: -0.02    
+After card: Time in possession for away team 217: -0.02    

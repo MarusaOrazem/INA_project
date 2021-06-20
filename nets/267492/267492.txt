@@ -5,13 +5,17 @@ Season: 2016/2017
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Deportivo La Coruna (219), goals: 0    
-Goal time: (20, 19)   
-Card time: (64, 6)   
-Before goal: Time in possession for home team 217: 12.3    
-Before goal: Time in possession for away team 219: 7.1    
-After goal: Time in possession for home team 217: 53.56666666666667    
-After goal: Time in possession for away team 219: 17.133333333333333    
-Before card: Time in possession for home team 217: 44.78333333333333    
-Before card: Time in possession for away team 219: 18.9    
-After card: Time in possession for home team 217: 40.96666666666667    
-After card: Time in possession for away team 219: 5.333333333333333    
+Goal time: (20, 19), for (217, 'Barcelona')   
+Card time: (64, 6), for (219, 'Deportivo La Coruna')   
+First period: Time in possession for home team 217: 31.22    
+First period: Time in possession for away team 219: 13.50    
+Second period: Time in possession for home team 217: 35.57    
+Second period: Time in possession for away team 219: 10.73    
+Before goal: Time in possession for home team 217: 12.30    
+Before goal: Time in possession for away team 219: 7.10    
+After goal: Time in possession for home team 217: 53.57    
+After goal: Time in possession for away team 219: 17.13    
+Before card: Time in possession for home team 217: 44.78    
+Before card: Time in possession for away team 219: 18.90    
+After card: Time in possession for home team 217: 40.97    
+After card: Time in possession for away team 219: 5.33    

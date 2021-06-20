@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Manchester City WFC (746), goals: 2   
 Away team: Yeovil Town LFC (970), goals: 1    
-Goal time: (0, 18)   
-Card time: (-1, -1)   
+Goal time: (0, 18), for (970, 'Yeovil Town LFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 746: 35.05    
+First period: Time in possession for away team 970: 10.75    
+Second period: Time in possession for home team 746: 28.90    
+Second period: Time in possession for away team 970: 17.65    
 Before goal: Time in possession for home team 746: 0.05    
-Before goal: Time in possession for away team 970: 0.0    
-After goal: Time in possession for home team 746: 63.9    
+Before goal: Time in possession for away team 970: 0.00    
+After goal: Time in possession for home team 746: 63.90    
 After goal: Time in possession for away team 970: 28.15    
 Before card: Time in possession for home team 746: 63.95    
-Before card: Time in possession for away team 970: 28.4    
-After card: Time in possession for home team 746: -0.016666666666666666    
-After card: Time in possession for away team 970: -0.016666666666666666    
+Before card: Time in possession for away team 970: 28.40    
+After card: Time in possession for home team 746: -0.02    
+After card: Time in possession for away team 970: -0.02    

@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Uruguay (783), goals: 1   
 Away team: Saudi Arabia (799), goals: 0    
-Goal time: (22, 11)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 783: 9.266666666666667    
-Before goal: Time in possession for away team 799: 11.616666666666667    
-After goal: Time in possession for home team 783: 34.56666666666667    
-After goal: Time in possession for away team 799: 38.63333333333333    
-Before card: Time in possession for home team 783: 45.13333333333333    
+Goal time: (22, 11), for (783, 'Uruguay')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 783: 17.40    
+First period: Time in possession for away team 799: 29.42    
+Second period: Time in possession for home team 783: 27.73    
+Second period: Time in possession for away team 799: 20.83    
+Before goal: Time in possession for home team 783: 9.27    
+Before goal: Time in possession for away team 799: 11.62    
+After goal: Time in possession for home team 783: 34.57    
+After goal: Time in possession for away team 799: 38.63    
+Before card: Time in possession for home team 783: 45.13    
 Before card: Time in possession for away team 799: 50.25    
-After card: Time in possession for home team 783: -0.016666666666666666    
-After card: Time in possession for away team 799: -0.016666666666666666    
+After card: Time in possession for home team 783: -0.02    
+After card: Time in possession for away team 799: -0.02    

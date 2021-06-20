@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: male     
 Home team: Barcelona (217), goals: 8   
 Away team: Huesca (902), goals: 2    
-Goal time: (2, 2)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 0.4666666666666667    
+Goal time: (2, 2), for (902, 'Huesca')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 31.52    
+First period: Time in possession for away team 902: 13.65    
+Second period: Time in possession for home team 217: 36.88    
+Second period: Time in possession for away team 902: 11.05    
+Before goal: Time in possession for home team 217: 0.47    
 Before goal: Time in possession for away team 902: 0.35    
-After goal: Time in possession for home team 217: 67.93333333333334    
-After goal: Time in possession for away team 902: 23.133333333333333    
-Before card: Time in possession for home team 217: 68.4    
-Before card: Time in possession for away team 902: 24.7    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 902: -0.016666666666666666    
+After goal: Time in possession for home team 217: 67.93    
+After goal: Time in possession for away team 902: 23.13    
+Before card: Time in possession for home team 217: 68.40    
+Before card: Time in possession for away team 902: 24.70    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 902: -0.02    

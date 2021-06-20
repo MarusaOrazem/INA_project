@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Seattle Reign (760), goals: 0   
 Away team: Orlando Pride (764), goals: 0    
-Goal time: (-1, -1)   
-Card time: (-1, -1)   
+Goal time: (-1, -1), for -1   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 760: 25.65    
+First period: Time in possession for away team 764: 19.17    
+Second period: Time in possession for home team 760: 24.70    
+Second period: Time in possession for away team 764: 22.27    
 Before goal: Time in possession for home team 760: 50.35    
-Before goal: Time in possession for away team 764: 41.43333333333333    
-After goal: Time in possession for home team 760: -0.016666666666666666    
-After goal: Time in possession for away team 764: -0.016666666666666666    
+Before goal: Time in possession for away team 764: 41.43    
+After goal: Time in possession for home team 760: -0.02    
+After goal: Time in possession for away team 764: -0.02    
 Before card: Time in possession for home team 760: 50.35    
-Before card: Time in possession for away team 764: 41.43333333333333    
-After card: Time in possession for home team 760: -0.016666666666666666    
-After card: Time in possession for away team 764: -0.016666666666666666    
+Before card: Time in possession for away team 764: 41.43    
+After card: Time in possession for home team 760: -0.02    
+After card: Time in possession for away team 764: -0.02    

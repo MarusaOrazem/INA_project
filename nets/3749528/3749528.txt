@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Arsenal (1), goals: 3   
 Away team: Newcastle United (37), goals: 2    
-Goal time: (17, 33)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1: 11.366666666666667    
-Before goal: Time in possession for away team 37: 4.816666666666666    
-After goal: Time in possession for home team 1: 36.11666666666667    
-After goal: Time in possession for away team 37: 40.61666666666667    
+Goal time: (17, 33), for (1, 'Arsenal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1: 27.53    
+First period: Time in possession for away team 37: 18.28    
+Second period: Time in possession for home team 1: 21.32    
+Second period: Time in possession for away team 37: 27.15    
+Before goal: Time in possession for home team 1: 11.37    
+Before goal: Time in possession for away team 37: 4.82    
+After goal: Time in possession for home team 1: 36.12    
+After goal: Time in possession for away team 37: 40.62    
 Before card: Time in possession for home team 1: 48.85    
-Before card: Time in possession for away team 37: 45.43333333333333    
-After card: Time in possession for home team 1: -0.016666666666666666    
-After card: Time in possession for away team 37: -0.016666666666666666    
+Before card: Time in possession for away team 37: 45.43    
+After card: Time in possession for home team 1: -0.02    
+After card: Time in possession for away team 37: -0.02    

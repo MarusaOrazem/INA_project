@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: France Women's (861), goals: 2   
 Away team: Brazil Women's (1203), goals: 1    
-Goal time: (51, 30)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 861: 28.683333333333334    
-Before goal: Time in possession for away team 1203: 28.333333333333332    
+Goal time: (51, 30), for (861, "France Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 861: 25.22    
+First period: Time in possession for away team 1203: 25.78    
+Second period: Time in possession for home team 861: 28.90    
+Second period: Time in possession for away team 1203: 21.55    
+Before goal: Time in possession for home team 861: 28.68    
+Before goal: Time in possession for away team 1203: 28.33    
 After goal: Time in possession for home team 861: 31.45    
-After goal: Time in possession for away team 1203: 19.0    
-Before card: Time in possession for home team 861: 54.11666666666667    
-Before card: Time in possession for away team 1203: 47.333333333333336    
-After card: Time in possession for home team 861: -0.016666666666666666    
-After card: Time in possession for away team 1203: -0.016666666666666666    
+After goal: Time in possession for away team 1203: 19.00    
+Before card: Time in possession for home team 861: 54.12    
+Before card: Time in possession for away team 1203: 47.33    
+After card: Time in possession for home team 861: -0.02    
+After card: Time in possession for away team 1203: -0.02    

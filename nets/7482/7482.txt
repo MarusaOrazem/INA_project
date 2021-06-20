@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: North Carolina Courage (766), goals: 2   
 Away team: Washington Spirit (759), goals: 0    
-Goal time: (11, 7)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 766: 7.566666666666666    
-Before goal: Time in possession for away team 759: 3.3666666666666667    
-After goal: Time in possession for home team 766: 47.68333333333333    
-After goal: Time in possession for away team 759: 35.016666666666666    
-Before card: Time in possession for home team 766: 55.43333333333333    
-Before card: Time in possession for away team 759: 38.38333333333333    
-After card: Time in possession for home team 766: -0.016666666666666666    
-After card: Time in possession for away team 759: -0.016666666666666666    
+Goal time: (11, 7), for (766, 'North Carolina Courage')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 766: 27.77    
+First period: Time in possession for away team 759: 19.15    
+Second period: Time in possession for home team 766: 27.67    
+Second period: Time in possession for away team 759: 19.23    
+Before goal: Time in possession for home team 766: 7.57    
+Before goal: Time in possession for away team 759: 3.37    
+After goal: Time in possession for home team 766: 47.68    
+After goal: Time in possession for away team 759: 35.02    
+Before card: Time in possession for home team 766: 55.43    
+Before card: Time in possession for away team 759: 38.38    
+After card: Time in possession for home team 766: -0.02    
+After card: Time in possession for away team 759: -0.02    

@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: male     
 Home team: Barcelona (217), goals: 1   
 Away team: Granada (1049), goals: 0    
-Goal time: (75, 20)   
-Card time: (68, 41)   
-Before goal: Time in possession for home team 217: 56.916666666666664    
-Before goal: Time in possession for away team 1049: 17.683333333333334    
-After goal: Time in possession for home team 217: 42.733333333333334    
+Goal time: (75, 20), for (217, 'Barcelona')   
+Card time: (68, 41), for (1049, 'Granada')   
+First period: Time in possession for home team 217: 34.08    
+First period: Time in possession for away team 1049: 10.67    
+Second period: Time in possession for home team 217: 35.72    
+Second period: Time in possession for away team 1049: 11.07    
+Before goal: Time in possession for home team 217: 56.92    
+Before goal: Time in possession for away team 1049: 17.68    
+After goal: Time in possession for home team 217: 42.73    
 After goal: Time in possession for away team 1049: 4.05    
-Before card: Time in possession for home team 217: 50.46666666666667    
-Before card: Time in possession for away team 1049: 17.233333333333334    
-After card: Time in possession for home team 217: 42.28333333333333    
-After card: Time in possession for away team 1049: 4.5    
+Before card: Time in possession for home team 217: 50.47    
+Before card: Time in possession for away team 1049: 17.23    
+After card: Time in possession for home team 217: 42.28    
+After card: Time in possession for away team 1049: 4.50    

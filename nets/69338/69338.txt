@@ -5,13 +5,17 @@ Season: 2011/2012
 Gender: male     
 Home team: Villarreal (222), goals: 0   
 Away team: Barcelona (217), goals: 0    
-Goal time: (-1, -1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 222: 28.683333333333334    
-Before goal: Time in possession for away team 217: 63.36666666666667    
-After goal: Time in possession for home team 222: -0.016666666666666666    
-After goal: Time in possession for away team 217: -0.016666666666666666    
-Before card: Time in possession for home team 222: 28.683333333333334    
-Before card: Time in possession for away team 217: 63.36666666666667    
-After card: Time in possession for home team 222: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (-1, -1), for -1   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 222: 15.18    
+First period: Time in possession for away team 217: 28.93    
+Second period: Time in possession for home team 222: 13.50    
+Second period: Time in possession for away team 217: 34.43    
+Before goal: Time in possession for home team 222: 28.68    
+Before goal: Time in possession for away team 217: 63.37    
+After goal: Time in possession for home team 222: -0.02    
+After goal: Time in possession for away team 217: -0.02    
+Before card: Time in possession for home team 222: 28.68    
+Before card: Time in possession for away team 217: 63.37    
+After card: Time in possession for home team 222: -0.02    
+After card: Time in possession for away team 217: -0.02    

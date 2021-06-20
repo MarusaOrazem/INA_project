@@ -5,13 +5,17 @@ Season: 2017/2018
 Gender: male     
 Home team: Sevilla (213), goals: 2   
 Away team: Barcelona (217), goals: 2    
-Goal time: (35, 54)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 213: 18.183333333333334    
-Before goal: Time in possession for away team 217: 17.216666666666665    
-After goal: Time in possession for home team 213: 18.883333333333333    
-After goal: Time in possession for away team 217: 36.233333333333334    
-Before card: Time in possession for home team 213: 37.56666666666667    
+Goal time: (35, 54), for (213, 'Sevilla')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 213: 21.03    
+First period: Time in possession for away team 217: 23.85    
+Second period: Time in possession for home team 213: 16.53    
+Second period: Time in possession for away team 217: 29.60    
+Before goal: Time in possession for home team 213: 18.18    
+Before goal: Time in possession for away team 217: 17.22    
+After goal: Time in possession for home team 213: 18.88    
+After goal: Time in possession for away team 217: 36.23    
+Before card: Time in possession for home team 213: 37.57    
 Before card: Time in possession for away team 217: 53.45    
-After card: Time in possession for home team 213: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After card: Time in possession for home team 213: -0.02    
+After card: Time in possession for away team 217: -0.02    

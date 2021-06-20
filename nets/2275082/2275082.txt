@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Tottenham Hotspur Women (749), goals: 0   
 Away team: Arsenal WFC (968), goals: 2    
-Goal time: (65, 58)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 749: 22.516666666666666    
-Before goal: Time in possession for away team 968: 42.583333333333336    
-After goal: Time in possession for home team 749: 8.916666666666666    
+Goal time: (65, 58), for (968, 'Arsenal WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 749: 14.07    
+First period: Time in possession for away team 968: 30.75    
+Second period: Time in possession for home team 749: 17.37    
+Second period: Time in possession for away team 968: 28.60    
+Before goal: Time in possession for home team 749: 22.52    
+Before goal: Time in possession for away team 968: 42.58    
+After goal: Time in possession for home team 749: 8.92    
 After goal: Time in possession for away team 968: 37.05    
-Before card: Time in possession for home team 749: 31.433333333333334    
+Before card: Time in possession for home team 749: 31.43    
 Before card: Time in possession for away team 968: 59.35    
-After card: Time in possession for home team 749: -0.016666666666666666    
-After card: Time in possession for away team 968: -0.016666666666666666    
+After card: Time in possession for home team 749: -0.02    
+After card: Time in possession for away team 968: -0.02    

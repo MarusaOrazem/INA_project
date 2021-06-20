@@ -1,0 +1,21 @@
+*vertices 9
+1 "Álvaro Borja Morata Martín" 0.0 0.0 ellipse
+2 "Mario Hermoso Canseco" 0.0 0.0 ellipse
+3 "Saúl Ñíguez Esclapez" 0.0 0.0 ellipse
+4 "Jan Oblak" 0.0 0.0 ellipse
+5 "Jorge Resurrección Merodio" 0.0 0.0 ellipse
+6 "Kieran Trippier" 0.0 0.0 ellipse
+7 "Víctor Machín Pérez" 0.0 0.0 ellipse
+8 "Héctor Miguel Herrera López/Renan Augusto Lodi dos Santos" 0.0 0.0 ellipse
+9 "Thomas Teye Partey" 0.0 0.0 ellipse
+*arcs
+1 2 1
+2 3 1
+4 5 1
+4 1 1
+4 2 1
+5 8 1
+6 7 1
+7 6 1
+8 2 1
+9 8 2

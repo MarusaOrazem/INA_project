@@ -5,13 +5,17 @@ Season: 2008/2009
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Numancia (444), goals: 1    
-Goal time: (48, 51)   
-Card time: (79, 51)   
-Before goal: Time in possession for home team 217: 36.11666666666667    
+Goal time: (48, 51), for (217, 'Barcelona')   
+Card time: (79, 51), for (444, 'Numancia')   
+First period: Time in possession for home team 217: 32.97    
+First period: Time in possession for away team 444: 12.35    
+Second period: Time in possession for home team 217: 31.30    
+Second period: Time in possession for away team 444: 15.45    
+Before goal: Time in possession for home team 217: 36.12    
 Before goal: Time in possession for away team 444: 12.45    
-After goal: Time in possession for home team 217: 31.4    
+After goal: Time in possession for home team 217: 31.40    
 After goal: Time in possession for away team 444: 15.35    
 Before card: Time in possession for home team 217: 54.25    
-Before card: Time in possession for away team 444: 25.7    
+Before card: Time in possession for away team 444: 25.70    
 After card: Time in possession for home team 217: 44.65    
-After card: Time in possession for away team 444: 2.1    
+After card: Time in possession for away team 444: 2.10    

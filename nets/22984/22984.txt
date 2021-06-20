@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: South Africa Women's (1216), goals: 0   
 Away team: Germany Women's (857), goals: 4    
-Goal time: (13, 30)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1216: 4.466666666666667    
-Before goal: Time in possession for away team 857: 8.2    
-After goal: Time in possession for home team 1216: 28.116666666666667    
-After goal: Time in possession for away team 857: 51.88333333333333    
-Before card: Time in possession for home team 1216: 32.583333333333336    
-Before card: Time in possession for away team 857: 60.916666666666664    
-After card: Time in possession for home team 1216: -0.016666666666666666    
-After card: Time in possession for away team 857: -0.016666666666666666    
+Goal time: (13, 30), for (857, "Germany Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1216: 15.88    
+First period: Time in possession for away team 857: 29.23    
+Second period: Time in possession for home team 1216: 16.70    
+Second period: Time in possession for away team 857: 31.68    
+Before goal: Time in possession for home team 1216: 4.47    
+Before goal: Time in possession for away team 857: 8.20    
+After goal: Time in possession for home team 1216: 28.12    
+After goal: Time in possession for away team 857: 51.88    
+Before card: Time in possession for home team 1216: 32.58    
+Before card: Time in possession for away team 857: 60.92    
+After card: Time in possession for home team 1216: -0.02    
+After card: Time in possession for away team 857: -0.02    

@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Birmingham City WFC (969), goals: 2   
 Away team: Yeovil Town LFC (970), goals: 1    
-Goal time: (49, 51)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 969: 39.28333333333333    
-Before goal: Time in possession for away team 970: 9.683333333333334    
-After goal: Time in possession for home team 969: 32.0    
-After goal: Time in possession for away team 970: 21.033333333333335    
-Before card: Time in possession for home team 969: 67.28333333333333    
-Before card: Time in possession for away team 970: 30.716666666666665    
-After card: Time in possession for home team 969: -0.016666666666666666    
-After card: Time in possession for away team 970: -0.016666666666666666    
+Goal time: (49, 51), for (969, 'Birmingham City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 969: 36.30    
+First period: Time in possession for away team 970: 8.67    
+Second period: Time in possession for home team 969: 30.98    
+Second period: Time in possession for away team 970: 22.05    
+Before goal: Time in possession for home team 969: 39.28    
+Before goal: Time in possession for away team 970: 9.68    
+After goal: Time in possession for home team 969: 32.00    
+After goal: Time in possession for away team 970: 21.03    
+Before card: Time in possession for home team 969: 67.28    
+Before card: Time in possession for away team 970: 30.72    
+After card: Time in possession for home team 969: -0.02    
+After card: Time in possession for away team 970: -0.02    

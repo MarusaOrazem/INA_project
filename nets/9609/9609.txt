@@ -5,13 +5,17 @@ Season: 2017/2018
 Gender: male     
 Home team: Barcelona (217), goals: 6   
 Away team: Eibar (322), goals: 1    
-Goal time: (20, 1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 12.066666666666666    
-Before goal: Time in possession for away team 322: 6.583333333333333    
-After goal: Time in possession for home team 217: 42.2    
-After goal: Time in possession for away team 322: 28.233333333333334    
-Before card: Time in possession for home team 217: 55.63333333333333    
-Before card: Time in possession for away team 322: 34.81666666666667    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 322: -0.016666666666666666    
+Goal time: (20, 1), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 27.90    
+First period: Time in possession for away team 322: 15.75    
+Second period: Time in possession for home team 217: 27.73    
+Second period: Time in possession for away team 322: 19.07    
+Before goal: Time in possession for home team 217: 12.07    
+Before goal: Time in possession for away team 322: 6.58    
+After goal: Time in possession for home team 217: 42.20    
+After goal: Time in possession for away team 322: 28.23    
+Before card: Time in possession for home team 217: 55.63    
+Before card: Time in possession for away team 322: 34.82    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 322: -0.02    

@@ -5,13 +5,17 @@ Season: 2014/2015
 Gender: male     
 Home team: Espanyol (214), goals: 0   
 Away team: Barcelona (217), goals: 2    
-Goal time: (16, 32)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 214: 2.6333333333333333    
-Before goal: Time in possession for away team 217: 12.433333333333334    
-After goal: Time in possession for home team 214: 29.0    
+Goal time: (16, 32), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 214: 11.67    
+First period: Time in possession for away team 217: 32.98    
+Second period: Time in possession for home team 214: 19.97    
+Second period: Time in possession for away team 217: 27.37    
+Before goal: Time in possession for home team 214: 2.63    
+Before goal: Time in possession for away team 217: 12.43    
+After goal: Time in possession for home team 214: 29.00    
 After goal: Time in possession for away team 217: 46.45    
-Before card: Time in possession for home team 214: 31.633333333333333    
+Before card: Time in possession for home team 214: 31.63    
 Before card: Time in possession for away team 217: 60.35    
-After card: Time in possession for home team 214: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After card: Time in possession for home team 214: -0.02    
+After card: Time in possession for away team 217: -0.02    

@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Everton LFC (967), goals: 0   
 Away team: Arsenal WFC (968), goals: 4    
-Goal time: (43, 44)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 967: 9.433333333333334    
-Before goal: Time in possession for away team 968: 33.166666666666664    
-After goal: Time in possession for home team 967: 17.9    
-After goal: Time in possession for away team 968: 32.38333333333333    
-Before card: Time in possession for home team 967: 27.333333333333332    
-Before card: Time in possession for away team 968: 66.68333333333334    
-After card: Time in possession for home team 967: -0.016666666666666666    
-After card: Time in possession for away team 968: -0.016666666666666666    
+Goal time: (43, 44), for (968, 'Arsenal WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 967: 9.57    
+First period: Time in possession for away team 968: 35.27    
+Second period: Time in possession for home team 967: 17.77    
+Second period: Time in possession for away team 968: 31.42    
+Before goal: Time in possession for home team 967: 9.43    
+Before goal: Time in possession for away team 968: 33.17    
+After goal: Time in possession for home team 967: 17.90    
+After goal: Time in possession for away team 968: 32.38    
+Before card: Time in possession for home team 967: 27.33    
+Before card: Time in possession for away team 968: 66.68    
+After card: Time in possession for home team 967: -0.02    
+After card: Time in possession for away team 968: -0.02    

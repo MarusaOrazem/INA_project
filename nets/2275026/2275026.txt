@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Bristol City WFC (973), goals: 0   
 Away team: Manchester City WFC (746), goals: 5    
-Goal time: (20, 15)   
-Card time: (-1, -1)   
+Goal time: (20, 15), for (746, 'Manchester City WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 973: 15.10    
+First period: Time in possession for away team 746: 30.30    
+Second period: Time in possession for home team 973: 14.77    
+Second period: Time in possession for away team 746: 32.93    
 Before goal: Time in possession for home team 973: 5.65    
-Before goal: Time in possession for away team 746: 14.183333333333334    
-After goal: Time in possession for home team 973: 24.216666666666665    
-After goal: Time in possession for away team 746: 48.63333333333333    
-Before card: Time in possession for home team 973: 29.866666666666667    
-Before card: Time in possession for away team 746: 63.233333333333334    
-After card: Time in possession for home team 973: -0.016666666666666666    
-After card: Time in possession for away team 746: -0.016666666666666666    
+Before goal: Time in possession for away team 746: 14.18    
+After goal: Time in possession for home team 973: 24.22    
+After goal: Time in possession for away team 746: 48.63    
+Before card: Time in possession for home team 973: 29.87    
+Before card: Time in possession for away team 746: 63.23    
+After card: Time in possession for home team 973: -0.02    
+After card: Time in possession for away team 746: -0.02    

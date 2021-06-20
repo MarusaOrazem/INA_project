@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Croatia (785), goals: 2   
 Away team: England (768), goals: 1    
-Goal time: (4, 46)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 785: 2.0166666666666666    
+Goal time: (4, 46), for (768, 'England')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 785: 20.85    
+First period: Time in possession for away team 768: 24.15    
+Second period: Time in possession for home team 785: 29.15    
+Second period: Time in possession for away team 768: 18.23    
+Before goal: Time in possession for home team 785: 2.02    
 Before goal: Time in possession for away team 768: 1.15    
-After goal: Time in possession for home team 785: 47.983333333333334    
-After goal: Time in possession for away team 768: 39.63333333333333    
-Before card: Time in possession for home team 785: 50.0    
-Before card: Time in possession for away team 768: 42.38333333333333    
-After card: Time in possession for home team 785: -0.016666666666666666    
-After card: Time in possession for away team 768: -0.016666666666666666    
+After goal: Time in possession for home team 785: 47.98    
+After goal: Time in possession for away team 768: 39.63    
+Before card: Time in possession for home team 785: 50.00    
+Before card: Time in possession for away team 768: 42.38    
+After card: Time in possession for home team 785: -0.02    
+After card: Time in possession for away team 768: -0.02    

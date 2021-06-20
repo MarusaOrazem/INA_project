@@ -1,9 +1,0 @@
-*vertices 4
-1 "Milan Baroš" 0.0 0.0 ellipse
-2 "Harry Kewell" 0.0 0.0 ellipse
-3 "Steven Gerrard" 0.0 0.0 ellipse
-4 "Djimi Traoré" 0.0 0.0 ellipse
-*arcs
-1 2 1
-2 3 1
-3 4 1

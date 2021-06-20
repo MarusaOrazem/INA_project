@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Everton LFC (967), goals: 2   
 Away team: Manchester United (1475), goals: 3    
-Goal time: (20, 48)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 967: 11.2    
-Before goal: Time in possession for away team 1475: 9.483333333333333    
-After goal: Time in possession for home team 967: 40.833333333333336    
-After goal: Time in possession for away team 1475: 35.96666666666667    
-Before card: Time in possession for home team 967: 52.03333333333333    
-Before card: Time in possession for away team 1475: 45.56666666666667    
-After card: Time in possession for home team 967: -0.016666666666666666    
-After card: Time in possession for away team 1475: -0.016666666666666666    
+Goal time: (20, 48), for (1475, 'Manchester United')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 967: 23.52    
+First period: Time in possession for away team 1475: 23.25    
+Second period: Time in possession for home team 967: 28.52    
+Second period: Time in possession for away team 1475: 22.32    
+Before goal: Time in possession for home team 967: 11.20    
+Before goal: Time in possession for away team 1475: 9.48    
+After goal: Time in possession for home team 967: 40.83    
+After goal: Time in possession for away team 1475: 35.97    
+Before card: Time in possession for home team 967: 52.03    
+Before card: Time in possession for away team 1475: 45.57    
+After card: Time in possession for home team 967: -0.02    
+After card: Time in possession for away team 1475: -0.02    

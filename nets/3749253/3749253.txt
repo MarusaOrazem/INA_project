@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Liverpool (24), goals: 1   
 Away team: Arsenal (1), goals: 2    
-Goal time: (13, 33)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 24: 6.666666666666667    
-Before goal: Time in possession for away team 1: 5.783333333333333    
-After goal: Time in possession for home team 24: 43.4    
-After goal: Time in possession for away team 1: 37.38333333333333    
-Before card: Time in possession for home team 24: 51.166666666666664    
-Before card: Time in possession for away team 1: 43.166666666666664    
-After card: Time in possession for home team 24: -0.016666666666666666    
-After card: Time in possession for away team 1: -0.016666666666666666    
+Goal time: (13, 33), for (24, 'Liverpool')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 24: 26.25    
+First period: Time in possession for away team 1: 20.32    
+Second period: Time in possession for home team 24: 24.92    
+Second period: Time in possession for away team 1: 22.85    
+Before goal: Time in possession for home team 24: 6.67    
+Before goal: Time in possession for away team 1: 5.78    
+After goal: Time in possession for home team 24: 43.40    
+After goal: Time in possession for away team 1: 37.38    
+Before card: Time in possession for home team 24: 51.17    
+Before card: Time in possession for away team 1: 43.17    
+After card: Time in possession for home team 24: -0.02    
+After card: Time in possession for away team 1: -0.02    

@@ -5,13 +5,17 @@ Season: 2003/2004
 Gender: male     
 Home team: Arsenal (1), goals: 1   
 Away team: Portsmouth (105), goals: 1    
-Goal time: (25, 40)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1: 11.783333333333333    
-Before goal: Time in possession for away team 105: 13.7    
+Goal time: (25, 40), for (105, 'Portsmouth')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1: 26.20    
+First period: Time in possession for away team 105: 20.32    
+Second period: Time in possession for home team 1: 28.23    
+Second period: Time in possession for away team 105: 19.08    
+Before goal: Time in possession for home team 1: 11.78    
+Before goal: Time in possession for away team 105: 13.70    
 After goal: Time in possession for home team 1: 42.65    
-After goal: Time in possession for away team 105: 25.516666666666666    
-Before card: Time in possession for home team 1: 54.43333333333333    
-Before card: Time in possession for away team 105: 39.4    
-After card: Time in possession for home team 1: -0.016666666666666666    
-After card: Time in possession for away team 105: -0.016666666666666666    
+After goal: Time in possession for away team 105: 25.52    
+Before card: Time in possession for home team 1: 54.43    
+Before card: Time in possession for away team 105: 39.40    
+After card: Time in possession for home team 1: -0.02    
+After card: Time in possession for away team 105: -0.02    

@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Mallorca (1043), goals: 2    
-Goal time: (6, 23)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 3.033333333333333    
-Before goal: Time in possession for away team 1043: 3.216666666666667    
+Goal time: (6, 23), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 30.97    
+First period: Time in possession for away team 1043: 14.85    
+Second period: Time in possession for home team 217: 25.75    
+Second period: Time in possession for away team 1043: 21.90    
+Before goal: Time in possession for home team 217: 3.03    
+Before goal: Time in possession for away team 1043: 3.22    
 After goal: Time in possession for home team 217: 53.55    
-After goal: Time in possession for away team 1043: 33.53333333333333    
-Before card: Time in possession for home team 217: 56.71666666666667    
+After goal: Time in possession for away team 1043: 33.53    
+Before card: Time in possession for home team 217: 56.72    
 Before card: Time in possession for away team 1043: 36.75    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 1043: -0.016666666666666666    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 1043: -0.02    

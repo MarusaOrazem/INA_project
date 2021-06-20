@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Yeovil Town LFC (970), goals: 0   
 Away team: Reading WFC (974), goals: 5    
-Goal time: (32, 7)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 970: 9.0    
-Before goal: Time in possession for away team 974: 22.516666666666666    
-After goal: Time in possession for home team 970: 20.516666666666666    
-After goal: Time in possession for away team 974: 44.71666666666667    
-Before card: Time in possession for home team 970: 29.516666666666666    
-Before card: Time in possession for away team 974: 67.83333333333333    
-After card: Time in possession for home team 970: -0.016666666666666666    
-After card: Time in possession for away team 974: -0.016666666666666666    
+Goal time: (32, 7), for (974, 'Reading WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 970: 11.92    
+First period: Time in possession for away team 974: 36.25    
+Second period: Time in possession for home team 970: 17.60    
+Second period: Time in possession for away team 974: 31.58    
+Before goal: Time in possession for home team 970: 9.00    
+Before goal: Time in possession for away team 974: 22.52    
+After goal: Time in possession for home team 970: 20.52    
+After goal: Time in possession for away team 974: 44.72    
+Before card: Time in possession for home team 970: 29.52    
+Before card: Time in possession for away team 974: 67.83    
+After card: Time in possession for home team 970: -0.02    
+After card: Time in possession for away team 974: -0.02    

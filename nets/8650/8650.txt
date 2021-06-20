@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Brazil (781), goals: 1   
 Away team: Belgium (782), goals: 2    
-Goal time: (30, 48)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 781: 17.216666666666665    
-Before goal: Time in possession for away team 782: 13.383333333333333    
-After goal: Time in possession for home team 781: 37.416666666666664    
+Goal time: (30, 48), for (782, 'Belgium')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 781: 23.47    
+First period: Time in possession for away team 782: 21.85    
+Second period: Time in possession for home team 781: 31.17    
+Second period: Time in possession for away team 782: 18.68    
+Before goal: Time in possession for home team 781: 17.22    
+Before goal: Time in possession for away team 782: 13.38    
+After goal: Time in possession for home team 781: 37.42    
 After goal: Time in possession for away team 782: 26.95    
-Before card: Time in possession for home team 781: 54.63333333333333    
-Before card: Time in possession for away team 782: 40.53333333333333    
-After card: Time in possession for home team 781: -0.016666666666666666    
-After card: Time in possession for away team 782: -0.016666666666666666    
+Before card: Time in possession for home team 781: 54.63    
+Before card: Time in possession for away team 782: 40.53    
+After card: Time in possession for home team 781: -0.02    
+After card: Time in possession for away team 782: -0.02    

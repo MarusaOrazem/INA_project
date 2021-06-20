@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Manchester City WFC (746), goals: 3   
 Away team: Everton LFC (967), goals: 1    
-Goal time: (11, 17)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 746: 4.4    
-Before goal: Time in possession for away team 967: 6.7    
-After goal: Time in possession for home team 746: 57.93333333333333    
-After goal: Time in possession for away team 967: 24.033333333333335    
-Before card: Time in possession for home team 746: 62.516666666666666    
-Before card: Time in possession for away team 967: 30.733333333333334    
-After card: Time in possession for home team 746: -0.016666666666666666    
-After card: Time in possession for away team 967: -0.016666666666666666    
+Goal time: (11, 17), for (967, 'Everton LFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 746: 28.43    
+First period: Time in possession for away team 967: 17.37    
+Second period: Time in possession for home team 746: 34.08    
+Second period: Time in possession for away team 967: 13.37    
+Before goal: Time in possession for home team 746: 4.40    
+Before goal: Time in possession for away team 967: 6.70    
+After goal: Time in possession for home team 746: 57.93    
+After goal: Time in possession for away team 967: 24.03    
+Before card: Time in possession for home team 746: 62.52    
+Before card: Time in possession for away team 967: 30.73    
+After card: Time in possession for home team 746: -0.02    
+After card: Time in possession for away team 967: -0.02    

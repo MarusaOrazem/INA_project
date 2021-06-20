@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Reading WFC (974), goals: 1   
 Away team: Birmingham City WFC (969), goals: 0    
-Goal time: (38, 30)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 974: 22.283333333333335    
-Before goal: Time in possession for away team 969: 16.133333333333333    
+Goal time: (38, 30), for (974, 'Reading WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 974: 26.97    
+First period: Time in possession for away team 969: 20.25    
+Second period: Time in possession for home team 974: 26.65    
+Second period: Time in possession for away team 969: 22.00    
+Before goal: Time in possession for home team 974: 22.28    
+Before goal: Time in possession for away team 969: 16.13    
 After goal: Time in possession for home team 974: 31.25    
-After goal: Time in possession for away team 969: 26.116666666666667    
-Before card: Time in possession for home team 974: 53.61666666666667    
+After goal: Time in possession for away team 969: 26.12    
+Before card: Time in possession for home team 974: 53.62    
 Before card: Time in possession for away team 969: 42.25    
-After card: Time in possession for home team 974: -0.016666666666666666    
-After card: Time in possession for away team 969: -0.016666666666666666    
+After card: Time in possession for home team 974: -0.02    
+After card: Time in possession for away team 969: -0.02    

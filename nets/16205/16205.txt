@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Rayo Vallecano (360), goals: 1    
-Goal time: (23, 59)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 17.066666666666666    
-Before goal: Time in possession for away team 360: 6.766666666666667    
-After goal: Time in possession for home team 217: 45.766666666666666    
-After goal: Time in possession for away team 360: 22.183333333333334    
-Before card: Time in possession for home team 217: 62.833333333333336    
-Before card: Time in possession for away team 360: 29.1    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 360: -0.016666666666666666    
+Goal time: (23, 59), for (360, 'Rayo Vallecano')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 34.12    
+First period: Time in possession for away team 360: 11.80    
+Second period: Time in possession for home team 217: 28.72    
+Second period: Time in possession for away team 360: 17.30    
+Before goal: Time in possession for home team 217: 17.07    
+Before goal: Time in possession for away team 360: 6.77    
+After goal: Time in possession for home team 217: 45.77    
+After goal: Time in possession for away team 360: 22.18    
+Before card: Time in possession for home team 217: 62.83    
+Before card: Time in possession for away team 360: 29.10    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 360: -0.02    

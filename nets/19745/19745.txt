@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Brighton & Hove Albion WFC (965), goals: 2   
 Away team: Yeovil Town LFC (970), goals: 1    
-Goal time: (12, 36)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 965: 7.716666666666667    
-Before goal: Time in possession for away team 970: 4.683333333333334    
-After goal: Time in possession for home team 965: 49.0    
-After goal: Time in possession for away team 970: 34.166666666666664    
-Before card: Time in possession for home team 965: 56.916666666666664    
+Goal time: (12, 36), for (965, 'Brighton & Hove Albion WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 965: 26.47    
+First period: Time in possession for away team 970: 19.30    
+Second period: Time in possession for home team 965: 30.45    
+Second period: Time in possession for away team 970: 19.55    
+Before goal: Time in possession for home team 965: 7.72    
+Before goal: Time in possession for away team 970: 4.68    
+After goal: Time in possession for home team 965: 49.00    
+After goal: Time in possession for away team 970: 34.17    
+Before card: Time in possession for home team 965: 56.92    
 Before card: Time in possession for away team 970: 38.85    
-After card: Time in possession for home team 965: -0.016666666666666666    
-After card: Time in possession for away team 970: -0.016666666666666666    
+After card: Time in possession for home team 965: -0.02    
+After card: Time in possession for away team 970: -0.02    

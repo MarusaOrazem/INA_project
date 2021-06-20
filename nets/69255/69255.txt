@@ -5,13 +5,17 @@ Season: 2009/2010
 Gender: male     
 Home team: Málaga (223), goals: 0   
 Away team: Barcelona (217), goals: 2    
-Goal time: (38, 13)   
-Card time: (84, 50)   
-Before goal: Time in possession for home team 223: 13.683333333333334    
-Before goal: Time in possession for away team 217: 24.333333333333332    
-After goal: Time in possession for home team 223: 18.883333333333333    
-After goal: Time in possession for away team 217: 36.38333333333333    
-Before card: Time in possession for home team 223: 31.366666666666667    
-Before card: Time in possession for away team 217: 55.13333333333333    
-After card: Time in possession for home team 223: 1.2    
-After card: Time in possession for away team 217: 45.5    
+Goal time: (38, 13), for (217, 'Barcelona')   
+Card time: (84, 50), for (223, 'Málaga')   
+First period: Time in possession for home team 223: 16.10    
+First period: Time in possession for away team 217: 30.68    
+Second period: Time in possession for home team 223: 16.47    
+Second period: Time in possession for away team 217: 30.23    
+Before goal: Time in possession for home team 223: 13.68    
+Before goal: Time in possession for away team 217: 24.33    
+After goal: Time in possession for home team 223: 18.88    
+After goal: Time in possession for away team 217: 36.38    
+Before card: Time in possession for home team 223: 31.37    
+Before card: Time in possession for away team 217: 55.13    
+After card: Time in possession for home team 223: 1.20    
+After card: Time in possession for away team 217: 45.50    

@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Liverpool WFC (966), goals: 0   
 Away team: Reading WFC (974), goals: 1    
-Goal time: (35, 4)   
-Card time: (55, 48)   
-Before goal: Time in possession for home team 966: 14.466666666666667    
-Before goal: Time in possession for away team 974: 20.416666666666668    
-After goal: Time in possession for home team 966: 12.7    
-After goal: Time in possession for away team 974: 48.0    
-Before card: Time in possession for home team 966: 18.233333333333334    
-Before card: Time in possession for away team 974: 38.416666666666664    
-After card: Time in possession for home team 966: 8.933333333333334    
-After card: Time in possession for away team 974: 39.63333333333333    
+Goal time: (35, 4), for (974, 'Reading WFC')   
+Card time: (55, 48), for (966, 'Liverpool WFC')   
+First period: Time in possession for home team 966: 17.20    
+First period: Time in possession for away team 974: 30.00    
+Second period: Time in possession for home team 966: 9.97    
+Second period: Time in possession for away team 974: 38.60    
+Before goal: Time in possession for home team 966: 14.47    
+Before goal: Time in possession for away team 974: 20.42    
+After goal: Time in possession for home team 966: 12.70    
+After goal: Time in possession for away team 974: 48.00    
+Before card: Time in possession for home team 966: 18.23    
+Before card: Time in possession for away team 974: 38.42    
+After card: Time in possession for home team 966: 8.93    
+After card: Time in possession for away team 974: 39.63    

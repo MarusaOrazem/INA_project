@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: West Ham United LFC (972), goals: 1   
 Away team: Chelsea FCW (971), goals: 3    
-Goal time: (57, 36)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 972: 22.733333333333334    
-Before goal: Time in possession for away team 971: 34.81666666666667    
-After goal: Time in possession for home team 972: 32.2    
-After goal: Time in possession for away team 971: 18.383333333333333    
-Before card: Time in possession for home team 972: 42.43333333333333    
-Before card: Time in possession for away team 971: 53.2    
-After card: Time in possession for home team 972: -0.016666666666666666    
-After card: Time in possession for away team 971: -0.016666666666666666    
+Goal time: (57, 36), for (972, 'West Ham United LFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 972: 17.57    
+First period: Time in possession for away team 971: 27.48    
+Second period: Time in possession for home team 972: 24.87    
+Second period: Time in possession for away team 971: 25.72    
+Before goal: Time in possession for home team 972: 22.73    
+Before goal: Time in possession for away team 971: 34.82    
+After goal: Time in possession for home team 972: 32.20    
+After goal: Time in possession for away team 971: 18.38    
+Before card: Time in possession for home team 972: 42.43    
+Before card: Time in possession for away team 971: 53.20    
+After card: Time in possession for home team 972: -0.02    
+After card: Time in possession for away team 971: -0.02    

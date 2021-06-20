@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Sky Blue FC (763), goals: 1   
 Away team: Utah Royals (767), goals: 2    
-Goal time: (2, 11)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 763: 1.3166666666666667    
-Before goal: Time in possession for away team 767: 0.7    
-After goal: Time in possession for home team 763: 40.6    
-After goal: Time in possession for away team 767: 54.266666666666666    
-Before card: Time in possession for home team 763: 41.916666666666664    
-Before card: Time in possession for away team 767: 55.13333333333333    
-After card: Time in possession for home team 763: -0.016666666666666666    
-After card: Time in possession for away team 767: -0.016666666666666666    
+Goal time: (2, 11), for (767, 'Utah Royals')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 763: 22.45    
+First period: Time in possession for away team 767: 25.15    
+Second period: Time in possession for home team 763: 19.47    
+Second period: Time in possession for away team 767: 29.98    
+Before goal: Time in possession for home team 763: 1.32    
+Before goal: Time in possession for away team 767: 0.70    
+After goal: Time in possession for home team 763: 40.60    
+After goal: Time in possession for away team 767: 54.27    
+Before card: Time in possession for home team 763: 41.92    
+Before card: Time in possession for away team 767: 55.13    
+After card: Time in possession for home team 763: -0.02    
+After card: Time in possession for away team 767: -0.02    

@@ -5,13 +5,17 @@ Season: 2011/2012
 Gender: male     
 Home team: Real Madrid (220), goals: 1   
 Away team: Barcelona (217), goals: 3    
-Goal time: (0, 22)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 220: 0.0    
-Before goal: Time in possession for away team 217: 0.2833333333333333    
-After goal: Time in possession for home team 220: 36.18333333333333    
-After goal: Time in possession for away team 217: 56.93333333333333    
-Before card: Time in possession for home team 220: 36.266666666666666    
-Before card: Time in possession for away team 217: 57.21666666666667    
-After card: Time in possession for home team 220: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (0, 22), for (220, 'Real Madrid')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 220: 19.37    
+First period: Time in possession for away team 217: 26.28    
+Second period: Time in possession for home team 220: 16.90    
+Second period: Time in possession for away team 217: 30.93    
+Before goal: Time in possession for home team 220: 0.00    
+Before goal: Time in possession for away team 217: 0.28    
+After goal: Time in possession for home team 220: 36.18    
+After goal: Time in possession for away team 217: 56.93    
+Before card: Time in possession for home team 220: 36.27    
+Before card: Time in possession for away team 217: 57.22    
+After card: Time in possession for home team 220: -0.02    
+After card: Time in possession for away team 217: -0.02    

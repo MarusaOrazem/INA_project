@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Arsenal WFC (968), goals: 1   
 Away team: Manchester City WFC (746), goals: 0    
-Goal time: (87, 52)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 968: 40.916666666666664    
+Goal time: (87, 52), for (968, 'Arsenal WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 968: 19.78    
+First period: Time in possession for away team 746: 25.88    
+Second period: Time in possession for home team 968: 25.92    
+Second period: Time in possession for away team 746: 22.60    
+Before goal: Time in possession for home team 968: 40.92    
 Before goal: Time in possession for away team 746: 46.05    
-After goal: Time in possession for home team 968: 46.083333333333336    
-After goal: Time in possession for away team 746: 2.433333333333333    
-Before card: Time in possession for home team 968: 45.7    
-Before card: Time in possession for away team 746: 48.483333333333334    
-After card: Time in possession for home team 968: -0.016666666666666666    
-After card: Time in possession for away team 746: -0.016666666666666666    
+After goal: Time in possession for home team 968: 46.08    
+After goal: Time in possession for away team 746: 2.43    
+Before card: Time in possession for home team 968: 45.70    
+Before card: Time in possession for away team 746: 48.48    
+After card: Time in possession for home team 968: -0.02    
+After card: Time in possession for away team 746: -0.02    

@@ -5,13 +5,17 @@ Season: 2010/2011
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Almería (403), goals: 1    
-Goal time: (49, 28)   
-Card time: (-1, -1)   
+Goal time: (49, 28), for (403, 'Almería')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 30.03    
+First period: Time in possession for away team 403: 14.47    
+Second period: Time in possession for home team 217: 29.90    
+Second period: Time in possession for away team 403: 15.37    
 Before goal: Time in possession for home team 217: 32.85    
-Before goal: Time in possession for away team 403: 15.916666666666666    
-After goal: Time in possession for home team 217: 27.083333333333332    
-After goal: Time in possession for away team 403: 18.183333333333334    
-Before card: Time in possession for home team 217: 59.93333333333333    
-Before card: Time in possession for away team 403: 29.833333333333332    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 403: -0.016666666666666666    
+Before goal: Time in possession for away team 403: 15.92    
+After goal: Time in possession for home team 217: 27.08    
+After goal: Time in possession for away team 403: 18.18    
+Before card: Time in possession for home team 217: 59.93    
+Before card: Time in possession for away team 403: 29.83    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 403: -0.02    

@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Arsenal WFC (968), goals: 4   
 Away team: Brighton & Hove Albion WFC (965), goals: 1    
-Goal time: (8, 38)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 968: 7.133333333333334    
+Goal time: (8, 38), for (965, 'Brighton & Hove Albion WFC')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 968: 33.30    
+First period: Time in possession for away team 965: 13.45    
+Second period: Time in possession for home team 968: 30.77    
+Second period: Time in possession for away team 965: 15.40    
+Before goal: Time in possession for home team 968: 7.13    
 Before goal: Time in possession for away team 965: 1.25    
-After goal: Time in possession for home team 968: 56.93333333333333    
+After goal: Time in possession for home team 968: 56.93    
 After goal: Time in possession for away team 965: 27.35    
-Before card: Time in possession for home team 968: 64.06666666666666    
+Before card: Time in possession for home team 968: 64.07    
 Before card: Time in possession for away team 965: 28.85    
-After card: Time in possession for home team 968: -0.016666666666666666    
-After card: Time in possession for away team 965: -0.016666666666666666    
+After card: Time in possession for home team 968: -0.02    
+After card: Time in possession for away team 965: -0.02    

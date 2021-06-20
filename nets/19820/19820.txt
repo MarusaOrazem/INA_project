@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: Reading WFC (974), goals: 2   
 Away team: Chelsea FCW (971), goals: 3    
-Goal time: (7, 11)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 974: 2.466666666666667    
-Before goal: Time in possession for away team 971: 4.333333333333333    
-After goal: Time in possession for home team 974: 36.03333333333333    
-After goal: Time in possession for away team 971: 52.083333333333336    
-Before card: Time in possession for home team 974: 38.5    
-Before card: Time in possession for away team 971: 56.8    
-After card: Time in possession for home team 974: -0.016666666666666666    
-After card: Time in possession for away team 971: -0.016666666666666666    
+Goal time: (7, 11), for (971, 'Chelsea FCW')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 974: 17.45    
+First period: Time in possession for away team 971: 29.00    
+Second period: Time in possession for home team 974: 21.05    
+Second period: Time in possession for away team 971: 27.80    
+Before goal: Time in possession for home team 974: 2.47    
+Before goal: Time in possession for away team 971: 4.33    
+After goal: Time in possession for home team 974: 36.03    
+After goal: Time in possession for away team 971: 52.08    
+Before card: Time in possession for home team 974: 38.50    
+Before card: Time in possession for away team 971: 56.80    
+After card: Time in possession for home team 974: -0.02    
+After card: Time in possession for away team 971: -0.02    

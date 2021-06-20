@@ -5,13 +5,17 @@ Season: 2017/2018
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Espanyol (214), goals: 0    
-Goal time: (25, 9)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 17.283333333333335    
-Before goal: Time in possession for away team 214: 5.916666666666667    
-After goal: Time in possession for home team 217: 45.71666666666667    
+Goal time: (25, 9), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 32.07    
+First period: Time in possession for away team 214: 12.55    
+Second period: Time in possession for home team 217: 32.88    
+Second period: Time in possession for away team 214: 14.72    
+Before goal: Time in possession for home team 217: 17.28    
+Before goal: Time in possession for away team 214: 5.92    
+After goal: Time in possession for home team 217: 45.72    
 After goal: Time in possession for away team 214: 21.35    
 Before card: Time in possession for home team 217: 64.95    
-Before card: Time in possession for away team 214: 27.266666666666666    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 214: -0.016666666666666666    
+Before card: Time in possession for away team 214: 27.27    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 214: -0.02    

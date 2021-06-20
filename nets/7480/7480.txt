@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Seattle Reign (760), goals: 1   
 Away team: Utah Royals (767), goals: 0    
-Goal time: (53, 15)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 760: 29.766666666666666    
-Before goal: Time in possession for away team 767: 24.866666666666667    
-After goal: Time in possession for home team 760: 28.433333333333334    
-After goal: Time in possession for away team 767: 21.183333333333334    
-Before card: Time in possession for home team 760: 51.28333333333333    
+Goal time: (53, 15), for (760, 'Seattle Reign')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 760: 26.33    
+First period: Time in possession for away team 767: 21.38    
+Second period: Time in possession for home team 760: 24.95    
+Second period: Time in possession for away team 767: 24.67    
+Before goal: Time in possession for home team 760: 29.77    
+Before goal: Time in possession for away team 767: 24.87    
+After goal: Time in possession for home team 760: 28.43    
+After goal: Time in possession for away team 767: 21.18    
+Before card: Time in possession for home team 760: 51.28    
 Before card: Time in possession for away team 767: 46.05    
-After card: Time in possession for home team 760: -0.016666666666666666    
-After card: Time in possession for away team 767: -0.016666666666666666    
+After card: Time in possession for home team 760: -0.02    
+After card: Time in possession for away team 767: -0.02    

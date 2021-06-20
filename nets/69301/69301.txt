@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: England Women's (865), goals: 1   
 Away team: Sweden Women's (858), goals: 2    
-Goal time: (10, 24)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 865: 3.8    
-Before goal: Time in possession for away team 858: 3.4833333333333334    
-After goal: Time in possession for home team 865: 55.766666666666666    
-After goal: Time in possession for away team 858: 33.13333333333333    
-Before card: Time in possession for home team 865: 59.56666666666667    
-Before card: Time in possession for away team 858: 39.733333333333334    
-After card: Time in possession for home team 865: -0.016666666666666666    
-After card: Time in possession for away team 858: -0.016666666666666666    
+Goal time: (10, 24), for (858, "Sweden Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 865: 26.42    
+First period: Time in possession for away team 858: 24.52    
+Second period: Time in possession for home team 865: 33.15    
+Second period: Time in possession for away team 858: 15.22    
+Before goal: Time in possession for home team 865: 3.80    
+Before goal: Time in possession for away team 858: 3.48    
+After goal: Time in possession for home team 865: 55.77    
+After goal: Time in possession for away team 858: 33.13    
+Before card: Time in possession for home team 865: 59.57    
+Before card: Time in possession for away team 858: 39.73    
+After card: Time in possession for home team 865: -0.02    
+After card: Time in possession for away team 858: -0.02    

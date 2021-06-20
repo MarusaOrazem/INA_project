@@ -5,13 +5,17 @@ Season: 2014/2015
 Gender: male     
 Home team: Málaga (223), goals: 0   
 Away team: Barcelona (217), goals: 0    
-Goal time: (-1, -1)   
-Card time: (-1, -1)   
+Goal time: (-1, -1), for -1   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 223: 12.95    
+First period: Time in possession for away team 217: 31.92    
+Second period: Time in possession for home team 223: 19.80    
+Second period: Time in possession for away team 217: 27.48    
 Before goal: Time in possession for home team 223: 32.75    
-Before goal: Time in possession for away team 217: 59.4    
-After goal: Time in possession for home team 223: -0.016666666666666666    
-After goal: Time in possession for away team 217: -0.016666666666666666    
+Before goal: Time in possession for away team 217: 59.40    
+After goal: Time in possession for home team 223: -0.02    
+After goal: Time in possession for away team 217: -0.02    
 Before card: Time in possession for home team 223: 32.75    
-Before card: Time in possession for away team 217: 59.4    
-After card: Time in possession for home team 223: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Before card: Time in possession for away team 217: 59.40    
+After card: Time in possession for home team 223: -0.02    
+After card: Time in possession for away team 217: -0.02    

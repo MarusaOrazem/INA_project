@@ -5,13 +5,17 @@ Season: 2007/2008
 Gender: male     
 Home team: Real Murcia (1230), goals: 3   
 Away team: Barcelona (217), goals: 5    
-Goal time: (15, 38)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1230: 4.833333333333333    
-Before goal: Time in possession for away team 217: 9.616666666666667    
-After goal: Time in possession for home team 1230: 32.0    
-After goal: Time in possession for away team 217: 44.13333333333333    
-Before card: Time in possession for home team 1230: 38.016666666666666    
+Goal time: (15, 38), for (1230, 'Real Murcia')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1230: 16.50    
+First period: Time in possession for away team 217: 27.78    
+Second period: Time in possession for home team 1230: 21.52    
+Second period: Time in possession for away team 217: 25.97    
+Before goal: Time in possession for home team 1230: 4.83    
+Before goal: Time in possession for away team 217: 9.62    
+After goal: Time in possession for home team 1230: 32.00    
+After goal: Time in possession for away team 217: 44.13    
+Before card: Time in possession for home team 1230: 38.02    
 Before card: Time in possession for away team 217: 53.75    
-After card: Time in possession for home team 1230: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After card: Time in possession for home team 1230: -0.02    
+After card: Time in possession for away team 217: -0.02    

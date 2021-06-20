@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Canada Women's (1206), goals: 2   
 Away team: New Zealand Women's (1215), goals: 0    
-Goal time: (47, 41)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1206: 37.1    
-Before goal: Time in possession for away team 1215: 14.183333333333334    
-After goal: Time in possession for home team 1206: 31.133333333333333    
-After goal: Time in possession for away team 1215: 16.466666666666665    
-Before card: Time in possession for home team 1206: 65.8    
+Goal time: (47, 41), for (1206, "Canada Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1206: 35.60    
+First period: Time in possession for away team 1215: 13.25    
+Second period: Time in possession for home team 1206: 30.20    
+Second period: Time in possession for away team 1215: 17.40    
+Before goal: Time in possession for home team 1206: 37.10    
+Before goal: Time in possession for away team 1215: 14.18    
+After goal: Time in possession for home team 1206: 31.13    
+After goal: Time in possession for away team 1215: 16.47    
+Before card: Time in possession for home team 1206: 65.80    
 Before card: Time in possession for away team 1215: 30.65    
-After card: Time in possession for home team 1206: -0.016666666666666666    
-After card: Time in possession for away team 1215: -0.016666666666666666    
+After card: Time in possession for home team 1206: -0.02    
+After card: Time in possession for away team 1215: -0.02    

@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Chile Women's (1209), goals: 0   
 Away team: Sweden Women's (858), goals: 2    
-Goal time: (84, 8)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1209: 26.0    
-Before goal: Time in possession for away team 858: 59.31666666666667    
-After goal: Time in possession for home team 1209: 3.8333333333333335    
-After goal: Time in possession for away team 858: 46.766666666666666    
-Before card: Time in possession for home team 1209: 29.833333333333332    
-Before card: Time in possession for away team 858: 67.8    
-After card: Time in possession for home team 1209: -0.016666666666666666    
-After card: Time in possession for away team 858: -0.016666666666666666    
+Goal time: (84, 8), for (858, "Sweden Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1209: 15.78    
+First period: Time in possession for away team 858: 31.25    
+Second period: Time in possession for home team 1209: 14.05    
+Second period: Time in possession for away team 858: 36.55    
+Before goal: Time in possession for home team 1209: 26.00    
+Before goal: Time in possession for away team 858: 59.32    
+After goal: Time in possession for home team 1209: 3.83    
+After goal: Time in possession for away team 858: 46.77    
+Before card: Time in possession for home team 1209: 29.83    
+Before card: Time in possession for away team 858: 67.80    
+After card: Time in possession for home team 1209: -0.02    
+After card: Time in possession for away team 858: -0.02    

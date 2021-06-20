@@ -5,13 +5,17 @@ Season: 2009/2010
 Gender: male     
 Home team: Barcelona (217), goals: 3   
 Away team: Valencia (207), goals: 0    
-Goal time: (55, 27)   
-Card time: (68, 43)   
-Before goal: Time in possession for home team 217: 31.933333333333334    
-Before goal: Time in possession for away team 207: 23.483333333333334    
-After goal: Time in possession for home team 217: 32.766666666666666    
-After goal: Time in possession for away team 207: 13.433333333333334    
-Before card: Time in possession for home team 217: 42.31666666666667    
-Before card: Time in possession for away team 207: 28.4    
-After card: Time in possession for home team 217: 37.68333333333333    
-After card: Time in possession for away team 207: 8.516666666666667    
+Goal time: (55, 27), for (217, 'Barcelona')   
+Card time: (68, 43), for (207, 'Valencia')   
+First period: Time in possession for home team 217: 25.88    
+First period: Time in possession for away team 207: 21.22    
+Second period: Time in possession for home team 217: 30.50    
+Second period: Time in possession for away team 207: 15.70    
+Before goal: Time in possession for home team 217: 31.93    
+Before goal: Time in possession for away team 207: 23.48    
+After goal: Time in possession for home team 217: 32.77    
+After goal: Time in possession for away team 207: 13.43    
+Before card: Time in possession for home team 217: 42.32    
+Before card: Time in possession for away team 207: 28.40    
+After card: Time in possession for home team 217: 37.68    
+After card: Time in possession for away team 207: 8.52    

@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Mexico (794), goals: 0   
 Away team: Sweden (790), goals: 3    
-Goal time: (49, 47)   
-Card time: (-1, -1)   
+Goal time: (49, 47), for (790, 'Sweden')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 794: 27.02    
+First period: Time in possession for away team 790: 19.35    
+Second period: Time in possession for home team 794: 30.45    
+Second period: Time in possession for away team 790: 17.27    
 Before goal: Time in possession for home team 794: 30.55    
-Before goal: Time in possession for away team 790: 20.216666666666665    
-After goal: Time in possession for home team 794: 26.916666666666668    
-After goal: Time in possession for away team 790: 20.8    
-Before card: Time in possession for home team 794: 57.46666666666667    
-Before card: Time in possession for away team 790: 36.61666666666667    
-After card: Time in possession for home team 794: -0.016666666666666666    
-After card: Time in possession for away team 790: -0.016666666666666666    
+Before goal: Time in possession for away team 790: 20.22    
+After goal: Time in possession for home team 794: 26.92    
+After goal: Time in possession for away team 790: 20.80    
+Before card: Time in possession for home team 794: 57.47    
+Before card: Time in possession for away team 790: 36.62    
+After card: Time in possession for home team 794: -0.02    
+After card: Time in possession for away team 790: -0.02    

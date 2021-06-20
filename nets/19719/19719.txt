@@ -5,13 +5,17 @@ Season: 2018/2019
 Gender: female     
 Home team: West Ham United LFC (972), goals: 0   
 Away team: Reading WFC (974), goals: 0    
-Goal time: (-1, -1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 972: 38.333333333333336    
+Goal time: (-1, -1), for -1   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 972: 21.00    
+First period: Time in possession for away team 974: 25.05    
+Second period: Time in possession for home team 972: 17.33    
+Second period: Time in possession for away team 974: 29.80    
+Before goal: Time in possession for home team 972: 38.33    
 Before goal: Time in possession for away team 974: 54.85    
-After goal: Time in possession for home team 972: -0.016666666666666666    
-After goal: Time in possession for away team 974: -0.016666666666666666    
-Before card: Time in possession for home team 972: 38.333333333333336    
+After goal: Time in possession for home team 972: -0.02    
+After goal: Time in possession for away team 974: -0.02    
+Before card: Time in possession for home team 972: 38.33    
 Before card: Time in possession for away team 974: 54.85    
-After card: Time in possession for home team 972: -0.016666666666666666    
-After card: Time in possession for away team 974: -0.016666666666666666    
+After card: Time in possession for home team 972: -0.02    
+After card: Time in possession for away team 974: -0.02    

@@ -5,13 +5,17 @@ Season: 2006/2007
 Gender: male     
 Home team: Deportivo La Coruna (219), goals: 1   
 Away team: Barcelona (217), goals: 1    
-Goal time: (39, 31)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 219: 15.466666666666667    
-Before goal: Time in possession for away team 217: 22.216666666666665    
-After goal: Time in possession for home team 219: 29.8    
-After goal: Time in possession for away team 217: 24.566666666666666    
-Before card: Time in possession for home team 219: 45.266666666666666    
-Before card: Time in possession for away team 217: 48.61666666666667    
-After card: Time in possession for home team 219: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (39, 31), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 219: 17.98    
+First period: Time in possession for away team 217: 27.82    
+Second period: Time in possession for home team 219: 27.28    
+Second period: Time in possession for away team 217: 20.80    
+Before goal: Time in possession for home team 219: 15.47    
+Before goal: Time in possession for away team 217: 22.22    
+After goal: Time in possession for home team 219: 29.80    
+After goal: Time in possession for away team 217: 24.57    
+Before card: Time in possession for home team 219: 45.27    
+Before card: Time in possession for away team 217: 48.62    
+After card: Time in possession for home team 219: -0.02    
+After card: Time in possession for away team 217: -0.02    

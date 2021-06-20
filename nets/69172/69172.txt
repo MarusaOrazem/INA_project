@@ -5,13 +5,17 @@ Season: 2005/2006
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Real Betis (218), goals: 1    
-Goal time: (16, 35)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 8.283333333333333    
-Before goal: Time in possession for away team 218: 8.166666666666666    
-After goal: Time in possession for home team 217: 41.733333333333334    
-After goal: Time in possession for away team 218: 31.133333333333333    
+Goal time: (16, 35), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 26.52    
+First period: Time in possession for away team 218: 18.35    
+Second period: Time in possession for home team 217: 23.63    
+Second period: Time in possession for away team 218: 20.95    
+Before goal: Time in possession for home team 217: 8.28    
+Before goal: Time in possession for away team 218: 8.17    
+After goal: Time in possession for home team 217: 41.73    
+After goal: Time in possession for away team 218: 31.13    
 Before card: Time in possession for home team 217: 50.15    
-Before card: Time in possession for away team 218: 39.3    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 218: -0.016666666666666666    
+Before card: Time in possession for away team 218: 39.30    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 218: -0.02    

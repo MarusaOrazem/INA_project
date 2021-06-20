@@ -5,13 +5,17 @@ Season: 2015/2016
 Gender: male     
 Home team: Real Betis (218), goals: 0   
 Away team: Barcelona (217), goals: 2    
-Goal time: (49, 11)   
-Card time: (34, 47)   
-Before goal: Time in possession for home team 218: 13.983333333333333    
-Before goal: Time in possession for away team 217: 35.38333333333333    
-After goal: Time in possession for home team 218: 12.783333333333333    
+Goal time: (49, 11), for (217, 'Barcelona')   
+Card time: (34, 47), for (218, 'Real Betis')   
+First period: Time in possession for home team 218: 12.70    
+First period: Time in possession for away team 217: 33.37    
+Second period: Time in possession for home team 218: 14.07    
+Second period: Time in possession for away team 217: 33.47    
+Before goal: Time in possession for home team 218: 13.98    
+Before goal: Time in possession for away team 217: 35.38    
+After goal: Time in possession for home team 218: 12.78    
 After goal: Time in possession for away team 217: 34.75    
 Before card: Time in possession for home team 218: 11.05    
-Before card: Time in possession for away team 217: 23.683333333333334    
-After card: Time in possession for home team 218: 15.716666666666667    
-After card: Time in possession for away team 217: 43.1    
+Before card: Time in possession for away team 217: 23.68    
+After card: Time in possession for home team 218: 15.72    
+After card: Time in possession for away team 217: 43.10    

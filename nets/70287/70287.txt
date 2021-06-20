@@ -5,13 +5,17 @@ Season: 2012/2013
 Gender: male     
 Home team: Real Sociedad (210), goals: 3   
 Away team: Barcelona (217), goals: 2    
-Goal time: (6, 8)   
-Card time: (55, 36)   
+Goal time: (6, 8), for (217, 'Barcelona')   
+Card time: (55, 36), for (217, 'Barcelona')   
+First period: Time in possession for home team 210: 15.58    
+First period: Time in possession for away team 217: 29.55    
+Second period: Time in possession for home team 210: 19.83    
+Second period: Time in possession for away team 217: 26.78    
 Before goal: Time in possession for home team 210: 2.55    
-Before goal: Time in possession for away team 217: 3.5    
-After goal: Time in possession for home team 210: 32.86666666666667    
+Before goal: Time in possession for away team 217: 3.50    
+After goal: Time in possession for home team 210: 32.87    
 After goal: Time in possession for away team 217: 52.75    
-Before card: Time in possession for home team 210: 19.433333333333334    
-Before card: Time in possession for away team 217: 36.016666666666666    
-After card: Time in possession for home team 210: 26.3    
-After card: Time in possession for away team 217: 20.316666666666666    
+Before card: Time in possession for home team 210: 19.43    
+Before card: Time in possession for away team 217: 36.02    
+After card: Time in possession for home team 210: 26.30    
+After card: Time in possession for away team 217: 20.32    

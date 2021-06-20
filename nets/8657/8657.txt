@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Belgium (782), goals: 2   
 Away team: England (768), goals: 0    
-Goal time: (3, 37)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 782: 0.8333333333333334    
-Before goal: Time in possession for away team 768: 2.066666666666667    
-After goal: Time in possession for home team 782: 38.28333333333333    
-After goal: Time in possession for away team 768: 51.233333333333334    
-Before card: Time in possession for home team 782: 39.833333333333336    
-Before card: Time in possession for away team 768: 53.3    
-After card: Time in possession for home team 782: -0.016666666666666666    
-After card: Time in possession for away team 768: -0.016666666666666666    
+Goal time: (3, 37), for (782, 'Belgium')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 782: 22.38    
+First period: Time in possession for away team 768: 24.22    
+Second period: Time in possession for home team 782: 17.45    
+Second period: Time in possession for away team 768: 29.08    
+Before goal: Time in possession for home team 782: 0.83    
+Before goal: Time in possession for away team 768: 2.07    
+After goal: Time in possession for home team 782: 38.28    
+After goal: Time in possession for away team 768: 51.23    
+Before card: Time in possession for home team 782: 39.83    
+Before card: Time in possession for away team 768: 53.30    
+After card: Time in possession for home team 782: -0.02    
+After card: Time in possession for away team 768: -0.02    

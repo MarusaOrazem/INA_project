@@ -5,13 +5,17 @@ Season: 2009/2010
 Gender: male     
 Home team: Xerez (1219), goals: 0   
 Away team: Barcelona (217), goals: 2    
-Goal time: (46, 2)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1219: 13.666666666666666    
-Before goal: Time in possession for away team 217: 33.833333333333336    
+Goal time: (46, 2), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1219: 13.60    
+First period: Time in possession for away team 217: 33.70    
+Second period: Time in possession for home team 1219: 18.12    
+Second period: Time in possession for away team 217: 30.20    
+Before goal: Time in possession for home team 1219: 13.67    
+Before goal: Time in possession for away team 217: 33.83    
 After goal: Time in possession for home team 1219: 18.05    
-After goal: Time in possession for away team 217: 30.266666666666666    
-Before card: Time in possession for home team 1219: 31.716666666666665    
-Before card: Time in possession for away team 217: 63.9    
-After card: Time in possession for home team 1219: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+After goal: Time in possession for away team 217: 30.27    
+Before card: Time in possession for home team 1219: 31.72    
+Before card: Time in possession for away team 217: 63.90    
+After card: Time in possession for home team 1219: -0.02    
+After card: Time in possession for away team 217: -0.02    

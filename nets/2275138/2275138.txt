@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Manchester United (1475), goals: 2   
 Away team: Liverpool WFC (966), goals: 0    
-Goal time: (70, 1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1475: 42.93333333333333    
-Before goal: Time in possession for away team 966: 26.916666666666668    
-After goal: Time in possession for home team 1475: 41.3    
-After goal: Time in possession for away team 966: 8.783333333333333    
-Before card: Time in possession for home team 1475: 60.333333333333336    
-Before card: Time in possession for away team 966: 35.7    
-After card: Time in possession for home team 1475: -0.016666666666666666    
-After card: Time in possession for away team 966: -0.016666666666666666    
+Goal time: (70, 1), for (1475, 'Manchester United')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1475: 25.73    
+First period: Time in possession for away team 966: 20.22    
+Second period: Time in possession for home team 1475: 34.60    
+Second period: Time in possession for away team 966: 15.48    
+Before goal: Time in possession for home team 1475: 42.93    
+Before goal: Time in possession for away team 966: 26.92    
+After goal: Time in possession for home team 1475: 41.30    
+After goal: Time in possession for away team 966: 8.78    
+Before card: Time in possession for home team 1475: 60.33    
+Before card: Time in possession for away team 966: 35.70    
+After card: Time in possession for home team 1475: -0.02    
+After card: Time in possession for away team 966: -0.02    

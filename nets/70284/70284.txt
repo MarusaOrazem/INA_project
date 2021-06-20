@@ -5,13 +5,17 @@ Season: 2012/2013
 Gender: male     
 Home team: Atlético Madrid (212), goals: 1   
 Away team: Barcelona (217), goals: 2    
-Goal time: (50, 46)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 212: 18.766666666666666    
-Before goal: Time in possession for away team 217: 32.61666666666667    
-After goal: Time in possession for home team 212: 25.166666666666668    
-After goal: Time in possession for away team 217: 20.866666666666667    
-Before card: Time in possession for home team 212: 38.36666666666667    
-Before card: Time in possession for away team 217: 53.483333333333334    
-After card: Time in possession for home team 212: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (50, 46), for (212, 'Atlético Madrid')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 212: 18.08    
+First period: Time in possession for away team 217: 27.73    
+Second period: Time in possession for home team 212: 20.28    
+Second period: Time in possession for away team 217: 25.75    
+Before goal: Time in possession for home team 212: 18.77    
+Before goal: Time in possession for away team 217: 32.62    
+After goal: Time in possession for home team 212: 25.17    
+After goal: Time in possession for away team 217: 20.87    
+Before card: Time in possession for home team 212: 38.37    
+Before card: Time in possession for away team 217: 53.48    
+After card: Time in possession for home team 212: -0.02    
+After card: Time in possession for away team 217: -0.02    

@@ -5,13 +5,17 @@ Season: 2016/2017
 Gender: male     
 Home team: Real Sociedad (210), goals: 1   
 Away team: Barcelona (217), goals: 1    
-Goal time: (52, 37)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 210: 29.6    
-Before goal: Time in possession for away team 217: 23.183333333333334    
+Goal time: (52, 37), for (210, 'Real Sociedad')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 210: 27.55    
+First period: Time in possession for away team 217: 17.77    
+Second period: Time in possession for home team 210: 23.33    
+Second period: Time in possession for away team 217: 25.27    
+Before goal: Time in possession for home team 210: 29.60    
+Before goal: Time in possession for away team 217: 23.18    
 After goal: Time in possession for home team 210: 28.75    
 After goal: Time in possession for away team 217: 19.85    
-Before card: Time in possession for home team 210: 50.88333333333333    
-Before card: Time in possession for away team 217: 43.03333333333333    
-After card: Time in possession for home team 210: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Before card: Time in possession for home team 210: 50.88    
+Before card: Time in possession for away team 217: 43.03    
+After card: Time in possession for home team 210: -0.02    
+After card: Time in possession for away team 217: -0.02    

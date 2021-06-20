@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Orlando Pride (764), goals: 0   
 Away team: Portland Thorns (765), goals: 2    
-Goal time: (46, 18)   
-Card time: (-1, -1)   
+Goal time: (46, 18), for (765, 'Portland Thorns')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 764: 23.85    
+First period: Time in possession for away team 765: 23.82    
+Second period: Time in possession for home team 764: 11.97    
+Second period: Time in possession for away team 765: 32.68    
 Before goal: Time in possession for home team 764: 23.85    
-Before goal: Time in possession for away team 765: 23.816666666666666    
-After goal: Time in possession for home team 764: 11.966666666666667    
-After goal: Time in possession for away team 765: 32.68333333333333    
-Before card: Time in possession for home team 764: 35.81666666666667    
-Before card: Time in possession for away team 765: 56.5    
-After card: Time in possession for home team 764: -0.016666666666666666    
-After card: Time in possession for away team 765: -0.016666666666666666    
+Before goal: Time in possession for away team 765: 23.82    
+After goal: Time in possession for home team 764: 11.97    
+After goal: Time in possession for away team 765: 32.68    
+Before card: Time in possession for home team 764: 35.82    
+Before card: Time in possession for away team 765: 56.50    
+After card: Time in possession for home team 764: -0.02    
+After card: Time in possession for away team 765: -0.02    

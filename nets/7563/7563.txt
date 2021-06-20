@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Denmark (776), goals: 0   
 Away team: France (771), goals: 0    
-Goal time: (-1, -1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 776: 35.0    
-Before goal: Time in possession for away team 771: 56.583333333333336    
-After goal: Time in possession for home team 776: -0.016666666666666666    
-After goal: Time in possession for away team 771: -0.016666666666666666    
-Before card: Time in possession for home team 776: 35.0    
-Before card: Time in possession for away team 771: 56.583333333333336    
-After card: Time in possession for home team 776: -0.016666666666666666    
-After card: Time in possession for away team 771: -0.016666666666666666    
+Goal time: (-1, -1), for -1   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 776: 13.58    
+First period: Time in possession for away team 771: 33.18    
+Second period: Time in possession for home team 776: 21.42    
+Second period: Time in possession for away team 771: 23.40    
+Before goal: Time in possession for home team 776: 35.00    
+Before goal: Time in possession for away team 771: 56.58    
+After goal: Time in possession for home team 776: -0.02    
+After goal: Time in possession for away team 771: -0.02    
+Before card: Time in possession for home team 776: 35.00    
+Before card: Time in possession for away team 771: 56.58    
+After card: Time in possession for home team 776: -0.02    
+After card: Time in possession for away team 771: -0.02    

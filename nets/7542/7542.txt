@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Portugal (780), goals: 1   
 Away team: Morocco (788), goals: 0    
-Goal time: (3, 55)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 780: 0.0    
-Before goal: Time in possession for away team 788: 2.7    
-After goal: Time in possession for home team 780: 42.916666666666664    
-After goal: Time in possession for away team 788: 49.63333333333333    
-Before card: Time in possession for home team 780: 44.13333333333333    
-Before card: Time in possession for away team 788: 52.333333333333336    
-After card: Time in possession for home team 780: -0.016666666666666666    
-After card: Time in possession for away team 788: -0.016666666666666666    
+Goal time: (3, 55), for (780, 'Portugal')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 780: 23.43    
+First period: Time in possession for away team 788: 23.97    
+Second period: Time in possession for home team 780: 20.70    
+Second period: Time in possession for away team 788: 28.37    
+Before goal: Time in possession for home team 780: 0.00    
+Before goal: Time in possession for away team 788: 2.70    
+After goal: Time in possession for home team 780: 42.92    
+After goal: Time in possession for away team 788: 49.63    
+Before card: Time in possession for home team 780: 44.13    
+Before card: Time in possession for away team 788: 52.33    
+After card: Time in possession for home team 780: -0.02    
+After card: Time in possession for away team 788: -0.02    

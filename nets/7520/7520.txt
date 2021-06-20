@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Washington Spirit (759), goals: 0   
 Away team: Chicago Red Stars (761), goals: 2    
-Goal time: (24, 49)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 759: 10.533333333333333    
-Before goal: Time in possession for away team 761: 12.916666666666666    
-After goal: Time in possession for home team 759: 38.6    
-After goal: Time in possession for away team 761: 29.366666666666667    
-Before card: Time in possession for home team 759: 49.13333333333333    
+Goal time: (24, 49), for (761, 'Chicago Red Stars')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 759: 23.87    
+First period: Time in possession for away team 761: 20.93    
+Second period: Time in possession for home team 759: 25.27    
+Second period: Time in possession for away team 761: 22.72    
+Before goal: Time in possession for home team 759: 10.53    
+Before goal: Time in possession for away team 761: 12.92    
+After goal: Time in possession for home team 759: 38.60    
+After goal: Time in possession for away team 761: 29.37    
+Before card: Time in possession for home team 759: 49.13    
 Before card: Time in possession for away team 761: 43.65    
-After card: Time in possession for home team 759: -0.016666666666666666    
-After card: Time in possession for away team 761: -0.016666666666666666    
+After card: Time in possession for home team 759: -0.02    
+After card: Time in possession for away team 761: -0.02    

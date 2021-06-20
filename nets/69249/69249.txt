@@ -5,13 +5,17 @@ Season: 2008/2009
 Gender: male     
 Home team: Real Madrid (220), goals: 2   
 Away team: Barcelona (217), goals: 6    
-Goal time: (13, 28)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 220: 5.216666666666667    
-Before goal: Time in possession for away team 217: 7.766666666666667    
-After goal: Time in possession for home team 220: 31.816666666666666    
-After goal: Time in possession for away team 217: 42.0    
-Before card: Time in possession for home team 220: 37.516666666666666    
-Before card: Time in possession for away team 217: 49.766666666666666    
-After card: Time in possession for home team 220: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Goal time: (13, 28), for (220, 'Real Madrid')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 220: 19.60    
+First period: Time in possession for away team 217: 23.20    
+Second period: Time in possession for home team 220: 17.92    
+Second period: Time in possession for away team 217: 26.57    
+Before goal: Time in possession for home team 220: 5.22    
+Before goal: Time in possession for away team 217: 7.77    
+After goal: Time in possession for home team 220: 31.82    
+After goal: Time in possession for away team 217: 42.00    
+Before card: Time in possession for home team 220: 37.52    
+Before card: Time in possession for away team 217: 49.77    
+After card: Time in possession for home team 220: -0.02    
+After card: Time in possession for away team 217: -0.02    

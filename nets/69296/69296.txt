@@ -5,13 +5,17 @@ Season: 2010/2011
 Gender: male     
 Home team: Hércules (1218), goals: 0   
 Away team: Barcelona (217), goals: 3    
-Goal time: (42, 28)   
-Card time: (84, 11)   
-Before goal: Time in possession for home team 1218: 11.916666666666666    
-Before goal: Time in possession for away team 217: 29.983333333333334    
+Goal time: (42, 28), for (217, 'Barcelona')   
+Card time: (84, 11), for (1218, 'Hércules')   
+First period: Time in possession for home team 1218: 12.13    
+First period: Time in possession for away team 217: 32.28    
+Second period: Time in possession for home team 1218: 12.73    
+Second period: Time in possession for away team 217: 34.52    
+Before goal: Time in possession for home team 1218: 11.92    
+Before goal: Time in possession for away team 217: 29.98    
 After goal: Time in possession for home team 1218: 12.95    
 After goal: Time in possession for away team 217: 36.25    
 Before card: Time in possession for home team 1218: 23.25    
 Before card: Time in possession for away team 217: 60.05    
-After card: Time in possession for home team 1218: 1.6166666666666667    
-After card: Time in possession for away team 217: 45.63333333333333    
+After card: Time in possession for home team 1218: 1.62    
+After card: Time in possession for away team 217: 45.63    

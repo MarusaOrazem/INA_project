@@ -5,13 +5,17 @@ Season: 2007/2008
 Gender: male     
 Home team: Barcelona (217), goals: 1   
 Away team: Racing Santander (1217), goals: 0    
-Goal time: (30, 9)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 19.3    
-Before goal: Time in possession for away team 1217: 9.8    
-After goal: Time in possession for home team 217: 37.68333333333333    
-After goal: Time in possession for away team 1217: 24.583333333333332    
-Before card: Time in possession for home team 217: 58.03333333333333    
-Before card: Time in possession for away team 1217: 34.38333333333333    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 1217: -0.016666666666666666    
+Goal time: (30, 9), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 29.25    
+First period: Time in possession for away team 1217: 15.07    
+Second period: Time in possession for home team 217: 28.78    
+Second period: Time in possession for away team 1217: 19.32    
+Before goal: Time in possession for home team 217: 19.30    
+Before goal: Time in possession for away team 1217: 9.80    
+After goal: Time in possession for home team 217: 37.68    
+After goal: Time in possession for away team 1217: 24.58    
+Before card: Time in possession for home team 217: 58.03    
+Before card: Time in possession for away team 1217: 34.38    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 1217: -0.02    

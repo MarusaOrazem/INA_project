@@ -5,13 +5,17 @@ Season: 2017/2018
 Gender: male     
 Home team: Barcelona (217), goals: 5   
 Away team: Villarreal (222), goals: 1    
-Goal time: (10, 8)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 6.8    
-Before goal: Time in possession for away team 222: 2.9    
-After goal: Time in possession for home team 217: 42.86666666666667    
-After goal: Time in possession for away team 222: 37.31666666666667    
-Before card: Time in possession for home team 217: 50.1    
-Before card: Time in possession for away team 222: 40.21666666666667    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 222: -0.016666666666666666    
+Goal time: (10, 8), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 24.28    
+First period: Time in possession for away team 222: 19.17    
+Second period: Time in possession for home team 217: 25.82    
+Second period: Time in possession for away team 222: 21.05    
+Before goal: Time in possession for home team 217: 6.80    
+Before goal: Time in possession for away team 222: 2.90    
+After goal: Time in possession for home team 217: 42.87    
+After goal: Time in possession for away team 222: 37.32    
+Before card: Time in possession for home team 217: 50.10    
+Before card: Time in possession for away team 222: 40.22    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 222: -0.02    

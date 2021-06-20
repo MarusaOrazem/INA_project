@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: Colombia (769), goals: 1   
 Away team: Japan (778), goals: 2    
-Goal time: (5, 15)   
-Card time: (2, 48)   
-Before goal: Time in possession for home team 769: 2.066666666666667    
-Before goal: Time in possession for away team 778: 0.6666666666666666    
-After goal: Time in possession for home team 769: 33.0    
-After goal: Time in possession for away team 778: 55.2    
-Before card: Time in possession for home team 769: 2.066666666666667    
-Before card: Time in possession for away team 778: 0.6666666666666666    
-After card: Time in possession for home team 769: 33.0    
+Goal time: (5, 15), for (778, 'Japan')   
+Card time: (2, 48), for (769, 'Colombia')   
+First period: Time in possession for home team 769: 22.88    
+First period: Time in possession for away team 778: 21.93    
+Second period: Time in possession for home team 769: 12.18    
+Second period: Time in possession for away team 778: 36.45    
+Before goal: Time in possession for home team 769: 2.07    
+Before goal: Time in possession for away team 778: 0.67    
+After goal: Time in possession for home team 769: 33.00    
+After goal: Time in possession for away team 778: 55.20    
+Before card: Time in possession for home team 769: 2.07    
+Before card: Time in possession for away team 778: 0.67    
+After card: Time in possession for home team 769: 33.00    
 After card: Time in possession for away team 778: 57.65    

@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Japan Women's (1210), goals: 0   
 Away team: England Women's (865), goals: 2    
-Goal time: (13, 55)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 1210: 5.133333333333334    
-Before goal: Time in possession for away team 865: 8.666666666666666    
+Goal time: (13, 55), for (865, "England Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 1210: 20.55    
+First period: Time in possession for away team 865: 24.93    
+Second period: Time in possession for home team 1210: 26.83    
+Second period: Time in possession for away team 865: 21.28    
+Before goal: Time in possession for home team 1210: 5.13    
+Before goal: Time in possession for away team 865: 8.67    
 After goal: Time in possession for home team 1210: 42.25    
-After goal: Time in possession for away team 865: 37.43333333333333    
-Before card: Time in possession for home team 1210: 47.38333333333333    
-Before card: Time in possession for away team 865: 46.21666666666667    
-After card: Time in possession for home team 1210: -0.016666666666666666    
-After card: Time in possession for away team 865: -0.016666666666666666    
+After goal: Time in possession for away team 865: 37.43    
+Before card: Time in possession for home team 1210: 47.38    
+Before card: Time in possession for away team 865: 46.22    
+After card: Time in possession for home team 1210: -0.02    
+After card: Time in possession for away team 865: -0.02    

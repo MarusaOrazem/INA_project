@@ -5,13 +5,17 @@ Season: 2019
 Gender: female     
 Home team: Norway Women's (852), goals: 0   
 Away team: England Women's (865), goals: 3    
-Goal time: (2, 6)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 852: 0.48333333333333334    
-Before goal: Time in possession for away team 865: 0.9    
-After goal: Time in possession for home team 852: 40.7    
-After goal: Time in possession for away team 865: 52.233333333333334    
-Before card: Time in possession for home team 852: 41.18333333333333    
+Goal time: (2, 6), for (865, "England Women's")   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 852: 17.77    
+First period: Time in possession for away team 865: 27.72    
+Second period: Time in possession for home team 852: 23.42    
+Second period: Time in possession for away team 865: 26.13    
+Before goal: Time in possession for home team 852: 0.48    
+Before goal: Time in possession for away team 865: 0.90    
+After goal: Time in possession for home team 852: 40.70    
+After goal: Time in possession for away team 865: 52.23    
+Before card: Time in possession for home team 852: 41.18    
 Before card: Time in possession for away team 865: 53.85    
-After card: Time in possession for home team 852: -0.016666666666666666    
-After card: Time in possession for away team 865: -0.016666666666666666    
+After card: Time in possession for home team 852: -0.02    
+After card: Time in possession for away team 865: -0.02    

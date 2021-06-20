@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: female     
 Home team: Birmingham City WFC (969), goals: 0   
 Away team: Everton LFC (967), goals: 1    
-Goal time: (-1, -1)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 969: 60.28333333333333    
-Before goal: Time in possession for away team 967: 34.96666666666667    
-After goal: Time in possession for home team 969: -0.016666666666666666    
-After goal: Time in possession for away team 967: -0.016666666666666666    
-Before card: Time in possession for home team 969: 60.28333333333333    
-Before card: Time in possession for away team 967: 34.96666666666667    
-After card: Time in possession for home team 969: -0.016666666666666666    
-After card: Time in possession for away team 967: -0.016666666666666666    
+Goal time: (-1, -1), for -1   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 969: 26.98    
+First period: Time in possession for away team 967: 19.53    
+Second period: Time in possession for home team 969: 33.30    
+Second period: Time in possession for away team 967: 15.43    
+Before goal: Time in possession for home team 969: 60.28    
+Before goal: Time in possession for away team 967: 34.97    
+After goal: Time in possession for home team 969: -0.02    
+After goal: Time in possession for away team 967: -0.02    
+Before card: Time in possession for home team 969: 60.28    
+Before card: Time in possession for away team 967: 34.97    
+After card: Time in possession for home team 969: -0.02    
+After card: Time in possession for away team 967: -0.02    

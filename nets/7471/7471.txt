@@ -5,13 +5,17 @@ Season: 2018
 Gender: female     
 Home team: Orlando Pride (764), goals: 0   
 Away team: North Carolina Courage (766), goals: 3    
-Goal time: (36, 12)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 764: 13.116666666666667    
-Before goal: Time in possession for away team 766: 20.333333333333332    
-After goal: Time in possession for home team 764: 32.43333333333333    
-After goal: Time in possession for away team 766: 23.2    
+Goal time: (36, 12), for (766, 'North Carolina Courage')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 764: 18.95    
+First period: Time in possession for away team 766: 26.80    
+Second period: Time in possession for home team 764: 26.60    
+Second period: Time in possession for away team 766: 19.48    
+Before goal: Time in possession for home team 764: 13.12    
+Before goal: Time in possession for away team 766: 20.33    
+After goal: Time in possession for home team 764: 32.43    
+After goal: Time in possession for away team 766: 23.20    
 Before card: Time in possession for home team 764: 45.55    
-Before card: Time in possession for away team 766: 46.28333333333333    
-After card: Time in possession for home team 764: -0.016666666666666666    
-After card: Time in possession for away team 766: -0.016666666666666666    
+Before card: Time in possession for away team 766: 46.28    
+After card: Time in possession for home team 764: -0.02    
+After card: Time in possession for away team 766: -0.02    

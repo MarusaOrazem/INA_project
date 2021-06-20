@@ -5,13 +5,17 @@ Season: 2009/2010
 Gender: male     
 Home team: Barcelona (217), goals: 4   
 Away team: Tenerife (627), goals: 1    
-Goal time: (16, 13)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 217: 11.283333333333333    
-Before goal: Time in possession for away team 627: 3.0833333333333335    
-After goal: Time in possession for home team 217: 57.9    
-After goal: Time in possession for away team 627: 15.116666666666667    
-Before card: Time in possession for home team 217: 71.03333333333333    
-Before card: Time in possession for away team 627: 18.2    
-After card: Time in possession for home team 217: -0.016666666666666666    
-After card: Time in possession for away team 627: -0.016666666666666666    
+Goal time: (16, 13), for (217, 'Barcelona')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 217: 32.50    
+First period: Time in possession for away team 627: 10.10    
+Second period: Time in possession for home team 217: 38.53    
+Second period: Time in possession for away team 627: 8.10    
+Before goal: Time in possession for home team 217: 11.28    
+Before goal: Time in possession for away team 627: 3.08    
+After goal: Time in possession for home team 217: 57.90    
+After goal: Time in possession for away team 627: 15.12    
+Before card: Time in possession for home team 217: 71.03    
+Before card: Time in possession for away team 627: 18.20    
+After card: Time in possession for home team 217: -0.02    
+After card: Time in possession for away team 627: -0.02    

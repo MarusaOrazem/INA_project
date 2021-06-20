@@ -5,13 +5,17 @@ Season: 2018
 Gender: male     
 Home team: France (771), goals: 1   
 Away team: Peru (784), goals: 0    
-Goal time: (33, 38)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 771: 14.916666666666666    
-Before goal: Time in possession for away team 784: 18.616666666666667    
-After goal: Time in possession for home team 771: 24.616666666666667    
-After goal: Time in possession for away team 784: 36.666666666666664    
-Before card: Time in possession for home team 771: 39.63333333333333    
-Before card: Time in possession for away team 784: 55.28333333333333    
-After card: Time in possession for home team 771: -0.016666666666666666    
-After card: Time in possession for away team 784: -0.016666666666666666    
+Goal time: (33, 38), for (771, 'France')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 771: 21.75    
+First period: Time in possession for away team 784: 25.15    
+Second period: Time in possession for home team 771: 17.88    
+Second period: Time in possession for away team 784: 30.13    
+Before goal: Time in possession for home team 771: 14.92    
+Before goal: Time in possession for away team 784: 18.62    
+After goal: Time in possession for home team 771: 24.62    
+After goal: Time in possession for away team 784: 36.67    
+Before card: Time in possession for home team 771: 39.63    
+Before card: Time in possession for away team 784: 55.28    
+After card: Time in possession for home team 771: -0.02    
+After card: Time in possession for away team 784: -0.02    

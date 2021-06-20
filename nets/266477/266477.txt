@@ -5,13 +5,17 @@ Season: 2016/2017
 Gender: male     
 Home team: Villarreal (222), goals: 1   
 Away team: Barcelona (217), goals: 1    
-Goal time: (49, 1)   
-Card time: (93, 32)   
-Before goal: Time in possession for home team 222: 15.933333333333334    
-Before goal: Time in possession for away team 217: 32.916666666666664    
-After goal: Time in possession for home team 222: 17.266666666666666    
-After goal: Time in possession for away team 217: 31.233333333333334    
+Goal time: (49, 1), for (222, 'Villarreal')   
+Card time: (93, 32), for (222, 'Villarreal')   
+First period: Time in possession for home team 222: 15.93    
+First period: Time in possession for away team 217: 29.07    
+Second period: Time in possession for home team 222: 13.42    
+Second period: Time in possession for away team 217: 35.08    
+Before goal: Time in possession for home team 222: 15.93    
+Before goal: Time in possession for away team 217: 32.92    
+After goal: Time in possession for home team 222: 17.27    
+After goal: Time in possession for away team 217: 31.23    
 Before card: Time in possession for home team 222: 29.35    
 Before card: Time in possession for away team 217: 64.15    
-After card: Time in possession for home team 222: 0.0    
-After card: Time in possession for away team 217: 0.0    
+After card: Time in possession for home team 222: 0.00    
+After card: Time in possession for away team 217: 0.00    
