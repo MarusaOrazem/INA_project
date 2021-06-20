@@ -1,0 +1,21 @@
+ID: 9889   
+Competition: La Liga    
+Country: Spain    
+Season: 2017/2018    
+Gender: male     
+Home team: Celta Vigo (209), goals: 2   
+Away team: Barcelona (217), goals: 2    
+Goal time: (35, 33), for (217, 'Barcelona')   
+Card time: (70, 11), for (217, 'Barcelona')   
+First period: Time in possession for home team 209: 19.08    
+First period: Time in possession for away team 217: 24.90    
+Second period: Time in possession for home team 209: 28.65    
+Second period: Time in possession for away team 217: 17.75    
+Before goal: Time in possession for home team 209: 16.15    
+Before goal: Time in possession for away team 217: 19.32    
+After goal: Time in possession for home team 209: 31.58    
+After goal: Time in possession for away team 217: 23.25    
+Before card: Time in possession for home team 209: 32.50    
+Before card: Time in possession for away team 217: 36.55    
+After card: Time in possession for home team 209: 40.30    
+After card: Time in possession for away team 217: 6.10    

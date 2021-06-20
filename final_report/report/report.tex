@@ -3,6 +3,8 @@
 \templatetype{pnasresearcharticle}
 
 \usepackage{lipsum}
+\usepackage{mathtools}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
 
 \title{Effect of Key Match Events on Football Passmaps}
 
@@ -59,44 +61,47 @@ This report is structured as follows: In the following paragraphs, we provide a 
 \section*{Related work}
 Evaluations of group performances based on their underlying network structures have been conducted for some time. Researchers were keen on understanding what kind of social, interaction or communication network structure boosts the productivity of a group in a working environment. Bavelas \cite{bavelas} was one of the pioneers in exploration of information transfer between groups. He discovered that the rate of information diffusion was significantly smaller in decentralized networks in comparison to centralized ones. It was later discovered by Shaw \cite{shaw} that this gave an edge to decentralized groups over the centralized ones in solving complex tasks. \
 
-Team performance in collective sports has become a well researched area in the network analysis community in recent years. We recognize the conclusions by Grund \cite{grund} as a good starting point for the study of this field. In his work, he suggests that small networks (i.e. the eleven-node football team) are better explained with the use of the weighted edges between players. In such cases, weights are determined by the frequency of passes between two players. He also introduces a measure called network intensity, as a counterpart to network density in large and unweighted networks. This measure is computed as a function of weights for each link between players, nicely called passing-rate of the team. As a result of his work, Grund confirmed that an increase in team passing rate leads to increased performance, while increases in centralization of play reduces team performance. A similar approach in generating a football passmap as a weighted network was used in \cite{fbrn}, where the authors introduced a node measure called flow centrality - a function of pass accuracy and ratio of times a player was included in an action, leading to a shot on goal. Using it, they successfully graded individual player performances within a team. Due to advances in player-tracking technology, most recent research, such as those by Fernandez and Born \cite{fbrn}, or by Chawla et al \cite{chawla}, exploits the spatial-temporal data about observed passes. Due to the restrictions posed by our course project, we don't expect to consider these additional pieces of information, but will instead focus on the starting formation of the team in determining the position of the player. Should we recognize the aspect of temporal network analysis as important throughout our work, however, work by Mattson and Takes \cite{trajectory} on pass trajectory extraction, should be considered.
+Team performance in collective sports has become a well researched area in the network analysis community in recent years. We recognize the conclusions by Grund \cite{grund} as a good starting point for the study of this field. In his work, he suggests that small networks (i.e. the eleven-node football team) are better explained with the use of the weighted edges between players. In such cases, weights are determined by the frequency of passes between two players. He also introduces a measure called network intensity, as a counterpart to network density in large and unweighted networks. This measure is computed as a function of weights for each link between players, nicely called the passing-rate of the team. As a result of his work, Grund confirmed that an increase in team passing rate leads to increased performance, while increases in centralization of play reduces team performance. Similarly to our work, network metrics were used to examine differences between halftimes in work by Clementine {Clementine}, albeit with a different form of pass-map representation.  The authors of \cite{duch2010quantifying}, again envisioned a football match as a weighted directed network, where they introduced a node measure called flow centrality - a function of pass accuracy and ratio of times a player was included in an action, leading to a shot on goal. Using it, they successfully graded individual player performances within a team. The measure is based on betweenness centrality, which has also been applied to football matches to examine correlations of physical demands in elite football players \cite{castellano2019network}. While these works' conclusions are introduced as solid and objective, the importance of considering additional meta-data in the inference of flow using centrality measures was emphasized in the traffic domain in \cite{kazerani2009can}.
+
+While several graphlet and motif-related methodology in our work is heavily inspired by the work of Pržulj \cite{przulj}, the concept of network motifs, initially shown by Milo et al. \cite{Milo}, has been successfully applied to sporting pass-maps by other authors as well. Notably, Penna and Touchette \cite{penna} analyzed the network motifs to analyze passing behaviour, while Bekkers and Shaunak \cite{Bekkers} use meta-data equipped motifs (Possession Motifs and Expected Goal Motifs) to answer more in depth domain questions and graphically visualize team or player similarity by means of radar graph.
+
+Due to advances in player-tracking technology, most recent research, such as those by Fernandez and Born \cite{fbrn}, or by Chawla et al. \cite{chawla}, exploits the spatial-temporal data about observed passes. Due to time restrictions, posed by the gathered data, we don't consider these additional pieces of information in our analysis, but instead focus on the starting formation of the team in determining the positions of players. Researchers opting for the former approach of inferring information from additional metadata, however, should also consider work by Mattson and Takes \cite{trajectory} on pass trajectory extraction. Spatio-temporal methods are also successfully applied to football to accurately detect individual player behaviour and changes in team formation. \cite{bialkowski2014large}.
 
 \section*{Results}
 
-\begin{table}[t]\centering%
-	\caption{Table describing data or methods.}
-	\begin{tabular}{lccccc}\toprule
-	    & $n$ & $m$ & $\langle k\rangle$ & $\langle C\rangle$ & $\langle d\rangle$ \\\midrule
-	    Fine network & $438\,920$ & $9\,742\,733$ & $44.4$ & $0.37$ & $6.19$ \\
-	    Random graph & $438\,920$ & $9\,781\,609$ & $44.6$ & $0.00$ & $4.92$ \\\bottomrule
-	\end{tabular}
-	\label{tbl:example}
-\end{table}
-
-{\bf Main results supported by plots, figures, tables, diagrams etc.}
-\lipsum[1-2]
+\subsection*{Centrality and intensity}
+\subsection*{Communities}
+\subsection*{Network fragments}
 
 
 
-\lipsum[3-8]
 
 \section*{Discussion}
 
-{\bf Discussion of results, main contributions, final conclusions and future work.}
-\lipsum[1-5]
 
+\begin{figure}[t]\centering
+	\includegraphics[width=0.8\linewidth]{BayernPassWeightComparison.png}
+	\caption{The distribution of graph edge weights in Bayern Münich's 2012 Champions league final loss versus Chelsea shows that edge weights roughly follow a Poisson distribution. As the same trends emerge in other examined games as well, we note that pruning the graphs at just above the median $\floor{\lambda + \frac{1}{3} - \frac{0.02}{\lambda}} \approx \lambda$ will result in considering only the non-trivial passes, carrying information about frequent passes of play.}
+	\label{fig:BayernWeights}
+\end{figure}
 {\small\section*{Methods}
 
-{\bf Describe data, methods and algorithms (use subsections).}
-\lipsum[1-3]
-\begin{equation}
-	\phi_v = \Pr(X_{st}(v) = 1) = \Pr(X_{sv} = 1)\Pr(X_{vt} = 1)
-	\label{eq:example}
-\end{equation}
+{\bf All of the described results were achieved by analysing directed networks with player-nodes and weighted pass edges, with weights corresponding to pass frequency.} 
 
-\lipsum[4-5]}
+\subsection*{Data}
+All of the examined networks were parsed from alternative data structes by Statsbomb \cite{statsbomb}. Unless noted otherwise, the described results were achieved by aggregating the findings of analyses, conducted on 789 parsed matches. For each successful pass, a directed edge was generated between the players, logged in the corresponing pass attempt and reception events, logged by the data provider. For the three considered key events - the half time break, the first goal and the first dismissal in any given match, 6 directed \textit{pajek} files were created for each involved team (3 before and 3 after the key event), where games without certain events contain empty \textit{after-event} files. Additionally, the graphs' flow centrality variants were created and saved according to the procedure, described in the following subsection. For the calculation of network intensity, the description of which also follows, the team posession time was calculated as  the sum of timestamp differences in each uninterrupted posession stint.
 
-\acknow{The authors would like to\dots}
+\subsection*{Centrality and intensity}
+\subsection*{Communities}
+\subsection*{Network fragments}
+In all experiments concerning network fragments, the networks were pruned before examination. This was done by removing all edges with weights equal to or less than the median weight from the observed graph. The estimation of an adequate pruning point stems from the insights, described in the caption of Figure \ref{BayernWeights}.
+
+To examine the orbit-representation in the observed graphs, an atlas of all possible directed graphlets of node-count 3 or less was created. From there, each unique edge subset from the analysed graph was extracted and a hash table of benchmark orbital roles created. For each subgraph, inferred from the edge subsets, the orbital roles for each contributing node were calculated. The resulting table of this procedure denoted the number of occurences of each player in each of the 34 considered orbital roles. Each network's orbital profile is then calculated as the average number of player-occurences in each orbital role, divided by 11 - the number of players on the pitch. By comparing the differences between these profiles before and after key events, the final insights of the distrbution of PPO (Player per orbit) differences is achieved.
+
+
+
+
+\acknow{The authors would like to acknowledge the help of Doc.  Dr. Lovro Šubelj and Assoc. Prof. Dr. Erik Štrumbelj in the identification of feasible problems within our domain of interest for this course project and for all the help offered in solving them.}
 
 \showacknow{}
 

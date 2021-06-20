@@ -1,0 +1,88 @@
+*vertices 13
+1 "Thomas Vermaelen" 0.0 0.0 ellipse
+2 "Yerry Fernando Mina González" 0.0 0.0 ellipse
+3 "Nélson Cabral Semedo" 0.0 0.0 ellipse
+4 "Francisco Alcácer García" 0.0 0.0 ellipse
+5 "José Paulo Bezzera Maciel Júnior" 0.0 0.0 ellipse
+6 "Lucas Digne" 0.0 0.0 ellipse
+7 "Denis Suárez Fernández" 0.0 0.0 ellipse
+8 ON_goal 0.0 0.0 ellipse
+9 "Marc-André ter Stegen" 0.0 0.0 ellipse
+10 "Philippe Coutinho Correia/Lionel Andrés Messi Cuccittini" 0.0 0.0 ellipse
+11 "André Filipe Tavares Gomes/Sergi Roberto Carnicer" 0.0 0.0 ellipse
+12 "Ousmane Dembélé/Aleix Vidal Parreu" 0.0 0.0 ellipse
+13 OFF_goal 0.0 0.0 ellipse
+*arcs
+1 2 3
+1 6 3
+1 3 1
+1 7 1
+1 9 1
+2 3 5
+2 1 2
+2 9 4
+2 11 1
+2 12 1
+3 4 2
+3 2 8
+3 5 6
+3 12 1
+3 10 5
+3 11 1
+4 5 3
+4 3 3
+4 7 4
+4 8 1
+4 11 1
+4 12 3
+4 10 2
+5 4 3
+5 3 3
+5 6 1
+5 8 1
+5 2 1
+5 7 1
+5 11 2
+5 12 3
+5 10 7
+6 7 7
+6 1 1
+6 4 2
+6 2 1
+6 9 1
+6 10 2
+6 11 1
+7 8 1
+7 4 2
+7 6 3
+7 5 2
+7 3 1
+7 1 1
+7 10 6
+7 11 3
+9 3 1
+9 1 2
+9 11 1
+9 12 1
+10 5 4
+10 7 3
+10 6 3
+10 4 1
+10 11 2
+10 3 5
+10 13 1
+11 1 1
+11 3 1
+11 5 4
+11 12 3
+11 7 2
+11 9 1
+11 10 2
+12 6 1
+12 7 3
+12 5 1
+12 8 1
+12 2 1
+12 3 2
+12 10 1
+12 11 1
