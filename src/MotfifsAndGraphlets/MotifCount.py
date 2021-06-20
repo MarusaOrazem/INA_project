@@ -59,6 +59,7 @@ class MotifCounterMachine(object):
         self.graph = graph
         self.output = output
         self.graphlet_size = gs
+        self.motifs_in_graph = 0
 
     def create_edge_subsets(self):
         """
@@ -95,7 +96,6 @@ class MotifCounterMachine(object):
     def enumerate_categories(self):
         """
         Creating a hash table of benchmark orbital roles.
-        TODO: Check if setting degree here works OK, since we're now working with undirected grpahs.
         """
         main_index = 0
         self.categories = dict()
@@ -122,6 +122,7 @@ class MotifCounterMachine(object):
 
                 for index, graph in enumerate(graphs):
                     if nx.is_isomorphic(sub_gr, graph):
+                        self.motifs_in_graph += 1
                         for node in sub_gr.nodes():
                             self.features[node][self.categories[size][index][(sub_gr.out_degree(node), sub_gr.in_degree(node))]] += 1
                         break
@@ -132,15 +133,15 @@ class MotifCounterMachine(object):
         """
         print("Saving the dataset.")
         self.binned_features = {node: [] for node in self.graph.nodes()}
-        self.motifs = [[n]+[self.features[n][i] for i in  range(self.unique_motif_count)] for n in self.graph.nodes()]
+        self.motifs = [[n]+[self.features[n][i] for i in range(self.unique_motif_count)] for n in self.graph.nodes()]
         self.motifs = pd.DataFrame(self.motifs)
         self.motifs.columns = ["id"] + ["role_"+str(index) for index in range(self.unique_motif_count)]
-        sum_motifs = 0
-        for role in self.motifs.columns[1:]:
-            sum_motifs += sum(self.motifs[role])
-        print(self.motifs)
-        for role in self.motifs.columns[1:]:
-            self.motifs[role] = [x/sum_motifs for x in self.motifs[role]]
+        # sum_motifs = 0
+        # for role in self.motifs.columns[1:]:
+        #     sum_motifs += sum(self.motifs[role])
+        # print(self.motifs)
+        #for role in self.motifs.columns[1:]:
+        #    self.motifs[role] = [x/self.motifs_in_graph for x in self.motifs[role]]
         self.motifs.to_csv(self.output, index=None)
 
     def write_dictionary(self):

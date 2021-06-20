@@ -10,7 +10,10 @@ I was expecting a `,' or a `}'---line 25 of file bibliography.bib
  :     volume = {22}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Sub18a"
+Repeated entry---line 147 of file bibliography.bib
+ : @article{Milo
+ :              ,
+I'm skipping whatever remains of this entry
 Too many commas in name 1 of "Fernandez, J., Bornn, L and Cervone, D." for entry fbrn
 while executing---line 1233 of file unsrtnat.bst
 Warning--empty year in plpasses
@@ -18,45 +21,45 @@ Too many commas in name 1 of "Fernandez, J., Bornn, L and Cervone, D." for entry
 while executing---line 1315 of file unsrtnat.bst
 Too many commas in name 1 of "Fernandez, J., Bornn, L and Cervone, D." for entry fbrn
 while executing---line 1315 of file unsrtnat.bst
-You've used 7 entries,
+You've used 16 entries,
             2481 wiz_defined-function locations,
-            591 strings with 5485 characters,
-and the built_in function-call counts, 1875 in all, are:
-= -- 141
-> -- 78
-< -- 5
-+ -- 36
-- -- 22
-* -- 96
-:= -- 277
-add.period$ -- 14
-call.type$ -- 7
-change.case$ -- 14
-chr.to.int$ -- 7
-cite$ -- 9
-duplicate$ -- 98
-empty$ -- 213
-format.name$ -- 32
-if$ -- 410
+            651 strings with 7128 characters,
+and the built_in function-call counts, 5503 in all, are:
+= -- 459
+> -- 244
+< -- 12
++ -- 102
+- -- 70
+* -- 375
+:= -- 821
+add.period$ -- 42
+call.type$ -- 16
+change.case$ -- 32
+chr.to.int$ -- 16
+cite$ -- 19
+duplicate$ -- 283
+empty$ -- 562
+format.name$ -- 96
+if$ -- 1201
 int.to.chr$ -- 1
-int.to.str$ -- 8
-missing$ -- 0
-newline$ -- 36
-num.names$ -- 18
-pop$ -- 91
+int.to.str$ -- 17
+missing$ -- 8
+newline$ -- 81
+num.names$ -- 42
+pop$ -- 172
 preamble$ -- 1
-purify$ -- 7
+purify$ -- 16
 quote$ -- 0
-skip$ -- 87
+skip$ -- 204
 stack$ -- 0
-substring$ -- 15
-swap$ -- 14
-text.length$ -- 0
+substring$ -- 212
+swap$ -- 49
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 49
+type$ -- 112
 warning$ -- 1
-while$ -- 12
+while$ -- 43
 width$ -- 0
-write$ -- 76
-(There were 4 error messages)
+write$ -- 192
+(There were 5 error messages)

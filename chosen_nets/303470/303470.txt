@@ -5,13 +5,17 @@ Season: 2019/2020
 Gender: male     
 Home team: Real Madrid (220), goals: 2   
 Away team: Barcelona (217), goals: 0    
-Goal time: (70, 33)   
-Card time: (-1, -1)   
-Before goal: Time in possession for home team 220: 30.3    
-Before goal: Time in possession for away team 217: 38.38333333333333    
-After goal: Time in possession for home team 220: 37.2    
-After goal: Time in possession for away team 217: 10.7    
+Goal time: (70, 33), for (220, 'Real Madrid')   
+Card time: (-1, -1), for -1   
+First period: Time in possession for home team 220: 17.68    
+First period: Time in possession for away team 217: 26.25    
+Second period: Time in possession for home team 220: 25.07    
+Second period: Time in possession for away team 217: 22.83    
+Before goal: Time in possession for home team 220: 30.30    
+Before goal: Time in possession for away team 217: 38.38    
+After goal: Time in possession for home team 220: 37.20    
+After goal: Time in possession for away team 217: 10.70    
 Before card: Time in possession for home team 220: 42.75    
-Before card: Time in possession for away team 217: 49.083333333333336    
-After card: Time in possession for home team 220: -0.016666666666666666    
-After card: Time in possession for away team 217: -0.016666666666666666    
+Before card: Time in possession for away team 217: 49.08    
+After card: Time in possession for home team 220: -0.02    
+After card: Time in possession for away team 217: -0.02    
