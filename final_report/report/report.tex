@@ -4,22 +4,26 @@
 
 \usepackage{lipsum}
 
-\title{Title of a Project}
+\title{Effect of Key Match Events on Football Passmaps}
 
-\author[a,1]{Fine Author}
-\author[a,b]{Another Author} 
-\author[b]{Other Fine Authors}
+\author[a,1]{Vid Stropnik}
+\author[a]{Vuk \DJ uranović}
+\author[a]{Maruša Oražem} 
+
 
 \affil[a]{University of Ljubljana, Faculty of Computer and Information Science, Ve\v{c}na pot 113, SI-1000 Ljubljana, Slovenia}
-\affil[b]{Other Fine Institutions}
 
-\leadauthor{Author} 
 
+\leadauthor{Stropnik} 
 \authordeclaration{All authors contributed equally to this work.}
-\correspondingauthor{\textsuperscript{1}To whom correspondence should be addressed. E-mail: fine.author@email.com.}
+\correspondingauthor{\textsuperscript{1}To whom correspondence should be addressed. E-mail: vs2658@student.uni-lj.si}
+
+
+
+
 
 \begin{abstract}
-We study a phenomenon that we claim is important in a subject in which we claim many people are interested. We also claim that such ideas have been studied heavily both in network science and in other disciplines, although all prior work on this topic is horrible (though we will try to phrase that statement as politely as possible). One particular idea, which has some intriguing features but which either rarely has been studied or has only been studied in a crappy way before, is the one that we investigate in this project. Invoking minimal sarcasm, we study an extended version of this idea with our new approach, which we will claim to give universal results if we can get away with it. Our new approach has some bells and whistles that we study in our project, and we use computations, theory, and experiments to give important insights into a phenomenon that many people care about. We also give some gratuitous caveats so that peers will take us seriously, and we pray to our favorite deity that this approach is not equivalent to one that already exists (we forgot to check, and the authors need to graduate). We hope that our study, in addition to its intrinsic quality, will inspire future investigations, citations, and successful grants (and --- who knows? --- maybe even a Turing Award). In case you did not see it last time, we claim once again that our approach is universal.
+\lipsum[1]
 \end{abstract}
 
 \dates{The manuscript was compiled on \today}
@@ -31,8 +35,6 @@ We study a phenomenon that we claim is important in a subject in which we claim 
 \thispagestyle{firststyle}
 \ifthenelse{\boolean{shortarticle}}{\ifthenelse{\boolean{singlecolumn}}{\abscontentformatted}{\abscontent}}{}
 
-\dropcap{P}{\bf roblem definition, motivation, background and contributions.}
-\lipsum[1-5]
 
 
 \dropcap{A}{\bf ssociation football is the world's most popular sport.} During gameplay, players attempt to create goal-scoring opportunities through various methods of individual control of the ball. While these can include dribbling, tackling and taking direct shots, the most common one is passing the ball to a teammate. Progressing the ball along the pitch with a series of passes helps the team retain control of the match, enabling them to realize set plays. It is worth noting that this method is not only common, but also effective, as exhibited by the correlation of per-game average pass frequency and overall tea, success. \cite{plpasses}
@@ -41,23 +43,23 @@ Ball movement and goal-scoring opportunities in a football match are complex phe
 
 There are several events in any given football match, that might incur a fundamental change in a team's tactics and approach towards the game. The coaching staff might recognize weak points in the opposition's strategy and relay them to the players during half-time. Suddenly conceding a goal in a must-win game might prompt a team to take more risks and try a different approach, while we can often observe leading teams resort to time-wasting tactics to ensure their victory. 
 
-I
-In this project proposal, we introduce several hypotheses for novel ways of match analysis. By using methods of measuring change in team pass map centrality, by observing alterations of its underlying communities and by recognizing the (dis)appearance of distinct player graphlets as a result of a key event in a football match, we plan to study common team behaviours that said events might induce. We recognize these insights as useful in several areas. First, they serve as a form of establishing several ground truths about common trends of play, that might underpin further research. Secondly, more fine-grained difference of successful and unsuccessful responses to key events might be observed and be used in match preparations by domain experts. Finally, we recognize real-time applications of the proposed methods as useful in broadcasting, betting, commentary and analytics, to name only a few fields.
+In this course project, we introduce novel ways of football match analysis using established network science approaches. By using methods of measuring change in team pass map centrality, by observing alterations of its underlying communities and by recognizing the (dis)appearance of distinct player graphlets as a result of a key event in a football match, we study common team behaviours that key match events might induce. We recognize these insights as useful in several areas. First, they serve as a form of establishing several ground truths about common trends of play, that will underpin further research. Secondly, more fine-grained difference of successful and unsuccessful responses to key events might be observed and be used in match preparations by domain experts. Finally, we recognize real-time applications of the proposed methods as useful in broadcasting, betting, commentary and analytics, to name only a few fields.
+
+This report is structured as follows: In the following paragraphs, we provide a brief overview of the work, relating to inferring insights from sports data using network analysis. Here, we also introduce some key academic contributions to our work in the tree network science fields of special interest: measuring centrality, detecting communities and gathering semantic information from network graphlets. A subsection corresponds to each of these fields in the succeeding \textit{Results} section. In them, we introduce the main revelations about the effects of key match events on passing trends. We later comment on the implications of these results and asses their appropriateness for further application, while finally introducing our detailed methodologies at the end of the paper.
 
 
-\begin{figure}[t]\centering%
-	\includegraphics[width=0.8\linewidth]{examples}
-	\includegraphics[width=\linewidth]{growth}
-	\caption{Mandatory informative illustration highlighting main contributions.~\cite{Sub18a}}
-	\label{fig:example}
-\end{figure}
+
+%\begin{figure}[t]\centering%
+%	\includegraphics[width=0.8\linewidth]{examples}
+%	\includegraphics[width=\linewidth]{growth}
+%	\caption{Mandatory informative illustration highlighting main %contributions.~\cite{Sub18a}}
+%	\label{fig:example}
+%\end{figure}
 
 \section*{Related work}
+Evaluations of group performances based on their underlying network structures have been conducted for some time. Researchers were keen on understanding what kind of social, interaction or communication network structure boosts the productivity of a group in a working environment. Bavelas \cite{bavelas} was one of the pioneers in exploration of information transfer between groups. He discovered that the rate of information diffusion was significantly smaller in decentralized networks in comparison to centralized ones. It was later discovered by Shaw \cite{shaw} that this gave an edge to decentralized groups over the centralized ones in solving complex tasks. \
 
-{\bf Selected relevant literature ($\approx 15$ references).}
-\lipsum[1-3]
-
-\nocite{Kle00,Bou05,EB07,New08,For10,New12,FH16,PLC17,PDL18,Pei20}
+Team performance in collective sports has become a well researched area in the network analysis community in recent years. We recognize the conclusions by Grund \cite{grund} as a good starting point for the study of this field. In his work, he suggests that small networks (i.e. the eleven-node football team) are better explained with the use of the weighted edges between players. In such cases, weights are determined by the frequency of passes between two players. He also introduces a measure called network intensity, as a counterpart to network density in large and unweighted networks. This measure is computed as a function of weights for each link between players, nicely called passing-rate of the team. As a result of his work, Grund confirmed that an increase in team passing rate leads to increased performance, while increases in centralization of play reduces team performance. A similar approach in generating a football passmap as a weighted network was used in \cite{fbrn}, where the authors introduced a node measure called flow centrality - a function of pass accuracy and ratio of times a player was included in an action, leading to a shot on goal. Using it, they successfully graded individual player performances within a team. Due to advances in player-tracking technology, most recent research, such as those by Fernandez and Born \cite{fbrn}, or by Chawla et al \cite{chawla}, exploits the spatial-temporal data about observed passes. Due to the restrictions posed by our course project, we don't expect to consider these additional pieces of information, but will instead focus on the starting formation of the team in determining the position of the player. Should we recognize the aspect of temporal network analysis as important throughout our work, however, work by Mattson and Takes \cite{trajectory} on pass trajectory extraction, should be considered.
 
 \section*{Results}
 
@@ -74,25 +76,9 @@ In this project proposal, we introduce several hypotheses for novel ways of matc
 {\bf Main results supported by plots, figures, tables, diagrams etc.}
 \lipsum[1-2]
 
-\begin{figure}[h]\centering%
-	\includegraphics[width=0.49\linewidth]{example1}
-	\includegraphics[width=0.49\linewidth]{example2}
-	\caption{Figure showing interesting examples.~\cite{Sub18a}}
-\end{figure}
+
 
 \lipsum[3-8]
-
-\begin{figure}[t]\centering%
-	\includegraphics[width=\linewidth]{distributions}
-	\caption{Figure showing relevant results.~\cite{Sub18a}}
-\end{figure}
-
-\begin{figure}[b]\centering%
-	\includegraphics[width=0.45\linewidth]{results1}\hskip12pt
-	\includegraphics[width=0.45\linewidth]{results2}
-	\caption{Another figure with results.~\cite{Sub18a}}
-	\label{fig:example}
-\end{figure}
 
 \section*{Discussion}
 
