@@ -61,8 +61,8 @@ rc_communities_by_position = [
     {'home_team': [[9], [2, 3, 4, 5], [1, 6, 7, 10, 11], [8]], 'away_team': [[6], [2, 3, 7, 8], [1, 5, 9, 10], [4, 11]]}
 ]
 
-rc_games = ['9717', '9889', '9736', '9924', '266440', '267432', '267590', '267492', '267569', '69239', '69224', '69226', '69255', '69262', '69240', '69213', '69270', '69245', '69296', '69289', '69263', '70219', '69325', '70225', '69319', '69327', '69318', '70304', '70260', '70287', '70306', '266613', '265857', '266916', '266770', '267561', '266794', '266921', '266871', '267533', '267576', '266653', '265944', '266149', '266986', '266424', '68354', '68351', '68317', '68325', '69176', '68334', '68326', '68335', '68332', '68331', '68347', '16056', '16149', '16095', '15986', '16173', '69169', '69180', '69178', '69146', '69232', '69209', '69217', '69139', '69189', '69171', '69138', '69228', '69211', '303634', '303615']
-rc_events = ['h', 'a', 'h', 'h', 'a', 'a', 'a', 'a', 'h', 'h', 'a', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'a', 'h', 'h', 'a', 'h', 'a', 'a', 'h', 'a', 'a', 'a', 'h', 'h', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'a', 'a', 'h', 'a', 'a', 'h', 'h', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'a', 'h', 'a', 'a', 'h', 'h', 'a', 'h', 'h', 'a', 'h', 'a', 'h']
+rc_games = ['9717', '9889', '9736', '9924', '266440', '267590', '267492', '267569', '69224', '69255', '69262', '69240', '69213', '69270', '69245', '69296', '69263', '70219', '69325', '69319', '69327', '69318', '70260', '70287', '266613', '266916', '266770', '267561', '266794', '266921', '266871', '267533', '266653', '266149', '266986', '68354', '68351', '68317', '68325', '69176', '68334', '68335', '68332', '68347', '16056', '16095', '16173', '69180', '69178', '69146', '69209', '69139', '69189', '69171', '69228', '69211', '303615']
+rc_events = ['h', 'a', 'h', 'h', 'a', 'a', 'a', 'h', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'h', 'h', 'a', 'a', 'a', 'h', 'a', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'a', 'h', 'a', 'h', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'a', 'h', 'a', 'h', 'a', 'h', 'a', 'h', 'h']
 
 ggames = ['9592', '9870', '9783', '9700', '9860', '9695', '9717', '9673', '9620', '9827', '9837', '9642', '9602', '9948', '9682', '9581', '9726', '9754', '9575', '9765', '9889', '9609', '9636', '9661', '9736', '9799', '9924', '267212', '267220', '266989', '266357', '267039', '267058', '266477', '266440', '267660', '266273', '266874', '266731', '266280', '267076', '267590', '267373', '267077', '266952', '267464', '266299', '266191', '267492', '267569', '69243', '69257', '69253', '69244', '69277', '69229', '69219', '69218', '69250', '69242', '69256', '69298', '69221', '69259', '69224', '69210', '69220', '69237']
 gevents = ['h', 'h', 'h', 'a', 'h', 'h', 'a', 'h', 'a', 'a', 'h', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'a', 'a', 'a', 'h', 'h', 'a', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'a', 'h', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'a', 'a', 'a', 'a', 'a', 'h', 'h', 'h', 'a', 'h', 'a', 'h', 'a', 'a', 'h']
@@ -96,7 +96,7 @@ def who_did_what(event):
     # games = extract_games(100)
     event_data = []
 
-    for id in ggames:
+    for id in rc_games:
         home_team, away_team = read_team_names(id)
         with open('../nets/' + id + '/' + id + '.txt', 'r', encoding="utf-8") as File:
             line_count = 1
@@ -569,7 +569,7 @@ def tree_pruning(gw):
         weights.append(edge[2]['weight'])
 
     median = statistics.median(weights)
-    print('Median is: ' + str(median))
+    # print('Median is: ' + str(median))
 
     ws = []
     for i, edge in enumerate(copy.deepcopy(g.edges(data=True))):
@@ -661,49 +661,52 @@ def read_goal_lcommunities():
     game_results = []
     ngames = []
 
-    for i, game_id in enumerate(ggames):
+    for i, game_id in enumerate(rc_games):
         home_team, away_team = read_team_names(game_id)
         gs = read_game_result(game_id)
         game_results.append(gs)
         game_results.append(gs)
-        home_1hg, home_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_goal_0.net', with_node_names=False))
-        away_1hg, away_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_goal_0.net', with_node_names=False))
-        home_2hg, home_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_goal_1.net', with_node_names=False))
-        away_2hg, away_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_goal_1.net', with_node_names=False))
 
+        try:
+            home_1hg, home_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_goal_0.net', with_node_names=False))
+            away_1hg, away_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_goal_0.net', with_node_names=False))
+            home_2hg, home_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_goal_1.net', with_node_names=False))
+            away_2hg, away_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_goal_1.net', with_node_names=False))
+        except:
+            print(game_id)
         teams.append(home_team)
         teams.append(away_team)
 
         try:
             detected_communities = leiden(home_1hg, weights=home_1hweights)
-            largest_com = max([len(com) for com in detected_communities.communities])
-            if gevents[i] == 'h':
+            largest_com = len(detected_communities.communities)
+            if rc_events[i] == 'h':
                 team_performing_t1_comm.append(largest_com)
             else:
                 team_opp_t1_comm.append(largest_com)
 
             detected_communities = leiden(away_1hg, weights=away_1hweights)
-            largest_com = max([len(com) for com in detected_communities.communities])
-            if gevents[i] == 'h':
+            largest_com = len(detected_communities.communities)
+            if rc_events[i] == 'h':
                 team_opp_t1_comm.append(largest_com)
             else:
                 team_performing_t1_comm.append(largest_com)
 
             detected_communities = leiden(home_2hg, weights=home_2hweights)
-            largest_com = max([len(com) for com in detected_communities.communities])
-            if gevents[i] == 'h':
+            largest_com = len(detected_communities.communities)
+            if rc_events[i] == 'h':
                 team_performing_t2_comm.append(largest_com)
             else:
                 team_opp_t2_comm.append(largest_com)
 
             detected_communities = leiden(away_2hg, weights=away_2hweights)
-            largest_com = max([len(com) for com in detected_communities.communities])
-            if gevents[i] == 'h':
+            largest_com = len(detected_communities.communities)
+            if rc_events[i] == 'h':
                 team_opp_t2_comm.append(largest_com)
             else:
                 team_performing_t2_comm.append(largest_com)
         except:
-            print('Dogodio se exception' + str(game_id))
+            rc_games.remove(game_id)
 
     print('----- Duzine --------------')
     print(len(team_performing_t1_comm))
@@ -723,7 +726,7 @@ def read_goal_lcommunities():
     diffs = pd.DataFrame({'x': x, 'avg': avgs})
     sns.set_theme(style="whitegrid")
     ax = sns.barplot(x="x", y="avg", data=diffs)
-    plt.savefig('lcom.png')
+    plt.savefig('red_card_com.png')
     plt.show()
 
 if __name__ == "__main__":
@@ -747,9 +750,10 @@ if __name__ == "__main__":
     # gevents = who_did_what('goal')
     # read_goal_lcommunities()
 
-    some_f()
+    # some_f()
+    # print(who_did_what('card'))
 
-
+    read_goal_lcommunities()
 
 
 
