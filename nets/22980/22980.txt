@@ -6,7 +6,7 @@ Gender: female
 Home team: Nigeria Women's (1213), goals: 0   
 Away team: France Women's (861), goals: 1    
 Goal time: (78, 53), for (861, "France Women's")   
-Card time: (72, 8), for -1   
+Card time: (72, 8), for (1213, "Nigeria Women's")   
 First period: Time in possession for home team 1213: 13.27    
 First period: Time in possession for away team 861: 33.03    
 Second period: Time in possession for home team 1213: 11.93    

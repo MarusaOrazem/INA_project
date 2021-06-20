@@ -6,7 +6,7 @@ Gender: male
 Home team: Hércules (1218), goals: 0   
 Away team: Barcelona (217), goals: 3    
 Goal time: (42, 28), for (217, 'Barcelona')   
-Card time: (84, 11), for -1   
+Card time: (84, 11), for (1218, 'Hércules')   
 First period: Time in possession for home team 1218: 12.13    
 First period: Time in possession for away team 217: 32.28    
 Second period: Time in possession for home team 1218: 12.73    

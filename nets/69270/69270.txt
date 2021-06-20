@@ -6,7 +6,7 @@ Gender: male
 Home team: Getafe (216), goals: 1   
 Away team: Barcelona (217), goals: 3    
 Goal time: (22, 29), for (217, 'Barcelona')   
-Card time: (67, 59), for -1   
+Card time: (67, 59), for (217, 'Barcelona')   
 First period: Time in possession for home team 216: 13.50    
 First period: Time in possession for away team 217: 30.95    
 Second period: Time in possession for home team 216: 23.88    

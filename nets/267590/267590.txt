@@ -6,7 +6,7 @@ Gender: male
 Home team: Málaga (223), goals: 2   
 Away team: Barcelona (217), goals: 0    
 Goal time: (31, 32), for (223, 'Málaga')   
-Card time: (64, 41), for -1   
+Card time: (64, 41), for (217, 'Barcelona')   
 First period: Time in possession for home team 223: 16.92    
 First period: Time in possession for away team 217: 27.38    
 Second period: Time in possession for home team 223: 16.40    

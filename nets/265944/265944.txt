@@ -6,7 +6,7 @@ Gender: male
 Home team: Barcelona (217), goals: 6   
 Away team: Sporting Gijón (1041), goals: 0    
 Goal time: (11, 57), for (217, 'Barcelona')   
-Card time: (83, 46), for -1   
+Card time: (83, 46), for (1041, 'Sporting Gijón')   
 First period: Time in possession for home team 217: 29.95    
 First period: Time in possession for away team 1041: 14.75    
 Second period: Time in possession for home team 217: 36.65    

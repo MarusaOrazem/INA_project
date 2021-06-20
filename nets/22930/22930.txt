@@ -6,7 +6,7 @@ Gender: female
 Home team: Spain Women's (863), goals: 3   
 Away team: South Africa Women's (1216), goals: 1    
 Goal time: (24, 18), for (1216, "South Africa Women's")   
-Card time: (78, 56), for -1   
+Card time: (78, 56), for (1216, "South Africa Women's")   
 First period: Time in possession for home team 863: 33.27    
 First period: Time in possession for away team 1216: 12.53    
 Second period: Time in possession for home team 863: 38.08    

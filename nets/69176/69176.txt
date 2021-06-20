@@ -6,7 +6,7 @@ Gender: male
 Home team: Atlético Madrid (212), goals: 0   
 Away team: Barcelona (217), goals: 6    
 Goal time: (38, 50), for (217, 'Barcelona')   
-Card time: (71, 10), for -1   
+Card time: (71, 10), for (212, 'Atlético Madrid')   
 First period: Time in possession for home team 212: 17.15    
 First period: Time in possession for away team 217: 28.97    
 Second period: Time in possession for home team 212: 19.22    

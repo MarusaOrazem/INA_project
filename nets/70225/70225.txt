@@ -6,7 +6,7 @@ Gender: male
 Home team: Barcelona (217), goals: 5   
 Away team: Granada (1049), goals: 3    
 Goal time: (3, 36), for (217, 'Barcelona')   
-Card time: (87, 34), for -1   
+Card time: (87, 34), for (217, 'Barcelona')   
 First period: Time in possession for home team 217: 30.80    
 First period: Time in possession for away team 1049: 13.37    
 Second period: Time in possession for home team 217: 33.23    

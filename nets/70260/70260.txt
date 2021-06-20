@@ -6,7 +6,7 @@ Gender: male
 Home team: Barcelona (217), goals: 5   
 Away team: Osasuna (422), goals: 1    
 Goal time: (10, 17), for (217, 'Barcelona')   
-Card time: (25, 58), for -1   
+Card time: (25, 58), for (422, 'Osasuna')   
 First period: Time in possession for home team 217: 31.28    
 First period: Time in possession for away team 422: 14.12    
 Second period: Time in possession for home team 217: 34.60    

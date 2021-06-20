@@ -6,7 +6,7 @@ Gender: male
 Home team: Celta Vigo (209), goals: 2   
 Away team: Barcelona (217), goals: 3    
 Goal time: (41, 29), for (209, 'Celta Vigo')   
-Card time: (86, 28), for -1   
+Card time: (86, 28), for (209, 'Celta Vigo')   
 First period: Time in possession for home team 209: 15.80    
 First period: Time in possession for away team 217: 27.68    
 Second period: Time in possession for home team 209: 18.55    

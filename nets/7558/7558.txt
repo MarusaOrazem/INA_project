@@ -6,7 +6,7 @@ Gender: male
 Home team: Uruguay (783), goals: 3   
 Away team: Russia (796), goals: 0    
 Goal time: (9, 28), for (783, 'Uruguay')   
-Card time: (35, 28), for -1   
+Card time: (35, 28), for (796, 'Russia')   
 First period: Time in possession for home team 783: 24.22    
 First period: Time in possession for away team 796: 22.47    
 Second period: Time in possession for home team 783: 25.27    

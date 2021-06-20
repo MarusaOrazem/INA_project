@@ -6,7 +6,7 @@ Gender: female
 Home team: Tottenham Hotspur Women (749), goals: 0   
 Away team: Manchester United (1475), goals: 3    
 Goal time: (12, 44), for (1475, 'Manchester United')   
-Card time: (89, 38), for -1   
+Card time: (89, 38), for (1475, 'Manchester United')   
 First period: Time in possession for home team 749: 25.68    
 First period: Time in possession for away team 1475: 20.62    
 Second period: Time in possession for home team 749: 23.10    

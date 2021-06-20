@@ -6,7 +6,7 @@ Gender: male
 Home team: Barcelona (217), goals: 3   
 Away team: Valencia (207), goals: 0    
 Goal time: (55, 27), for (217, 'Barcelona')   
-Card time: (68, 43), for -1   
+Card time: (68, 43), for (207, 'Valencia')   
 First period: Time in possession for home team 217: 25.88    
 First period: Time in possession for away team 207: 21.22    
 Second period: Time in possession for home team 217: 30.50    

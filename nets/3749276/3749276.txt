@@ -6,7 +6,7 @@ Gender: male
 Home team: Chelsea (33), goals: 1   
 Away team: Arsenal (1), goals: 2    
 Goal time: (0, 27), for (33, 'Chelsea')   
-Card time: (59, 27), for -1   
+Card time: (59, 27), for (33, 'Chelsea')   
 First period: Time in possession for home team 33: 28.35    
 First period: Time in possession for away team 1: 18.60    
 Second period: Time in possession for home team 33: 23.22    

@@ -6,7 +6,7 @@ Gender: male
 Home team: Barcelona (217), goals: 6   
 Away team: Rayo Vallecano (360), goals: 1    
 Goal time: (5, 0), for (217, 'Barcelona')   
-Card time: (53, 43), for -1   
+Card time: (53, 43), for (360, 'Rayo Vallecano')   
 First period: Time in possession for home team 217: 26.30    
 First period: Time in possession for away team 360: 18.17    
 Second period: Time in possession for home team 217: 26.67    
