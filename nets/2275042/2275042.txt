@@ -6,7 +6,7 @@ Gender: female
 Home team: Manchester City WFC (746), goals: 5   
 Away team: West Ham United LFC (972), goals: 0    
 Goal time: (10, 29), for (746, 'Manchester City WFC')   
-Card time: (69, 41), for -1   
+Card time: (69, 41), for (746, 'Manchester City WFC')   
 First period: Time in possession for home team 746: 29.63    
 First period: Time in possession for away team 972: 16.63    
 Second period: Time in possession for home team 746: 25.53    

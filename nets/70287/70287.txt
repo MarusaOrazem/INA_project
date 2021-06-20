@@ -6,7 +6,7 @@ Gender: male
 Home team: Real Sociedad (210), goals: 3   
 Away team: Barcelona (217), goals: 2    
 Goal time: (6, 8), for (217, 'Barcelona')   
-Card time: (55, 36), for -1   
+Card time: (55, 36), for (217, 'Barcelona')   
 First period: Time in possession for home team 210: 15.58    
 First period: Time in possession for away team 217: 29.55    
 Second period: Time in possession for home team 210: 19.83    

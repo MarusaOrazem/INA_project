@@ -6,7 +6,7 @@ Gender: female
 Home team: Birmingham City WFC (969), goals: 0   
 Away team: Chelsea FCW (971), goals: 0    
 Goal time: (-1, -1), for -1   
-Card time: (84, 7), for -1   
+Card time: (84, 7), for (969, 'Birmingham City WFC')   
 First period: Time in possession for home team 969: 30.00    
 First period: Time in possession for away team 971: 19.42    
 Second period: Time in possession for home team 969: 23.78    

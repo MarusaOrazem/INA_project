@@ -6,7 +6,7 @@ Gender: male
 Home team: Sevilla (213), goals: 2   
 Away team: Barcelona (217), goals: 3    
 Goal time: (4, 43), for (217, 'Barcelona')   
-Card time: (55, 4), for -1   
+Card time: (55, 4), for (213, 'Sevilla')   
 First period: Time in possession for home team 213: 15.92    
 First period: Time in possession for away team 217: 30.90    
 Second period: Time in possession for home team 213: 17.25    

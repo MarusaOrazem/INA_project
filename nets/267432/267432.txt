@@ -6,7 +6,7 @@ Gender: male
 Home team: Barcelona (217), goals: 4   
 Away team: Eibar (322), goals: 2    
 Goal time: (6, 45), for (322, 'Eibar')   
-Card time: (73, 49), for -1   
+Card time: (73, 49), for (322, 'Eibar')   
 First period: Time in possession for home team 217: 29.73    
 First period: Time in possession for away team 322: 14.63    
 Second period: Time in possession for home team 217: 36.97    

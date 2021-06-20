@@ -6,7 +6,7 @@ Gender: male
 Home team: Germany (770), goals: 2   
 Away team: Sweden (790), goals: 1    
 Goal time: (31, 44), for (790, 'Sweden')   
-Card time: (80, 50), for -1   
+Card time: (80, 50), for (770, 'Germany')   
 First period: Time in possession for home team 770: 36.73    
 First period: Time in possession for away team 790: 9.63    
 Second period: Time in possession for home team 770: 37.22    

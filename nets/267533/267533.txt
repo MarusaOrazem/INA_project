@@ -6,7 +6,7 @@ Gender: male
 Home team: Barcelona (217), goals: 1   
 Away team: Real Madrid (220), goals: 2    
 Goal time: (55, 45), for (217, 'Barcelona')   
-Card time: (82, 42), for -1   
+Card time: (82, 42), for (220, 'Real Madrid')   
 First period: Time in possession for home team 217: 27.17    
 First period: Time in possession for away team 220: 18.57    
 Second period: Time in possession for home team 217: 29.17    

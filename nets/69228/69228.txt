@@ -6,7 +6,7 @@ Gender: male
 Home team: Villarreal (222), goals: 1   
 Away team: Barcelona (217), goals: 2    
 Goal time: (47, 12), for (222, 'Villarreal')   
-Card time: (73, 52), for -1   
+Card time: (73, 52), for (217, 'Barcelona')   
 First period: Time in possession for home team 222: 19.35    
 First period: Time in possession for away team 217: 25.63    
 Second period: Time in possession for home team 222: 24.13    

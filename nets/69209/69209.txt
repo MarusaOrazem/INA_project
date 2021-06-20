@@ -6,7 +6,7 @@ Gender: male
 Home team: Racing Santander (1217), goals: 1   
 Away team: Barcelona (217), goals: 2    
 Goal time: (55, 3), for (1217, 'Racing Santander')   
-Card time: (87, 20), for -1   
+Card time: (87, 20), for (217, 'Barcelona')   
 First period: Time in possession for home team 1217: 15.62    
 First period: Time in possession for away team 217: 30.08    
 Second period: Time in possession for home team 1217: 15.55    

@@ -6,7 +6,7 @@ Gender: male
 Home team: Real Zaragoza (395), goals: 1   
 Away team: Barcelona (217), goals: 4    
 Goal time: (29, 20), for (395, 'Real Zaragoza')   
-Card time: (43, 54), for -1   
+Card time: (43, 54), for (395, 'Real Zaragoza')   
 First period: Time in possession for home team 395: 12.63    
 First period: Time in possession for away team 217: 32.73    
 Second period: Time in possession for home team 395: 13.97    

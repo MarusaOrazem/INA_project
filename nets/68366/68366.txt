@@ -6,7 +6,7 @@ Gender: male
 Home team: Barcelona (217), goals: 2   
 Away team: Mallorca (1043), goals: 3    
 Goal time: (16, 9), for (217, 'Barcelona')   
-Card time: (91, 47), for -1   
+Card time: (91, 47), for (217, 'Barcelona')   
 First period: Time in possession for home team 217: 23.38    
 First period: Time in possession for away team 1043: 21.97    
 Second period: Time in possession for home team 217: 24.45    

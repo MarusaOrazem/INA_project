@@ -6,7 +6,7 @@ Gender: male
 Home team: Athletic Bilbao (215), goals: 2   
 Away team: Barcelona (217), goals: 2    
 Goal time: (19, 8), for (215, 'Athletic Bilbao')   
-Card time: (89, 12), for -1   
+Card time: (89, 12), for (215, 'Athletic Bilbao')   
 First period: Time in possession for home team 215: 16.98    
 First period: Time in possession for away team 217: 26.12    
 Second period: Time in possession for home team 215: 16.08    

@@ -6,7 +6,7 @@ Gender: male
 Home team: Real Betis (218), goals: 2   
 Away team: Barcelona (217), goals: 2    
 Goal time: (8, 9), for (217, 'Barcelona')   
-Card time: (52, 22), for -1   
+Card time: (52, 22), for (217, 'Barcelona')   
 First period: Time in possession for home team 218: 15.55    
 First period: Time in possession for away team 217: 30.00    
 Second period: Time in possession for home team 218: 23.27    

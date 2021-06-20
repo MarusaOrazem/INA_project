@@ -6,7 +6,7 @@ Gender: female
 Home team: England Women's (865), goals: 1   
 Away team: United States Women's (1214), goals: 2    
 Goal time: (9, 3), for (1214, "United States Women's")   
-Card time: (85, 27), for -1   
+Card time: (85, 27), for (865, "England Women's")   
 First period: Time in possession for home team 865: 24.30    
 First period: Time in possession for away team 1214: 21.02    
 Second period: Time in possession for home team 865: 33.60    

@@ -6,7 +6,7 @@ Gender: male
 Home team: Espanyol (214), goals: 0   
 Away team: Barcelona (217), goals: 0    
 Goal time: (-1, -1), for -1   
-Card time: (61, 0), for -1   
+Card time: (61, 0), for (217, 'Barcelona')   
 First period: Time in possession for home team 214: 15.52    
 First period: Time in possession for away team 217: 28.70    
 Second period: Time in possession for home team 214: 18.57    

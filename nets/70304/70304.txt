@@ -6,7 +6,7 @@ Gender: male
 Home team: Deportivo La Coruna (219), goals: 4   
 Away team: Barcelona (217), goals: 5    
 Goal time: (2, 25), for (217, 'Barcelona')   
-Card time: (48, 34), for -1   
+Card time: (48, 34), for (217, 'Barcelona')   
 First period: Time in possession for home team 219: 17.27    
 First period: Time in possession for away team 217: 27.32    
 Second period: Time in possession for home team 219: 19.25    

@@ -6,7 +6,7 @@ Gender: male
 Home team: Girona (211), goals: 0   
 Away team: Barcelona (217), goals: 2    
 Goal time: (8, 53), for (217, 'Barcelona')   
-Card time: (50, 28), for -1   
+Card time: (50, 28), for (211, 'Girona')   
 First period: Time in possession for home team 211: 21.23    
 First period: Time in possession for away team 217: 24.10    
 Second period: Time in possession for home team 211: 16.80    
