@@ -426,7 +426,7 @@ def read_redcard_split_for_communities():
 
     diffs = pd.DataFrame({'receiving_team': cms['recieving_card_t1'] - cms['recieving_card_t2'],
                           'opp_team': cms['opp_card_t1'] - cms['opp_card_t2']})
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(15, 10))
     ax.set_title('Boxplot for red card split')
     ax.boxplot(diffs)
     plt.xticks([1, 2], ['Team recieving red card', 'Opposing team'])
@@ -680,8 +680,8 @@ def some_f():
 
     all_together = hteam_ratios_t2.append(ateam_ratios_t2, ignore_index=True)
     # .append(ateam_ratios_t1, ignore_index=True).append(ateam_ratios_t2, ignore_index=True)
-    hteam_ratios_t1_avgs = all_together.groupby('com_lens').mean()
-    hteam_ratios_t1_stds = all_together.groupby('com_lens').std().fillna(0)
+    hteam_ratios_t1_avgs = hteam_ratios_t1.groupby('com_lens').mean()
+    hteam_ratios_t1_stds = hteam_ratios_t1.groupby('com_lens').std().fillna(0)
 
     labels = hteam_ratios_t1_avgs.index
     gk_means = list(hteam_ratios_t1_avgs['gk_ratios'])
@@ -709,7 +709,7 @@ def some_f():
     ax.set_xlabel('Size of the community')
     ax.set_title('Ratios of positons by community size (2nd half) hometeam')
     ax.legend(loc='upper right', bbox_to_anchor=(1.13, 0.8), prop={'size': 12})
-    plt.savefig('stack_bar_positions_second_half.png')
+    plt.savefig('stack_bar_positions_hht1.png')
     plt.show()
 
     # hteam_ratios_t1_avgs = hteam_ratios_t2.groupby('com_lens').mean()
@@ -821,17 +821,17 @@ def read_goal_lcommunities():
     game_results = []
     ngames = []
 
-    for i, game_id in enumerate(ggames):
+    for i, game_id in enumerate(rc_games):
         home_team, away_team = read_team_names(game_id)
         gs = read_game_result(game_id)
         game_results.append(gs)
         game_results.append(gs)
 
         try:
-            home_1hg, home_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_goal_0.net', with_node_names=False))
-            away_1hg, away_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_goal_0.net', with_node_names=False))
-            home_2hg, home_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_goal_1.net', with_node_names=False))
-            away_2hg, away_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_goal_1.net', with_node_names=False))
+            home_1hg, home_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_card_0.net', with_node_names=False))
+            away_1hg, away_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_card_0.net', with_node_names=False))
+            home_2hg, home_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_card_1.net', with_node_names=False))
+            away_2hg, away_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_card_1.net', with_node_names=False))
         except:
             print(game_id)
         teams.append(home_team)
@@ -840,28 +840,28 @@ def read_goal_lcommunities():
         try:
             detected_communities = leiden(home_1hg, weights=home_1hweights)
             largest_com = len(detected_communities.communities)
-            if gevents[i] == 'h':
+            if rc_events[i] == 'h':
                 team_performing_t1_comm.append(largest_com)
             else:
                 team_opp_t1_comm.append(largest_com)
 
             detected_communities = leiden(away_1hg, weights=away_1hweights)
             largest_com = len(detected_communities.communities)
-            if gevents[i] == 'h':
+            if rc_events[i] == 'h':
                 team_opp_t1_comm.append(largest_com)
             else:
                 team_performing_t1_comm.append(largest_com)
 
             detected_communities = leiden(home_2hg, weights=home_2hweights)
             largest_com = len(detected_communities.communities)
-            if gevents[i] == 'h':
+            if rc_events[i] == 'h':
                 team_performing_t2_comm.append(largest_com)
             else:
                 team_opp_t2_comm.append(largest_com)
 
             detected_communities = leiden(away_2hg, weights=away_2hweights)
             largest_com = len(detected_communities.communities)
-            if gevents[i] == 'h':
+            if rc_events[i] == 'h':
                 team_opp_t2_comm.append(largest_com)
             else:
                 team_performing_t2_comm.append(largest_com)
@@ -884,43 +884,20 @@ def read_goal_lcommunities():
             cms['team_opp_goal_t2'].mean()]
     stds = [cms['team_scoring_goal_t1'].std(), cms['team_scoring_goal_t2'].std(), cms['team_opp_goal_t1'].std(),
             cms['team_opp_goal_t2'].std()]
-    x = ['Before scoring goal', 'After scoring goal', 'Before conceding goal', 'After conceding goal']
+    x = ['Before getting\n red card', 'After getting\n red card', 'Before opp getting\n red card', 'After opp getting\n red card']
 
     diffs = pd.DataFrame({'x': x, 'avg': avgs})
     sns.set_theme(style="whitegrid")
-    ax = sns.barplot(x="x", y="avg", yerr=stds, data=diffs)
+    fig, ax = plt.subplots(figsize=(8,10))
+    sns.barplot(x="x", y="avg", yerr=stds, data=diffs, ax=ax)
     plt.xticks(rotation=90);
-    plt.savefig('ncom_goal.png')
+    plt.savefig('ncom_red_card.png')
     plt.show()
 
 if __name__ == "__main__":
-    # read_halftime_split_for_communities()
-    # read_goal_split_for_communities()
     # read_redcard_split_for_communities()
-    # print(len(rc_games))
-    # extract_goal_games(90)
-    # extract_redcard_games(90)
-
-    # df = see_community_changes('goal')
-    #
-    # dteam1 = df['first_goal_NMI_did']
-    #
-    #
-    #
-    # sns.set_theme(style="whitegrid")
-    # # tips = sns.load_dataset("tips")
-    # ax = sns.barplot(x="day", y="total_bill", data=df)
-    # who_did_what('goal')
-    # gevents = who_did_what('goal')
-    # read_goal_lcommunities()
-
+    read_goal_lcommunities()
     # some_f()
-    # print(len(rc_games))
-    # rc_events = who_did_what('card')
-    # print(len(rc_events))
-    # print(rc_events)
-
-    some_f()
 
 
 
