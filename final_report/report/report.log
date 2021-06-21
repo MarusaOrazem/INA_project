@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.29)  21 JUN 2021 00:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.29)  21 JUN 2021 02:52
 entering extended mode
 **./report.tex
 (report.tex
@@ -1407,4 +1407,236 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/9'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <2
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <22.96867> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 42.
+LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <26> not available
+(Font)              Font shape `T1/lmss/bx/n' tried instead on input line 42.
+Package lettrine.sty Info: Targeted height = 15.69254pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 18.05571pt ({\fontfamily {lmss}\bf
+series \fontsize {26pt}{28pt}\selectfont {A}});
+(lettrine.sty)             reported on input line 42.
+
+
+Package natbib Warning: Citation `plpasses' on page 1 undefined on input line 4
+2.
+
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 49.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 61.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 9.49997pt on input line 61.
+
+Package natbib Warning: Citation `bavelas' on page 1 undefined on input line 62
+.
+
+
+Package natbib Warning: Citation `shaw' on page 1 undefined on input line 62.
+
+
+Package natbib Warning: Citation `grund' on page 1 undefined on input line 64.
+
+
+Package natbib Warning: Citation `duch2010quantifying' on page 1 undefined on i
+nput line 64.
+
+
+Package natbib Warning: Citation `castellano2019network' on page 1 undefined on
+ input line 64.
+
+
+Package natbib Warning: Citation `kazerani2009can' on page 1 undefined on input
+ line 64.
+
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 6.64998pt on input line 65.
+[1{C:/Users/vs6309/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+]
+
+Package natbib Warning: Citation `przulj' on page 2 undefined on input line 66.
+
+
+
+Package natbib Warning: Citation `Milo' on page 2 undefined on input line 66.
+
+
+Package natbib Warning: Citation `penna' on page 2 undefined on input line 66.
+
+
+Package natbib Warning: Citation `Bekkers' on page 2 undefined on input line 66
+.
+
+
+Package natbib Warning: Citation `fbrn' on page 2 undefined on input line 68.
+
+
+Package natbib Warning: Citation `chawla' on page 2 undefined on input line 68.
+
+
+
+Package natbib Warning: Citation `trajectory' on page 2 undefined on input line
+ 68.
+
+
+Package natbib Warning: Citation `bialkowski2014large' on page 2 undefined on i
+nput line 68.
+
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
+5.
+(C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+Package natbib Warning: Citation `triangle' on page 2 undefined on input line 7
+5.
+
+
+LaTeX Warning: Reference `fig:Motifs' on page 2 undefined on input line 75.
+
+<barcaopp.png, id=25, 506.6127pt x 360.6273pt>
+File: barcaopp.png Graphic file (type png)
+<use barcaopp.png>
+Package pdftex.def Info: barcaopp.png  used on input line 78.
+(pdftex.def)             Requested size: 246.09686pt x 175.17917pt.
+<barcasignif.png, id=29, 515.2851pt x 179.9523pt>
+File: barcasignif.png Graphic file (type png)
+<use barcasignif.png>
+Package pdftex.def Info: barcasignif.png  used on input line 84.
+(pdftex.def)             Requested size: 246.09686pt x 85.94226pt.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 85.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 6.64998pt on input line 85.
+
+LaTeX Warning: Reference `fig:MotifSignificanceDismissal' on page 2 undefined o
+n input line 90.
+
+
+LaTeX Warning: Reference `fig:Motifs' on page 2 undefined on input line 92.
+
+
+LaTeX Warning: Reference `fig:OrbitGoals' on page 2 undefined on input line 92.
+
+
+
+LaTeX Warning: Reference `fig:OrbitCards' on page 2 undefined on input line 94.
+
+
+<motifs.png, id=32, 1184.92688pt x 601.4972pt>
+File: motifs.png Graphic file (type png)
+<use motifs.png>
+Package pdftex.def Info: motifs.png  used on input line 97.
+(pdftex.def)             Requested size: 246.09686pt x 124.92307pt.
+<generalimportance.png, id=33, 254.3904pt x 260.172pt>
+File: generalimportance.png Graphic file (type png)
+<use generalimportance.png>
+Package pdftex.def Info: generalimportance.png  used on input line 103.
+(pdftex.def)             Requested size: 246.09686pt x 251.70354pt.
+<OrbitGoals.png, id=34, 898.3161pt x 338.2236pt>
+File: OrbitGoals.png Graphic file (type png)
+<use OrbitGoals.png>
+Package pdftex.def Info: OrbitGoals.png  used on input line 109.
+(pdftex.def)             Requested size: 246.09686pt x 92.65309pt.
+<MotifSignificanceDismissal.png, id=35, 607.7907pt x 291.9708pt>
+File: MotifSignificanceDismissal.png Graphic file (type png)
+<use MotifSignificanceDismissal.png>
+Package pdftex.def Info: MotifSignificanceDismissal.png  used on input line 116
+.
+(pdftex.def)             Requested size: 246.09686pt x 118.22078pt.
+<BayernPassWeightComparison.png, id=36, 803.0pt x 552.0625pt>
+File: BayernPassWeightComparison.png Graphic file (type png)
+<use BayernPassWeightComparison.png>
+Package pdftex.def Info: BayernPassWeightComparison.png  used on input line 129
+.
+(pdftex.def)             Requested size: 196.87823pt x 135.35336pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./barcaopp.png> <./barcasignif.png>]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 137.
+
+
+Package natbib Warning: Citation `statsbomb' on page 3 undefined on input line 
+138.
+
+
+Package natbib Warning: Citation `przulj' on page 3 undefined on input line 146
+.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 146.
+No file report.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+
+AED: lastpage setting LastPage
+[3 <./motifs.png> <./generalimportance.png> <./OrbitGoals.png> <./MotifSignific
+anceDismissal.png>] [4
+
+ <./BayernPassWeightComparison.png (PNG copy)>]
+(report.aux)
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 133 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 26468 strings out of 479799
+ 488051 string characters out of 2869247
+ 1101481 words of memory out of 3000000
+ 42625 multiletter control sequences out of 15000+200000
+ 649637 words of font info for 196 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 122i,11n,124p,1918b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced bu
+t does not exist, replaced by a fixed one
+
+{C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:
+/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C
+:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{
+C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}
+{C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:
+/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Use
+rs/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users
+/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx6.pfb><C:/Users
+/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx8.pfb><C:/Users
+/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx9.pfb><C:/Users
+/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/User
+s/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi5.pfb><C:/User
+s/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/User
+s/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi7.pfb><C:/User
+s/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/User
+s/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr5.pfb><C:/Users
+/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/
+vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/v
+s6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/vs
+6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/vs6
+309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri8.pfb><C:/Users/vs6
+309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/vs6
+309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/
+vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy6.pfb><C:/Users/
+vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy7.pfb><C:/Users/
+vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Us
+ers/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C
+:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.p
+fb>
+Output written on report.pdf (4 pages, 652785 bytes).
+PDF statistics:
+ 166 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 46128 words of extra memory for PDF output out of 51595 (max. 10000000)
+
