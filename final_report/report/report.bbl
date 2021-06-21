@@ -1,4 +1,4 @@
-\begin{thebibliography}{17}
+\begin{thebibliography}{19}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -22,6 +22,14 @@ M.~E. Shaw.
 Thomas~U. Grund.
 \newblock Network structure and team performance: The case of english premier
   league soccer teams, 2012.
+
+\bibitem[Clemente et~al.(2015)Clemente, Couceiro, Martins, and
+  Mendes]{Clementine}
+Filipe~Manuel Clemente, Micael~Santos Couceiro, Fernando Manuel~Louren{\c{c}}o
+  Martins, and Rui~Sousa Mendes.
+\newblock Using network metrics in soccer: a macro-analysis.
+\newblock \emph{Journal of human kinetics}, 45\penalty0 (1):\penalty0 123--134,
+  2015.
 
 \bibitem[Duch et~al.(2010)Duch, Waitzman, and Amaral]{duch2010quantifying}
 Jordi Duch, Joshua~S Waitzman, and Lu{\'\i}s A~Nunes Amaral.
@@ -94,6 +102,12 @@ ZHAO Zhi-nan.
   “five elements” ideology.
 \newblock \emph{China School Physical Education (Higher Education)}, page~07,
   2014.
+
+\bibitem[MarusaOrazem(2021)]{marusagit}
+MarusaOrazem.
+\newblock {MarusaOrazem}/{INA}\_project, June 2021.
+\newblock URL \url{https://github.com/MarusaOrazem/INA_project}.
+\newblock original-date: 2021-05-11T15:19:35Z.
 
 \bibitem[sta(2021)]{statsbomb}
 statsbomb/open-data, May 2021.

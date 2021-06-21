@@ -21,45 +21,45 @@ Too many commas in name 1 of "Fernandez, J., Bornn, L and Cervone, D." for entry
 while executing---line 1315 of file unsrtnat.bst
 Too many commas in name 1 of "Fernandez, J., Bornn, L and Cervone, D." for entry fbrn
 while executing---line 1315 of file unsrtnat.bst
-You've used 17 entries,
+You've used 19 entries,
             2481 wiz_defined-function locations,
-            656 strings with 7354 characters,
-and the built_in function-call counts, 5826 in all, are:
-= -- 488
-> -- 251
-< -- 14
-+ -- 106
-- -- 72
-* -- 389
-:= -- 869
-add.period$ -- 45
-call.type$ -- 17
-change.case$ -- 34
-chr.to.int$ -- 17
-cite$ -- 20
-duplicate$ -- 307
-empty$ -- 595
-format.name$ -- 99
-if$ -- 1276
+            670 strings with 7714 characters,
+and the built_in function-call counts, 6532 in all, are:
+= -- 548
+> -- 285
+< -- 15
++ -- 120
+- -- 82
+* -- 443
+:= -- 981
+add.period$ -- 52
+call.type$ -- 19
+change.case$ -- 38
+chr.to.int$ -- 19
+cite$ -- 22
+duplicate$ -- 340
+empty$ -- 663
+format.name$ -- 111
+if$ -- 1425
 int.to.chr$ -- 1
-int.to.str$ -- 18
-missing$ -- 9
-newline$ -- 86
-num.names$ -- 45
-pop$ -- 182
+int.to.str$ -- 20
+missing$ -- 10
+newline$ -- 97
+num.names$ -- 51
+pop$ -- 201
 preamble$ -- 1
-purify$ -- 17
+purify$ -- 19
 quote$ -- 0
-skip$ -- 220
+skip$ -- 240
 stack$ -- 0
-substring$ -- 218
-swap$ -- 56
+substring$ -- 247
+swap$ -- 61
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 119
+type$ -- 133
 warning$ -- 1
-while$ -- 46
+while$ -- 52
 width$ -- 0
-write$ -- 205
+write$ -- 232
 (There were 5 error messages)
