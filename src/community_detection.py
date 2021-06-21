@@ -7,6 +7,9 @@ import pandas as pd
 import statistics
 import copy
 import seaborn as sns
+import traceback
+
+plt.style.use('seaborn')
 
 game_ids = [
     '9620',
@@ -61,8 +64,8 @@ rc_communities_by_position = [
     {'home_team': [[9], [2, 3, 4, 5], [1, 6, 7, 10, 11], [8]], 'away_team': [[6], [2, 3, 7, 8], [1, 5, 9, 10], [4, 11]]}
 ]
 
-rc_games = ['9717', '9889', '9736', '9924', '266440', '267590', '267492', '267569', '69224', '69255', '69262', '69240', '69213', '69270', '69245', '69296', '69263', '70219', '69325', '69319', '69327', '69318', '70260', '70287', '266613', '266916', '266770', '267561', '266794', '266921', '266871', '267533', '266653', '266149', '266986', '68354', '68351', '68317', '68325', '69176', '68334', '68335', '68332', '68347', '16056', '16095', '16173', '69180', '69178', '69146', '69209', '69139', '69189', '69171', '69228', '69211', '303615']
-rc_events = ['h', 'a', 'h', 'h', 'a', 'a', 'a', 'h', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'h', 'h', 'a', 'a', 'a', 'h', 'a', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'a', 'h', 'a', 'h', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'a', 'h', 'a', 'h', 'a', 'h', 'a', 'h', 'h']
+rc_games = ['9717', '9736', '9924', '266440', '267590', '267492', '69224', '69262', '69240', '69213', '69270', '69245', '69263', '70219', '69325', '69319', '70260', '70287', '266916', '266770', '267561', '266794', '266921', '266653', '266986', '68354', '68351', '68325', '69176', '68334', '68335', '68332', '68347', '16095', '69139', '69228', '69211', '303615']
+rc_events = ['h', 'h', 'h', 'a', 'a', 'a', 'a', 'h', 'h', 'a', 'a', 'h', 'h', 'h', 'a', 'a', 'a', 'a', 'a', 'h', 'h', 'h', 'h', 'h', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'a', 'h', 'h']
 
 ggames = ['9592', '9870', '9783', '9700', '9860', '9695', '9717', '9673', '9620', '9827', '9837', '9642', '9602', '9948', '9682', '9581', '9726', '9754', '9575', '9765', '9889', '9609', '9636', '9661', '9736', '9799', '9924', '267212', '267220', '266989', '266357', '267039', '267058', '266477', '266440', '267660', '266273', '266874', '266731', '266280', '267076', '267590', '267373', '267077', '266952', '267464', '266299', '266191', '267492', '267569', '69243', '69257', '69253', '69244', '69277', '69229', '69219', '69218', '69250', '69242', '69256', '69298', '69221', '69259', '69224', '69210', '69220', '69237']
 gevents = ['h', 'h', 'h', 'a', 'h', 'h', 'a', 'h', 'a', 'a', 'h', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'a', 'a', 'a', 'h', 'h', 'a', 'a', 'h', 'h', 'h', 'a', 'a', 'h', 'h', 'a', 'h', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'a', 'h', 'a', 'h', 'h', 'h', 'h', 'h', 'h', 'h', 'a', 'a', 'a', 'a', 'a', 'h', 'h', 'h', 'a', 'h', 'a', 'h', 'a', 'a', 'h']
@@ -107,7 +110,7 @@ def who_did_what(event):
                         team = line_segment.replace(')', '')
                         team = team.replace("'", '')
                         team = team.strip()
-                        print(team)
+                        # print(team)
                         if team in home_team:
                             event_data.append('h')
                         else:
@@ -119,7 +122,7 @@ def who_did_what(event):
                             team = line_segment.replace(')', '')
                             team = team.replace("'", '')
                             team = team.strip()
-                            print(team)
+                            # print(team)
                             if team in home_team:
                                 event_data.append('h')
                             else:
@@ -624,32 +627,186 @@ def visualize_nmis():
     plt.savefig('NMI_leiden_card.png')
     plt.show()
 
+def compute_ratios_for_postions(original_coms, detected_coms):
+
+    originales = transform_communities_to_str(original_coms)
+    gk_ratios = []
+    def_ratios = []
+    mid_ratios = []
+    att_ratios = []
+    com_lens = []
+
+    for comm in detected_coms:
+        # print(original_coms[1])
+        # print(comm)
+        gk_ratios.append(len([i for i in comm if i in originales[0]]) / len(comm))
+        def_ratios.append(len([i for i in comm if i in originales[1]]) / len(comm))
+        mid_ratios.append(len([i for i in comm if i in originales[2]]) / len(comm))
+        att_ratios.append(len([i for i in comm if i in originales[3]]) / len(comm))
+        com_lens.append(len(comm))
+
+    df = pd.DataFrame({'gk_ratios': gk_ratios, 'def_ratios': def_ratios, 'mid_ratios': mid_ratios, 'att_ratios': att_ratios, 'com_lens': com_lens})
+    # print(df)
+    # print('-0---------->')
+    return df
+
 def some_f():
-    game_id = '9736'
-    home_team, away_team = read_team_names(game_id)
     type = 'period'
-    home_1hg, home_1hweights = tree_pruning(
-        parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_' + type + '_0.net',
-                             with_node_names=False))
-    home_2hg, home_2hweights = tree_pruning(
-        parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_' + type + '_1.net',
-                             with_node_names=False))
-    away_1hg, away_1hweights = tree_pruning(
-        parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_' + type + '_0.net',
-                             with_node_names=False))
-    away_2hg, away_2hweights = tree_pruning(
-        parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_' + type + '_1.net',
-                             with_node_names=False))
+    hteam_ratios_t1 = pd.DataFrame()
+    hteam_ratios_t2 = pd.DataFrame()
+    ateam_ratios_t1 = pd.DataFrame()
+    ateam_ratios_t2 = pd.DataFrame()
+    original_comms = communities_by_position + rc_communities_by_position
 
-    detected_communities_hh1 = leiden(home_1hg, weights=home_1hweights)
-    detected_communities_hh2 = leiden(home_2hg, weights=home_2hweights)
-    detected_communities_ah1 = leiden(away_1hg, weights=away_1hweights)
-    detected_communities_ah2 = leiden(away_2hg, weights=away_2hweights)
+    for j, game_id in enumerate(game_ids + red_card_games):
+        home_team, away_team = read_team_names(game_id)
+        home_1hg, home_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_' + type + '_0.net',with_node_names=False))
+        home_2hg, home_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + home_team + '_' + type + '_1.net',with_node_names=False))
+        away_1hg, away_1hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_' + type + '_0.net',with_node_names=False))
+        away_2hg, away_2hweights = tree_pruning(parse_weighted_graph('../nets/' + game_id + '/' + game_id + '_' + away_team + '_' + type + '_1.net',with_node_names=False))
 
-    print(detected_communities_hh1.communities)
-    print(detected_communities_hh2.communities)
-    print(detected_communities_ah1.communities)
-    print(detected_communities_ah2.communities)
+        detected_communities_hh1 = leiden(home_1hg, weights=home_1hweights)
+        detected_communities_hh2 = leiden(home_2hg, weights=home_2hweights)
+        detected_communities_ah1 = leiden(away_1hg, weights=away_1hweights)
+        detected_communities_ah2 = leiden(away_2hg, weights=away_2hweights)
+
+        hteam_ratios_t1 = hteam_ratios_t1.append(compute_ratios_for_postions(original_comms[j]['home_team'], detected_communities_hh1.communities), ignore_index=True)
+        hteam_ratios_t2 = hteam_ratios_t2.append(compute_ratios_for_postions(original_comms[j]['home_team'], detected_communities_hh2.communities), ignore_index=True)
+        ateam_ratios_t1 = ateam_ratios_t1.append(compute_ratios_for_postions(original_comms[j]['away_team'], detected_communities_ah1.communities), ignore_index=True)
+        ateam_ratios_t2 = ateam_ratios_t2.append(compute_ratios_for_postions(original_comms[j]['away_team'], detected_communities_ah2.communities), ignore_index=True)
+
+    all_together = hteam_ratios_t2.append(ateam_ratios_t2, ignore_index=True)
+    # .append(ateam_ratios_t1, ignore_index=True).append(ateam_ratios_t2, ignore_index=True)
+    hteam_ratios_t1_avgs = all_together.groupby('com_lens').mean()
+    hteam_ratios_t1_stds = all_together.groupby('com_lens').std().fillna(0)
+
+    labels = hteam_ratios_t1_avgs.index
+    gk_means = list(hteam_ratios_t1_avgs['gk_ratios'])
+    def_means = list(hteam_ratios_t1_avgs['def_ratios'])
+    mid_means = list(hteam_ratios_t1_avgs['mid_ratios'])
+    att_means = list(hteam_ratios_t1_avgs['att_ratios'])
+
+    gk_stds = list(hteam_ratios_t1_stds['gk_ratios'])
+    def_stds = list(hteam_ratios_t1_stds['def_ratios'])
+    mid_stds = list(hteam_ratios_t1_stds['mid_ratios'])
+    att_stds = list(hteam_ratios_t1_stds['att_ratios'])
+
+    width = 0.35  # the width of the bars: can also be len(x) sequence
+
+    fig, ax = plt.subplots(figsize=(15,10))
+    df_gk_means = [gk_means[i] + def_means[i] for i in range(len(def_means))]
+    md_df_gk_means = [gk_means[i] + def_means[i] + + mid_means[i] for i in range(len(def_means))]
+
+    ax.bar(labels, gk_means, label='Goalkeeper')
+    ax.bar(labels, def_means, bottom=gk_means, label='Defense')
+    ax.bar(labels, mid_means, bottom=df_gk_means, label='Middle')
+    ax.bar(labels, att_means, bottom=md_df_gk_means, label='Attack')
+
+    ax.set_ylabel('Ratios')
+    ax.set_xlabel('Size of the community')
+    ax.set_title('Ratios of positons by community size (2nd half) hometeam')
+    ax.legend(loc='upper right', bbox_to_anchor=(1.13, 0.8), prop={'size': 12})
+    plt.savefig('stack_bar_positions_second_half.png')
+    plt.show()
+
+    # hteam_ratios_t1_avgs = hteam_ratios_t2.groupby('com_lens').mean()
+    # hteam_ratios_t1_stds = hteam_ratios_t2.groupby('com_lens').std().fillna(0)
+    #
+    # labels = hteam_ratios_t1_avgs.index
+    # gk_means = list(hteam_ratios_t1_avgs['gk_ratios'])
+    # def_means = list(hteam_ratios_t1_avgs['def_ratios'])
+    # mid_means = list(hteam_ratios_t1_avgs['mid_ratios'])
+    # att_means = list(hteam_ratios_t1_avgs['att_ratios'])
+    #
+    # gk_stds = list(hteam_ratios_t1_stds['gk_ratios'])
+    # def_stds = list(hteam_ratios_t1_stds['def_ratios'])
+    # mid_stds = list(hteam_ratios_t1_stds['mid_ratios'])
+    # att_stds = list(hteam_ratios_t1_stds['att_ratios'])
+    #
+    # width = 0.35  # the width of the bars: can also be len(x) sequence
+    #
+    # fig, ax = plt.subplots()
+    # df_gk_means = [gk_means[i] + def_means[i] for i in range(len(def_means))]
+    # md_df_gk_means = [gk_means[i] + def_means[i] + + mid_means[i] for i in range(len(def_means))]
+    #
+    # ax.bar(labels, gk_means, label='Goalkeeper')
+    # ax.bar(labels, def_means, bottom=gk_means, label='Defense')
+    # ax.bar(labels, mid_means, bottom=df_gk_means, label='Middle')
+    # ax.bar(labels, att_means, bottom=md_df_gk_means, label='Attack')
+    #
+    # ax.set_ylabel('Ratios')
+    # ax.set_xlabel('Size of the community')
+    # ax.set_title('Ratios of positons by community size (2nd half) hometeam')
+    # ax.legend()
+    # plt.savefig('stack_bar_positions_ht2.png')
+    # plt.show()
+    #
+    # hteam_ratios_t1_avgs = ateam_ratios_t1.groupby('com_lens').mean()
+    # hteam_ratios_t1_stds = ateam_ratios_t1.groupby('com_lens').std().fillna(0)
+    #
+    # labels = hteam_ratios_t1_avgs.index
+    # gk_means = list(hteam_ratios_t1_avgs['gk_ratios'])
+    # def_means = list(hteam_ratios_t1_avgs['def_ratios'])
+    # mid_means = list(hteam_ratios_t1_avgs['mid_ratios'])
+    # att_means = list(hteam_ratios_t1_avgs['att_ratios'])
+    #
+    # gk_stds = list(hteam_ratios_t1_stds['gk_ratios'])
+    # def_stds = list(hteam_ratios_t1_stds['def_ratios'])
+    # mid_stds = list(hteam_ratios_t1_stds['mid_ratios'])
+    # att_stds = list(hteam_ratios_t1_stds['att_ratios'])
+    #
+    # width = 0.35  # the width of the bars: can also be len(x) sequence
+    #
+    # fig, ax = plt.subplots()
+    # df_gk_means = [gk_means[i] + def_means[i] for i in range(len(def_means))]
+    # md_df_gk_means = [gk_means[i] + def_means[i] + + mid_means[i] for i in range(len(def_means))]
+    #
+    # ax.bar(labels, gk_means, label='Goalkeeper')
+    # ax.bar(labels, def_means, bottom=gk_means, label='Defense')
+    # ax.bar(labels, mid_means, bottom=df_gk_means, label='Middle')
+    # ax.bar(labels, att_means, bottom=md_df_gk_means, label='Attack')
+    #
+    # ax.set_ylabel('Ratios')
+    # ax.set_xlabel('Size of the community')
+    # ax.set_title('Ratios of positons by community size (1st half) awayteam')
+    # ax.legend()
+    # plt.savefig('stack_bar_positions_away_ht1.png')
+    # plt.show()
+    #
+    # hteam_ratios_t1_avgs = ateam_ratios_t2.groupby('com_lens').mean()
+    # hteam_ratios_t1_stds = ateam_ratios_t2.groupby('com_lens').std().fillna(0)
+    #
+    # labels = hteam_ratios_t1_avgs.index
+    # gk_means = list(hteam_ratios_t1_avgs['gk_ratios'])
+    # def_means = list(hteam_ratios_t1_avgs['def_ratios'])
+    # mid_means = list(hteam_ratios_t1_avgs['mid_ratios'])
+    # att_means = list(hteam_ratios_t1_avgs['att_ratios'])
+    #
+    # gk_stds = list(hteam_ratios_t1_stds['gk_ratios'])
+    # def_stds = list(hteam_ratios_t1_stds['def_ratios'])
+    # mid_stds = list(hteam_ratios_t1_stds['mid_ratios'])
+    # att_stds = list(hteam_ratios_t1_stds['att_ratios'])
+    #
+    # width = 0.35  # the width of the bars: can also be len(x) sequence
+    #
+    # fig, ax = plt.subplots()
+    # df_gk_means = [gk_means[i] + def_means[i] for i in range(len(def_means))]
+    # md_df_gk_means = [gk_means[i] + def_means[i] + + mid_means[i] for i in range(len(def_means))]
+    #
+    # ax.bar(labels, gk_means, label='Goalkeeper')
+    # ax.bar(labels, def_means, bottom=gk_means, label='Defense')
+    # ax.bar(labels, mid_means, bottom=df_gk_means, label='Middle')
+    # ax.bar(labels, att_means, bottom=md_df_gk_means, label='Attack')
+    #
+    # ax.set_ylabel('Ratios')
+    # ax.set_xlabel('Size of the community')
+    # ax.set_title('Ratios of positons by community size (2nd half) awayteam')
+    # ax.legend()
+    # plt.savefig('stack_bar_positions_away_ht2.png')
+    # plt.show()
+
+
+
 
 
 def read_goal_lcommunities():
@@ -661,7 +818,7 @@ def read_goal_lcommunities():
     game_results = []
     ngames = []
 
-    for i, game_id in enumerate(rc_games):
+    for i, game_id in enumerate(ggames):
         home_team, away_team = read_team_names(game_id)
         gs = read_game_result(game_id)
         game_results.append(gs)
@@ -680,33 +837,34 @@ def read_goal_lcommunities():
         try:
             detected_communities = leiden(home_1hg, weights=home_1hweights)
             largest_com = len(detected_communities.communities)
-            if rc_events[i] == 'h':
+            if gevents[i] == 'h':
                 team_performing_t1_comm.append(largest_com)
             else:
                 team_opp_t1_comm.append(largest_com)
 
             detected_communities = leiden(away_1hg, weights=away_1hweights)
             largest_com = len(detected_communities.communities)
-            if rc_events[i] == 'h':
+            if gevents[i] == 'h':
                 team_opp_t1_comm.append(largest_com)
             else:
                 team_performing_t1_comm.append(largest_com)
 
             detected_communities = leiden(home_2hg, weights=home_2hweights)
             largest_com = len(detected_communities.communities)
-            if rc_events[i] == 'h':
+            if gevents[i] == 'h':
                 team_performing_t2_comm.append(largest_com)
             else:
                 team_opp_t2_comm.append(largest_com)
 
             detected_communities = leiden(away_2hg, weights=away_2hweights)
             largest_com = len(detected_communities.communities)
-            if rc_events[i] == 'h':
+            if gevents[i] == 'h':
                 team_opp_t2_comm.append(largest_com)
             else:
                 team_performing_t2_comm.append(largest_com)
         except:
-            rc_games.remove(game_id)
+            print(game_id)
+            # rc_games.remove(game_id)
 
     print('----- Duzine --------------')
     print(len(team_performing_t1_comm))
@@ -721,12 +879,15 @@ def read_goal_lcommunities():
 
     avgs = [cms['team_scoring_goal_t1'].mean(), cms['team_scoring_goal_t2'].mean(), cms['team_opp_goal_t1'].mean(),
             cms['team_opp_goal_t2'].mean()]
-    x = ['Before team scored goal', 'After team scored goal', 'Before team conceded goal', 'After team conceded goal']
+    stds = [cms['team_scoring_goal_t1'].std(), cms['team_scoring_goal_t2'].std(), cms['team_opp_goal_t1'].std(),
+            cms['team_opp_goal_t2'].std()]
+    x = ['Before scoring goal', 'After scoring goal', 'Before conceding goal', 'After conceding goal']
 
     diffs = pd.DataFrame({'x': x, 'avg': avgs})
     sns.set_theme(style="whitegrid")
-    ax = sns.barplot(x="x", y="avg", data=diffs)
-    plt.savefig('red_card_com.png')
+    ax = sns.barplot(x="x", y="avg", yerr=stds, data=diffs)
+    plt.xticks(rotation=90);
+    plt.savefig('ncom_goal.png')
     plt.show()
 
 if __name__ == "__main__":
@@ -751,9 +912,13 @@ if __name__ == "__main__":
     # read_goal_lcommunities()
 
     # some_f()
-    # print(who_did_what('card'))
+    # print(len(rc_games))
+    # rc_events = who_did_what('card')
+    # print(len(rc_events))
+    # print(rc_events)
 
-    read_goal_lcommunities()
+    some_f()
+
 
 
 

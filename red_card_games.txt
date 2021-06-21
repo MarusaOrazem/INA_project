@@ -1,0 +1,11 @@
+Selected games with red card
+-----------------------------------------------------------------------------------
+
+ID: 9717, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Has dismissal: True, Home team: Villarreal - Barcelona 0:2 (Red card for Villarreal in 60th minute)
+ID: 9736, Country: Spain, Competition: La Liga, Season: 2017/2018, Gender: male, Has dismissal: True, Home team: Real Madrid - Barcelona 0:3 (Red card for Real Madrid in 63th minute)   
+ID: 15986, Country: Spain, Competition: La Liga, Season: 2018/2019, Gender: male, Has dismissal: True, Home team: Barcelona - Girona 2:2   (Red card for Barcelona in 35th minute) 
+ID: 303615, Country: Spain, Competition: La Liga, Season: 2019/2020, Gender: male, Has dismissal: True, Home team: Barcelona - Espanyol 1:0   (Red card for Barcelona in 50th minute)
+ID: 19813, Country: England, Competition: FA Women's Super League, Season: 2018/2019, Gender: female, Has dismissal: True, Home team: West Ham United LFC - Birmingham City WFC 1:2
+ID: 2275030, Country: England, Competition: FA Women's Super League, Season: 2019/2020, Gender: female, Has dismissal: True, Brighton & Hove Albion WFC - Tottenham Hotspur Women 0:1  
+ID: 7558, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Has dismissal: True, Home team: Uruguay - Russia 3:0 (Red card for Russia in 36 minute)
+ID: 7551, Country: International, Competition: FIFA World Cup, Season: 2018, Gender: male, Has dismissal: True, Home team: Germany - Sweden 2:1 (Red card for germany in 82 minute)    
