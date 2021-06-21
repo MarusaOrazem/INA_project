@@ -193,8 +193,9 @@ for match in next(os.walk(root))[1]:
 
             try:
                 plot_df.index = plot_df.index.rename(r'Motif ordinal number $i$')
-                plot_df = plot_df.reset_index()
                 sns.lineplot(data=plot_df, ax=ax[0])
+                ax[0].set_xticks(list(range(-1, 14, 1)))
+                plot_df = plot_df.reset_index()
                 diff = plot_df[halfs[0]] - plot_df[halfs[1]]
             except KeyError:
                 print(f'No after found in {match}, {team}, {split_method}')
@@ -244,7 +245,8 @@ for match in next(os.walk(root))[1]:
                             cards_against['after'][i].append(after)
                             cards_against['sds'].append(sigma)
             sns.lineplot(x=range(len(diff)), y=diff, ax=ax[1])
-            ax[1].hlines(0, 0, 16, ls='--')
+            ax[1].set_xticks(list(range(-1, 14, 1)))
+            ax[1].hlines(0, -1, 15, ls='--')
             ax[0].set_xlabel(r'Motif ordinal number $i$')
             ax[0].set_ylabel(f'Motif Significance')
             ax[0].set_title(f'Per-half significance')
@@ -264,9 +266,9 @@ for match in next(os.walk(root))[1]:
             mu = 0
             x = np.linspace(mu - 3*sigma, mu + 22*sigma, 300)
             sns.lineplot(x=x, y=stats.norm.pdf(x,mu,sigma), ax=ax[0])
-            ax[0].set_xlim([-1/denominator, 22/denominator])
-            sns.barplot(data=plot_df.reset_index(), x='Before split', y=r'Motif ordinal number $i$', orient='h', ax=ax[1])
-            ax[1].set_xlim([-1/denominator, 22/denominator])
+            #ax[0].set_xlim([-1/denominator, 22/denominator])
+            sns.boxplot(data=plot_df.reset_index(), x='Before split', y=r'Motif ordinal number $i$', orient='h', ax=ax[1], showfliers=False)
+            #ax[1].set_xlim([-1/denominator, 22/denominator])
             #ax[0].vlines(3/denominator, 0, 220, alpha=0.2, ls='--', label=r'$3*\sigma$')
             ax[1].vlines(3/denominator, 14, -2, alpha=0.2, ls='--', label=r'$3*\sigma$')
 
@@ -277,14 +279,14 @@ for match in next(os.walk(root))[1]:
             ax[1].set_title('Before split')
             ax[1].set_xlabel(r'Normalized $z$ score')
             ax[2].set_title('After split')
-            sns.barplot(data=plot_df.reset_index(), x='After split', y=r'Motif ordinal number $i$', orient='h', ax=ax[2])
+            sns.boxplot(data=plot_df.reset_index(), x='After split', y=r'Motif ordinal number $i$', orient='h', ax=ax[2], showfliers=False)
             ax[2].vlines(3/denominator, 14, -2, alpha=0.2, ls='--', label=r'$3*\sigma$')
             ax[2].legend()
             ax[2].set_xlabel(r'Normalized $z$ score')
-            ax[2].set_xlim([-1/denominator, 22/denominator])
+            #ax[2].set_xlim([-1/denominator, 22/denominator])
             plt.subplots_adjust(hspace=0.4)
-            plt.savefig(str(l3)+f'/DifferentMOtifSignificance_{split_method}', bbox_inches='tight')
-            #plt.show()
+            plt.savefig(str(l3)+f'/DifferentMotifSignificance_{split_method}-boxplot', bbox_inches='tight')
+            plt.show()
 
 
 
@@ -312,10 +314,10 @@ _hhalfs_df.after = [j + (maxlen-len(j))*[np.mean(j)] for j in _hhalfs_df.after]
 _hhalfs_df_bef = pd.DataFrame({_hhalfs_df[r'Motif ordinal number $i$'][i] : _hhalfs_df['before'][i] for i in _hhalfs_df.index})
 _hhalfs_df_aft = pd.DataFrame({_hhalfs_df[r'Motif ordinal number $i$'][i] : _hhalfs_df['after'][i] for i in _hhalfs_df.index})
 print(_hhalfs_df)
-sns.barplot(data=_hhalfs_df_bef, orient='h', ax=ax[0])
-sns.barplot(data=_hhalfs_df_aft, orient='h', ax=ax[1])
-ax[1].set_xlim([-1*hhalfs['sd'], 12*hhalfs['sd']])
-ax[0].set_xlim([-1*hhalfs['sd'], 12*hhalfs['sd']])
+sns.boxplot(data=_hhalfs_df_bef, orient='h', ax=ax[0], showfliers=False)
+sns.boxplot(data=_hhalfs_df_aft, orient='h', ax=ax[1], showfliers=False)
+#ax[1].set_xlim([-1*hhalfs['sd'], 12*hhalfs['sd']])
+#ax[0].set_xlim([-1*hhalfs['sd'], 12*hhalfs['sd']])
 ax[0].vlines(3*hhalfs['sd'], 14, -2, alpha=0.2, ls='--', label=r'$3*\sigma$')
 ax[1].vlines(3*hhalfs['sd'], 14, -2, alpha=0.2, ls='--', label=r'$3*\sigma$')
 ax[0].legend()
@@ -330,7 +332,7 @@ ax[1].set_title('Average After-Halftime motif significance')
 ax[1].set_xlabel(r'Normalized $z$ score')
 plt.subplots_adjust(wspace=0.3)
 #plt.savefig(str(l3)+f'/DifferentMOtifSignificance_{split_method}', bbox_inches='tight')
-plt.savefig(f'Avg OVERALL SIGNIFICANCE - halftime - for-against-cis.png', bbox_inches='tight')
+plt.savefig(f'Avg OVERALL SIGNIFICANCE box - halftime - for-against-cis.png', bbox_inches='tight')
 plt.show()
 
 for (dds, kind) in zip([(goals_for, goals_against), (cards_for, cards_against)], ['First Goal Split', 'Dismissal Split']):
@@ -374,14 +376,14 @@ for (dds, kind) in zip([(goals_for, goals_against), (cards_for, cards_against)],
     _against_df_bef = pd.DataFrame({_for_df[r'Motif ordinal number $i$'][i] : _against_df['before'][i] for i in _against_df.index})
     _against_df_aft = pd.DataFrame({_for_df[r'Motif ordinal number $i$'][i] : _against_df['after'][i] for i in _against_df.index})
 
-    sns.barplot(data=_for_df_bef, orient='h', ax=ax[0][0])
-    sns.barplot(data=_for_df_aft, orient='h', ax=ax[1][0])
-    sns.barplot(data=_against_df_bef, orient='h', ax=ax[0][1])
-    sns.barplot(data=_against_df_aft, orient='h', ax=ax[1][1])
+    sns.boxplot(data=_for_df_bef, orient='h', ax=ax[0][0], showfliers=False)
+    sns.boxplot(data=_for_df_aft, orient='h', ax=ax[1][0], showfliers=False)
+    sns.boxplot(data=_against_df_bef, orient='h', ax=ax[0][1], showfliers=False)
+    sns.boxplot(data=_against_df_aft, orient='h', ax=ax[1][1], showfliers=False)
 
     for axx in ax:
-        axx[1].set_xlim([-1*_for['sd'], 12*_for['sd']])
-        axx[0].set_xlim([-1*_against['sd'], 12*_against['sd']])
+        #axx[1].set_xlim([-0.02, 0.1])
+        #axx[0].set_xlim([-0.02, 0.1])
         axx[0].vlines(3 * _for['sd'], 14, -2, alpha=0.2, ls='--', label=r'$3*\sigma$')
         axx[1].vlines(3 * _against['sd'], 14, -2, alpha=0.2, ls='--', label=r'$3*\sigma$')
         axx[0].legend()
@@ -396,7 +398,7 @@ for (dds, kind) in zip([(goals_for, goals_against), (cards_for, cards_against)],
     ax[1][1].set_title(f'Event for Opponent - after {kind}')
     plt.subplots_adjust(wspace=0.3, hspace=0.4)
     #plt.savefig(str(l3)+f'/DifferentMOtifSignificance_{split_method}', bbox_inches='tight')
-    plt.savefig(f'Avg OVERALL SIGNIFICANCE - {kind} - for-against-cis.png', bbox_inches='tight')
+    plt.savefig(f'Avg OVERALL SIGNIFICANCE box - {kind} - for-against-cis.png', bbox_inches='tight')
     plt.show()
 
 
@@ -433,5 +435,5 @@ for (diffs, kind) in zip([(half_diffs_for, half_diffs_against), (goal_diffs_for,
     #ax[0].hlines(0, 0, 14, ls='--', color='black')
     #plt.suptitle(f'{kind}, pruned (median of each graph), 22 teams, {num_iters} random iters')
     plt.subplots_adjust(wspace=0.2)
-    plt.savefig(f'OVERALL SIGNIFICANCE DIFFERENCE - {kind} - for-against.png', bbox_inches='tight')
+    plt.savefig(f'OVERALL SIGNIFICANCE DIFFERENCE box - {kind} - for-against.png', bbox_inches='tight')
     plt.show()

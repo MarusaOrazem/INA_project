@@ -521,9 +521,12 @@ def see_community_changes(type, alg):
 
 
             detected_communities_hh2 = alg(home_2hg, weights=home_2hweights)
+            print('******', game_id,'\n', detected_communities_hh2.communities)
+            print('Half 2 - home')
             detected_communities_hh2.communities == add_missing_node_as_separate_community(detected_communities_hh2.communities)
             nc = NodeClustering(communities=transform_communities_to_str(communities_by_position[i]['home_team']),
                                 graph=home_2hg)
+            # print(f'******{game_id}************', list(nc))
             nmi_instance = normalized_mutual_information(nc, detected_communities_hh2).score
 
             # print(transform_communities_to_str(communities_by_position[i]['home_team']))
