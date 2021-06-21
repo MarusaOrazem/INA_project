@@ -87,7 +87,7 @@ Another popular technique for inferring global and local network information is 
 \end{figure}
 
 
-Certain motifs characterize football ball movements better than others. In our general testing, as part of which we showed that no special change is induced by the half-time key event, we established the most notable ones to be the 0th, 7th, 8th and 13th. For all said motifs the median significance z-score exceeded the 3 standard deviations. Perhaps more interesting is the motif significance behaviour when observing the effect of a player-dismissal on a match. In expectation, the number of occurences of the 9th motif will actually reduce significantly below the number of those emerging from random 10 node configuration graphs. Along with this insight, Figure \ref{fig:MotifSignificanceDismissal} also shows that the punished's opposition will actually attempt to exploit their numeric advantage using these most significant playing patterns \footnote{Due to dismissals usually happening late in the analyzed graphs, not enough data was gathered to infer the correct significance of the 13th component, while it additionally being really rare in configuration model networks.} This approach, and the analysis of orbits, provbe to be somewhat interchangable. Consider, for example, that the most significant nodes coincide with the orbits in which we can observe most key match event differences, such as those in Figure \ref{fig:OrbitGoals}.
+Certain motifs characterize football ball movements better than others. In our general testing, as part of which we showed that no special change is induced by the half-time key event, we established the most notable ones to be the 0th, 7th, 8th and 13th. For all said motifs the median significance z-score exceeded the 3 standard deviations. Perhaps more interesting is the motif significance behaviour when observing the effect of a player-dismissal on a match. In expectation, the number of occurences of the 9th motif will actually reduce significantly below the number of those emerging from random 10 node configuration graphs. Along with this insight, Figure \ref{fig:MotifSignificanceDismissal} also shows that the punished's opposition will actually attempt to exploit their numeric advantage using these most significant playing patterns \footnote{Due to dismissals usually happening late in the analyzed graphs, not enough data was gathered to infer the correct significance of the 13th component, while it additionally being really rare in configuration model networks.} This approach, and the analysis of orbits, prove to be somewhat interchangeable. Consider, for example, that the most significant nodes coincide with the orbits in which we can observe most key match event differences, such as those in Figure \ref{fig:OrbitsGoals}.
  
 \begin{figure}[t]\centering
 	\includegraphics[width=\linewidth]{motifs.png}
@@ -96,23 +96,20 @@ Certain motifs characterize football ball movements better than others. In our g
 \end{figure}
 
 \begin{figure}[t]\centering
-	\includegraphics[width=\linewidth]{generalimportance.png}
-	\caption{Overal motif significances show that motifs }
-	\label{fig:GeneralSignificance}
+	\includegraphics[width=\linewidth]{MotifSignificanceDismissal.png}
+	\caption{The motif significances in graphs succeeding player dismissal for the observed team (left) or their opponent (right). Notice that certain less common passing trends, such as the one observed in motif \#9 in Figure \ref{fig:motifs} tend to become so rare that they actually appear more commonly in configuration graph models than in the networks of punished teams. This probably due to the fact that teams with less players tend to express themselves mostly in the more characteristic motifs, such as the more significant \#0 and \#7. Meanwhile, these characteristic models tend to express themselves very clearly for the opposition team, who is expected to be in control in this network snapshot.}
+	\label{fig:MotifSignificanceDismissal}
 \end{figure}
+
 
 \begin{figure}[t]\centering
 	\includegraphics[width=\linewidth]{OrbitGoals.png}
-	\caption{Overal motif significances show that motifs }
+	\caption{The distribution of values of $before - after$ Orbit-occurrences-per-player, observed for the \textit{First goal} key event. With positive values denoting a higher amount of OOP before the initial goal, we can notice that the OOP in orbits \#2 and \#21 tends to go down after the initial goal for both teams. Since these two orbits can be interpreted as very organized and defensive, a possible explanation for this is \textit{the breaking of the deadlock} with the first goal: the initial goal prompts players to abandon more conservative plans and play more expressively, no matter which team took the lead.}
 	\label{fig:OrbitsGoals}
 \end{figure}
 
 
-\begin{figure}[t]\centering
-	\includegraphics[width=\linewidth]{MotifSignificanceDismissal.png}
-	\caption{Overal motif significances show that motifs }
-	\label{fig:MotifSignificanceDismissal}
-\end{figure}
+
 
 
 
