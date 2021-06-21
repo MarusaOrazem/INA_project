@@ -1,0 +1,103 @@
+\begin{thebibliography}{17}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[plp()]{plpasses}
+Premier {League} {Average} {Passes} {Per} {Game} {Overview} for teams.
+\newblock URL
+  \url{https://www.footballcritic.com/premier-league/season-2019-2020/passes-per-game/2/21558}.
+
+\bibitem[Bavelas(1950)]{bavelas}
+A.~Bavelas.
+\newblock Communication patterns in task-oriented groups, 1950.
+
+\bibitem[Shaw(1964)]{shaw}
+M.~E. Shaw.
+\newblock Communication networks, 1964.
+
+\bibitem[Grund(2012)]{grund}
+Thomas~U. Grund.
+\newblock Network structure and team performance: The case of english premier
+  league soccer teams, 2012.
+
+\bibitem[Duch et~al.(2010)Duch, Waitzman, and Amaral]{duch2010quantifying}
+Jordi Duch, Joshua~S Waitzman, and Lu{\'\i}s A~Nunes Amaral.
+\newblock Quantifying the performance of individual players in a team activity.
+\newblock \emph{PloS one}, 5\penalty0 (6):\penalty0 e10937, 2010.
+
+\bibitem[Castellano and Echeazarra(2019)]{castellano2019network}
+J~Castellano and I~Echeazarra.
+\newblock Network-based centrality measures and physical demands in football
+  regarding player position: Is there a connection? a preliminary study.
+\newblock \emph{Journal of sports sciences}, 37\penalty0 (23):\penalty0
+  2631--2638, 2019.
+
+\bibitem[Kazerani and Winter(2009)]{kazerani2009can}
+Aisan Kazerani and Stephan Winter.
+\newblock Can betweenness centrality explain traffic flow.
+\newblock In \emph{12th AGILE international conference on geographic
+  information science}, pages 1--9, 2009.
+
+\bibitem[Pr{\v{z}}ulj(2007)]{przulj}
+Nata{\v{s}}a Pr{\v{z}}ulj.
+\newblock Biological network comparison using graphlet degree distribution.
+\newblock \emph{Bioinformatics}, 23\penalty0 (2):\penalty0 e177--e183, 2007.
+
+\bibitem[Milo et~al.(2002)Milo, Shen-Orr, Itzkovitz, Kashtan, Chklovskii, and
+  Alon]{Milo}
+Ron Milo, Shai Shen-Orr, Shalev Itzkovitz, Nadav Kashtan, Dmitri Chklovskii,
+  and Uri Alon.
+\newblock Network motifs: simple building blocks of complex networks.
+\newblock \emph{Science}, 298\penalty0 (5594):\penalty0 824--827, 2002.
+
+\bibitem[Pena and Touchette(2012)]{penna}
+Javier~L{\'o}pez Pena and Hugo Touchette.
+\newblock A network theory analysis of football strategies.
+\newblock \emph{arXiv preprint arXiv:1206.6904}, 2012.
+
+\bibitem[Bekkers and Dabadghao(2019)]{Bekkers}
+Joris Bekkers and Shaunak Dabadghao.
+\newblock Flow motifs in soccer: What can passing behavior tell us?
+\newblock \emph{Journal of Sports Analytics}, 5\penalty0 (4):\penalty0
+  299--311, 2019.
+
+\bibitem[Fernandez and Cervone(2019)]{fbrn}
+Bornn~L Fernandez, J. and D.~Cervone.
+\newblock Decomposing the immeasurable sport: A deep learning expected
+  possession value framework for soccer, 2019.
+
+\bibitem[Chawla et~al.(2017)Chawla, Estephan, Gudmundsson, and Horton]{chawla}
+Sanjay Chawla, Jo\"{e}l Estephan, Joachim Gudmundsson, and Michael Horton.
+\newblock Classification of passes in football matches using spatiotemporal
+  data, 2017.
+
+\bibitem[Mattsson and Takes(2021)]{trajectory}
+Carolina E.~S. Mattsson and Frank~W. Takes.
+\newblock Trajectories through temporal networks, 2021.
+
+\bibitem[Bialkowski et~al.(2014)Bialkowski, Lucey, Carr, Yue, Sridharan, and
+  Matthews]{bialkowski2014large}
+Alina Bialkowski, Patrick Lucey, Peter Carr, Yisong Yue, Sridha Sridharan, and
+  Iain Matthews.
+\newblock Large-scale analysis of soccer matches using spatiotemporal tracking
+  data.
+\newblock In \emph{2014 IEEE international conference on data mining}, pages
+  725--730. IEEE, 2014.
+
+\bibitem[Zhi-nan(2014)]{triangle}
+ZHAO Zhi-nan.
+\newblock Interpretation of basketball “triangle offense”
+  tactic——internal rules and logical construction of modern basketball
+  “five elements” ideology.
+\newblock \emph{China School Physical Education (Higher Education)}, page~07,
+  2014.
+
+\bibitem[sta(2021)]{statsbomb}
+statsbomb/open-data, May 2021.
+\newblock URL \url{https://github.com/statsbomb/open-data}.
+\newblock original-date: 2018-06-05T12:28:10Z.
+
+\end{thebibliography}

@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: unsrtnat.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Database file #1: bibliography.bib
+I was expecting a `,' or a `}'---line 25 of file bibliography.bib
+ :     
+ :     volume = {22}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 147 of file bibliography.bib
+ : @article{Milo
+ :              ,
+I'm skipping whatever remains of this entry
+Too many commas in name 1 of "Fernandez, J., Bornn, L and Cervone, D." for entry fbrn
+while executing---line 1233 of file unsrtnat.bst
+Warning--empty year in plpasses
+Too many commas in name 1 of "Fernandez, J., Bornn, L and Cervone, D." for entry fbrn
+while executing---line 1315 of file unsrtnat.bst
+Too many commas in name 1 of "Fernandez, J., Bornn, L and Cervone, D." for entry fbrn
+while executing---line 1315 of file unsrtnat.bst
+You've used 17 entries,
+            2481 wiz_defined-function locations,
+            656 strings with 7354 characters,
+and the built_in function-call counts, 5826 in all, are:
+= -- 488
+> -- 251
+< -- 14
++ -- 106
+- -- 72
+* -- 389
+:= -- 869
+add.period$ -- 45
+call.type$ -- 17
+change.case$ -- 34
+chr.to.int$ -- 17
+cite$ -- 20
+duplicate$ -- 307
+empty$ -- 595
+format.name$ -- 99
+if$ -- 1276
+int.to.chr$ -- 1
+int.to.str$ -- 18
+missing$ -- 9
+newline$ -- 86
+num.names$ -- 45
+pop$ -- 182
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 220
+stack$ -- 0
+substring$ -- 218
+swap$ -- 56
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 119
+warning$ -- 1
+while$ -- 46
+width$ -- 0
+write$ -- 205
+(There were 5 error messages)
