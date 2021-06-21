@@ -111,6 +111,7 @@ Certain motifs characterize football ball movements better than others. In our g
 
 
 
+\subsection*{Network fragments}
 
 
 
@@ -131,21 +132,25 @@ Certain motifs characterize football ball movements better than others. In our g
 All of the examined networks were parsed from alternative data structes by Statsbomb \cite{statsbomb}. Unless noted otherwise, the described results were achieved by aggregating the findings of analyses, conducted on 789 parsed matches. For each successful pass, a directed edge was generated between the players, logged in the corresponing pass attempt and reception events, logged by the data provider. For the three considered key events - the half time break, the first goal and the first dismissal in any given match, 6 directed \textit{pajek} files were created for each involved team (3 before and 3 after the key event), where games without certain events contain empty \textit{after-event} files. Additionally, the graphs' flow centrality variants were created and saved according to the procedure, described in the following subsection. For the calculation of network intensity, the description of which also follows, the team posession time was calculated as  the sum of timestamp differences in each uninterrupted posession stint.
 
 \subsection*{Centrality and intensity}
+
 \subsection*{Communities}
+
+For finding communities in weighted graph we used Leiden community detection algorithm. Prior to performing the search, we pruned the graphs, so that edges having a value of their weight smaller than the median of all values of weights in a graph. In order to check for any valuable information we may have missed with our algorithm selection, we ran additional experiments using CPM algorithm.
+
+Determining how do communities detected in certain periods of a game differ from standard playing lines required from us to manually input correct formations (line-ups) of teams in observed matches. Since this is a very time-consuming task, we restricted ourselves to 20 matches for which we described the formation in which teams played. Using the parsing program which we developed earlier, we constructed weighted graphs for each of the teams, two graphs representing the state of the game prior and past a certain key event for each team, four in total for a given event in a football match. 
+
+
+
+ 
 \subsection*{Network fragments}
-In all experiments concerning network fragments, the networks were pruned before examination. This was done by removing all edges with weights equal to or less than the median weight from the observed graph. The estimation of an adequate pruning point stems from the insights, described in the caption of Figure \ref{fig:BayernWeights}.
+In all experiments concerning network fragments, the networks were pruned before examination. This was done by removing all edges with weights equal to or less than the median weight from the observed graph. The estimation of an adequate pruning point stems from the insights, described in the caption of Figure \ref{BayernWeights}.
 
-To examine the orbit-representation in the observed graphs, an atlas of all possible directed graphlets of node-count 3 or less was created. From there, each unique edge subset from the analysed graph was extracted and a hash table of benchmark orbital roles created. For each subgraph, inferred from the edge subsets, the orbital roles for each contributing node were calculated. The resulting table of this procedure denoted the number of occurences of each player in each of the 34 considered orbital roles. Each network's orbital profile is then calculated as the average number of player-occurences in each orbital role, divided by 11 - the number of players on the pitch. By comparing the differences between these profiles before and after key events, the final insights of the distrbution of OPP (orbit-occurences per player) differences is achieved.
-Similarly, the induced motifs were also initially counted by detecting isomorphisms between fixed-size subgraphs and graphlets from the atlas. In an approach described in \cite{przulj}, the significance of each motif is calculated by comparing the number of its occurences to that expected in a directed configuration model, corresponding to the considered graph's in and out degree. In our approach, 100 different configuration models are created to compute these expected values. From there, the motif significance profile for motif $i$ is calculated as shown in Equations \ref{eq:1}.
-
+To examine the orbit-representation in the observed graphs, an atlas of all possible directed graphlets of node-count 3 or less was created. From there, each unique edge subset from the analysed graph was extracted and a hash table of benchmark orbital roles created. For each subgraph, inferred from the edge subsets, the orbital roles for each contributing node were calculated. The resulting table of this procedure denoted the number of occurences of each player in each of the 34 considered orbital roles. Each network's orbital profile is then calculated as the average number of player-occurences in each orbital role, divided by 11 - the number of players on the pitch. By comparing the differences between these profiles before and after key events, the final insights of the distrbution of PPO (Player per orbit) differences is achieved.
 
 
-\begin{equation}
-SP_{i} = \frac{Z_{i}}{\sqrt{\sum_{i}{Z_{i}^{2}}}} = \frac{\frac{n_{i} - E[\tilde{n}_{i}]}{\tilde{\sigma}_{i}}}{\sqrt{\sum_{i}{(\frac{n_{i} - E[\tilde{n}_{i}]}{\tilde{\sigma}_{i}})^{2}}}} \label{eq:1},
-\end{equation} where $n$ is the number of motif occurences, $\tilde{\sigma}$ is the standard error of all empiric configuration graph observations of $\tilde{n}$, the number of motif occurences in the configuration model.
 
 
-\acknow{The authors would like to acknowledge the help of Doc.  Dr. Lovro Šubelj in the identification of feasible problems within our domain of interest for this course project and for all the help offered in solving them.}
+\acknow{The authors would like to acknowledge the help of Doc.  Dr. Lovro Šubelj and Assoc. Prof. Dr. Erik Štrumbelj in the identification of feasible problems within our domain of interest for this course project and for all the help offered in solving them.}
 
 \showacknow{}
 
