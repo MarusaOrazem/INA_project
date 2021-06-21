@@ -1,7 +1,7 @@
 \documentclass[9pt,twocolumn,twoside]{pnas-report}
 
 \templatetype{pnasresearcharticle}
-
+\usepackage{graphicx}
 \usepackage{lipsum}
 \usepackage{mathtools}
 \DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
@@ -72,7 +72,7 @@ Due to advances in player-tracking technology, most recent research, such as tho
 \subsection*{Centrality and intensity}
 \subsection*{Communities}
 \subsection*{Network fragments}
-Another popular technique for inferring global and local network information is the analysis of its fragments. The concept of these induced subgraphs (motifs) and the roles (orbits) individual players represent within them, translates well to the consideration of a sports team's passing map.\footnote{Given that three to four player interlinks have been popularized both in pop culture and academia \cite{triangle}, with perhaps the most prominent representative being the infamous Triangle offence in American basketball.}  Using these techniques, individual team performances may be profiled using numbers of orbit-occurences-per-player (OPP) or motif significance approaches. These, also visualized in Figures \ref{fig:BarcaOPP} and \ref{fig:Barca Significance}, offer a concise way of understanding differences between two passmaps - in these instances, from the same match. Combined with the knowledge of the chosen motif and orbit labelling conventions, here provided in Figure \ref{fig:Motifs}, such plots can be efficiently used to garner insights into the teams' dynamics. 
+Another popular technique for inferring global and local network information is the analysis of its fragments. The concept of these induced subgraphs (motifs) and the roles (orbits) individual players represent within them, translates well to the consideration of a sports team's passing map.\footnote{Given that three to four player interlinks have been popularized both in pop culture and academia \cite{triangle}, with perhaps the most prominent representative being the infamous Triangle offence in American basketball.}  Using these techniques, individual team performances may be profiled using numbers of orbit-occurences-per-player (OPP) or motif significance approaches. These, also visualized in Figures \ref{fig:BarcaOPP} and \ref{fig:Barca Significance}, offer a concise way of understanding differences between two passmaps - in these instances, from the same match. Combined with the knowledge of the chosen motif and orbit labelling conventions, here provided in Figure \ref{fig:motifs}, such plots can be efficiently used to garner insights into the teams' dynamics. 
 
 \begin{figure}[t]\centering
 	\includegraphics[width=\linewidth]{barcaopp.png}
