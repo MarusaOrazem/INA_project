@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.29)  21 JUN 2021 03:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.29)  21 JUN 2021 04:19
 entering extended mode
 **./report.tex
 (report.tex
@@ -1429,59 +1429,68 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 7
+<BarcaHalves.png, id=42, 1204.5pt x 540.0175pt>
+File: BarcaHalves.png Graphic file (type png)
+<use BarcaHalves.png>
+Package pdftex.def Info: BarcaHalves.png  used on input line 78.
+(pdftex.def)             Requested size: 246.09686pt x 110.3335pt.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 8
 5.
 
 (C:\Users\vs6309\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<barcaopp.png, id=46, 506.6127pt x 360.6273pt>
+<barcaopp.png, id=49, 506.6127pt x 360.6273pt>
 File: barcaopp.png Graphic file (type png)
 <use barcaopp.png>
-Package pdftex.def Info: barcaopp.png  used on input line 78.
+Package pdftex.def Info: barcaopp.png  used on input line 88.
 (pdftex.def)             Requested size: 246.09686pt x 175.17917pt.
-<barcasignif.png, id=50, 515.2851pt x 179.9523pt>
+<barcasignif.png, id=52, 515.2851pt x 179.9523pt>
 File: barcasignif.png Graphic file (type png)
 <use barcasignif.png>
-Package pdftex.def Info: barcasignif.png  used on input line 84.
+Package pdftex.def Info: barcasignif.png  used on input line 94.
 (pdftex.def)             Requested size: 246.09686pt x 85.94226pt.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 85.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 95.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 6.64998pt on input line 85.
-<motifs.png, id=54, 1184.92688pt x 601.4972pt>
+(Font)              scaled to size 6.64998pt on input line 95.
+
+Underfull \vbox (badness 1931) has occurred while \output is active []
+
+ [2 <./BarcaHalves.png> <./barcaopp.png>]
+<motifs.png, id=84, 1184.92688pt x 601.4972pt>
 File: motifs.png Graphic file (type png)
 <use motifs.png>
-Package pdftex.def Info: motifs.png  used on input line 93.
+Package pdftex.def Info: motifs.png  used on input line 103.
 (pdftex.def)             Requested size: 246.09686pt x 124.92307pt.
-<MotifSignificanceDismissal.png, id=55, 607.7907pt x 291.9708pt>
+<MotifSignificanceDismissal.png, id=85, 607.7907pt x 291.9708pt>
 File: MotifSignificanceDismissal.png Graphic file (type png)
 <use MotifSignificanceDismissal.png>
-Package pdftex.def Info: MotifSignificanceDismissal.png  used on input line 99.
-
+Package pdftex.def Info: MotifSignificanceDismissal.png  used on input line 109
+.
 (pdftex.def)             Requested size: 246.09686pt x 118.22078pt.
-<OrbitGoals.png, id=58, 898.3161pt x 338.2236pt>
+<OrbitGoals.png, id=88, 898.3161pt x 338.2236pt>
 File: OrbitGoals.png Graphic file (type png)
 <use OrbitGoals.png>
-Package pdftex.def Info: OrbitGoals.png  used on input line 106.
+Package pdftex.def Info: OrbitGoals.png  used on input line 116.
 (pdftex.def)             Requested size: 246.09686pt x 92.65309pt.
-<BayernPassWeightComparison.png, id=59, 803.0pt x 552.0625pt>
+<BayernPassWeightComparison.png, id=89, 803.0pt x 552.0625pt>
 File: BayernPassWeightComparison.png Graphic file (type png)
 <use BayernPassWeightComparison.png>
-Package pdftex.def Info: BayernPassWeightComparison.png  used on input line 118
+Package pdftex.def Info: BayernPassWeightComparison.png  used on input line 128
 .
 (pdftex.def)             Requested size: 196.87823pt x 135.35336pt.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 126.
- [2 <./barcaopp.png> <./barcasignif.png>]
-
-LaTeX Warning: Reference `BayernWeights' on page 3 undefined on input line 132.
-
-
+(Font)              scaled to size 7.59998pt on input line 136.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 146.
-[3 <./motifs.png> <./MotifSignificanceDismissal.png> <./OrbitGoals.png> <./Baye
-rnPassWeightComparison.png (PNG copy)>] (report.bbl
+(Font)              <8> on input line 142.
+
+
+LaTeX Warning: Reference `BayernWeights' on page 3 undefined on input line 145.
+
+
+[3 <./barcasignif.png> <./motifs.png> <./MotifSignificanceDismissal.png> <./Orb
+itGoals.png>] (report.bbl
 Underfull \hbox (badness 1067) in paragraph at lines 9--12
 []\T1/phv/m/n/6 Premier League Av-er-age Passes Per Game Overview for teams.  U
 RL [][][]$https : / / www .
@@ -1493,9 +1502,7 @@ LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 5.69998pt on input line 29.
 ) 
 AED: lastpage setting LastPage
-[4
-
-] (report.aux)
+[4 <./BayernPassWeightComparison.png (PNG copy)>] (report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1505,14 +1512,14 @@ LaTeX Warning: There were undefined references.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 122 ({)
+### simple group (level 1) entered at line 132 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 26559 strings out of 479799
- 489310 string characters out of 2869247
- 1105341 words of memory out of 3000000
- 42669 multiletter control sequences out of 15000+200000
- 651130 words of font info for 215 fonts, out of 3000000 for 9000
+ 26587 strings out of 479799
+ 489631 string characters out of 2869247
+ 1105885 words of memory out of 3000000
+ 42675 multiletter control sequences out of 15000+200000
+ 651966 words of font info for 227 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  122i,11n,124p,1914b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced bu
@@ -1523,8 +1530,8 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 
 {C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc
 }{C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C
-:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{
-C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}
+:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{
+C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}
 {C:/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:
 /Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}{C:/Use
 rs/vs6309/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users
@@ -1549,9 +1556,9 @@ vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Us
 ers/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C
 :/Users/vs6309/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.p
 fb>
-Output written on report.pdf (4 pages, 637462 bytes).
+Output written on report.pdf (4 pages, 850256 bytes).
 PDF statistics:
- 204 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 46123 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 210 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 46128 words of extra memory for PDF output out of 51595 (max. 10000000)
 
