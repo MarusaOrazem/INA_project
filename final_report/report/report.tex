@@ -97,9 +97,11 @@ All of the examined networks were parsed from alternative data structes by Stats
 
 \subsection*{Communities}
 
-In order to determine how do communities detected in certain periods of a game differ from standard playing lines, it was necessary to manually input correct formations (line-ups) of teams in observed matches. Since this is a very time-consuming task, we restricted ourselves to 20 matches for which we described the formation in which teams played. Using the parsing program which we developed earlier, we constructed weighted graphs for each of the teams, two graphs representing the state of the game prior and past a certain key event for each team, four in total for a given event in a football match. 
+For finding communities in weighted graph we used Leiden community detection algorithm. Prior to performing the search, we pruned the graphs, so that edges having a value of their weight smaller than the median of all values of weights in a graph. In order to check for any valuable information we may have missed with our algorithm selection, we ran additional experiments using CPM algorithm.
 
-For finding communities in weighted graph we used Leiden community detection algorithm. Prior to performing the search, we pruned the graphs, so that edges having a value of their weight smaller than the median of all values of weights in a graph. 
+Determining how do communities detected in certain periods of a game differ from standard playing lines required from us to manually input correct formations (line-ups) of teams in observed matches. Since this is a very time-consuming task, we restricted ourselves to 20 matches for which we described the formation in which teams played. Using the parsing program which we developed earlier, we constructed weighted graphs for each of the teams, two graphs representing the state of the game prior and past a certain key event for each team, four in total for a given event in a football match. 
+
+
 
  
 \subsection*{Network fragments}
